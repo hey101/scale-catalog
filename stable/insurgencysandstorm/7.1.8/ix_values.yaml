@@ -1,0 +1,55 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ich777/steamcmd
+  tag: insurgencysandstorm@sha256:4000ceeab537f212eae9839c583777e2c57089c9d9ada44350d6be73da644703
+persistence:
+  serverfiles:
+    enabled: true
+    mountPath: /serverdata/serverfiles
+  steamcmd:
+    enabled: true
+    mountPath: /serverdata/steamcmd
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 27102
+        protocol: udp
+        targetPort: 27102
+  queryport:
+    enabled: true
+    ports:
+      queryport:
+        enabled: true
+        port: 27131
+        protocol: udp
+        targetPort: 27131
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            GAME_ID: "581330"
+            GAME_PARAMS: Oilfield?Scenario=Scenario_Refinery_Push_Security?MaxPlayers=28?Password=Docker
+            GAME_PORT: "27102"
+            PASSWRD: ""
+            QUERY_PORT: "27131"
+            SERVER_NAME: DockerServer
+            USERNAME: ""
+            VALIDATE: "false"
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

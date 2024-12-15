@@ -1,0 +1,40 @@
+image:
+  repository: ghcr.io/linuxserver/webgrabplus
+  pullPolicy: IfNotPresent
+  tag: 5.3.0@sha256:734c87e4b458bb24f9933f0d96b7ff4b04ca29bd4407a448cd6dc5eff345bfa5
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+persistence:
+  varrun:
+    enabled: true
+  config:
+    enabled: true
+    mountPath: "/config"
+  data:
+    enabled: true
+    mountPath: "/data"
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

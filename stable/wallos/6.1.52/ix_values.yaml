@@ -1,0 +1,31 @@
+image:
+  repository: docker.io/bellamy/wallos
+  tag: latest@sha256:1a675d4024179efa5ff392d135631ef3c71069fbed8caca0dd86025de2f52e37
+  pullPolicy: IfNotPresent
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+
+service:
+  main:
+    ports:
+      main:
+        port: 8282
+        protocol: tcp
+        targetPort: 80
+
+persistence:
+  database:
+    enabled: true
+    mountPath: "/var/www/html/db"
+  logos:
+    enabled: true
+    mountPath: "/var/www/html/images/uploads/logos"
+
+portal:
+  open:
+    enabled: true

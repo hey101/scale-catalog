@@ -1,0 +1,50 @@
+image:
+  repository: nextpvr/nextpvr_amd64
+  tag: stable@sha256:14bffe004091e9dee878dd1b2b8780edda48b29bbe434a77dc36d4c644774cef
+  pullPolicy: IfNotPresent
+service:
+  main:
+    ports:
+      main:
+        port: 10183
+        targetPort: 8866
+  nextpvr-udp:
+    enabled: true
+    ports:
+      nextpvr-udp1:
+        enabled: true
+        protocol: udp
+        port: 16891
+        targetPort: 16891
+      nextpvr-udp2:
+        enabled: true
+        protocol: udp
+        port: 8026
+        targetPort: 8026
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  recordings:
+    enabled: true
+    mountPath: "/recordings"
+  buffer:
+    enabled: true
+    mountPath: "/buffer"
+portal:
+  open:
+    enabled: true
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: tcp
+            readiness:
+              type: tcp
+            startup:
+              type: tcp
+          env:
+            HOST_IP: "localhost"

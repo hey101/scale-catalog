@@ -1,0 +1,40 @@
+image:
+  repository: ghcr.io/linuxserver/booksonic-air
+  pullPolicy: IfNotPresent
+  tag: 2201.1.0@sha256:3941b45daf967add48a1989a53e770a11c20ca8a6ff2bb50a097412b6ea99b31
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10048
+        protocol: http
+        targetPort: 4040
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true

@@ -1,0 +1,36 @@
+annotations:
+  max_scale_version: 24.04.2.5
+  min_scale_version: 24.04.0
+  truecharts.org/category: dashboard
+  truecharts.org/max_helm_version: '3.15'
+  truecharts.org/min_helm_version: '3.11'
+  truecharts.org/train: stable
+  truecharts.org/SCALE-support: 'true'
+apiVersion: v2
+appVersion: "0.9.13"
+dependencies:
+  - name: common
+    version: 24.1.10
+    repository: https://petersandor.github.io/truecharts-common
+    condition: ''
+    alias: ''
+    tags: []
+    import-values: []
+deprecated: false
+description: A highly customizable homepage
+home: https://truecharts.org/charts/stable/homepage
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/homepage.webp
+keywords:
+  - homepage
+kubeVersion: '>=1.24.0-0'
+maintainers:
+  - name: TrueCharts
+    email: info@truecharts.org
+    url: https://truecharts.org
+name: homepage
+sources:
+  - https://github.com/truecharts/charts/tree/master/charts/stable/homepage
+  - https://ghcr.io/gethomepage/homepage
+  - https://github.com/benphelps/homepage
+type: application
+version: 9.2.15

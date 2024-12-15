@@ -1,0 +1,38 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: rocker/rstudio
+  tag: 4.4.1@sha256:051c070473e7e29508673daf64d10d78f44506fd0c84e83e9471a1900c885c4b
+persistence:
+  config:
+    enabled: true
+    mountPath: /home/rstudio/.config/rstudio
+  workspace:
+    enabled: true
+    mountPath: /home/rstudio/workspace
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 8787
+        protocol: http
+        targetPort: 8787
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DISABLE_AUTH: "false"
+            GROUPID: "{{ .Values.securityContext.pod.fsGroup }}"
+            PASSWORD: rstudio
+            ROOT: "FALSE"
+            USER: rstudio
+            USERID: "{{ .Values.securityContext.container.runAsUser }}"

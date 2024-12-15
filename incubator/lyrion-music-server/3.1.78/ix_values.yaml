@@ -1,0 +1,51 @@
+image:
+  repository: lmscommunity/lyrionmusicserver
+  pullPolicy: IfNotPresent
+  tag: 9.0.1@sha256:5763b8ceefe65243903cd871de72be4b498113986d7d923f3a7e8d329d675554
+service:
+  main:
+    ports:
+      main:
+        port: 9000
+  cli:
+    enabled: true
+    ports:
+      cli:
+        enabled: true
+        port: 9090
+        targetPort: 9090
+  playertcp:
+    enabled: true
+    ports:
+      slimprototcp:
+        enabled: true
+        port: 3483
+        targetPort: 3483
+  playerudp:
+    enabled: true
+    ports:
+      slimprotoudp:
+        enabled: true
+        port: 3483
+        protocol: udp
+        targetPort: 3483
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            HTTP_PORT: "{{ .Values.service.main.ports.main.port }}"

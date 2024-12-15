@@ -1,0 +1,44 @@
+annotations:
+  max_scale_version: 24.04.2.5
+  min_scale_version: 24.04.0
+  truecharts.org/category: productivity
+  truecharts.org/max_helm_version: '3.15'
+  truecharts.org/min_helm_version: '3.11'
+  truecharts.org/train: stable
+  truecharts.org/SCALE-support: 'true'
+apiVersion: v2
+appVersion: "0.80.2"
+dependencies:
+  - name: common
+    version: 24.1.10
+    repository: https://petersandor.github.io/truecharts-common
+    condition: ''
+    alias: ''
+    tags: []
+    import-values: []
+  - name: redis
+    version: 15.2.2
+    repository: https://petersandor.github.io/truecharts-common
+    condition: redis.enabled
+    alias: ''
+    tags: []
+    import-values: []
+deprecated: false
+description: A fast, collaborative, knowledge base for your team built using React and Node.js.
+home: https://truecharts.org/charts/stable/outline
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/outline.webp
+keywords:
+  - outline
+  - knowledge
+kubeVersion: '>=1.24.0-0'
+maintainers:
+  - name: TrueCharts
+    email: info@truecharts.org
+    url: https://truecharts.org
+name: outline
+sources:
+  - https://github.com/truecharts/charts/tree/master/charts/stable/outline
+  - https://github.com/outline/outline
+  - https://hub.docker.com/r/outlinewiki/outline
+type: application
+version: 14.4.9

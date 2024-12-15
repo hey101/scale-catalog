@@ -1,0 +1,54 @@
+annotations:
+  max_scale_version: 24.04.2.4
+  min_scale_version: 24.04.0
+  truecharts.org/category: security
+  truecharts.org/max_helm_version: '3.15'
+  truecharts.org/min_helm_version: '3.11'
+  truecharts.org/train: premium
+  truecharts.org/SCALE-support: 'true'
+apiVersion: v2
+appVersion: "4.38.17"
+dependencies:
+  - name: common
+    version: 24.1.10
+    repository: https://petersandor.github.io/truecharts-common
+    condition: ''
+    alias: ''
+    tags: []
+    import-values: []
+  - name: redis
+    version: 15.2.2
+    repository: https://petersandor.github.io/truecharts-common
+    condition: redis.enabled
+    alias: ''
+    tags: []
+    import-values: []
+deprecated: false
+description: Authelia is a Single Sign-On Multi-Factor portal for web apps
+home: https://truecharts.org/charts/premium/authelia
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/authelia.webp
+keywords:
+  - authelia
+  - authentication
+  - login
+  - SSO
+  - Authentication
+  - Security
+  - Two-Factor
+  - U2F
+  - YubiKey
+  - Push Notifications
+  - LDAP
+kubeVersion: '>=1.24.0-0'
+maintainers:
+  - name: TrueCharts
+    email: info@truecharts.org
+    url: https://truecharts.org
+name: authelia
+sources:
+  - https://github.com/truecharts/charts/tree/master/charts/premium/authelia
+  - https://ghcr.io/authelia/authelia
+  - https://github.com/authelia/authelia
+  - https://github.com/authelia/chartrepo
+type: application
+version: 25.2.16
