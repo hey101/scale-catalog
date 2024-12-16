@@ -23,7 +23,7 @@ jobs:
         name: Checkout-validate
         with:
           fetch-depth: 1
-          repository: petersandor/tc-archive
+          repository: hey101/tc-archive
           token: ${{ secrets.BOT_TOKEN }}
           path: .catalog_validation
           
