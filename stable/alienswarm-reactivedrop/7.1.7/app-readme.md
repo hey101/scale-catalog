@@ -1,4 +1,4 @@
-This Chart will download and install SteamCMD. It will also install   Alien Swarm: Reactive Drop and run it.
+This Chart will download and install SteamCMD. It will also install Alien Swarm: Reactive Drop and run it.
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/alienswarm-reactivedrop](https://truecharts.org/charts/stable/alienswarm-reactivedrop)
 

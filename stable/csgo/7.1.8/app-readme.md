@@ -1,4 +1,4 @@
-This Chart will download and install SteamCMD. It will also install   Counter-Strike: GO and run it.
+This Chart will download and install SteamCMD. It will also install Counter-Strike: GO and run it.
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/csgo](https://truecharts.org/charts/stable/csgo)
 

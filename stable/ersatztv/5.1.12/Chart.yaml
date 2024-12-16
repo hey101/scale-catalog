@@ -2,18 +2,18 @@ annotations:
   max_scale_version: 24.04.2.4
   min_scale_version: 24.04.0
   truecharts.org/category: media
-  truecharts.org/max_helm_version: '3.15'
-  truecharts.org/min_helm_version: '3.11'
+  truecharts.org/max_helm_version: "3.15"
+  truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
-  truecharts.org/SCALE-support: 'true'
+  truecharts.org/SCALE-support: "true"
 apiVersion: v2
 appVersion: "0.8.8"
 dependencies:
   - name: common
     version: 24.1.10
     repository: https://petersandor.github.io/truecharts-common
-    condition: ''
-    alias: ''
+    condition: ""
+    alias: ""
     tags: []
     import-values: []
 deprecated: false
@@ -23,7 +23,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/ersatztv.webp
 keywords:
   - ersatztv
   - media
-kubeVersion: '>=1.24.0-0'
+kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org

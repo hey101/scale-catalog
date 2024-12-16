@@ -1,4 +1,4 @@
-This Chart will download and install Neverwinter Nights: Enhanced Edition   and run it (by default this Chart has a MariaDB and Redis Server integrated).
+This Chart will download and install Neverwinter Nights: Enhanced Edition and run it (by default this Chart has a MariaDB and Redis Server integrated).
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/neverwinternights-ee](https://truecharts.org/charts/stable/neverwinternights-ee)
 

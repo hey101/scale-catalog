@@ -5,7 +5,7 @@ concurrency: catalog-test
 on:
   push:
     branches:
-      - 'main'
+      - "main"
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,11 @@ jobs:
     name: Test and Sync SCALE Catalog
     runs-on: ubuntu-latest
     steps:
-          
       - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # tag=v3
         name: Checkout
         with:
           token: ${{ secrets.BOT_TOKEN }}
-          
+
       - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # tag=v3
         name: Checkout-validate
         with:
@@ -26,7 +25,7 @@ jobs:
           repository: hey101/tc-archive
           token: ${{ secrets.BOT_TOKEN }}
           path: .catalog_validation
-          
+
       - name: install catalog_validation
         shell: bash
         run: |

@@ -1,4 +1,4 @@
-A fork of Sonarr to work with movies  la Couchpotato
+A fork of Sonarr to work with movies la Couchpotato
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/radarr](https://truecharts.org/charts/stable/radarr)
 
