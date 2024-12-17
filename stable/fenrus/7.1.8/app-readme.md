@@ -1,4 +1,5 @@
-Fenrus is a home page / personal dashboard with smart apps.
+Fenrus is a home page / personal dashboard with smart apps.   
+
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/fenrus](https://truecharts.org/charts/stable/fenrus)
 

@@ -1,4 +1,4 @@
-_BETA_ Fotosho is a photo gallery for your home server. Organize your photos into albums internally and view as a slideshow. Free and open source. Does not require a database. Does not move, copy or modify your photos.
+*BETA* Fotosho is a photo gallery for your home server. Organize your photos into albums internally and view as a slideshow. Free and open source. Does not require a database. Does not move, copy or modify your photos.
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/fotosho](https://truecharts.org/charts/stable/fotosho)
 
