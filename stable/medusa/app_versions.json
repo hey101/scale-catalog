@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/12.1.24",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.0.22_12.1.24",
@@ -5286,11 +5286,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/12.1.23",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.0.21_12.1.23",
@@ -10568,11 +10568,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/11.0.13",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.0.21_11.0.13",
@@ -15847,11 +15847,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/11.0.12",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.0.21_11.0.12",
@@ -21126,11 +21126,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/10.8.16",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.0.21_10.8.16",
@@ -26076,11 +26076,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/10.8.15",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.0.21_10.8.15",
@@ -31026,13 +31026,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/9.3.0",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.0.19_9.3.0",
         "version": "9.3.0",
@@ -36019,13 +36019,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/9.2.1",
-        "last_update": "2024-12-17 18:00:09",
+        "last_update": "2024-12-18 01:23:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.0.19_9.2.1",
         "version": "9.2.1",
