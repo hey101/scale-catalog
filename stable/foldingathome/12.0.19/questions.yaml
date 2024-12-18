@@ -310,18 +310,6 @@ questions:
                               type: dict
                               attrs:
 
-                                - variable: env
-                                  group: "App Configuration"
-                                  label: "Image Secrets"
-                                  schema:
-                                    additional_attrs: true
-                                    type: dict
-                                    attrs:
-                                      - variable: PASSWORD
-                                        label: "PASSWORD (Optional)"
-                                        schema:
-                                          type: string
-                                          default: ""
                                 - variable: envList
                                   label: Extra Environment Variables
                                   description: "Please be aware that some variables are set in the background, adding duplicates here might cause issues or prevent the app from starting..."
@@ -516,6 +504,7 @@ questions:
             additional_attrs: true
             type: dict
             attrs:
+
               - variable: enabled
                 label: Enable the Service
                 schema:
@@ -559,7 +548,59 @@ questions:
                             description: "This port exposes the container port on the service"
                             schema:
                               type: int
-                              default: 10142
+                              default: 7396
+                              required: true
+        - variable: control
+          label: "Control Service"
+          description: "The control service."
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
+                label: Enable the Service
+                schema:
+                  type: boolean
+                  default: true
+                  hidden: true
+              - variable: type
+                label: Service Type
+                description: "ClusterIP's are only internally available and Loadbalancer exposes the service using the system loadbalancer"
+                schema:
+                  type: string
+                  default: LoadBalancer
+                  enum:
+                    - value: LoadBalancer
+                      description: LoadBalancer (Expose Ports)
+                    - value: ClusterIP
+                      description: ClusterIP (Do Not Expose Ports)
+
+              - variable: loadBalancerIP
+                label: LoadBalancer IP
+                description: "MetalLB Only: Selects the Loadbalancer IP to expose on. Required when using PortalButton with MetalLB"
+                schema:
+                  show_if: [["type", "=", "LoadBalancer"]]
+                  type: string
+                  default: ""
+              - variable: ports
+                label: "Service's Port(s) Configuration"
+                schema:
+                  additional_attrs: true
+                  type: dict
+                  attrs:
+
+                    - variable: control
+                      label: "Control Service Port Configuration"
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: port
+                            label: "Port"
+                            description: "This port exposes the container port on the service"
+                            schema:
+                              type: int
+                              default: 36330
                               required: true
   - variable: scaleExternalInterface
     description: 'Add External Interfaces (Experimental, might change or be removed without further notice)'
@@ -2026,7 +2067,7 @@ questions:
                   default: 0
               - variable: runAsGroup
                 label: "runAsGroup"
-                description: "The groupID of the user running the application"
+                description: "The groupID this App of the user running the application"
                 schema:
                   type: int
                   default: 0
@@ -3163,3 +3204,4 @@ questions:
             type: boolean
             default: true
             hidden: true
+

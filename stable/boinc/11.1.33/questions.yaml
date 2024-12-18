@@ -162,7 +162,15 @@ groups:
       We would also advice going over our https://truecharts.org/scale/guides/scale-intro/
       and many of the other documentation pages...
 
-portals: {}
+portals:
+  open:
+    protocols:
+      - "$kubernetes-resource_configmap_tcportal-open_protocol"
+    host:
+      - "$kubernetes-resource_configmap_tcportal-open_host"
+    ports:
+      - "$kubernetes-resource_configmap_tcportal-open_port"
+
 questions:
   - variable: global
     group: General
@@ -302,6 +310,18 @@ questions:
                               type: dict
                               attrs:
 
+                                - variable: env
+                                  group: "App Configuration"
+                                  label: "Image Secrets"
+                                  schema:
+                                    additional_attrs: true
+                                    type: dict
+                                    attrs:
+                                      - variable: PASSWORD
+                                        label: "PASSWORD (Optional)"
+                                        schema:
+                                          type: string
+                                          default: ""
                                 - variable: envList
                                   label: Extra Environment Variables
                                   description: "Please be aware that some variables are set in the background, adding duplicates here might cause issues or prevent the app from starting..."
@@ -481,6 +501,66 @@ questions:
                         required: true
                         default: ""
 
+  - variable: service
+    group: Services
+    label: Configure Service(s)
+    schema:
+      additional_attrs: true
+      type: dict
+      attrs:
+
+        - variable: main
+          label: "Main Service"
+          description: "The Primary service on which the healthcheck runs, often the webUI"
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
+                label: Enable the Service
+                schema:
+                  type: boolean
+                  default: true
+                  hidden: true
+              - variable: type
+                label: Service Type
+                description: "ClusterIP's are only internally available and Loadbalancer exposes the service using the system loadbalancer"
+                schema:
+                  type: string
+                  default: LoadBalancer
+                  enum:
+                    - value: LoadBalancer
+                      description: LoadBalancer (Expose Ports)
+                    - value: ClusterIP
+                      description: ClusterIP (Do Not Expose Ports)
+
+              - variable: loadBalancerIP
+                label: LoadBalancer IP
+                description: "MetalLB Only: Selects the Loadbalancer IP to expose on. Required when using PortalButton with MetalLB"
+                schema:
+                  show_if: [["type", "=", "LoadBalancer"]]
+                  type: string
+                  default: ""
+              - variable: ports
+                label: "Service's Port(s) Configuration"
+                schema:
+                  additional_attrs: true
+                  type: dict
+                  attrs:
+
+                    - variable: main
+                      label: "Main Service Port Configuration"
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: port
+                            label: "Port"
+                            description: "This port exposes the container port on the service"
+                            schema:
+                              type: int
+                              default: 10142
+                              required: true
   - variable: scaleExternalInterface
     description: 'Add External Interfaces (Experimental, might change or be removed without further notice)'
     label: Add external Interfaces (Experimental)
@@ -1391,6 +1471,538 @@ questions:
                               type: string
                               default: ""
 
+  - variable: ingress
+    label: ""
+    group: Ingress
+    schema:
+      additional_attrs: true
+      type: dict
+      attrs:
+
+        - variable: main
+          label: "Main Ingress"
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
+                label: Enable Ingress
+                schema:
+                  type: boolean
+                  default: false
+                  show_subquestions_if: true
+                  subquestions:
+                    - variable: hosts
+                      label: Hosts
+                      schema:
+                        type: list
+                        default: []
+                        items:
+                          - variable: hostEntry
+                            label: Host
+                            schema:
+                              additional_attrs: true
+                              type: dict
+                              attrs:
+                                - variable: host
+                                  label: HostName
+                                  schema:
+                                    type: string
+                                    default: ""
+                                    required: true
+                                - variable: paths
+                                  label: Paths
+                                  schema:
+                                    type: list
+                                    default: [{path: "/", pathType: "Prefix"}]
+                                    items:
+                                      - variable: pathEntry
+                                        label: Host
+                                        schema:
+                                          additional_attrs: true
+                                          type: dict
+                                          attrs:
+                                            - variable: path
+                                              label: Path
+                                              schema:
+                                                type: string
+                                                required: true
+                                                default: "/"
+                                            - variable: pathType
+                                              label: Path Type
+                                              schema:
+                                                type: string
+                                                required: true
+                                                default: Prefix
+
+                    - variable: integrations
+                      label: Integrations
+                      description: Connect ingress with other charts
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: traefik
+                            label: Traefik
+                            description: Connect ingress with Traefik
+                            schema:
+                              additional_attrs: true
+                              type: dict
+                              attrs:
+                                - variable: enabled
+                                  label: enabled
+                                  schema:
+                                    type: boolean
+                                    default: true
+                                - variable: allowCors
+                                  label: 'Allow Cross Origin Requests (advanced)'
+                                  schema:
+                                    type: boolean
+                                    default: false
+                                    show_if: [["enabled", "=", true]]
+                                - variable: entrypoints
+                                  label: Entrypoints
+                                  schema:
+                                    type: list
+                                    default: ["websecure"]
+                                    show_if: [["enabled", "=", true]]
+                                    items:
+                                      - variable: entrypoint
+                                        label: Entrypoint
+                                        schema:
+                                          type: string
+                                - variable: middlewares
+                                  label: Middlewares
+                                  schema:
+                                    type: list
+                                    default: []
+                                    show_if: [["enabled", "=", true]]
+                                    items:
+                                      - variable: middleware
+                                        label: Middleware
+                                        schema:
+                                          additional_attrs: true
+                                          type: dict
+                                          attrs:
+                                            - variable: name
+                                              label: name
+                                              schema:
+                                                type: string
+                                                default: ""
+                                                required: true
+                                            - variable: namespace
+                                              label: 'namespace (optional)'
+                                              schema:
+                                                type: string
+                                                default: ""
+                          - variable: certManager
+                            label: certManager
+                            description: Connect ingress with certManager
+                            schema:
+                              additional_attrs: true
+                              type: dict
+                              attrs:
+                                - variable: enabled
+                                  label: enabled
+                                  schema:
+                                    type: boolean
+                                    default: false
+                                - variable: certificateIssuer
+                                  label: certificateIssuer
+                                  description: defaults to chartname
+                                  schema:
+                                    type: string
+                                    default: ""
+                                    show_if: [["enabled", "=", true]]
+                          - variable: homepage
+                            label: Homepage
+                            description: Connect ingress with Homepage
+                            schema:
+                              additional_attrs: true
+                              type: dict
+                              attrs:
+                                - variable: enabled
+                                  label: enabled
+                                  schema:
+                                    type: boolean
+                                    default: false
+                                - variable: name
+                                  label: Name (Optional)
+                                  description: Defaults to chart name
+                                  schema:
+                                    type: string
+                                    default: ""
+                                    show_if: [["enabled", "=", true]]
+                                - variable: description
+                                  label: Description (Optional)
+                                  description: Defaults to chart description
+                                  schema:
+                                    type: string
+                                    default: ""
+                                    show_if: [["enabled", "=", true]]
+                                - variable: icon
+                                  label: Icon (Optional)
+                                  description: Defaults to chart icon
+                                  schema:
+                                    type: string
+                                    default: ""
+                                    show_if: [["enabled", "=", true]]
+                                - variable: group
+                                  label: Group
+                                  schema:
+                                    type: string
+                                    required: true
+                                    default: "default"
+                                    show_if: [["enabled", "=", true]]
+                                - variable: widget
+                                  label: Widget Settings
+                                  schema:
+                                    type: dict
+                                    additional_attrs: true
+                                    show_if: [["enabled", "=", true]]
+                                    attrs:
+                                      - variable: enabled
+                                        label: Enable Widget
+                                        description: When disabled all widget annotations are skipped.
+                                        schema:
+                                          type: boolean
+                                          default: true
+                                      - variable: custom
+                                        label: Options
+                                        schema:
+                                          type: dict
+                                          additional_attrs: true
+                                          attrs:
+                                            - variable: key
+                                              label: API-key (key)
+                                              schema:
+                                                type: string
+                                                default: ""
+                                      - variable: customkv
+                                        label: Custom Options
+                                        schema:
+                                          type: list
+                                          default: []
+                                          items:
+                                            - variable: option
+                                              label: Option
+                                              schema:
+                                                additional_attrs: true
+                                                type: dict
+                                                attrs:
+                                                  - variable: key
+                                                    label: Key
+                                                    schema:
+                                                      type: string
+                                                      default: ""
+                                                      required: true
+                                                  - variable: value
+                                                    label: Value
+                                                    schema:
+                                                      type: string
+                                                      default: ""
+                                                      required: true
+                    - variable: advanced
+                      label: Show Advanced Settings
+                      description: Advanced settings are not covered by TrueCharts Support
+                      schema:
+                        type: boolean
+                        default: false
+                    - variable: ingressClassName
+                      label: (Advanced/Optional) IngressClass Name
+                      schema:
+                        type: string
+                        show_if: [["advanced", "=", true]]
+                        default: ""
+                    - variable: tls
+                      label: TLS-Settings
+                      schema:
+                        type: list
+                        show_if: [["advanced", "=", true]]
+                        default: []
+                        items:
+                          - variable: tlsEntry
+                            label: Host
+                            schema:
+                              additional_attrs: true
+                              type: dict
+                              attrs:
+                                - variable: hosts
+                                  label: Certificate Hosts
+                                  schema:
+                                    type: list
+                                    default: []
+                                    items:
+                                      - variable: host
+                                        label: Host
+                                        schema:
+                                          type: string
+                                          default: ""
+                                          required: true
+
+                                - variable: certificateIssuer
+                                  label: Use Cert-Manager clusterIssuer
+                                  description: 'add the name of your cert-manager clusterIssuer here for automatic tls certificates.'
+                                  schema:
+                                    type: string
+                                    default: ""
+                                - variable: clusterCertificate
+                                  label:  'Cluster Certificate (Advanced)'
+                                  description: 'Add the name of your cluster-wide certificate, that you set up in the ClusterIssuer chart.'
+                                  schema:
+                                    type: string
+                                    show_if: [["certificateIssuer", "=", ""]]
+                                    default: ""
+                                - variable: secretName
+                                  label: 'Use Custom Certificate Secret (Advanced)'
+                                  schema:
+                                    show_if: [["certificateIssuer", "=", ""]]
+                                    type: string
+                                    default: ""
+
+  - variable: ingressList
+    label: Add Manual Custom Ingresses
+    group: Ingress
+    schema:
+      type: list
+      default: []
+      items:
+        - variable: ingressListEntry
+          label: Custom Ingress
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
+                label: Enable Ingress
+                schema:
+                  type: boolean
+                  default: true
+                  hidden: true
+              - variable: name
+                label: Name
+                schema:
+                  type: string
+                  default: ""
+              - variable: ingressClassName
+                label: IngressClass Name
+                schema:
+                  type: string
+                  default: ""
+              - variable: hosts
+                label: Hosts
+                schema:
+                  type: list
+                  default: []
+                  items:
+                    - variable: hostEntry
+                      label: Host
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: host
+                            label: HostName
+                            schema:
+                              type: string
+                              default: ""
+                              required: true
+                          - variable: paths
+                            label: Paths
+                            schema:
+                              type: list
+                              default: []
+                              items:
+                                - variable: pathEntry
+                                  label: Host
+                                  schema:
+                                    additional_attrs: true
+                                    type: dict
+                                    attrs:
+                                      - variable: path
+                                        label: Path
+                                        schema:
+                                          type: string
+                                          required: true
+                                          default: "/"
+                                      - variable: pathType
+                                        label: Path Type
+                                        schema:
+                                          type: string
+                                          required: true
+                                          default: Prefix
+                                      - variable: overrideService
+                                        label: Linked Service
+                                        schema:
+                                          additional_attrs: true
+                                          type: dict
+                                          attrs:
+                                            - variable: name
+                                              label: Service Name
+                                              schema:
+                                                type: string
+                                                default: ""
+                                            - variable: port
+                                              label: Service Port
+                                              schema:
+                                                type: int
+              - variable: tls
+                label: TLS-Settings
+                schema:
+                  type: list
+                  default: []
+                  show_if: [["certificateIssuer", "=", ""]]
+                  items:
+                    - variable: tlsEntry
+                      label: Host
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: hosts
+                            label: Certificate Hosts
+                            schema:
+                              type: list
+                              default: []
+                              items:
+                                - variable: host
+                                  label: Host
+                                  schema:
+                                    type: string
+                                    default: ""
+                                    required: true
+                          - variable: certificateIssuer
+                            label: Use Cert-Manager clusterIssuer
+                            description: 'add the name of your Cert-Manager clusterIssuer here for automatic tls certificates.'
+                            schema:
+                              type: string
+                              default: ""
+                          - variable: clusterCertificate
+                            label:  'Cluster Certificate (Advanced)'
+                            description: 'Add the name of your cluster-wide certificate, that you set up in the ClusterIssuer chart.'
+                            schema:
+                              type: string
+                              show_if: [["certificateIssuer", "=", ""]]
+                              default: ""
+                          - variable: secretName
+                            label: Use Custom Secret (Advanced)
+                            schema:
+                              type: string
+                              show_if: [["certificateIssuer", "=", ""]]
+                              default: ""
+              - variable: integrations
+                label: Integrations
+                description: Connect ingress with other charts
+                schema:
+                  additional_attrs: true
+                  type: dict
+                  attrs:
+                    - variable: traefik
+                      label: Traefik
+                      description: Connect ingress with Traefik
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: enabled
+                            label: enabled
+                            schema:
+                              type: boolean
+                              default: true
+                          - variable: allowCors
+                            label: "Allow Cross Origin Requests"
+                            schema:
+                              type: boolean
+                              default: false
+                              show_if: [["enabled", "=", true]]
+                          - variable: entrypoints
+                            label: Entrypoints
+                            schema:
+                              type: list
+                              default: ["websecure"]
+                              show_if: [["enabled", "=", true]]
+                              items:
+                                - variable: entrypoint
+                                  label: Entrypoint
+                                  schema:
+                                    type: string
+                          - variable: middlewares
+                            label: Middlewares
+                            schema:
+                              type: list
+                              default: []
+                              show_if: [["enabled", "=", true]]
+                              items:
+                                - variable: middleware
+                                  label: Middleware
+                                  schema:
+                                    additional_attrs: true
+                                    type: dict
+                                    attrs:
+                                      - variable: name
+                                        label: name
+                                        schema:
+                                          type: string
+                                          default: ""
+                                          required: true
+                                      - variable: namespace
+                                        label: namespace
+                                        schema:
+                                          type: string
+                                          default: ""
+                    - variable: certManager
+                      label: certManager
+                      description: Connect ingress with certManager
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: enabled
+                            label: enabled
+                            schema:
+                              type: boolean
+                              default: true
+                          - variable: certificateIssuer
+                            label: certificateIssuer
+                            description: defaults to chartname
+                            schema:
+                              type: string
+                              default: ""
+                              show_if: [["enabled", "=", true]]
+                    - variable: homepage
+                      label: Homepage
+                      description: Connect ingress with Homepage
+                      schema:
+                        additional_attrs: true
+                        type: dict
+                        attrs:
+                          - variable: enabled
+                            label: enabled
+                            schema:
+                              type: boolean
+                              default: false
+                          - variable: name
+                            label: Name
+                            description: defaults to chartname
+                            schema:
+                              type: string
+                              default: ""
+                              show_if: [["enabled", "=", true]]
+                          - variable: description
+                            label: Description
+                            description: defaults to chart description
+                            schema:
+                              type: string
+                              default: ""
+                              show_if: [["enabled", "=", true]]
+                          - variable: group
+                            label: Group
+                            schema:
+                              type: string
+                              required: true
+                              default: "default"
+                              show_if: [["enabled", "=", true]]
+
   - variable: securityContext
     group: SecurityContext
     label: Security Context
@@ -1414,7 +2026,7 @@ questions:
                   default: 0
               - variable: runAsGroup
                 label: "runAsGroup"
-                description: "The groupID this App of the user running the application"
+                description: "The groupID of the user running the application"
                 schema:
                   type: int
                   default: 0
@@ -2551,3 +3163,4 @@ questions:
             type: boolean
             default: true
             hidden: true
+

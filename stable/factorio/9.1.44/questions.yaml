@@ -162,15 +162,7 @@ groups:
       We would also advice going over our https://truecharts.org/scale/guides/scale-intro/
       and many of the other documentation pages...
 
-portals:
-  open:
-    protocols:
-      - "$kubernetes-resource_configmap_tcportal-open_protocol"
-    host:
-      - "$kubernetes-resource_configmap_tcportal-open_host"
-    ports:
-      - "$kubernetes-resource_configmap_tcportal-open_port"
-
+portals: {}
 questions:
   - variable: global
     group: General
@@ -310,6 +302,49 @@ questions:
                               type: dict
                               attrs:
 
+                                - variable: env
+                                  group: App Configuration
+                                  label: Image Environment
+                                  schema:
+                                    additional_attrs: true
+                                    type: dict
+                                    attrs:
+                                      - variable: GENERATE_NEW_SAVE
+                                        label: Generate new save on startup
+                                        description: Generate a new save if one does not exist before starting the server
+                                        schema:
+                                          type: boolean
+                                          default: false
+                                      - variable: LOAD_LATEST_SAVE
+                                        label: Load latest save game
+                                        description: Load latest when true. Otherwise load SAVE_NAME
+                                        schema:
+                                          type: boolean
+                                          default: true
+                                      - variable: SAVE_NAME
+                                        label: Game save name (change this to use multiple saves)
+                                        description: Name to use for the save file
+                                        schema:
+                                          type: string
+                                          default: _autosave1
+                                      - variable: TOKEN
+                                        label: Factorio.com Token
+                                        description: Import your factorio.com token
+                                        schema:
+                                          type: string
+                                          default: ""
+                                      - variable: UPDATE_MODS_ON_START
+                                        label: Update server mods BEFORE starting the server
+                                        description: If mods should be updated before starting the server
+                                        schema:
+                                          type: boolean
+                                          default: false
+                                      - variable: USERNAME
+                                        label: Factorio.com Username
+                                        description: Import your factorio.com username
+                                        schema:
+                                          type: string
+                                          default: ""
                                 - variable: envList
                                   label: Extra Environment Variables
                                   description: "Please be aware that some variables are set in the background, adding duplicates here might cause issues or prevent the app from starting..."
@@ -498,13 +533,12 @@ questions:
       attrs:
 
         - variable: main
-          label: "Main Service"
-          description: "The Primary service on which the healthcheck runs, often the webUI"
+          label: Main Service
+          description: The Primary service on which the healthcheck runs, often the webUI
           schema:
             additional_attrs: true
             type: dict
             attrs:
-
               - variable: enabled
                 label: Enable the Service
                 schema:
@@ -538,21 +572,21 @@ questions:
                   attrs:
 
                     - variable: main
-                      label: "Main Service Port Configuration"
+                      label: Main Service Port Configuration
                       schema:
                         additional_attrs: true
                         type: dict
                         attrs:
                           - variable: port
-                            label: "Port"
-                            description: "This port exposes the container port on the service"
+                            label: Port
+                            description: UDP port the server listens on
                             schema:
                               type: int
-                              default: 7396
+                              default: 34197
                               required: true
-        - variable: control
-          label: "Control Service"
-          description: "The control service."
+        - variable: rcon
+          label: Rcon Port
+          description: TCP port the rcon server listens on
           schema:
             additional_attrs: true
             type: dict
@@ -589,18 +623,18 @@ questions:
                   type: dict
                   attrs:
 
-                    - variable: control
-                      label: "Control Service Port Configuration"
+                    - variable: rcon
+                      label: Rcon Server Service Port Configuration
                       schema:
                         additional_attrs: true
                         type: dict
                         attrs:
                           - variable: port
-                            label: "Port"
-                            description: "This port exposes the container port on the service"
+                            label: Port
+                            description: This port exposes the container port on the service
                             schema:
                               type: int
-                              default: 36330
+                              default: 27015
                               required: true
   - variable: scaleExternalInterface
     description: 'Add External Interfaces (Experimental, might change or be removed without further notice)'
@@ -827,8 +861,8 @@ questions:
       attrs:
 
         - variable: config
-          label: "App Config Storage"
-          description: "Stores the Application Configuration."
+          label: App Config Storage
+          description: Stores the Application Config.
           schema:
             additional_attrs: true
             type: dict
@@ -1521,7 +1555,7 @@ questions:
       attrs:
 
         - variable: main
-          label: "Main Ingress"
+          label: Main Ingress
           schema:
             additional_attrs: true
             type: dict
@@ -2060,14 +2094,14 @@ questions:
               # Settings from questions.yaml get appended here on a per-app basis
 
               - variable: runAsUser
-                label: "runAsUser"
-                description: "The UserID of the user running the application"
+                label: runAsUser
+                description: The UserID of the user running the application
                 schema:
                   type: int
                   default: 0
               - variable: runAsGroup
-                label: "runAsGroup"
-                description: "The groupID this App of the user running the application"
+                label: runAsGroup
+                description: The groupID of the user running the application
                 schema:
                   type: int
                   default: 0
@@ -2133,12 +2167,12 @@ questions:
                         type: int
               # Settings from questions.yaml get appended here on a per-app basis
 
-              - variable: fsGroup
-                label: "fsGroup"
-                description: "The group that should own ALL storage."
-                schema:
-                  type: int
-                  default: 568
+        - variable: fsGroup
+          label: fsGroup
+          description: The group that should own ALL storage.
+          schema:
+            type: int
+            default: 568
   - variable: resources
     group: Resources
     label: "Resource Limits"
@@ -3204,3 +3238,4 @@ questions:
             type: boolean
             default: true
             hidden: true
+
