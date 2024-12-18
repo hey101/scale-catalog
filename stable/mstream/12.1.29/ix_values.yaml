@@ -1,0 +1,25 @@
+image:
+  repository: ghcr.io/linuxserver/mstream
+  pullPolicy: IfNotPresent
+  tag: 5.12.2@sha256:155207cec5cf374876b5a0d2a8fe3f01544a7696862a06a6e4a6103cc90f9790
+service:
+  main:
+    ports:
+      main:
+        port: 10041
+        targetPort: 3000
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  varrun:
+    enabled: true
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0

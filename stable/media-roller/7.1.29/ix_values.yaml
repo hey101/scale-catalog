@@ -1,0 +1,23 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ronnieroller/media-roller
+  tag: latest@sha256:4f9340683ba4dce14a2f5966a0fa82cc46d9eff142680969ebabaa8caf92d8ea
+persistence:
+  download:
+    enabled: true
+    mountPath: /download
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 3000
+        protocol: tcp
+        targetPort: 3000

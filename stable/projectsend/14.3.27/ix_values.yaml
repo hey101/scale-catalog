@@ -1,0 +1,49 @@
+image:
+  repository: ghcr.io/linuxserver/projectsend
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:49cfb98f8729ba941b54e5606b7886dc65eb48670c1989f5f587c3ace0943369
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        targetPort: 80
+        port: 10127
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            MAX_UPLOAD: 5000
+            PHP_MEMORY_LIMIT: "512M"
+            PHP_MAX_FILE_UPLOAD: 200
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  projectsend-config:
+    enabled: true
+    type: configmap
+    objectName: projectsend-config
+    mountPath: /config/projectsend/sys.config.php
+    subPath: sys.config.php
+    readOnly: true
+  data:
+    enabled: true
+    mountPath: "/data"
+  varrun:
+    enabled: true
+mariadb:
+  enabled: true
+  includeCommon: true
+  mariadbUsername: projectsend
+  mariadbDatabase: projectsend
+portal:
+  open:
+    enabled: true
