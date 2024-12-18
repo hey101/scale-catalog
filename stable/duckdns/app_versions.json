@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/11.1.22",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_11.1.22",
         "version": "11.1.22",
@@ -4239,12 +4239,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/11.1.21",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_11.1.21",
         "version": "11.1.21",
@@ -8474,12 +8474,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/10.0.11",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_10.0.11",
         "version": "10.0.11",
@@ -12706,12 +12706,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/10.0.10",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_10.0.10",
         "version": "10.0.10",
@@ -16938,12 +16938,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/9.8.16",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_9.8.16",
         "version": "9.8.16",
@@ -20841,12 +20841,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/9.8.15",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_9.8.15",
         "version": "9.8.15",
@@ -24744,13 +24744,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/8.3.0",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.3.0",
         "version": "8.3.0",
@@ -28690,13 +28690,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duckdns/8.2.1",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.2.1",
         "version": "8.2.1",

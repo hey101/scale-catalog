@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/19.1.26",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "17.0_19.1.26",
         "version": "19.1.26",
@@ -6287,12 +6287,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/19.1.25",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "17.0_19.1.25",
         "version": "19.1.25",
@@ -12570,12 +12570,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/18.0.12",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "17.0.0_18.0.12",
         "version": "18.0.12",
@@ -18850,12 +18850,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/18.0.11",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "17.0.0_18.0.11",
         "version": "18.0.11",
@@ -25130,12 +25130,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/17.8.18",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "17.0.0_17.8.18",
         "version": "17.8.18",
@@ -31438,12 +31438,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/17.8.17",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "17.0.0_17.8.17",
         "version": "17.8.17",
@@ -37746,13 +37746,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/16.3.0",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "17.0.0_16.3.0",
         "version": "16.3.0",
@@ -44129,13 +44129,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/16.2.1",
-        "last_update": "2024-12-18 12:22:51",
+        "last_update": "2024-12-18 20:22:49",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "17.0.0_16.2.1",
         "version": "16.2.1",
