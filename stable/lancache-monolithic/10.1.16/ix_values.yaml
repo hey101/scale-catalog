@@ -5,7 +5,7 @@ image:
 prefillImage:
   repository: ich777/lancache-prefill
   pullPolicy: IfNotPresent
-  tag: latest@sha256:573aaca4e677fde1a333a964b30d3d7d65de04599b2112a044c51d6bfbfaeca9
+  tag: latest@sha256:30732b121eeff13660a434209edaef7d3f8741d2efd86312141240777e14cfbe
 securityContext:
   container:
     readOnlyRootFilesystem: false
