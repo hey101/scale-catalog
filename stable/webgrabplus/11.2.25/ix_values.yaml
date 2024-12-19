@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/webgrabplus
   pullPolicy: IfNotPresent
-  tag: 5.3.0@sha256:734c87e4b458bb24f9933f0d96b7ff4b04ca29bd4407a448cd6dc5eff345bfa5
+  tag: 5.3.0@sha256:c8642d9f5bd1bfe740f5e4fcd7f5b4bb42da7eafb96e65a5a2ab5278547b6ccd
 service:
   main:
     enabled: false

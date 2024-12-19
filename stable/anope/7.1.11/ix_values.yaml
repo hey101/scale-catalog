@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/anope
-  tag: latest@sha256:ca7052e54a4a934fe60f4dc35aa8ce3b0a09f3ca0cec4dce31b27d0887afe8b9
+  tag: latest@sha256:6078b85f2ff7572405c2a809244349a973f384fde8b4a3251b0698995042ea8d
 persistence:
   datapath:
     enabled: true
