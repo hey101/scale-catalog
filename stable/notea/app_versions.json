@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/7.1.9",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone"
@@ -3485,7 +3485,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/7.1.8",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone"
@@ -6966,7 +6966,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/6.0.9",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone"
@@ -10444,7 +10444,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/6.0.8",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone"
@@ -13922,7 +13922,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/5.8.14",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone"
@@ -17172,7 +17172,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/5.8.13",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone"
@@ -20422,13 +20422,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/4.3.0",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -23842,13 +23842,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/notea/4.2.0",
-        "last_update": "2024-12-18 20:22:49",
+        "last_update": "2024-12-18 23:36:23",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
