@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/chrome
-  tag: latest@sha256:bbe3f4a4d1c7e27f592a9f6e2deb7d92077cff43d4022e2a8b12032eea252e53
+  tag: latest@sha256:72f7ef40db11f9ec5ff7fefb5b69537e3b85025c1d6e28bd39ebe780d327b3bb
 persistence:
   datadir:
     enabled: true

@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/cs2dserver
-  tag: latest@sha256:eb5cb0c241b86c8b4278ddc187ee34b7c6c04ebf397182819082f1a3936f1e06
+  tag: latest@sha256:a9553ae7f91691a166195b33b11c6530ab4ee563ffe7466f1d3e849d5c35c466
 persistence:
   serverfiles:
     enabled: true
