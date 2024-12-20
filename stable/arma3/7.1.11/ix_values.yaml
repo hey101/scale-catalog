@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: arma3@sha256:6fc4a810c2a054f7b6e948499d507689191a4d6b2024cae67dc9fd3293192a15
+  tag: arma3@sha256:f88c768439fda240ca727918ae7e081d0fd12f225c9bf49de4a5d6bceff4aeab
 persistence:
   profiles:
     enabled: true
