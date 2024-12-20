@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: assettocorsa@sha256:159ea6b01cab5793acc4e01f21dfb984106f4707ba53b6342ca553de74b554ad
+  tag: assettocorsa@sha256:f0053a9dc42e27309f3fcdcc26020044086829db417bdb036cc49b0e06212cac
 persistence:
   serverfiles:
     enabled: true
