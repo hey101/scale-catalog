@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/15.1.12",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.8.5_15.1.12",
@@ -5303,11 +5303,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/15.1.11",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.8.5_15.1.11",
@@ -10602,11 +10602,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/14.0.9",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.8.2_14.0.9",
@@ -15898,11 +15898,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/14.0.8",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.8.2_14.0.8",
@@ -21194,11 +21194,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/13.9.1",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.8.0_13.9.1",
@@ -26161,11 +26161,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/13.9.0",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.8.0_13.9.0",
@@ -31128,13 +31128,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/12.3.0",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.7.0_12.3.0",
         "version": "12.3.0",
@@ -36138,13 +36138,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flood/12.2.0",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.7.0_12.2.0",
         "version": "12.2.0",

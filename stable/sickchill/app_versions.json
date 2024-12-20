@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/13.1.33",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2024.3.1_13.1.33",
@@ -5284,11 +5284,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/13.1.32",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2024.3.1_13.1.32",
@@ -10564,11 +10564,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/12.0.12",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2024.3.1_12.0.12",
@@ -15841,11 +15841,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/12.0.11",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2024.3.1_12.0.11",
@@ -21118,11 +21118,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/11.9.15",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2024.3.1_11.9.15",
@@ -26066,11 +26066,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/11.9.14",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2024.3.1_11.9.14",
@@ -31014,13 +31014,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/10.3.0",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2024.2.20_10.3.0",
         "version": "10.3.0",
@@ -36005,13 +36005,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickchill/10.2.1",
-        "last_update": "2024-12-19 21:53:37",
+        "last_update": "2024-12-20 02:37:46",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2024.2.20_10.2.1",
         "version": "10.2.1",
