@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/12.1.9",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_12.1.9",
         "version": "12.1.9",
@@ -5907,12 +5907,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/12.1.8",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_12.1.8",
         "version": "12.1.8",
@@ -11810,12 +11810,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/11.0.9",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_11.0.9",
         "version": "11.0.9",
@@ -17710,12 +17710,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/11.0.8",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_11.0.8",
         "version": "11.0.8",
@@ -23610,12 +23610,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/10.8.14",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_10.8.14",
         "version": "10.8.14",
@@ -29080,12 +29080,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/10.8.13",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_10.8.13",
         "version": "10.8.13",
@@ -34550,13 +34550,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/9.3.0",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.3.0",
         "version": "9.3.0",
@@ -40063,13 +40063,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deemix/9.2.0",
-        "last_update": "2024-12-20 05:02:08",
+        "last_update": "2024-12-20 07:41:10",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.2.0",
         "version": "9.2.0",
