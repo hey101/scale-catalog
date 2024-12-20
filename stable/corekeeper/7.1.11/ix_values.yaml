@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: corekeeper@sha256:667aedea4063e4a12f911c00851da341f4d65ed8b9da05047a5827635b26df43
+  tag: corekeeper@sha256:c920b302175249f03889e859e56f04b4f2e4322148ec695516b1267660c338a2
 persistence:
   serverfiles:
     enabled: true
