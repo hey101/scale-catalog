@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/5.1.10",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.3.4-apac_5.1.10",
         "version": "5.1.10",
@@ -3695,12 +3695,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/5.1.9",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.3.4-apac_5.1.9",
         "version": "5.1.9",
@@ -7386,12 +7386,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/4.0.9",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.3.4_4.0.9",
         "version": "4.0.9",
@@ -11074,12 +11074,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/4.0.8",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.3.4_4.0.8",
         "version": "4.0.8",
@@ -14762,12 +14762,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/3.8.14",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.3.4_3.8.14",
         "version": "3.8.14",
@@ -18222,12 +18222,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/3.8.13",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.3.4_3.8.13",
         "version": "3.8.13",
@@ -21682,13 +21682,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/2.3.0",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.3.4_2.3.0",
         "version": "2.3.0",
@@ -25185,13 +25185,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/modsecurity-crs/2.2.0",
-        "last_update": "2024-12-20 07:41:10",
+        "last_update": "2024-12-20 10:58:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.3.4_2.2.0",
         "version": "2.2.0",
