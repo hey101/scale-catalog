@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: alienswarmreactivedrop@sha256:ec187541294848a4637dacce2a303e1b8f283b6b181051cb5988c38d12d4ebee
+  tag: alienswarmreactivedrop@sha256:211c5c59b3db741b6cd802f069aa1b652b2f866a3e90c8f546612563a81838bc
 persistence:
   serverfiles:
     enabled: true
