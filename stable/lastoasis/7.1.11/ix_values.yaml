@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: lastoasis@sha256:6885c3e564a300b37d9018b56395c2049e5e5e97480142c5f7d3b9cd4344d0ac
+  tag: lastoasis@sha256:3129e16900b159bf53f0ffa2900013760782f7f0ae89d4fdc03e7998a9cbd7fc
 persistence:
   serverfiles:
     enabled: true
