@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: postscriptum@sha256:03d7d788ca29372778d8e5876c868d068f638c96abb2e5324ceadc6e678568a1
+  tag: pixark@sha256:cc513f5e04aab80593a63febc65af1eba994cd9318deff922d138f9375ccc6c2
 persistence:
   serverfiles:
     enabled: true
@@ -18,30 +18,44 @@ securityContext:
     runAsGroup: 0
     runAsUser: 0
 service:
+  cubeport:
+    enabled: true
+    ports:
+      cubeport:
+        enabled: true
+        port: 27018
+        protocol: udp
+        targetPort: 27018
   main:
     ports:
       main:
-        port: 10027
+        port: 27015
         protocol: udp
-        targetPort: 10027
+        targetPort: 27015
   queryport:
     enabled: true
     ports:
       queryport:
         enabled: true
-        port: 10037
+        port: 27016
         protocol: udp
-        targetPort: 10037
+        targetPort: 27016
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            DATA_PERM: "770"
-            GAME_ID: "746200"
-            GAME_PARAMS: Port=10027 QueryPort=10037 -log
+            GAME_ID: "824360"
+            GAME_PARAMS: ?MaxPlayers=10
+            GAME_PARAMS_EXTRA:
+              -QueryPort=27016 -Port=27015 -CubePort=27018 -NoBattlEye
+              -nosteamclient -game -server -log
+            MAP: CubeWorld_Light
             PASSWRD: ""
+            SERVER_NAME: PIXARKDocker
+            SRV_ADMIN_PWD: adminDocker
+            SRV_PWD: Docker
             USERNAME: ""
             VALIDATE: "false"
           probes:

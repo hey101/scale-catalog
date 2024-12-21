@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: l4d@sha256:717f0a636c9715c3cae104790a42cf58da045a171c7a07bed9945a89dc25da7c
+  tag: postscriptum@sha256:bf2d121771d3930c606f7ecc4baac8d6e6da45f0b49cc76e67f212b8be5ed39e
 persistence:
   serverfiles:
     enabled: true
@@ -21,34 +21,33 @@ service:
   main:
     ports:
       main:
-        port: 27015
+        port: 10027
         protocol: udp
-        targetPort: 27015
-  tcprcon:
+        targetPort: 10027
+  queryport:
     enabled: true
     ports:
-      tcprcon:
+      queryport:
         enabled: true
-        port: 27015
-        protocol: tcp
-        targetPort: 27015
+        port: 10037
+        protocol: udp
+        targetPort: 10037
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            GAME_ID: "222840"
-            GAME_NAME: left4dead
-            GAME_PARAMS: +maxplayers 4 +map l4d_farm04_barn
-            GAME_PORT: "27015"
+            DATA_PERM: "770"
+            GAME_ID: "746200"
+            GAME_PARAMS: Port=10027 QueryPort=10037 -log
             PASSWRD: ""
             USERNAME: ""
             VALIDATE: "false"
           probes:
             liveness:
-              port: "{{ .Values.service.tcprcon.ports.tcprcon.targetPort }}"
+              enabled: false
             readiness:
-              port: "{{ .Values.service.tcprcon.ports.tcprcon.targetPort }}"
+              enabled: false
             startup:
-              port: "{{ .Values.service.tcprcon.ports.tcprcon.targetPort }}"
+              enabled: false
