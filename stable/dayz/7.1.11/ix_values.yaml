@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: dayz@sha256:46cb5778ab2c99ffe3c7e70f3e5e232ddd2374c7ea2354fe83c97229c3a8783a
+  tag: dayz@sha256:2cba3b58ba04b2cf2a1dd887e0261f95af4ec72d0b23b52c8a8cf82c1cee0378
 persistence:
   serverfiles:
     enabled: true
