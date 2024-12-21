@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: daysofwar@sha256:fadb1daeffc058d1fb0883661aa55adef7941282f89be8969cb49c7722c405b4
+  tag: daysofwar@sha256:5402c5b65ba1b91961074a3c6cf2be888645d206242e89b9bb70622eab409e48
 persistence:
   serverfiles:
     enabled: true
