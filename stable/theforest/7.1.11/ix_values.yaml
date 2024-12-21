@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: stationeers@sha256:06e3d496bfe033c1f2aef237d25111648986c4674b45799058b535ba2e926930
+  tag: theforest@sha256:1e3dc4a483e2beed6183b3962aa9d88f176cafd4083af53e348f312d7ef4bb69
 persistence:
   serverfiles:
     enabled: true
@@ -23,23 +23,31 @@ service:
     ports:
       gameport:
         enabled: true
-        port: 27500
-        protocol: udp
-        targetPort: 27500
-  main:
-    ports:
-      main:
         port: 27015
         protocol: udp
         targetPort: 27015
+  main:
+    ports:
+      main:
+        port: 8766
+        protocol: udp
+        targetPort: 8766
+  steamqueryport:
+    enabled: true
+    ports:
+      steamqueryport:
+        enabled: true
+        port: 27016
+        protocol: udp
+        targetPort: 27016
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            GAME_ID: "600760"
-            GAME_PARAMS: AutoSave true SaveInterval 300
+            GAME_ID: "556450"
+            GAME_PARAMS: ""
             PASSWRD: ""
             USERNAME: ""
             VALIDATE: "false"
