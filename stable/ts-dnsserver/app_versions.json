@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ts-dnsserver/4.1.10",
-        "last_update": "2024-12-20 18:39:34",
+        "last_update": "2024-12-20 23:41:26",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.1.10",
