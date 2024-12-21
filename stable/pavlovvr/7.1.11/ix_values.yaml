@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: mordhau@sha256:fca001b76dfa038c8fb991e300b0e2328e380773b7efef415ad986e99eac029a
+  tag: pavlovvr@sha256:eabc279d3e680d46a56a666d2cdafe192c0b046125adb280d7ede4c3dffe5cef
 persistence:
   serverfiles:
     enabled: true
@@ -12,52 +12,51 @@ persistence:
 portal:
   open:
     enabled: true
+secretEmv:
+  PASSWRD: ""
+  USERNAME: ""
 securityContext:
   container:
     readOnlyRootFilesystem: false
     runAsGroup: 0
     runAsUser: 0
 service:
-  beaconport:
-    enabled: true
-    ports:
-      beaconport:
-        enabled: true
-        port: 15000
-        protocol: udp
-        targetPort: 15000
   main:
     ports:
       main:
         port: 7777
-        protocol: udp
+        protocol: tcp
         targetPort: 7777
-  udp:
+  udp2:
     enabled: true
     ports:
-      udp:
+      udp2:
         enabled: true
-        port: 27015
+        port: 8177
         protocol: udp
-        targetPort: 27015
+        targetPort: 8177
+  udp3:
+    enabled: true
+    ports:
+      udp3:
+        enabled: true
+        port: 7977
+        protocol: udp
+        targetPort: 7977
+  udpgameport:
+    enabled: true
+    ports:
+      udpgameport:
+        enabled: true
+        port: 7777
+        protocol: udp
+        targetPort: 7777
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            BEACON_PORT: "15000"
-            GAME_ID: "629800"
+            GAME_ID: "622970"
             GAME_PARAMS: ""
-            GAME_PORT: "7777"
-            PASSWRD: ""
-            QUERY_PORT: "27015"
-            USERNAME: ""
             VALIDATE: "false"
-          probes:
-            liveness:
-              enabled: false
-            readiness:
-              enabled: false
-            startup:
-              enabled: false
