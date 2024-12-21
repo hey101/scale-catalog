@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/steamcmd
-  tag: dontstarve@sha256:eb4f9d76b94086404bbbc8dfcc09ca972c73aae5c60ea1e7d97d2f58ce7362e3
+  tag: daysofwar@sha256:5402c5b65ba1b91961074a3c6cf2be888645d206242e89b9bb70622eab409e48
 persistence:
   serverfiles:
     enabled: true
@@ -9,9 +9,6 @@ persistence:
   steamcmd:
     enabled: true
     mountPath: /serverdata/steamcmd
-  token:
-    enabled: true
-    mountPath: /serverdata/.klei/DoNotStarveTogether
 portal:
   open:
     enabled: true
@@ -21,38 +18,31 @@ securityContext:
     runAsGroup: 0
     runAsUser: 0
 service:
-  authentication:
-    enabled: true
-    ports:
-      authentication:
-        enabled: true
-        port: 8766
-        protocol: udp
-        targetPort: 8766
   main:
     ports:
       main:
-        port: 10890
+        port: 7777
         protocol: udp
-        targetPort: 10890
-  masterserver:
+        targetPort: 7777
+  steamport:
     enabled: true
     ports:
-      masterserver:
+      steamport:
         enabled: true
-        port: 27016
+        port: 27015
         protocol: udp
-        targetPort: 27016
+        targetPort: 27015
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            CAVES: "true"
-            FORCE_X64: "true"
-            GAME_ID: "343050"
+            GAME_ID: "541790"
+            GAME_PARAMS: dow_cathedral
+            GAME_PORT: "7777"
             PASSWRD: ""
+            QUERY_PORT: "27015"
             USERNAME: ""
             VALIDATE: "false"
           probes:
