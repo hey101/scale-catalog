@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/7.1.24",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -5280,7 +5280,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/7.1.23",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -10556,7 +10556,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/6.0.12",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -15829,7 +15829,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/6.0.11",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -21102,7 +21102,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/5.8.18",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -26046,7 +26046,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/5.8.17",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -30990,13 +30990,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/4.3.0",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -35977,13 +35977,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chronograf/4.2.1",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",

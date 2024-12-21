@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/4.2.11",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -5330,7 +5330,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/4.2.10",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -10656,7 +10656,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/3.0.11",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -15979,7 +15979,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/3.0.10",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -21302,7 +21302,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/2.8.18",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -26296,7 +26296,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/2.8.17",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -31290,13 +31290,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/1.2.0",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.45.14_1.2.0",
         "version": "1.2.0",
@@ -36431,13 +36431,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/changedetection-io/1.1.0",
-        "last_update": "2024-12-21 13:30:44",
+        "last_update": "2024-12-21 18:07:25",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.45.14_1.1.0",
         "version": "1.1.0",
