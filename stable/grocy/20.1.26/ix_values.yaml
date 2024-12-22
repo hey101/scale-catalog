@@ -1,12 +1,12 @@
 image:
-  repository: linuxserver/snapdrop
-  tag: latest@sha256:bad7e8f9653e9ec4434a1933ea3986b48c92362f8bdc2492ac297bd5d56b4e8f
+  repository: ghcr.io/linuxserver/grocy
+  tag: 4.2.0@sha256:7362d90fd7e21d65638b017cbff0cd86dd1da5d2527086c892d6bc09ae2e0b43
   pullPolicy: IfNotPresent
 service:
   main:
     ports:
       main:
-        port: 10215
+        port: 10013
         targetPort: 80
 persistence:
   config:
