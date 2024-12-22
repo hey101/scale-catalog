@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/7.1.15",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_7.1.15",
         "version": "7.1.15",
@@ -3371,11 +3371,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/7.1.14",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_7.1.14",
         "version": "7.1.14",
@@ -6738,11 +6738,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/6.0.10",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.10",
         "version": "6.0.10",
@@ -10102,11 +10102,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/6.0.9",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.9",
         "version": "6.0.9",
@@ -13466,11 +13466,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/5.8.16",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.16",
         "version": "5.8.16",
@@ -16602,11 +16602,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/5.8.15",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.15",
         "version": "5.8.15",
@@ -19738,12 +19738,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/4.3.0",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -22917,12 +22917,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grafana-image-renderer/4.2.1",
-        "last_update": "2024-12-22 11:48:48",
+        "last_update": "2024-12-22 14:45:27",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
