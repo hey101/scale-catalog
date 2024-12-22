@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/10.1.9",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_10.1.9",
         "version": "10.1.9",
@@ -5338,12 +5338,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/10.1.8",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_10.1.8",
         "version": "10.1.8",
@@ -10672,12 +10672,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/9.0.9",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_9.0.9",
         "version": "9.0.9",
@@ -16003,12 +16003,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/9.0.8",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_9.0.8",
         "version": "9.0.8",
@@ -21334,12 +21334,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/8.8.15",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_8.8.15",
         "version": "8.8.15",
@@ -26336,12 +26336,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/8.8.14",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_8.8.14",
         "version": "8.8.14",
@@ -31338,13 +31338,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/7.3.0",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -36383,13 +36383,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docusaurus/7.2.0",
-        "last_update": "2024-12-22 03:55:50",
+        "last_update": "2024-12-22 08:36:46",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
