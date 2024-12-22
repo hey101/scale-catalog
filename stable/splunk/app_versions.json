@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/9.2.8",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.3.2_9.2.8",
         "version": "9.2.8",
@@ -6796,12 +6796,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/9.2.7",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.3.2_9.2.7",
         "version": "9.2.7",
@@ -13588,12 +13588,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/8.0.9",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.2.1_8.0.9",
         "version": "8.0.9",
@@ -20377,12 +20377,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/8.0.8",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.2.1_8.0.8",
         "version": "8.0.8",
@@ -27166,12 +27166,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/7.8.14",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.2.1_7.8.14",
         "version": "7.8.14",
@@ -33424,12 +33424,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/7.8.13",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.2.1_7.8.13",
         "version": "7.8.13",
@@ -39682,13 +39682,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/6.4.0",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "9.2.0_6.4.0",
         "version": "6.4.0",
@@ -45983,13 +45983,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/splunk/6.3.0",
-        "last_update": "2024-12-22 08:36:46",
+        "last_update": "2024-12-22 11:48:48",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "9.2.0_6.3.0",
         "version": "6.3.0",
