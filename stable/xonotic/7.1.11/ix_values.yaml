@@ -1,11 +1,11 @@
 image:
   pullPolicy: IfNotPresent
-  repository: ich777/urbanterror
-  tag: latest@sha256:c18a8a5051b5b77ea5cdfead78483ddae46b2bb1744776c6b83cf388e9f761dd
+  repository: ich777/xonotic
+  tag: latest@sha256:722cf97c65c14ccb77432217e0d432c555458d8a602b91de003d7680d80a06ab
 persistence:
-  datadir:
+  serverfiles:
     enabled: true
-    mountPath: /urbanterror
+    mountPath: /serverdata/serverfiles
 portal:
   open:
     enabled: true
@@ -18,17 +18,18 @@ service:
   main:
     ports:
       main:
-        port: 27960
+        port: 26000
         protocol: udp
-        targetPort: 27960
+        targetPort: 26000
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            CHECK_FOR_UPDATES: "true"
-            START_PARAMS: ""
+            BASIC_URL: https://dl.xonotic.org/
+            GAME_PARAMS: ""
+            GAME_VERSION: 0.8.2
           probes:
             liveness:
               enabled: false
