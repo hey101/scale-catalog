@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Network-Web
+  truecharts.org/category: Tools-Utilities
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
@@ -17,20 +17,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Alternative Imgur front-end
-home: https://truecharts.org/charts/stable/rimgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
+description: Mobile friendly tool for downloading videos from social media.
+home: https://truecharts.org/charts/stable/media-roller
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/media-roller.webp
 keywords:
-  - rimgo
-  - Network-Web
+  - media-roller
+  - Tools-Utilities
+  - MediaApp-Video
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rimgo
+name: media-roller
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
-  - https://quay.io/pussthecatorg/rimgo
+  - https://github.com/truecharts/charts/tree/master/charts/stable/media-roller
+  - https://github.com/rroller/media-roller
+  - https://hub.docker.com/r/ronnieroller/media-roller
 type: application
-version: 8.1.405
+version: 7.1.30
