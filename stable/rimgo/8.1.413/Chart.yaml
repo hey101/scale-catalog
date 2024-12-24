@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Cloud
+  truecharts.org/category: Network-Web
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
@@ -17,24 +17,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A Dropbox-like file manager that let you manage your data anywhere it is located.
-home: https://truecharts.org/charts/stable/filestash
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/filestash.webp
+description: Alternative Imgur front-end
+home: https://truecharts.org/charts/stable/rimgo
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
 keywords:
-  - filestash
-  - Cloud
-  - Productivity
+  - rimgo
   - Network-Web
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: filestash
+name: rimgo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/filestash
-  - https://github.com/mickael-kerjean/filestash
-  - https://hub.docker.com/r/machines/filestash
-  - https://www.filestash.app/
+  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
+  - https://quay.io/pussthecatorg/rimgo
 type: application
-version: 8.1.106
+version: 8.1.413
