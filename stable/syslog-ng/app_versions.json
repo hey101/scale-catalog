@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/11.2.6",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.8.0_11.2.6",
         "version": "11.2.6",
@@ -5437,12 +5437,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/11.2.5",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.8.0_11.2.5",
         "version": "11.2.5",
@@ -10870,12 +10870,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/10.0.8",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.7.1_10.0.8",
         "version": "10.0.8",
@@ -16300,12 +16300,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/10.0.7",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.7.1_10.0.7",
         "version": "10.0.7",
@@ -21730,12 +21730,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/9.9.8",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.7.1_9.9.8",
         "version": "9.9.8",
@@ -26831,12 +26831,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/9.9.7",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.7.1_9.9.7",
         "version": "9.9.7",
@@ -31932,12 +31932,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/8.4.0",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "4.6.0_8.4.0",
@@ -37076,12 +37076,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syslog-ng/8.3.0",
-        "last_update": "2024-12-24 07:34:14",
+        "last_update": "2024-12-24 11:17:01",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "4.6.0_8.3.0",
