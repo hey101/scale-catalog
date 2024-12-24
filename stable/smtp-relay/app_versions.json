@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/5.1.17",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -4240,10 +4240,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/5.1.16",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -8476,10 +8476,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/4.0.13",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -12709,10 +12709,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/4.0.12",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -16942,10 +16942,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/3.8.16",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -20947,10 +20947,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/3.8.15",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -24952,13 +24952,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/2.3.0",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "0.5.2_2.3.0",
         "version": "2.3.0",
@@ -29000,13 +29000,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/2.2.0",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "0.5.2_2.2.0",
         "version": "2.2.0",

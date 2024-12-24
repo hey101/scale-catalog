@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/10.1.15",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -5443,10 +5443,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/10.1.14",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -10882,10 +10882,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/9.0.13",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -16318,10 +16318,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/9.0.12",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -21754,10 +21754,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/8.10.14",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -26861,10 +26861,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/8.10.13",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -31968,13 +31968,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/7.3.0",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.19.4_7.3.0",
         "version": "7.3.0",
@@ -37118,13 +37118,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/7.2.0",
-        "last_update": "2024-12-23 20:45:10",
+        "last_update": "2024-12-23 23:49:13",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.19.4_7.2.0",
         "version": "7.2.0",
