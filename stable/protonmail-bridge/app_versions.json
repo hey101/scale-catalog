@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/16.2.7",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "3.12.0_16.2.7",
@@ -4404,11 +4404,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/16.2.6",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "3.12.0_16.2.6",
@@ -8804,11 +8804,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/15.1.5",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "3.11.1_15.1.5",
@@ -13201,11 +13201,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/15.1.4",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "3.11.1_15.1.4",
@@ -17598,11 +17598,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/14.9.14",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "3.9.1_14.9.14",
@@ -21666,11 +21666,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/14.9.13",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "3.9.1_14.9.13",
@@ -25734,13 +25734,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/13.4.0",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "3.8.2_13.4.0",
         "version": "13.4.0",
@@ -29845,13 +29845,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/protonmail-bridge/13.3.0",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "3.8.2_13.3.0",
         "version": "13.3.0",

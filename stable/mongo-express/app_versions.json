@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/8.2.8",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_8.2.8",
@@ -4763,11 +4763,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/8.2.7",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_8.2.7",
@@ -9522,11 +9522,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/7.0.10",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_7.0.10",
@@ -14278,11 +14278,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/7.0.9",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_7.0.9",
@@ -19034,11 +19034,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/6.10.18",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_6.10.18",
@@ -23562,11 +23562,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/6.10.17",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_6.10.17",
@@ -28090,13 +28090,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/5.4.0",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_5.4.0",
         "version": "5.4.0",
@@ -32661,13 +32661,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/5.3.0",
-        "last_update": "2024-12-24 04:12:21",
+        "last_update": "2024-12-24 07:34:14",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_5.3.0",
         "version": "5.3.0",
