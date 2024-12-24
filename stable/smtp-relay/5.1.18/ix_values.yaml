@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/ix-ai/smtp
   pullPolicy: IfNotPresent
-  tag: v0.5.8@sha256:f67bbebb1bb1d3e0dceb2c31b5509ad58afc69d31c6308c2194bae3ae582b3ca
+  tag: v0.7.0@sha256:517e1872f487780d5b26916cb6309bf1216613e40bd493a82f0ebec06f88ac0a
 
 securityContext:
   container:
