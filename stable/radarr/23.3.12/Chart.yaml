@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: tools
+  truecharts.org/category: media
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "2024.12.0"
+appVersion: "5.16.3.954"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,20 +17,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-home: https://truecharts.org/charts/stable/esphome
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/esphome.webp
+description: A fork of Sonarr to work with movies  la Couchpotato
+home: https://truecharts.org/charts/stable/radarr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/radarr.webp
 keywords:
-  - esphome
+  - radarr
+  - torrent
+  - usenet
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: esphome
+name: radarr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/esphome
-  - https://github.com/esphome/esphome
-  - https://hub.docker.com/r/esphome/esphome
+  - https://github.com/truecharts/charts/tree/master/charts/stable/radarr
+  - https://ghcr.io/onedr0p/exportarr
+  - https://ghcr.io/onedr0p/radarr
+  - https://github.com/Radarr/Radarr
 type: application
-version: 21.3.15
+version: 23.3.12
