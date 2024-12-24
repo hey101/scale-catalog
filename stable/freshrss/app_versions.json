@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/20.1.29",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.24.3_20.1.29",
@@ -5281,11 +5281,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/20.1.28",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.24.3_20.1.28",
@@ -10558,11 +10558,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/19.1.2",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.24.0_19.1.2",
@@ -15832,11 +15832,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/19.1.1",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.24.0_19.1.1",
@@ -21106,11 +21106,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/18.8.16",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.23.1_18.8.16",
@@ -26051,11 +26051,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/18.8.15",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.23.1_18.8.15",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/17.3.0",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.23.1_17.3.0",
         "version": "17.3.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freshrss/17.2.1",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.23.1_17.2.1",
         "version": "17.2.1",

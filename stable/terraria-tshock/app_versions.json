@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/8.1.12",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "tshock_8.1.12",
@@ -5561,11 +5561,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/8.1.11",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "tshock_8.1.11",
@@ -11118,11 +11118,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/7.0.8",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "tshock_7.0.8",
@@ -16672,11 +16672,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/7.0.7",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "tshock_7.0.7",
@@ -22226,11 +22226,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/6.8.14",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "tshock_6.8.14",
@@ -27451,11 +27451,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/6.8.13",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "tshock_6.8.13",
@@ -32676,13 +32676,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/5.3.0",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "tshock_5.3.0",
         "version": "5.3.0",
@@ -37944,13 +37944,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/terraria-tshock/5.2.0",
-        "last_update": "2024-12-24 14:49:27",
+        "last_update": "2024-12-24 19:07:49",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "tshock_5.2.0",
         "version": "5.2.0",
