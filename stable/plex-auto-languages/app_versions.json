@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/10.1.9",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "latest_10.1.9",
         "version": "10.1.9",
@@ -4128,11 +4128,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/10.1.8",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "latest_10.1.8",
         "version": "10.1.8",
@@ -8252,11 +8252,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/9.0.9",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "latest_9.0.9",
         "version": "9.0.9",
@@ -12373,11 +12373,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/9.0.8",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "latest_9.0.8",
         "version": "9.0.8",
@@ -16494,11 +16494,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/8.8.14",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "latest_8.8.14",
         "version": "8.8.14",
@@ -20286,11 +20286,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/8.8.13",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "latest_8.8.13",
         "version": "8.8.13",
@@ -24078,12 +24078,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/7.3.0",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -27913,12 +27913,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-auto-languages/7.2.0",
-        "last_update": "2024-12-23 23:49:13",
+        "last_update": "2024-12-24 04:12:21",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
