@@ -1,0 +1,36 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: plexripper/plexripper
+  tag: 0.28.0@sha256:f9b63621784e4f63de5bf56d675141e9f8e6eb8c9853df6c3250de08ade26c12
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        targetPort: 7000
+        port: 7000
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: true
+              type: http
+            readiness:
+              enabled: true
+              type: http
+            startup:
+              enabled: true
+              type: http
+persistence:
+  config:
+    enabled: true
+    mountPath: /Config
+  downloads:
+    enabled: true
+    mountPath: /Downloads
+portal:
+  open:
+    enabled: true
