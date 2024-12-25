@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Cloud
+  truecharts.org/category: productivity
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "5.1.5"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,23 +17,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener.
-home: https://truecharts.org/charts/stable/yourls
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/yourls.webp
+description: Redmine is a flexible project management web application written using Ruby on Rails framework.
+home: https://truecharts.org/charts/stable/redmine
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/redmine.webp
 keywords:
-  - yourls
-  - Cloud
-  - Tools-Utilities
-  - Network-Web
-  - Network-Other
+  - project
+  - management
+  - time
+  - tracking
+  - ticket
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: yourls
+name: redmine
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/yourls
-  - https://hub.docker.com/_/yourls
+  - https://github.com/truecharts/charts/tree/master/charts/stable/redmine
+  - https://github.com/redmine/redmine
+  - https://hub.docker.com/_/redmine
 type: application
-version: 7.1.22
+version: 13.1.35
