@@ -2,18 +2,18 @@ annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
   truecharts.org/category: radicale
-  truecharts.org/max_helm_version: "3.15"
-  truecharts.org/min_helm_version: "3.11"
+  truecharts.org/max_helm_version: '3.15'
+  truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
-  truecharts.org/SCALE-support: "true"
+  truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "3.2.3.1"
+appVersion: "3.3.2.0"
 dependencies:
   - name: common
-    version: 24.1.10
+    version: 24.1.11
     repository: https://petersandor.github.io/truecharts-common
-    condition: ""
-    alias: ""
+    condition: ''
+    alias: ''
     tags: []
     import-values: []
 deprecated: false
@@ -28,7 +28,7 @@ keywords:
   - contacts
   - tasks
   - to-do
-kubeVersion: ">=1.24.0-0"
+kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
@@ -41,4 +41,4 @@ sources:
   - https://hub.docker.com/r/tomsquest/docker-radicale
   - https://radicale.org/
 type: application
-version: 7.1.12
+version: 7.1.14
