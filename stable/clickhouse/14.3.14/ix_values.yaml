@@ -1,7 +1,7 @@
 image:
   repository: clickhouse/clickhouse-server
   pullPolicy: IfNotPresent
-  tag: 24.9.3.128@sha256:513ba8e873c90541f182762d96bcbef8c50fd2928667dc7c1e9943d7530436d9
+  tag: 24.12.1.1614@sha256:b3987d50b9003c336f3276d583cdba9eda836907e3bba54afbf780654f9e21fd
 
 includeCommon: true
 workload:
