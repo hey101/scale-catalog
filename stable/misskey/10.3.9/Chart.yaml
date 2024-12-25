@@ -2,25 +2,25 @@ annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
   truecharts.org/category: Social
-  truecharts.org/max_helm_version: "3.15"
-  truecharts.org/min_helm_version: "3.11"
+  truecharts.org/max_helm_version: '3.15'
+  truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
-  truecharts.org/SCALE-support: "true"
+  truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "2024.8.0"
+appVersion: "2024.11.0"
 dependencies:
   - name: common
-    version: 24.1.10
+    version: 24.1.11
     repository: https://petersandor.github.io/truecharts-common
-    condition: ""
-    alias: ""
+    condition: ''
+    alias: ''
     tags: []
     import-values: []
   - name: redis
     version: 15.2.2
     repository: https://petersandor.github.io/truecharts-common
     condition: redis.enabled
-    alias: ""
+    alias: ''
     tags: []
     import-values: []
 deprecated: false
@@ -34,7 +34,7 @@ keywords:
   - Social Media
   - Fediverse
   - ActivityPub
-kubeVersion: ">=1.24.0-0"
+kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
@@ -45,4 +45,4 @@ sources:
   - https://github.com/misskey-dev/misskey/
   - https://hub.docker.com/r/misskey/misskey
 type: application
-version: 10.3.7
+version: 10.3.9
