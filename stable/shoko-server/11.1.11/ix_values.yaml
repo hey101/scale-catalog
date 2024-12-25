@@ -1,7 +1,7 @@
 image:
   repository: shokoanime/server
   pullPolicy: IfNotPresent
-  tag: v4.2.2@sha256:d5ff80bbc197109bee5c736acbcfba2e2212a6e894c8a1afa0bd1e3bc11584fa
+  tag: v5.0.0@sha256:da43fd25a193eb97cae435a1d8a244d54c56b21bb3cabbce079fe2c39cfb064a
 service:
   main:
     ports:
