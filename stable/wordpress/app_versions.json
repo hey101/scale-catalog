@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/9.4.44",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -5511,10 +5511,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/9.4.43",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -11018,10 +11018,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/8.1.15",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -16522,10 +16522,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/8.1.14",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -22026,10 +22026,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/7.15.31",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -27201,10 +27201,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/7.15.30",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -32376,13 +32376,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/6.5.0",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "6.4.3_6.5.0",
         "version": "6.5.0",
@@ -37594,13 +37594,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/6.4.0",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "6.4.3_6.4.0",
         "version": "6.4.0",

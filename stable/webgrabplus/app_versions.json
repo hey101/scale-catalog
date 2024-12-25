@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/11.2.25",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -4806,10 +4806,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/11.2.24",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -9608,10 +9608,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/10.0.12",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -14407,10 +14407,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/10.0.11",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -19206,10 +19206,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/9.8.18",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -23575,10 +23575,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/9.8.17",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -27944,13 +27944,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/8.3.0",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.1.4_8.3.0",
         "version": "8.3.0",
@@ -32356,13 +32356,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/8.2.1",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.1.4_8.2.1",
         "version": "8.2.1",

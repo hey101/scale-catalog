@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/12.1.14",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -6513,10 +6513,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/12.1.13",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -13022,10 +13022,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/11.0.9",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -19528,10 +19528,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/11.0.8",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -26034,10 +26034,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/10.8.14",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -32009,10 +32009,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/10.8.13",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -37984,13 +37984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/9.2.0",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.0.2_9.2.0",
         "version": "9.2.0",
@@ -44002,13 +44002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/9.1.0",
-        "last_update": "2024-12-25 02:32:10",
+        "last_update": "2024-12-25 06:09:44",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.0.2_9.1.0",
         "version": "9.1.0",
