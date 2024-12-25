@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/20.1.26",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.2.0_20.1.26",
         "version": "20.1.26",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/20.1.25",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.2.0_20.1.25",
         "version": "20.1.25",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/19.0.12",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.2.0_19.0.12",
         "version": "19.0.12",
@@ -15832,12 +15832,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/19.0.11",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.2.0_19.0.11",
         "version": "19.0.11",
@@ -21106,12 +21106,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/18.9.15",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.2.0_18.9.15",
         "version": "18.9.15",
@@ -26051,12 +26051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/18.9.14",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.2.0_18.9.14",
         "version": "18.9.14",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/17.4.0",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.1.0_17.4.0",
         "version": "17.4.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/17.3.1",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.1.0_17.3.1",
         "version": "17.3.1",

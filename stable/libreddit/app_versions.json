@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/10.1.9",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_10.1.9",
         "version": "10.1.9",
@@ -4870,12 +4870,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/10.1.8",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_10.1.8",
         "version": "10.1.8",
@@ -9736,12 +9736,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/9.0.9",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_9.0.9",
         "version": "9.0.9",
@@ -14599,12 +14599,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/9.0.8",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_9.0.8",
         "version": "9.0.8",
@@ -19462,12 +19462,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/8.8.14",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_8.8.14",
         "version": "8.8.14",
@@ -24097,12 +24097,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/8.8.13",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_8.8.13",
         "version": "8.8.13",
@@ -28732,13 +28732,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/7.3.0",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -33410,13 +33410,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libreddit/7.2.0",
-        "last_update": "2024-12-25 12:44:54",
+        "last_update": "2024-12-25 17:06:39",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
