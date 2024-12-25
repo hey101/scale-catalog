@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/11.1.10",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5328,7 +5328,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/11.1.9",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -10652,7 +10652,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/10.0.8",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -15973,7 +15973,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/10.0.7",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -21294,7 +21294,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/9.9.11",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -26286,7 +26286,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/9.9.10",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -31278,13 +31278,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/8.3.0",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.7.0_8.3.0",
         "version": "8.3.0",
@@ -36313,13 +36313,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyseerr/8.2.0",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.7.0_8.2.0",
         "version": "8.2.0",

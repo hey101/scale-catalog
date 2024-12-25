@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/11.1.9",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5317,7 +5317,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/11.1.8",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -10630,7 +10630,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/10.0.8",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -15940,7 +15940,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/10.0.7",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -21250,7 +21250,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/9.8.14",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -26231,7 +26231,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/9.8.13",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -31212,13 +31212,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/8.3.0",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2021.12.16_8.3.0",
         "version": "8.3.0",
@@ -36236,13 +36236,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/quassel-web/8.2.0",
-        "last_update": "2024-12-24 19:07:49",
+        "last_update": "2024-12-24 22:24:52",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2021.12.16_8.2.0",
         "version": "8.2.0",
