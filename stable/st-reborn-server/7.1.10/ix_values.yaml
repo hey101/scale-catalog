@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: tiltedphoques/st-reborn-server
-  tag: v1.2.0@sha256:d8322e41e8d3f3e347eef10c50cce977348b24de6f90c98b78a3b4757f2fde57
+  tag: 1.7.1@sha256:aa6c583731fc3b4f505d27506ee71fab57a162219a3f7fa6d7e50aab598144f2
 persistence:
   config:
     enabled: true
