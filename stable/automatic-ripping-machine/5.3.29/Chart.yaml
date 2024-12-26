@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "2.10.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -16,31 +16,22 @@ dependencies:
     alias: ''
     tags: []
     import-values: []
-  - name: redis
-    version: 15.2.2
-    repository: https://petersandor.github.io/truecharts-common
-    condition: redis.enabled
-    alias: ''
-    tags: []
-    import-values: []
 deprecated: false
-description: A free & open source IMDb front-end.
-home: https://truecharts.org/charts/stable/libremdb
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.webp
+description: Automatic Ripping Machine (ARM) Scripts.
+home: https://truecharts.org/charts/stable/automatic-ripping-machine
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/automatic-ripping-machine.webp
 keywords:
-  - libremdb
+  - automatic-ripping-machine
   - media
-  - imdb
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: libremdb
+name: automatic-ripping-machine
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/libremdb
-  - https://github.com/PussTheCat-org/docker-libremdb-quay
-  - https://github.com/zyachel/libremdb
-  - https://quay.io/pussthecatorg/libremdb
+  - https://github.com/truecharts/charts/tree/master/charts/stable/automatic-ripping-machine
+  - https://github.com/automatic-ripping-machine/automatic-ripping-machine
+  - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
 type: application
-version: 9.2.511
+version: 5.3.29
