@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: emulator
+  truecharts.org/category: AI
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.9.2"
+appVersion: "0.5.4"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,19 +17,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.
-home: https://truecharts.org/charts/stable/emulatorjs
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.webp
+description: Get up and running with large language models locally.
+home: https://truecharts.org/charts/stable/ollama
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/ollama.webp
 keywords:
-  - emulatorjs
+  - ollama
+  - language-models
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: emulatorjs
+name: ollama
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/emulatorjs
-  - https://ghcr.io/linuxserver/emulatorjs
+  - https://github.com/truecharts/charts/tree/master/charts/stable/ollama
+  - https://ghcr.io/open-webui/open-webui
+  - https://github.com/ollama/ollama
+  - https://github.com/open-webui/open-webui
+  - https://hub.docker.com/r/ollama/ollama
 type: application
-version: 11.1.33
+version: 7.3.67
