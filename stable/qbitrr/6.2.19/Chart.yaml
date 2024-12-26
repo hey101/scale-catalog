@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "4.9.20"
+appVersion: "4.10.9"
 dependencies:
   - name: common
     version: 24.1.11
@@ -35,4 +35,4 @@ sources:
   - https://github.com/Feramance/Qbitrr
   - https://hub.docker.com/r/feramance/qbitrr
 type: application
-version: 6.2.17
+version: 6.2.19
