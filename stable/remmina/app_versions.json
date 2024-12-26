@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/12.1.33",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.35_12.1.33",
@@ -5284,11 +5284,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/12.1.32",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.35_12.1.32",
@@ -10564,11 +10564,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/11.0.12",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.2_11.0.12",
@@ -15841,11 +15841,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/11.0.11",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.2_11.0.11",
@@ -21118,11 +21118,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/10.8.17",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.2_10.8.17",
@@ -26066,11 +26066,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/10.8.16",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.2_10.8.16",
@@ -31014,12 +31014,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/9.3.0",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.2_9.3.0",
@@ -36005,12 +36005,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/remmina/9.2.2",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.4.2_9.2.2",

@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/11.1.10",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.13_11.1.10",
@@ -5088,11 +5088,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/11.1.9",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.13_11.1.9",
@@ -10172,11 +10172,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/10.0.9",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.12_10.0.9",
@@ -15253,11 +15253,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/10.0.8",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.12_10.0.8",
@@ -20334,11 +20334,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/9.8.14",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.12_9.8.14",
@@ -25086,11 +25086,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/9.8.13",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.12_9.8.13",
@@ -29838,12 +29838,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/8.3.0",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.12_8.3.0",
@@ -34633,12 +34633,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pinry/8.2.0",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.12_8.2.0",

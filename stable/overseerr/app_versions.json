@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/15.1.9",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_15.1.9",
@@ -5303,11 +5303,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/15.1.8",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_15.1.8",
@@ -10602,11 +10602,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/14.0.9",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_14.0.9",
@@ -15898,11 +15898,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/14.0.8",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_14.0.8",
@@ -21194,11 +21194,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/13.8.14",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_13.8.14",
@@ -26161,11 +26161,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/13.8.13",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_13.8.13",
@@ -31128,12 +31128,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/12.3.0",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_12.3.0",
@@ -36138,12 +36138,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/overseerr/12.2.0",
-        "last_update": "2024-12-26 11:32:20",
+        "last_update": "2024-12-26 14:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.33.2_12.2.0",
