@@ -10,14 +10,14 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 24.1.10
+    version: 24.1.11
     repository: https://petersandor.github.io/truecharts-common
     condition: ''
     alias: ''
     tags: []
     import-values: []
   - name: cloudnative-pg
-    version: 0.22.0
+    version: 0.23.0
     repository: https://cloudnative-pg.github.io/charts
     condition: ''
     alias: cloudnative-pg
@@ -42,4 +42,4 @@ sources:
   - https://cloudnative-pg.io/
   - https://github.com/cloudnative-pg
 type: application
-version: 8.1.6
+version: 8.1.8
