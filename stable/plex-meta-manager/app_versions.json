@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/8.1.9",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.21.0_8.1.9",
         "version": "8.1.9",
@@ -4275,12 +4275,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/8.1.8",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.21.0_8.1.8",
         "version": "8.1.8",
@@ -8546,12 +8546,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/7.0.10",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.21.0_7.0.10",
         "version": "7.0.10",
@@ -12814,12 +12814,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/7.0.9",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.21.0_7.0.9",
         "version": "7.0.9",
@@ -17082,12 +17082,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/6.9.14",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.21.0_6.9.14",
         "version": "6.9.14",
@@ -21021,12 +21021,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/6.9.13",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.21.0_6.9.13",
         "version": "6.9.13",
@@ -24960,13 +24960,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/5.4.0",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.20.0_5.4.0",
         "version": "5.4.0",
@@ -28942,13 +28942,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex-meta-manager/5.3.0",
-        "last_update": "2024-12-27 04:36:29",
+        "last_update": "2024-12-27 06:51:33",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.20.0_5.3.0",
         "version": "5.3.0",
