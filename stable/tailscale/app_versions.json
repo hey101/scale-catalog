@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/10.3.9",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.78.3_10.3.9",
@@ -4675,11 +4675,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/10.3.8",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.74.1_10.3.8",
@@ -9346,11 +9346,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/9.1.4",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.66.3_9.1.4",
@@ -14014,11 +14014,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/9.1.3",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.66.3_9.1.3",
@@ -18682,11 +18682,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/8.11.9",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.64.2_8.11.9",
@@ -23122,11 +23122,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/8.11.8",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.64.2_8.11.8",
@@ -27562,13 +27562,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/7.4.0",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.58.2_7.4.0",
         "version": "7.4.0",
@@ -32045,13 +32045,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tailscale/7.3.0",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.58.2_7.3.0",
         "version": "7.3.0",

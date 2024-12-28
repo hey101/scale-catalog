@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/7.1.11",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5022,7 +5022,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/7.1.10",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -10040,7 +10040,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/6.0.8",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -15055,7 +15055,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/6.0.7",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -20070,7 +20070,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/5.8.14",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -24756,7 +24756,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/5.8.13",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -29442,12 +29442,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/4.3.0",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -34171,12 +34171,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xonotic/4.2.0",
-        "last_update": "2024-12-28 14:28:18",
+        "last_update": "2024-12-28 17:42:35",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
