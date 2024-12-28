@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "3.11.58"
+appVersion: "3.13.5"
 dependencies:
   - name: common
     version: 24.1.11
@@ -34,4 +34,4 @@ sources:
   - https://github.com/wiserain/docker-flexget
   - https://hub.docker.com/r/wiserain/flexget
 type: application
-version: 11.1.23
+version: 11.1.25
