@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/12.1.11",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.9.1_12.1.11",
         "version": "12.1.11",
@@ -5390,12 +5390,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/12.1.10",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.9.1_12.1.10",
         "version": "12.1.10",
@@ -10776,12 +10776,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/11.0.8",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.8.4_11.0.8",
         "version": "11.0.8",
@@ -16159,12 +16159,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/11.0.7",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.8.4_11.0.7",
         "version": "11.0.7",
@@ -21542,12 +21542,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/10.8.14",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.8.4_10.8.14",
         "version": "10.8.14",
@@ -26596,12 +26596,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/10.8.13",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.8.4_10.8.13",
         "version": "10.8.13",
@@ -31650,13 +31650,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/9.3.0",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.8.4_9.3.0",
         "version": "9.3.0",
@@ -36747,13 +36747,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whoogle/9.2.0",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.8.4_9.2.0",
         "version": "9.2.0",

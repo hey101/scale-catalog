@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/7.1.9",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.1.9",
         "version": "7.1.9",
@@ -4665,12 +4665,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/7.1.8",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.1.8",
         "version": "7.1.8",
@@ -9326,12 +9326,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/6.0.8",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -13984,12 +13984,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/6.0.7",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.7",
         "version": "6.0.7",
@@ -18642,12 +18642,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/5.8.14",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -23072,12 +23072,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/5.8.13",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -27502,13 +27502,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/4.3.0",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -31975,13 +31975,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/4.2.0",
-        "last_update": "2024-12-28 02:33:18",
+        "last_update": "2024-12-28 07:03:38",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
