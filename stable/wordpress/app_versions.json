@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/9.4.44",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "6.7.1_9.4.44",
         "version": "9.4.44",
@@ -5511,12 +5511,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/9.4.43",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "6.6.2_9.4.43",
         "version": "9.4.43",
@@ -11018,12 +11018,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/8.1.15",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "6.5.3_8.1.15",
         "version": "8.1.15",
@@ -16522,12 +16522,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/8.1.14",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "6.5.3_8.1.14",
         "version": "8.1.14",
@@ -22026,12 +22026,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/7.15.31",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "6.5.2_7.15.31",
         "version": "7.15.31",
@@ -27201,12 +27201,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/7.15.30",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "6.5.2_7.15.30",
         "version": "7.15.30",
@@ -32376,13 +32376,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/6.5.0",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "6.4.3_6.5.0",
         "version": "6.5.0",
@@ -37594,13 +37594,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wordpress/6.4.0",
-        "last_update": "2024-12-29 11:00:44",
+        "last_update": "2024-12-29 14:08:20",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "6.4.3_6.4.0",
         "version": "6.4.0",
