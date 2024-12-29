@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ich777/rapidphotodownloader
-  tag: latest@sha256:1d572e12e3c6e1cccf73ed17dfaa75b3efb65e21dca088683bea15aee08870da
+  tag: latest@sha256:15085033848d8c8508bdbb5dd71588b1d58c0f7f55e53ae8cea184fffd4dcf38
 persistence:
   datadir:
     enabled: true
