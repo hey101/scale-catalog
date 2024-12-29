@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/7.1.32",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_7.1.32",
@@ -5888,11 +5888,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/7.1.31",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_7.1.31",
@@ -11772,11 +11772,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/6.0.12",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_6.0.12",
@@ -17653,11 +17653,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/6.0.11",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_6.0.11",
@@ -23534,11 +23534,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/5.8.17",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_5.8.17",
@@ -28985,11 +28985,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/5.8.16",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_5.8.16",
@@ -34436,13 +34436,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/4.3.0",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -39930,13 +39930,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/twonky-server/4.2.1",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",

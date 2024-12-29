@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/4.1.9",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_4.1.9",
@@ -5414,11 +5414,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/4.1.8",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_4.1.8",
@@ -10824,11 +10824,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/3.0.9",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest-cpu_3.0.9",
@@ -16231,11 +16231,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/3.0.8",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest-cpu_3.0.8",
@@ -21638,11 +21638,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/2.8.14",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest-cpu_2.8.14",
@@ -26716,11 +26716,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/2.8.13",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest-cpu_2.8.13",
@@ -31794,13 +31794,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/1.2.0",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest-cpu_1.2.0",
         "version": "1.2.0",
@@ -36915,13 +36915,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fabulinus/1.1.0",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest-cpu_1.1.0",
         "version": "1.1.0",

@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/20.1.9",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.10.4_20.1.9",
@@ -5282,11 +5282,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/20.1.8",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.10.4_20.1.8",
@@ -10560,11 +10560,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/19.0.8",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.10.4_19.0.8",
@@ -15835,11 +15835,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/19.0.7",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.10.4_19.0.7",
@@ -21110,11 +21110,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/18.8.14",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.10.4_18.8.14",
@@ -26056,11 +26056,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/18.8.13",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.10.4_18.8.13",
@@ -31002,13 +31002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/17.3.0",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.10.4_17.3.0",
         "version": "17.3.0",
@@ -35991,13 +35991,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gaps/17.2.0",
-        "last_update": "2024-12-29 14:08:20",
+        "last_update": "2024-12-29 19:02:34",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.10.4_17.2.0",
         "version": "17.2.0",
