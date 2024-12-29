@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/7.1.12",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -4611,10 +4611,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/7.1.11",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -9218,10 +9218,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/6.0.9",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -13822,10 +13822,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/6.0.8",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -18426,10 +18426,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/5.8.15",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -22802,10 +22802,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/5.8.14",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -27178,13 +27178,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/4.3.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -31597,13 +31597,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sshwifty/4.2.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

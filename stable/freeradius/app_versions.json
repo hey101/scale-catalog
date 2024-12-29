@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/15.1.9",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -4382,10 +4382,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/15.1.8",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -8760,10 +8760,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/14.0.8",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -13136,10 +13136,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/14.0.7",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -17512,10 +17512,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/13.8.14",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -21559,10 +21559,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/13.8.13",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -25606,13 +25606,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/12.3.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.2.0_12.3.0",
         "version": "12.3.0",
@@ -29696,13 +29696,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/freeradius/12.2.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.2.0_12.2.0",
         "version": "12.2.0",

@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/20.1.9",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -5452,10 +5452,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/20.1.8",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -10900,10 +10900,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/19.0.9",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -16345,10 +16345,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/19.0.8",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -21790,10 +21790,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/18.8.14",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -26906,10 +26906,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/18.8.13",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -32022,13 +32022,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/17.3.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_17.3.0",
         "version": "17.3.0",
@@ -37181,13 +37181,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/17.2.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_17.2.0",
         "version": "17.2.0",

@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/21.1.15",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -5927,10 +5927,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/21.1.14",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -11850,10 +11850,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/20.1.5",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -17770,10 +17770,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/20.1.4",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -23690,10 +23690,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/19.8.14",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -29180,10 +29180,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/19.8.13",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
@@ -34670,13 +34670,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/18.4.0",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.51.1_18.4.0",
         "version": "18.4.0",
@@ -40203,13 +40203,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/18.3.1",
-        "last_update": "2024-12-29 00:12:40",
+        "last_update": "2024-12-29 07:39:12",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.51.1_18.3.1",
         "version": "18.3.1",
