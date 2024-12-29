@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/23.5.8",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "2.4.1_23.5.8",
         "version": "23.5.8",
@@ -6284,12 +6284,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/23.5.7",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "1.12.0_23.5.7",
         "version": "23.5.7",
@@ -12564,12 +12564,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/22.2.2",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "1.7.0_22.2.2",
         "version": "22.2.2",
@@ -18841,12 +18841,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/22.2.1",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "1.7.0_22.2.1",
         "version": "22.2.1",
@@ -25118,12 +25118,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/21.12.9",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "1.5.1_21.12.9",
         "version": "21.12.9",
@@ -31524,12 +31524,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/21.12.8",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "1.5.1_21.12.8",
         "version": "21.12.8",
@@ -37930,13 +37930,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/20.6.0",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_20.6.0",
         "version": "20.6.0",
@@ -44318,13 +44318,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mealie/20.5.0",
-        "last_update": "2024-12-29 07:39:12",
+        "last_update": "2024-12-29 11:00:44",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_20.5.0",
         "version": "20.5.0",
