@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Other
+  truecharts.org/category: business
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
-  truecharts.org/train: stable
+  truecharts.org/train: incubator
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "1.8.5"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,20 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Multi-arch tar1090 Chart for visualising ADSB data.
-home: https://truecharts.org/charts/stable/tar1090
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/tar1090.webp
+description: Open source DocuSign alternative. Create, fill, and sign digital documents.
+home: https://truecharts.org/charts/incubator/docuseal
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/docuseal.webp
 keywords:
-  - tar1090
-  - Other
+  - docuseal
+  - business
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: tar1090
+name: docuseal
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tar1090
-  - https://hub.docker.com/r/mikenye/tar1090
+  - https://github.com/truecharts/charts/tree/master/charts/incubator/docuseal
+  - https://github.com/docusealco/docuseal
+  - https://hub.docker.com/r/docuseal/docuseal
 type: application
-version: 7.1.80
+version: 2.2.25
