@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/5.1.12",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.1.12",
         "version": "5.1.12",
@@ -5343,12 +5343,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/5.1.11",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.1.11",
         "version": "5.1.11",
@@ -10682,12 +10682,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/4.0.8",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_4.0.8",
         "version": "4.0.8",
@@ -16018,12 +16018,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/4.0.7",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_4.0.7",
         "version": "4.0.7",
@@ -21354,12 +21354,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/3.8.14",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_3.8.14",
         "version": "3.8.14",
@@ -26361,12 +26361,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/3.8.13",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_3.8.13",
         "version": "3.8.13",
@@ -31368,13 +31368,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/2.3.0",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.3.0",
         "version": "2.3.0",
@@ -36418,13 +36418,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/serpbear/2.2.1",
-        "last_update": "2024-12-30 10:57:09",
+        "last_update": "2024-12-30 14:14:11",
         "required_features": [
-            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.2.1",
         "version": "2.2.1",
