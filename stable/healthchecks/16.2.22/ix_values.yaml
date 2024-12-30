@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/linuxserver/healthchecks
-  tag: 3.6.20241021@sha256:8ad720193cbdb5f1de34296530682dcd8deccbc68b033a882b61ab044b3872c3
+  tag: 3.9.20251230@sha256:cde1b7d6989de5a9fc82beae55073465482575614206858b69759c271286ae83
   pullPolicy: IfNotPresent
 service:
   main:
