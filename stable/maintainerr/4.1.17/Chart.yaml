@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "2.10.1"
+appVersion: "2.5.0"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,21 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Automatic Ripping Machine (ARM) Scripts.
-home: https://truecharts.org/charts/stable/automatic-ripping-machine
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/automatic-ripping-machine.webp
+description: Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
+home: https://truecharts.org/charts/stable/maintainerr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/maintainerr.webp
 keywords:
-  - automatic-ripping-machine
+  - maintainerr
   - media
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: automatic-ripping-machine
+name: maintainerr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/automatic-ripping-machine
-  - https://github.com/automatic-ripping-machine/automatic-ripping-machine
-  - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
+  - https://github.com/truecharts/charts/tree/master/charts/stable/maintainerr
+  - https://github.com/jorenn92/Maintainerr
+  - https://hub.docker.com/r/jorenn92/maintainerr
 type: application
-version: 5.3.33
+version: 4.1.17
