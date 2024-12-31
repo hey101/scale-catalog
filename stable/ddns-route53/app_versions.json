@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/7.1.10",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -3547,7 +3547,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/7.1.9",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -7090,7 +7090,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/6.0.9",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -10630,7 +10630,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/6.0.8",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -14170,7 +14170,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/5.8.14",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -17482,7 +17482,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/5.8.13",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -20794,13 +20794,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/4.3.0",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -24276,13 +24276,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddns-route53/4.2.0",
-        "last_update": "2024-12-31 05:32:53",
+        "last_update": "2024-12-31 08:37:07",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
