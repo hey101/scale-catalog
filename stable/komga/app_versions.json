@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/15.1.16",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.15.1_15.1.16",
         "version": "15.1.16",
@@ -5889,12 +5889,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/15.1.15",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.14.1_15.1.15",
         "version": "15.1.15",
@@ -11774,12 +11774,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/14.0.9",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.1_14.0.9",
         "version": "14.0.9",
@@ -17656,12 +17656,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/14.0.8",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.1_14.0.8",
         "version": "14.0.8",
@@ -23538,12 +23538,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/13.9.9",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.1_13.9.9",
         "version": "13.9.9",
@@ -28990,12 +28990,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/13.9.8",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.1_13.9.8",
         "version": "13.9.8",
@@ -34442,13 +34442,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/12.4.0",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "1.10.3_12.4.0",
         "version": "12.4.0",
@@ -39937,13 +39937,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/komga/12.3.0",
-        "last_update": "2024-12-30 17:21:47",
+        "last_update": "2024-12-30 21:27:43",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "1.10.3_12.3.0",
         "version": "12.3.0",
