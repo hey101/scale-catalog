@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: AI
+  truecharts.org/category: metrics
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "0.5.4"
+appVersion: "2.12.0"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,23 +17,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Get up and running with large language models locally.
-home: https://truecharts.org/charts/stable/ollama
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/ollama.webp
+description: Collect your UniFi controller data and report it to an InfluxDB instance, or export it for Prometheus collection.
+home: https://truecharts.org/charts/stable/unpoller
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/unpoller.webp
 keywords:
-  - ollama
-  - language-models
+  - unifi
+  - unifi-poller
+  - metrics
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: ollama
+name: unpoller
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/ollama
-  - https://ghcr.io/open-webui/open-webui
-  - https://github.com/ollama/ollama
-  - https://github.com/open-webui/open-webui
-  - https://hub.docker.com/r/ollama/ollama
+  - https://github.com/truecharts/charts/tree/master/charts/stable/unpoller
+  - https://ghcr.io/unpoller/unpoller
+  - https://github.com/unifi-poller/unifi-poller
 type: application
-version: 7.3.67
+version: 12.1.10
