@@ -1,7 +1,7 @@
 image:
   repository: lancachenet/monolithic
   pullPolicy: IfNotPresent
-  tag: latest@sha256:5f2eea8be8f164d2e3db312493f78b6032bd2892e6abf32ce0b0a03e84e64324
+  tag: latest@sha256:e6f66f77d959df7f416fb6f5831e816a99d28366a5fe945c11b760b17133c01e
 prefillImage:
   repository: ich777/lancache-prefill
   pullPolicy: IfNotPresent
