@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.7.1"
+appVersion: "1.7.3"
 dependencies:
   - name: common
     version: 24.1.11
@@ -37,4 +37,4 @@ sources:
   - https://github.com/go-shiori/shiori
   - https://github.com/go-shiori/shiori/pkgs/container/shiori
 type: application
-version: 18.2.10
+version: 18.2.12
