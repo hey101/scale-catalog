@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Tools-Utilities
+  truecharts.org/category: media
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "0.32.4"
+appVersion: "1.0.22"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,22 +17,26 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Two-way-sync between trakt.tv and Plex Media Server.
-home: https://truecharts.org/charts/stable/plextraktsync
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.webp
+description: An automatic Video Library Manager for TV Shows
+home: https://truecharts.org/charts/stable/medusa
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/medusa.webp
 keywords:
-  - plextraktsync
-  - Tools-Utilities
-  - MediaApp-Other
+  - medusa
+  - video
+  - library
+  - manager
+  - tv
+  - shows
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: plextraktsync
+name: medusa
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/plextraktsync
-  - https://ghcr.io/taxel/plextraktsync
-  - https://github.com/Taxel/PlexTraktSync
+  - https://github.com/truecharts/charts/tree/master/charts/stable/medusa
+  - https://ghcr.io/linuxserver/medusa
+  - https://github.com/linuxserver/docker-medusa
+  - https://pymedusa.com/
 type: application
-version: 9.2.16
+version: 12.1.27
