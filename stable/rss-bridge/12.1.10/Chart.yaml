@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.14.1"
+appVersion: "2025-01"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,24 +17,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A comics/mangas server to serve/stream pages via API
-home: https://truecharts.org/charts/stable/komga
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/komga.webp
+description: RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites that don"t have one.
+home: https://truecharts.org/charts/stable/rss-bridge
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/rss-bridge.webp
 keywords:
-  - komga
-  - comics
-  - mangas
-  - server
+  - rss-bridge
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: komga
+name: rss-bridge
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/komga
-  - https://github.com/gotson/komga
-  - https://hub.docker.com/r/gotson/komga
-  - https://komga.org/
+  - https://github.com/truecharts/charts/tree/master/charts/stable/rss-bridge
+  - https://github.com/RSS-Bridge/rss-bridge
+  - https://hub.docker.com/r/rssbridge/rss-bridge
 type: application
-version: 15.1.15
+version: 12.1.10
