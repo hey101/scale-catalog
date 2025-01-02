@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/mintplex-labs/anything-llm
   pullPolicy: IfNotPresent
-  tag: latest@sha256:153563c49d6eab669bc5551d146b5e04bfa50dd50d6b57a4b340a2ffca0bc056
+  tag: latest@sha256:400dd790c8fc280faed104e0337aab503a26b0ba395df5f4362017c49abfda50
 securityContext:
   container:
     readOnlyRootFilesystem: false
