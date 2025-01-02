@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "2.6.0"
 dependencies:
   - name: common
     version: 24.1.11
@@ -16,31 +16,22 @@ dependencies:
     alias: ''
     tags: []
     import-values: []
-  - name: redis
-    version: 15.2.2
-    repository: https://petersandor.github.io/truecharts-common
-    condition: redis.enabled
-    alias: ''
-    tags: []
-    import-values: []
 deprecated: false
-description: A free & open source IMDb front-end.
-home: https://truecharts.org/charts/stable/libremdb
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.webp
+description: Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
+home: https://truecharts.org/charts/stable/maintainerr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/maintainerr.webp
 keywords:
-  - libremdb
+  - maintainerr
   - media
-  - imdb
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: libremdb
+name: maintainerr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/libremdb
-  - https://github.com/PussTheCat-org/docker-libremdb-quay
-  - https://github.com/zyachel/libremdb
-  - https://quay.io/pussthecatorg/libremdb
+  - https://github.com/truecharts/charts/tree/master/charts/stable/maintainerr
+  - https://github.com/jorenn92/Maintainerr
+  - https://hub.docker.com/r/jorenn92/maintainerr
 type: application
-version: 9.2.545
+version: 4.1.18
