@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/10.7.8",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.28.0_10.7.8",
         "version": "10.7.8",
@@ -5891,12 +5891,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/10.7.7",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.21.0_10.7.7",
         "version": "10.7.7",
@@ -11778,12 +11778,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/9.0.9",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.14.0_9.0.9",
         "version": "9.0.9",
@@ -17662,12 +17662,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/9.0.8",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.14.0_9.0.8",
         "version": "9.0.8",
@@ -23546,12 +23546,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/8.8.14",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.14.0_8.8.14",
         "version": "8.8.14",
@@ -29000,12 +29000,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/8.8.13",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.14.0_8.8.13",
         "version": "8.8.13",
@@ -34454,13 +34454,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/7.3.0",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.14.0_7.3.0",
         "version": "7.3.0",
@@ -39951,13 +39951,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plexripper/7.2.0",
-        "last_update": "2025-01-02 05:05:02",
+        "last_update": "2025-01-02 08:25:03",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.14.0_7.2.0",
         "version": "7.2.0",
