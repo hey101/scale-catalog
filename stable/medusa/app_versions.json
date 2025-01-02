@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/12.1.26",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -5286,10 +5286,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/12.1.25",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -10568,10 +10568,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/11.0.13",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -15847,10 +15847,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/11.0.12",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -21126,10 +21126,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/10.8.16",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -26076,10 +26076,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/10.8.15",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -31026,13 +31026,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/9.3.0",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.0.19_9.3.0",
         "version": "9.3.0",
@@ -36019,13 +36019,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/medusa/9.2.1",
-        "last_update": "2025-01-02 02:36:28",
+        "last_update": "2025-01-02 05:05:02",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.0.19_9.2.1",
         "version": "9.2.1",
