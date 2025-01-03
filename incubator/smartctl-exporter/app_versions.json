@@ -4,13 +4,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/smartctl-exporter/0.0.1",
-        "last_update": "2025-01-02 19:59:41",
+        "last_update": "2025-01-02 23:14:23",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.11.0_0.0.1",
         "version": "0.0.1",
