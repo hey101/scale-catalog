@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/7.1.14",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "3.3.2.0_7.1.14",
         "version": "7.1.14",
@@ -5617,12 +5617,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/7.1.13",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "3.2.3.1_7.1.13",
         "version": "7.1.13",
@@ -11230,12 +11230,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/6.1.2",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "3.2.0.0_6.1.2",
         "version": "6.1.2",
@@ -16840,12 +16840,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/6.1.1",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "3.2.0.0_6.1.1",
         "version": "6.1.1",
@@ -22450,12 +22450,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/5.8.14",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "3.1.9.1_5.8.14",
         "version": "5.8.14",
@@ -27731,12 +27731,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/5.8.13",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "3.1.9.1_5.8.13",
         "version": "5.8.13",
@@ -33012,13 +33012,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/4.3.0",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.1.8.3_4.3.0",
         "version": "4.3.0",
@@ -38336,13 +38336,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/4.2.0",
-        "last_update": "2025-01-03 17:29:03",
+        "last_update": "2025-01-03 20:46:15",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.1.8.3_4.2.0",
         "version": "4.2.0",
