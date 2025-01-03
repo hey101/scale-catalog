@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/27.2.13",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -5668,10 +5668,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/27.2.12",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -11332,10 +11332,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/26.1.5",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -16993,10 +16993,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/26.1.4",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -22654,10 +22654,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/25.10.22",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -28444,10 +28444,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/25.10.21",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -34234,13 +34234,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/24.4.0",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "6.1.9_24.4.0",
         "version": "24.4.0",
@@ -40099,13 +40099,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/24.3.0",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "6.1.9_24.3.0",
         "version": "24.3.0",

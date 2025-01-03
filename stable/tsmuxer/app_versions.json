@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/11.2.7",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -6062,10 +6062,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/11.2.6",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -12120,10 +12120,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/10.0.8",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -18175,10 +18175,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/10.0.7",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -24230,10 +24230,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/9.8.14",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -29855,10 +29855,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/9.8.13",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -35480,13 +35480,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/8.2.0",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.01.1_8.2.0",
         "version": "8.2.0",
@@ -41148,13 +41148,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tsmuxer/8.1.0",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.01.1_8.1.0",
         "version": "8.1.0",

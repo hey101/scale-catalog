@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/18.1.16",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -5696,10 +5696,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/18.1.15",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -11388,10 +11388,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/17.0.8",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -17077,10 +17077,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/17.0.7",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -22766,10 +22766,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/16.8.15",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -28584,10 +28584,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/16.8.14",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -34402,13 +34402,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/15.2.0",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.5.13_15.2.0",
         "version": "15.2.0",
@@ -40295,13 +40295,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/15.1.1",
-        "last_update": "2025-01-03 14:45:27",
+        "last_update": "2025-01-03 17:29:03",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.5.13_15.1.1",
         "version": "15.1.1",
