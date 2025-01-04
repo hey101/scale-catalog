@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/5.3.39",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.10.1_5.3.39",
         "version": "5.3.39",
@@ -5886,12 +5886,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/5.3.38",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.10.1_5.3.38",
         "version": "5.3.38",
@@ -11768,12 +11768,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/4.0.9",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.70_4.0.9",
         "version": "4.0.9",
@@ -17647,12 +17647,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/4.0.8",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.70_4.0.8",
         "version": "4.0.8",
@@ -23526,12 +23526,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/3.8.14",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.70_3.8.14",
         "version": "3.8.14",
@@ -28975,12 +28975,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/3.8.13",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.70_3.8.13",
         "version": "3.8.13",
@@ -34424,13 +34424,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/2.3.0",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.6.70_2.3.0",
         "version": "2.3.0",
@@ -39916,13 +39916,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/automatic-ripping-machine/2.2.0",
-        "last_update": "2025-01-04 08:14:29",
+        "last_update": "2025-01-04 11:31:20",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.6.70_2.2.0",
         "version": "2.2.0",
