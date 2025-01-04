@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Network-Web
+  truecharts.org/category: games
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
@@ -17,20 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Alternative Imgur front-end
-home: https://truecharts.org/charts/stable/rimgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
+description: A Headless Steam chart.
+home: https://truecharts.org/charts/stable/steam-headless
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/steam-headless.webp
 keywords:
-  - rimgo
-  - Network-Web
+  - steam-headless
+  - games
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rimgo
+name: steam-headless
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
-  - https://quay.io/pussthecatorg/rimgo
+  - https://github.com/truecharts/charts/tree/master/charts/stable/steam-headless
+  - https://github.com/Steam-Headless/docker-steam-headless
+  - https://hub.docker.com/r/josh5/steam-headless
 type: application
-version: 8.1.474
+version: 5.1.39
