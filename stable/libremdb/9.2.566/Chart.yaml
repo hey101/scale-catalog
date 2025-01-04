@@ -24,23 +24,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: RSSHub can generate RSS feeds from pretty much everything
-home: https://truecharts.org/charts/stable/rsshub
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.webp
+description: A free & open source IMDb front-end.
+home: https://truecharts.org/charts/stable/libremdb
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.webp
 keywords:
-  - rsshub
-  - rss
+  - libremdb
+  - media
+  - imdb
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rsshub
+name: libremdb
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
-  - https://docs.rsshub.app/en/install/
-  - https://github.com/DIYgod/RSSHub
-  - https://hub.docker.com/r/browserless/chrome
-  - https://hub.docker.com/r/diygod/rsshub
+  - https://github.com/truecharts/charts/tree/master/charts/stable/libremdb
+  - https://github.com/PussTheCat-org/docker-libremdb-quay
+  - https://github.com/zyachel/libremdb
+  - https://quay.io/pussthecatorg/libremdb
 type: application
-version: 14.2.429
+version: 9.2.566
