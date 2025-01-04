@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/13.2.10",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.42.0_13.2.10",
         "version": "13.2.10",
@@ -5395,12 +5395,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/13.2.9",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.40.2_13.2.9",
         "version": "13.2.9",
@@ -10786,12 +10786,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/12.1.5",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.37.1_12.1.5",
         "version": "12.1.5",
@@ -16174,12 +16174,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/12.1.4",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.37.1_12.1.4",
         "version": "12.1.4",
@@ -21562,12 +21562,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/11.9.14",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.36.1_11.9.14",
         "version": "11.9.14",
@@ -26621,12 +26621,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/11.9.13",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.36.1_11.9.13",
         "version": "11.9.13",
@@ -31680,13 +31680,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/10.6.0",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.35.3_10.6.0",
         "version": "10.6.0",
@@ -36778,13 +36778,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/zigbee2mqtt/10.5.0",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.35.3_10.5.0",
         "version": "10.5.0",

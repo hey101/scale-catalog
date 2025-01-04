@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/7.1.19",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5099,7 +5099,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/7.1.18",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -10194,7 +10194,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/6.0.11",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -15286,7 +15286,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/6.0.10",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -20378,7 +20378,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/5.8.15",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -25141,7 +25141,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/5.8.14",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -29904,12 +29904,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/4.3.0",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -34710,12 +34710,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox-desktop-g3/4.2.1",
-        "last_update": "2025-01-04 00:06:09",
+        "last_update": "2025-01-04 03:21:42",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
