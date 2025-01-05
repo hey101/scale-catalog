@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: cloud
+  truecharts.org/category: media
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "2.17.13"
+appVersion: "1.25.0"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,20 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A timed task management panel that supports typescript, javaScript, python3, and shell
-home: https://truecharts.org/charts/stable/qinglong
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/qinglong.webp
+description: FreshRSS is a self-hosted RSS feed aggregator
+home: https://truecharts.org/charts/stable/freshrss
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/freshrss.webp
 keywords:
-  - qinglong
-  - task
+  - freshrss
+  - rss
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: qinglong
+name: freshrss
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/qinglong
-  - https://hub.docker.com/r/whyour/qinglong
+  - https://github.com/truecharts/charts/tree/master/charts/stable/freshrss
+  - https://ghcr.io/linuxserver/freshrss
+  - https://github.com/FreshRSS/FreshRSS
 type: application
-version: 11.1.21
+version: 20.1.31
