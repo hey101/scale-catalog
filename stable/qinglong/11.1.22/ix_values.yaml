@@ -1,7 +1,7 @@
 image:
   repository: whyour/qinglong
   pullPolicy: IfNotPresent
-  tag: 2.17.12@sha256:f84f4bf8a943fba135898abc4d4bcd906bae60c7c859bfec3344ae7b0e61ae38
+  tag: 2.18.0@sha256:f6507acab3e7180a3e184d03153157c9d6c9cca64f6e5c3bfb6bbb59e4f4c23b
 service:
   main:
     ports:
