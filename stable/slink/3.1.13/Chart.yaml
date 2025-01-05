@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.3.0"
+appVersion: "1.4.5"
 dependencies:
   - name: common
     version: 24.1.11
@@ -36,4 +36,4 @@ sources:
   - https://github.com/andrii-kryvoviaz/slink
   - https://hub.docker.com/r/anirdev/slink
 type: application
-version: 3.1.11
+version: 3.1.13
