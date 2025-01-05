@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/7.1.33",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.1.33",
         "version": "7.1.33",
@@ -4458,11 +4458,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/7.1.32",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.1.32",
         "version": "7.1.32",
@@ -8912,11 +8912,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/6.0.8",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -13363,11 +13363,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/6.0.7",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.7",
         "version": "6.0.7",
@@ -17814,11 +17814,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/5.8.14",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -22037,11 +22037,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/5.8.13",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -26260,12 +26260,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/4.3.0",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -30526,12 +30526,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/4.2.1",
-        "last_update": "2025-01-04 22:58:30",
+        "last_update": "2025-01-05 03:25:07",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
