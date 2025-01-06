@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: incubator
+  truecharts.org/category: Network-Web
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
@@ -17,19 +17,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Duckdns is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice.
-home: https://truecharts.org/charts/stable/duckdns
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.webp
+description: Alternative Imgur front-end
+home: https://truecharts.org/charts/stable/rimgo
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
 keywords:
-  - duckdns
+  - rimgo
+  - Network-Web
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: duckdns
+name: rimgo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/duckdns
-  - https://ghcr.io/linuxserver/duckdns
+  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
+  - https://quay.io/pussthecatorg/rimgo
 type: application
-version: 11.1.22
+version: 8.1.492
