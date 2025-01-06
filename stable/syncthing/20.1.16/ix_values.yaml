@@ -1,7 +1,7 @@
 image:
   repository: syncthing/syncthing
   pullPolicy: IfNotPresent
-  tag: 1.27.12@sha256:5fb5438b300a430f0636b60924939defb84f965b15ad7ae16acf5a2ac9c9e5c3
+  tag: 1.29.0@sha256:13f36e0ad356be38b0bb9ff74d40ae33b048c294af2002c33a71123125afbb7e
 workload:
   main:
     podSpec:
