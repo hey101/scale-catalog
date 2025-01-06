@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: rss
+  truecharts.org/category: inventory
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "0.17.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,22 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator.
-home: https://truecharts.org/charts/stable/tt-rss
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/tt-rss.webp
+description: Inventory and organization system built for the Home User.
+home: https://truecharts.org/charts/stable/homebox
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/homebox.webp
 keywords:
-  - tt-rss
-  - rss
+  - homebox
+  - inventory
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: tt-rss
+name: homebox
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tt-rss
-  - https://git.tt-rss.org/fox/tt-rss
-  - https://hub.docker.com/r/cthulhoo/ttrss-fpm-pgsql-static
-  - https://hub.docker.com/r/cthulhoo/ttrss-web-nginx
+  - https://github.com/truecharts/charts/tree/master/charts/stable/homebox
+  - https://ghcr.io/sysadminsmedia/homebox
+  - https://github.com/sysadminsmedia/homebox
 type: application
-version: 18.1.67
+version: 8.3.12
