@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/1.2.18",
-        "last_update": "2025-01-06 08:52:51",
+        "last_update": "2025-01-06 12:12:22",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_1.2.18",
         "version": "1.2.18",
@@ -4980,12 +4980,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/1.2.17",
-        "last_update": "2025-01-06 08:52:51",
+        "last_update": "2025-01-06 12:12:22",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_1.2.17",
         "version": "1.2.17",
@@ -9956,13 +9956,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/0.7.2",
-        "last_update": "2025-01-06 08:52:51",
+        "last_update": "2025-01-06 12:12:22",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_0.7.2",
         "version": "0.7.2",
