@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/15.1.25",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_15.1.25",
         "version": "15.1.25",
@@ -5179,12 +5179,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/15.1.24",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_15.1.24",
         "version": "15.1.24",
@@ -10354,12 +10354,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/14.0.12",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_14.0.12",
         "version": "14.0.12",
@@ -15526,12 +15526,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/14.0.11",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_14.0.11",
         "version": "14.0.11",
@@ -20698,12 +20698,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/13.8.17",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_13.8.17",
         "version": "13.8.17",
@@ -25642,12 +25642,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/13.8.16",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_13.8.16",
         "version": "13.8.16",
@@ -30586,11 +30586,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/12.3.0",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -35573,11 +35573,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/littlelink/12.2.1",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],

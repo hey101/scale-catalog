@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/11.1.23",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.18.0_11.1.23",
         "version": "11.1.23",
@@ -5280,12 +5280,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/11.1.22",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.18.0_11.1.22",
         "version": "11.1.22",
@@ -10556,12 +10556,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/10.0.9",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.17.5_10.0.9",
         "version": "10.0.9",
@@ -15829,12 +15829,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/10.0.8",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.17.5_10.0.8",
         "version": "10.0.8",
@@ -21102,12 +21102,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/9.8.15",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.17.4_9.8.15",
         "version": "9.8.15",
@@ -26046,12 +26046,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/9.8.14",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.17.3_9.8.14",
         "version": "9.8.14",
@@ -30990,11 +30990,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/8.4.0",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -35977,11 +35977,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qinglong/8.3.1",
-        "last_update": "2025-01-06 12:12:22",
+        "last_update": "2025-01-06 15:35:55",
         "required_features": [
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
