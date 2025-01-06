@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/13.1.9",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_13.1.9",
         "version": "13.1.9",
@@ -5283,12 +5283,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/13.1.8",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_13.1.8",
         "version": "13.1.8",
@@ -10562,12 +10562,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/12.0.8",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_12.0.8",
         "version": "12.0.8",
@@ -15838,12 +15838,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/12.0.7",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_12.0.7",
         "version": "12.0.7",
@@ -21114,12 +21114,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/11.8.14",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_11.8.14",
         "version": "11.8.14",
@@ -26061,12 +26061,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/11.8.13",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_11.8.13",
         "version": "11.8.13",
@@ -31008,13 +31008,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/10.3.0",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_10.3.0",
         "version": "10.3.0",
@@ -35998,13 +35998,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sickgear/10.2.0",
-        "last_update": "2025-01-06 00:41:33",
+        "last_update": "2025-01-06 03:57:33",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_10.2.0",
         "version": "10.2.0",
