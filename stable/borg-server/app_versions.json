@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/6.3.10",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -5509,7 +5509,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/6.3.9",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -11014,7 +11014,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/5.0.9",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -16516,7 +16516,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/5.0.8",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -22018,7 +22018,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/4.9.15",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -26989,7 +26989,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/4.9.14",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -31960,13 +31960,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/3.3.0",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.2.5_3.3.0",
         "version": "3.3.0",
@@ -36974,13 +36974,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/3.2.0",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.2.5_3.2.0",
         "version": "3.2.0",

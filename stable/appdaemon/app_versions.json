@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/18.1.9",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -5355,7 +5355,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/18.1.8",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -10706,7 +10706,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/17.0.9",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -16054,7 +16054,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/17.0.8",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -21402,7 +21402,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/16.8.14",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -26421,7 +26421,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/16.8.13",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -31440,13 +31440,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/15.3.0",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.4.2_15.3.0",
         "version": "15.3.0",
@@ -36502,13 +36502,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/appdaemon/15.2.0",
-        "last_update": "2025-01-06 03:57:33",
+        "last_update": "2025-01-06 08:52:51",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.4.2_15.2.0",
         "version": "15.2.0",
