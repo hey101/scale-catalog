@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/10.1.18",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "4.1.15_10.1.18",
@@ -4973,11 +4973,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/10.1.17",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "4.1.14_10.1.17",
@@ -9942,11 +9942,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/9.0.11",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "4.1.5_9.0.11",
@@ -14908,11 +14908,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/9.0.10",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "4.1.5_9.0.10",
@@ -19874,11 +19874,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/8.9.16",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "4.1.2_8.9.16",
@@ -24410,11 +24410,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/8.9.15",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "4.1.2_8.9.15",
@@ -28946,13 +28946,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/7.3.0",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "4.0.8_7.3.0",
         "version": "7.3.0",
@@ -33525,13 +33525,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/7.2.0",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "4.0.8_7.2.0",
         "version": "7.2.0",

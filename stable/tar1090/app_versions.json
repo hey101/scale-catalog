@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/7.1.88",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_7.1.88",
@@ -4413,10 +4413,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/7.1.87",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_7.1.87",
@@ -8822,10 +8822,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/6.0.29",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_6.0.29",
@@ -13228,10 +13228,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/6.0.28",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_6.0.28",
@@ -17634,10 +17634,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/5.8.25",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_5.8.25",
@@ -21812,10 +21812,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/5.8.24",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_5.8.24",
@@ -25990,12 +25990,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/4.3.0",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -30211,12 +30211,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tar1090/4.2.1",
-        "last_update": "2025-01-05 21:25:47",
+        "last_update": "2025-01-06 00:41:33",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
