@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/12.3.8",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.12.1_12.3.8",
@@ -6747,11 +6747,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/12.3.7",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.07.1_12.3.7",
@@ -13490,11 +13490,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/11.0.9",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.01.1_11.0.9",
@@ -20230,11 +20230,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/11.0.8",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.01.1_11.0.8",
@@ -26970,11 +26970,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/10.8.14",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.01.1_10.8.14",
@@ -33179,11 +33179,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/10.8.13",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.01.1_10.8.13",
@@ -39388,13 +39388,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/9.2.0",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.01.1_9.2.0",
         "version": "9.2.0",
@@ -45640,13 +45640,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/makemkv/9.1.0",
-        "last_update": "2025-01-07 14:30:34",
+        "last_update": "2025-01-07 17:48:25",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.01.1_9.1.0",
         "version": "9.1.0",
