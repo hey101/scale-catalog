@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.5.0"
+appVersion: "1.5.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -39,4 +39,4 @@ sources:
   - https://ghcr.io/onedr0p/exportarr
   - https://github.com/morpheus65535/bazarr
 type: application
-version: 21.1.15
+version: 21.1.17
