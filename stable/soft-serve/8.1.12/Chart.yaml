@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Network-Web
+  truecharts.org/category: git
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "0.8.2"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,20 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Alternative Imgur front-end
-home: https://truecharts.org/charts/stable/rimgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
+description: A tasty, self-hostable Git server for the command line.
+home: https://truecharts.org/charts/stable/soft-serve
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/soft-serve.webp
 keywords:
-  - rimgo
-  - Network-Web
+  - soft-serve
+  - git
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rimgo
+name: soft-serve
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
-  - https://quay.io/pussthecatorg/rimgo
+  - https://github.com/truecharts/charts/tree/master/charts/stable/soft-serve
+  - https://github.com/charmbracelet/soft-serve
+  - https://hub.docker.com/r/charmcli/soft-serve
 type: application
-version: 8.1.497
+version: 8.1.12

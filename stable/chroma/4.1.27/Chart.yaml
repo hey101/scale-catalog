@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: git
+  truecharts.org/category: AI
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "0.7.6"
+appVersion: "0.6.2"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,21 +17,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A tasty, self-hostable Git server for the command line.
-home: https://truecharts.org/charts/stable/soft-serve
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/soft-serve.webp
+description: the AI-native open-source embedding database.
+home: https://truecharts.org/charts/stable/chroma
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/chroma.webp
 keywords:
-  - soft-serve
-  - git
+  - chroma
+  - embedding
+  - database
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: soft-serve
+name: chroma
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/soft-serve
-  - https://github.com/charmbracelet/soft-serve
-  - https://hub.docker.com/r/charmcli/soft-serve
+  - https://github.com/truecharts/charts/tree/master/charts/stable/chroma
+  - https://ghcr.io/chroma-core/chroma
+  - https://github.com/chroma-core/chroma
 type: application
-version: 8.1.10
+version: 4.1.27
