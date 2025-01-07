@@ -1,7 +1,7 @@
 image:
   repository: automaticrippingmachine/automatic-ripping-machine
   pullPolicy: IfNotPresent
-  tag: 2.10.1@sha256:c61bdd9e0b22ba8719f8b39fce3e1fbd76ef0ec291adbccb15daabd9b3bb7984
+  tag: 2.10.1@sha256:c92df77ed44393997295cbe79d0097c2fc998588abca06e89839b63cc50fac25
 
 securityContext:
   container:
