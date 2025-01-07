@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/8.1.10",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.8.12_8.1.10",
         "version": "8.1.10",
@@ -5364,12 +5364,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/8.1.9",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.8.12_8.1.9",
         "version": "8.1.9",
@@ -10724,12 +10724,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/7.0.8",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.8.11_7.0.8",
         "version": "7.0.8",
@@ -16081,12 +16081,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/7.0.7",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.8.11_7.0.7",
         "version": "7.0.7",
@@ -21438,12 +21438,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/6.1.14",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.8.11_6.1.14",
         "version": "6.1.14",
@@ -26466,12 +26466,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/6.1.13",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.8.11_6.1.13",
         "version": "6.1.13",
@@ -31494,11 +31494,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/5.7.12",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "firefox_5.7.12",
         "version": "5.7.12",
@@ -35940,11 +35940,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/5.7.11",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "firefox_5.7.11",
         "version": "5.7.11",
@@ -40386,12 +40386,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/4.3.0",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "firefox_4.3.0",
         "version": "4.3.0",
@@ -44875,12 +44875,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/neko/4.2.10",
-        "last_update": "2025-01-07 11:12:59",
+        "last_update": "2025-01-07 14:30:34",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "firefox_4.2.10",
         "version": "4.2.10",
