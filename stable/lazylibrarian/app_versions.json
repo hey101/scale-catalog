@@ -1,18 +1,18 @@
 {
-    "20.1.74": {
+    "20.1.76": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/20.1.74",
-        "last_update": "2025-01-06 18:54:05",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/20.1.76",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
-        "human_version": "latest_20.1.74",
-        "version": "20.1.74",
+        "human_version": "latest_20.1.76",
+        "version": "20.1.76",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.2.5",
@@ -60,7 +60,7 @@
                 "https://lazylibrarian.gitlab.io"
             ],
             "type": "application",
-            "version": "20.1.74"
+            "version": "20.1.76"
         },
         "app_metadata": null,
         "schema": {
@@ -5277,20 +5277,20 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>TrueCharts can be installed as both <em>normal</em> Helm Charts or as TrueNAS SCALE Apps.\nBoth solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible</p>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/stable/lazylibrarian\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/lazylibrarian</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h3>TrueNAS SCALE Apps</h3>\n<p>For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the <a href=\"/deprecated/scale\">quick-start guides for TrueNAS SCALE</a>.</p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/stable/lazylibrarian</p>\n<h2>Configuration Options</h2>\n<p>Please note: For TrueNAS SCALE, only options available in the GUI are supported.\nHence most of these docs do not apply to TrueNAS SCALE</p>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/charts/blob/master/charts/stable/lazylibrarian/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "20.1.73": {
+    "20.1.75": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/20.1.73",
-        "last_update": "2025-01-06 18:54:05",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/20.1.75",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
-        "human_version": "latest_20.1.73",
-        "version": "20.1.73",
+        "human_version": "latest_20.1.75",
+        "version": "20.1.75",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.2.5",
@@ -5338,7 +5338,7 @@
                 "https://lazylibrarian.gitlab.io"
             ],
             "type": "application",
-            "version": "20.1.73"
+            "version": "20.1.75"
         },
         "app_metadata": null,
         "schema": {
@@ -10560,12 +10560,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/19.0.14",
-        "last_update": "2025-01-06 18:54:05",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_19.0.14",
         "version": "19.0.14",
@@ -15835,12 +15835,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/19.0.13",
-        "last_update": "2025-01-06 18:54:05",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_19.0.13",
         "version": "19.0.13",
@@ -21110,12 +21110,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/18.8.20",
-        "last_update": "2025-01-06 18:54:05",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_18.8.20",
         "version": "18.8.20",
@@ -26056,12 +26056,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/18.8.19",
-        "last_update": "2025-01-06 18:54:05",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_18.8.19",
         "version": "18.8.19",
@@ -31002,13 +31002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/17.3.0",
-        "last_update": "2025-01-06 18:54:05",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "latest_17.3.0",
         "version": "17.3.0",
@@ -35991,13 +35991,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/17.2.1",
-        "last_update": "2025-01-06 18:54:05",
+        "last_update": "2025-01-06 23:49:07",
         "required_features": [
-            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "latest_17.2.1",
         "version": "17.2.1",
