@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/9.1.9",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_9.1.9",
@@ -5887,11 +5887,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/9.1.8",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_9.1.8",
@@ -11770,11 +11770,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/8.0.8",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_8.0.8",
@@ -17650,11 +17650,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/8.0.7",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_8.0.7",
@@ -23530,11 +23530,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/7.8.14",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_7.8.14",
@@ -28980,11 +28980,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/7.8.13",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_7.8.13",
@@ -34430,13 +34430,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/6.3.0",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_6.3.0",
         "version": "6.3.0",
@@ -39923,13 +39923,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtransfer/6.2.0",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_6.2.0",
         "version": "6.2.0",

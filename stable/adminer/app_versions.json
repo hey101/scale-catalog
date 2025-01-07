@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/10.1.10",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_10.1.10",
@@ -4693,11 +4693,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/10.1.9",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_10.1.9",
@@ -9382,11 +9382,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/9.0.11",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_9.0.11",
@@ -14068,11 +14068,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/9.0.10",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_9.0.10",
@@ -18754,11 +18754,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/8.8.17",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_8.8.17",
@@ -23212,11 +23212,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/8.8.16",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_8.8.16",
@@ -27670,13 +27670,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/7.3.0",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -32171,13 +32171,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adminer/7.2.1",
-        "last_update": "2025-01-07 06:15:35",
+        "last_update": "2025-01-07 11:12:59",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_7.2.1",
         "version": "7.2.1",
