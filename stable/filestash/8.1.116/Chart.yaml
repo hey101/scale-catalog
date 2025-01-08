@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: AI
+  truecharts.org/category: Cloud
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
@@ -17,21 +17,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Open-source ChatGPT experience for LLMs, embedders, and vector databases.
-home: https://truecharts.org/charts/stable/anything-llm
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/anything-llm.webp
+description: A Dropbox-like file manager that let you manage your data anywhere it is located.
+home: https://truecharts.org/charts/stable/filestash
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/filestash.webp
 keywords:
-  - anything-llm
-  - ai
+  - filestash
+  - Cloud
+  - Productivity
+  - Network-Web
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: anything-llm
+name: filestash
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/anything-llm
-  - https://ghcr.io/mintplex-labs/anything-llm
-  - https://github.com/Mintplex-Labs/anything-llm
+  - https://github.com/truecharts/charts/tree/master/charts/stable/filestash
+  - https://github.com/mickael-kerjean/filestash
+  - https://hub.docker.com/r/machines/filestash
+  - https://www.filestash.app/
 type: application
-version: 3.1.133
+version: 8.1.116

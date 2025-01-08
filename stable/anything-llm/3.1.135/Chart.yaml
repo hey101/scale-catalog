@@ -1,11 +1,11 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/SCALE-support: 'true'
-  truecharts.org/category: MachineLearning
+  truecharts.org/category: AI
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
-  truecharts.org/train: incubator
+  truecharts.org/train: stable
+  truecharts.org/SCALE-support: 'true'
 apiVersion: v2
 appVersion: "latest"
 dependencies:
@@ -17,22 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: sd-webui-docker Chart
-home: https://truecharts.org/charts/incubator/sd-webui
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/sd-webui.webp
+description: Open-source ChatGPT experience for LLMs, embedders, and vector databases.
+home: https://truecharts.org/charts/stable/anything-llm
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/anything-llm.webp
 keywords:
-  - Whisper
-  - AI
-  - ML
+  - anything-llm
+  - ai
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: sd-webui-docker
+name: anything-llm
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/sd-webui
-  - https://ghcr.io/neggles/sd-webui-docker
-  - https://github.com/ahmetoner/sd-webui-docker/
+  - https://github.com/truecharts/charts/tree/master/charts/stable/anything-llm
+  - https://ghcr.io/mintplex-labs/anything-llm
+  - https://github.com/Mintplex-Labs/anything-llm
 type: application
-version: 2.1.170
+version: 3.1.135

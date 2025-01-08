@@ -1,11 +1,11 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Network-Web
+  truecharts.org/SCALE-support: 'true'
+  truecharts.org/category: MachineLearning
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
-  truecharts.org/train: stable
-  truecharts.org/SCALE-support: 'true'
+  truecharts.org/train: incubator
 apiVersion: v2
 appVersion: "latest"
 dependencies:
@@ -17,20 +17,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Alternative Imgur front-end
-home: https://truecharts.org/charts/stable/rimgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
+description: sd-webui-docker Chart
+home: https://truecharts.org/charts/incubator/sd-webui
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/sd-webui.webp
 keywords:
-  - rimgo
-  - Network-Web
+  - Whisper
+  - AI
+  - ML
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rimgo
+name: sd-webui-docker
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
-  - https://quay.io/pussthecatorg/rimgo
+  - https://github.com/truecharts/charts/tree/master/charts/incubator/sd-webui
+  - https://ghcr.io/neggles/sd-webui-docker
+  - https://github.com/ahmetoner/sd-webui-docker/
 type: application
-version: 8.1.501
+version: 2.1.172
