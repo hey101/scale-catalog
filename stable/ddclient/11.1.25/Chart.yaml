@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: incubator
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "5.12.2"
+appVersion: "3.11.2"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,23 +17,19 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A personal music streaming server
-home: https://truecharts.org/charts/stable/mstream
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/mstream.webp
+description: Ddclient is a Perl client used to update dynamic DNS entries for accounts on Dynamic DNS Network Service Provider.
+home: https://truecharts.org/charts/stable/ddclient
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/ddclient.webp
 keywords:
-  - mstream
-  - server
-  - music
+  - ddclient
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: mstream
+name: ddclient
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/mstream
-  - https://ghcr.io/linuxserver/mstream
-  - https://github.com/linuxserver/docker-mstream
-  - https://mstream.io/
+  - https://github.com/truecharts/charts/tree/master/charts/stable/ddclient
+  - https://ghcr.io/linuxserver/ddclient
 type: application
-version: 12.1.30
+version: 11.1.25
