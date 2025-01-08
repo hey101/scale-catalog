@@ -1,6 +1,6 @@
 image:
   repository: eclipse-mosquitto
-  tag: 2.0.20@sha256:8b396cec28cd5e8e1a3aba1d9abdbddd42c454c80f703e77c1bec56e152fa54e
+  tag: 2.0.20@sha256:91ac91904ce5f43fb62011a2b93ff87cf6029df6895b47c8284891e2478a9c00
   pullPolicy: IfNotPresent
 service:
   main:
