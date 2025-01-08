@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: Network-Web
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.41.3.931"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,21 +17,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Plex Media Server
-home: https://truecharts.org/charts/stable/plex
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/plex.webp
+description: Alternative Imgur front-end
+home: https://truecharts.org/charts/stable/rimgo
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
 keywords:
-  - plex
-  - plex-media-server
+  - rimgo
+  - Network-Web
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: plex
+name: rimgo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/plex
-  - https://ghcr.io/onedr0p/plex
-  - https://github.com/k8s-at-home/container-images/pkgs/container/plex
+  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
+  - https://quay.io/pussthecatorg/rimgo
 type: application
-version: 19.1.20
+version: 8.1.502
