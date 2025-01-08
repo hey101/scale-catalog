@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/15.1.11",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.3.21_15.1.11",
@@ -5336,11 +5336,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/15.1.10",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.3.21_15.1.10",
@@ -10668,11 +10668,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/14.0.10",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.3.19_14.0.10",
@@ -15997,11 +15997,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/14.0.9",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.3.19_14.0.9",
@@ -21326,11 +21326,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/13.8.15",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.3.17_13.8.15",
@@ -26326,11 +26326,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/13.8.14",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.3.17_13.8.14",
@@ -31326,13 +31326,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/12.3.0",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "3.3.15_12.3.0",
         "version": "12.3.0",
@@ -36369,13 +36369,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flaresolverr/12.2.1",
-        "last_update": "2025-01-07 21:02:14",
+        "last_update": "2025-01-08 01:55:38",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "3.3.15_12.2.1",
         "version": "12.2.1",
