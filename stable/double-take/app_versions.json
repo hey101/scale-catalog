@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/12.1.10",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.13.11_12.1.10",
         "version": "12.1.10",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/12.1.9",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.13.11_12.1.9",
         "version": "12.1.9",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/11.0.9",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.13.11_11.0.9",
         "version": "11.0.9",
@@ -15832,12 +15832,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/11.0.8",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.13.11_11.0.8",
         "version": "11.0.8",
@@ -21106,12 +21106,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/10.8.14",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.13.11_10.8.14",
         "version": "10.8.14",
@@ -26051,12 +26051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/10.8.13",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.13.11_10.8.13",
         "version": "10.8.13",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/9.3.0",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.13.11_9.3.0",
         "version": "9.3.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/double-take/9.2.0",
-        "last_update": "2025-01-08 20:00:17",
+        "last_update": "2025-01-08 23:21:23",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.13.11_9.2.0",
         "version": "9.2.0",
