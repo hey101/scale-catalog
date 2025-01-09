@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: MediaServer-Other
+  truecharts.org/category: Network-Web
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "iew"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,22 +17,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: The official Tachidesk Chart-Chart.
-home: https://truecharts.org/charts/stable/tachidesk-docker
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/tachidesk-docker.webp
+description: Alternative Imgur front-end
+home: https://truecharts.org/charts/stable/rimgo
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
 keywords:
-  - tachidesk-docker
-  - MediaServer-Other
+  - rimgo
+  - Network-Web
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: tachidesk-docker
+name: rimgo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tachidesk-docker
-  - https://ghcr.io/suwayomi/tachidesk
-  - https://github.com/Suwayomi/Tachidesk-Server
-  - https://github.com/suwayomi/docker-tachidesk
+  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
+  - https://quay.io/pussthecatorg/rimgo
 type: application
-version: 8.1.26
+version: 8.1.509
