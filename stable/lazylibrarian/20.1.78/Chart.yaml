@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Network-Web
+  truecharts.org/category: media
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
@@ -17,20 +17,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Alternative Imgur front-end
-home: https://truecharts.org/charts/stable/rimgo
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rimgo.webp
+description: Get all your books, like series with Sonarr...
+home: https://truecharts.org/charts/stable/lazylibrarian
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.webp
 keywords:
-  - rimgo
-  - Network-Web
+  - lazylibrarian
+  - ebooks
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rimgo
+name: lazylibrarian
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rimgo
-  - https://quay.io/pussthecatorg/rimgo
+  - https://github.com/truecharts/charts/tree/master/charts/stable/lazylibrarian
+  - https://ghcr.io/linuxserver/lazylibrarian
+  - https://gitlab.com/LazyLibrarian/LazyLibrarian.git
+  - https://lazylibrarian.gitlab.io
 type: application
-version: 8.1.508
+version: 20.1.78

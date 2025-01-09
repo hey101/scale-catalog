@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: authentication
+  truecharts.org/category: finance
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "2024.12.1"
+appVersion: "2.133.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -19,30 +19,27 @@ dependencies:
   - name: redis
     version: 15.2.2
     repository: https://petersandor.github.io/truecharts-common
-    condition: redis.enabled
+    condition: ''
     alias: ''
     tags: []
     import-values: []
 deprecated: false
-description: Authentik is an open-source Identity Provider focused on flexibility and versatility.
-home: https://truecharts.org/charts/stable/authentik
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/authentik.webp
+description: Ghostfolio is a privacy-first, open source dashboard for your personal finances. Break down your asset allocation, know your net worth and make solid, data-driven investment decisions.
+home: https://truecharts.org/charts/stable/ghostfolio
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.webp
 keywords:
-  - authentik
+  - ghostfolio
+  - finance
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: authentik
+name: ghostfolio
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/authentik
-  - https://ghcr.io/goauthentik/ldap
-  - https://ghcr.io/goauthentik/proxy
-  - https://ghcr.io/goauthentik/radius
-  - https://ghcr.io/goauthentik/server
-  - https://ghcr.io/maxmind/geoipupdate
-  - https://github.com/goauthentik/authentik
-  - https://goauthentik.io/docs/
+  - https://github.com/truecharts/charts/tree/master/charts/stable/ghostfolio
+  - https://ghostfol.io/
+  - https://github.com/ghostfolio/ghostfolio
+  - https://hub.docker.com/r/ghostfolio/ghostfolio
 type: application
-version: 27.3.20
+version: 6.15.19
