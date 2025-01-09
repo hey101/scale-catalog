@@ -1,7 +1,7 @@
 image:
   repository: docker
   pullPolicy: IfNotPresent
-  tag: 27.4.1-dind@sha256:6864c0479398023a5180cdf87e8e67ec9dcb706a21def1684f47b4ad66624d59
+  tag: 27.4.1-dind@sha256:14274e809a3e74f7744f4a6fa677f33de2b16f76d3bc20a5566770601d273f14
 hostNetwork: true
 securityContext:
   container:
