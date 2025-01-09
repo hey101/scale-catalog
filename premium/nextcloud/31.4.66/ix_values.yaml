@@ -5,7 +5,7 @@ image:
 nginxImage:
   repository: nginxinc/nginx-unprivileged
   pullPolicy: IfNotPresent
-  tag: 1.27.3@sha256:bc25da1e0ccd3f6b89a012c32ca80dbf7a78d85a15fee697ccb4ebd15263db7d
+  tag: 1.27.3@sha256:09132b78cfbfedfdd1d8b53ae3b018bfff10e3ad6595b2002dd6ed91faec4c48
 imaginaryImage:
   repository: tccr.io/tccr/nextcloud-imaginary
   pullPolicy: IfNotPresent
@@ -21,7 +21,7 @@ clamavImage:
 collaboraImage:
   repository: collabora/code
   pullPolicy: IfNotPresent
-  tag: 24.04.11.1.1@sha256:d5b2d6e54f074d8d936a21dccd7bff258446443733e1fa87a4171e51ecd974dc
+  tag: 24.04.11.2.1@sha256:1cf62aa5db7f7e94d0b286f5acdd2ff823f1ef87fedffef1f487abcec5d30e9a
 
 nextcloud:
   # Initial Credentials
