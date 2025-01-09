@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: docker
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "27.4.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,20 +17,19 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Snapdrop A local file sharing in your browser. Inspired by Apple"s Airdrop.
-home: https://truecharts.org/charts/stable/snapdrop
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/snapdrop.webp
+description: Dedicated App for using Docker-in-Docker
+home: https://truecharts.org/charts/stable/docker
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/docker.webp
 keywords:
-  - snapdrop
+  - docker
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: snapdrop
+name: docker
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/snapdrop
-  - https://github.com/linuxserver/docker-snapdrop
-  - https://hub.docker.com/r/linuxserver/snapdrop
+  - https://github.com/truecharts/charts/tree/master/charts/stable/docker
+  - https://hub.docker.com/_/docker
 type: application
-version: 11.1.23
+version: 9.1.45
