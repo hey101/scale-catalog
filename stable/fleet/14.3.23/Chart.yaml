@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: GIT
+  truecharts.org/category: incubator
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.22.6"
+appVersion: "2.3.3"
 dependencies:
   - name: common
     version: 24.1.11
@@ -16,34 +16,27 @@ dependencies:
     alias: ''
     tags: []
     import-values: []
-  - name: memcached
-    version: 14.1.6
+  - name: mariadb
+    version: 15.2.5
     repository: https://petersandor.github.io/truecharts-common
-    condition: memcached.enabled
+    condition: mariadb.enabled
     alias: ''
     tags: []
     import-values: []
 deprecated: false
-description: Self hosted GIT repositories
-home: https://truecharts.org/charts/stable/gitea
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/gitea.webp
+description: Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.
+home: https://truecharts.org/charts/stable/fleet
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/fleet.webp
 keywords:
-  - git
-  - issue tracker
-  - code review
-  - wiki
-  - gitea
-  - gogs
+  - fleet
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: gitea
+name: fleet
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/gitea
-  - https://gitea.com/gitea/helm-chart
-  - https://github.com/go-gitea/gitea
-  - https://hub.docker.com/r/gitea/gitea
+  - https://github.com/truecharts/charts/tree/master/charts/stable/fleet
+  - https://ghcr.io/linuxserver/fleet
 type: application
-version: 20.3.12
+version: 14.3.23
