@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/22.4.12",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.3.0_22.4.12",
         "version": "22.4.12",
@@ -5477,12 +5477,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/22.4.10",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.2.3_22.4.10",
         "version": "22.4.10",
@@ -10950,12 +10950,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/21.2.8",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.1.0_21.2.8",
         "version": "21.2.8",
@@ -16420,12 +16420,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/21.2.7",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.1.0_21.2.7",
         "version": "21.2.7",
@@ -21890,12 +21890,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/20.20.25",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.1.0_20.20.25",
         "version": "20.20.25",
@@ -27031,12 +27031,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/20.20.24",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.1.0_20.20.24",
         "version": "20.20.24",
@@ -32172,13 +32172,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/19.4.0",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.0.8_19.4.0",
         "version": "19.4.0",
@@ -37356,13 +37356,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/19.3.0",
-        "last_update": "2025-01-09 19:03:30",
+        "last_update": "2025-01-10 00:00:29",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.0.8_19.3.0",
         "version": "19.3.0",
