@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.1.36"
+appVersion: "1.1.38"
 dependencies:
   - name: common
     version: 24.1.11
@@ -35,4 +35,4 @@ sources:
   - https://ghcr.io/ylianst/meshcentral
   - https://github.com/Ylianst/MeshCentral
 type: application
-version: 17.1.18
+version: 17.1.20
