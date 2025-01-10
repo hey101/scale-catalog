@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/14.1.9",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -5142,10 +5142,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/14.1.8",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -10280,10 +10280,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/13.0.8",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -15415,10 +15415,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/13.0.7",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -20550,10 +20550,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/12.8.14",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -25915,10 +25915,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/12.8.13",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -31280,13 +31280,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/11.3.0",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.5.4_11.3.0",
         "version": "11.3.0",
@@ -36720,13 +36720,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/spotweb/11.2.0",
-        "last_update": "2025-01-10 03:19:01",
+        "last_update": "2025-01-10 06:31:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.5.4_11.2.0",
         "version": "11.2.0",
