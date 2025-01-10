@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/7.1.9",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -5013,7 +5013,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/7.1.8",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -10022,7 +10022,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/6.0.9",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -15028,7 +15028,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/6.0.8",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -20034,7 +20034,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/5.8.14",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -24711,7 +24711,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/5.8.13",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -29388,12 +29388,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/4.3.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -34108,12 +34108,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/maloja/4.2.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

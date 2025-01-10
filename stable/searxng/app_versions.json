@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/9.1.82",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -5119,7 +5119,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/9.1.81",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -10234,7 +10234,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/8.0.23",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -15346,7 +15346,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/8.0.22",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -20458,7 +20458,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/7.8.27",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -25241,7 +25241,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/7.8.26",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -30024,13 +30024,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/6.3.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_6.3.0",
         "version": "6.3.0",
@@ -34850,13 +34850,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/searxng/6.2.1",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_6.2.1",
         "version": "6.2.1",

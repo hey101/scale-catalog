@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/11.11.19",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -6061,7 +6061,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/11.11.18",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -12118,7 +12118,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/10.19.2",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -18172,7 +18172,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/10.19.1",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -24226,7 +24226,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/9.38.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -29838,7 +29838,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/9.32.28",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -35450,13 +35450,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/8.34.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.8.2_8.34.0",
         "version": "8.34.0",
@@ -41105,13 +41105,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/local-ai/8.33.6",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.8.2_8.33.6",
         "version": "8.33.6",

@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/23.2.8",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -6720,7 +6720,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/23.2.7",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -13436,7 +13436,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/22.0.8",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -20149,7 +20149,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/22.0.7",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -26862,7 +26862,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/21.9.14",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -33044,7 +33044,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/21.9.13",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -39226,13 +39226,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/20.2.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "24.01.2_20.2.0",
         "version": "20.2.0",
@@ -45451,13 +45451,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/handbrake/20.1.0",
-        "last_update": "2025-01-10 11:25:31",
+        "last_update": "2025-01-10 14:46:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "24.01.2_20.1.0",
         "version": "20.1.0",
