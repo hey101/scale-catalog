@@ -1,39 +1,39 @@
 image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1@sha256:d115a657fd5938ba3185d9c947babc0b5c9da8c272469091cf9c7171bb3e6f28
+  tag: v2.25.0@sha256:9941689d599c154f15bf88d9ae7942d388909a2711ead51b8534f7ee3487f869
 ffmpegImage:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-ffmpeg-core@sha256:4c95ed59701b7365abe291f1b2f0b0e53d912b39379fefba8282b361f8c1a742
+  tag: v2.24.2-ffmpeg-core@sha256:56adad108dcb9c676d6613eb289f20988e1ef8211dfab48da94a6782a2a02622
 cublasCuda12Image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-cublas-cuda12-core@sha256:b02bf45acc1c234f8b079d6dffba12d9e1c20cfd83154f617ee09fe9c94366b3
+  tag: v2.25.0-cublas-cuda12-core@sha256:26a399963615f05e98e6a1d03142fb9a34da5899556e424eec3f7d6ca56a74f2
 cublasCuda12FfmpegImage:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-cublas-cuda12-ffmpeg-core@sha256:5d941c90da03cba131daf9f9a4c1ae6133b3686ddf79973c9fb7e5f40448c65b
+  tag: v2.24.2-cublas-cuda12-ffmpeg-core@sha256:d5f6b956ccafb6c58eed988c8cd699c5fcbc78af428987d0d59f6acfb27e6090
 cublasCuda11Image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-cublas-cuda11-core@sha256:c392dab07d2672b4c0b5da02c0f7063b8ab42f11cd43508f21acf4aeb6c93660
+  tag: v2.25.0-cublas-cuda11-core@sha256:07c6e5699bd4242d54aaa1d61fd633d63b76780b7b4c266e08ef409da1a896e2
 cublasCuda11FfmpegImage:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-cublas-cuda11-ffmpeg-core@sha256:5e6682ce53db6a6f271aa0d400f0801007df94e98d1e40c1641dc6366ead33b4
+  tag: v2.24.2-cublas-cuda11-ffmpeg-core@sha256:c5ff9f07daa577ec4e6c0e52fcc81811845d64b5c2dd0046edc584fe5d3c6bf7
 allInOneCuda12Image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-aio-gpu-nvidia-cuda-12@sha256:577d5b84704bcce9201b4da5e08b2ee84c1ad145522216c8dcdcdcfbbd725a85
+  tag: v2.25.0-aio-gpu-nvidia-cuda-12@sha256:1d517dbfed3445973a90b328659b9c51b066bec42af243eb43376c63c2d93b84
 allInOneCuda11Image:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-aio-gpu-nvidia-cuda-11@sha256:7302225fe722b3bfedb027baa7edbb4ad098d0952b62e260f1d46b6c2f0f485f
+  tag: v2.25.0-aio-gpu-nvidia-cuda-11@sha256:5ea947a9d79f69db9e7af889bdfbf1e7b2e66de34f65ab0f485e168597651dba
 allInOneCpuImage:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent
-  tag: v2.22.1-aio-cpu@sha256:ada88782e0de87383223e3fa8c7bbe2885ed0c285f4698eb1437780a2eace855
+  tag: v2.24.2-aio-cpu@sha256:d851da8788da823eed61d5300bc68668f145147e2f4a3d5705b4cd4db4a779a6
 securityContext:
   container:
     runAsNonRoot: false
