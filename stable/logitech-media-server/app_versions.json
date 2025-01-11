@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/13.1.10",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.0.0_13.1.10",
         "version": "13.1.10",
@@ -5538,12 +5538,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/13.1.9",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "9.0.0_13.1.9",
         "version": "13.1.9",
@@ -11072,12 +11072,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/12.0.18",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "stable_12.0.18",
         "version": "12.0.18",
@@ -16603,12 +16603,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/12.0.17",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "stable_12.0.17",
         "version": "12.0.17",
@@ -22134,12 +22134,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/11.8.24",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "stable_11.8.24",
         "version": "11.8.24",
@@ -27336,12 +27336,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/11.8.23",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "stable_11.8.23",
         "version": "11.8.23",
@@ -32538,13 +32538,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/10.3.0",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
+            "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "stable_10.3.0",
         "version": "10.3.0",
@@ -37783,13 +37783,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/logitech-media-server/10.2.1",
-        "last_update": "2025-01-11 10:32:36",
+        "last_update": "2025-01-11 14:41:31",
         "required_features": [
+            "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "stable_10.2.1",
         "version": "10.2.1",
