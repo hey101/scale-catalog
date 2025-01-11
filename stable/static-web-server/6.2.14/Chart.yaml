@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "2.33.1"
+appVersion: "2.35.0"
 dependencies:
   - name: common
     version: 24.1.11
@@ -36,4 +36,4 @@ sources:
   - https://github.com/static-web-server/static-web-server
   - https://static-web-server.net
 type: application
-version: 6.2.12
+version: 6.2.14
