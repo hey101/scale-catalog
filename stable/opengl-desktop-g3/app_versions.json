@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/7.1.14",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_7.1.14",
@@ -5100,10 +5100,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/7.1.13",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_7.1.13",
@@ -10196,10 +10196,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/6.0.9",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_6.0.9",
@@ -15289,10 +15289,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/6.0.8",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_6.0.8",
@@ -20382,10 +20382,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/5.8.14",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_5.8.14",
@@ -25146,10 +25146,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/5.8.13",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_5.8.13",
@@ -29910,11 +29910,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/4.3.0",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_4.3.0",
@@ -34717,11 +34717,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/opengl-desktop-g3/4.2.0",
-        "last_update": "2025-01-10 19:21:22",
+        "last_update": "2025-01-10 22:39:55",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "latest_4.2.0",
