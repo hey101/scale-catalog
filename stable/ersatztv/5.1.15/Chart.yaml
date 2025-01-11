@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: Networking
+  truecharts.org/category: media
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "8.5.6"
+appVersion: "25.1.0"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,22 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Ubiquiti Network"s Unifi Controller
-home: https://truecharts.org/charts/stable/unifi
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/unifi.webp
+description: ErsatzTV configuring and streaming custom live channels using your media library.
+home: https://truecharts.org/charts/stable/ersatztv
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/ersatztv.webp
 keywords:
-  - ubiquiti
-  - unifi
+  - ersatztv
+  - media
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: unifi
+name: ersatztv
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/unifi
-  - https://ghcr.io/goofball222/unifi
-  - https://github.com/jacobalberty/unifi-docker
-  - https://unifi-network.ui.com
+  - https://github.com/truecharts/charts/tree/master/charts/stable/ersatztv
+  - https://github.com/jasongdove/ErsatzTV
+  - https://hub.docker.com/r/jasongdove/ersatztv
 type: application
-version: 22.3.10
+version: 5.1.15
