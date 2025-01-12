@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "latest"
+appVersion: "1.5.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,22 +17,26 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Get all your books, like series with Sonarr...
-home: https://truecharts.org/charts/stable/lazylibrarian
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.webp
+description: Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements
+home: https://truecharts.org/charts/stable/bazarr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp
 keywords:
-  - lazylibrarian
-  - ebooks
+  - bazarr
+  - radarr
+  - sonarr
+  - subtitles
+  - usenet
+  - torrent
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: lazylibrarian
+name: bazarr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/lazylibrarian
-  - https://ghcr.io/linuxserver/lazylibrarian
-  - https://gitlab.com/LazyLibrarian/LazyLibrarian.git
-  - https://lazylibrarian.gitlab.io
+  - https://github.com/truecharts/charts/tree/master/charts/stable/bazarr
+  - https://ghcr.io/onedr0p/bazarr
+  - https://ghcr.io/onedr0p/exportarr
+  - https://github.com/morpheus65535/bazarr
 type: application
-version: 20.1.77
+version: 21.1.18
