@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.4.1"
+appVersion: "1.4.2"
 dependencies:
   - name: common
     version: 24.1.11
@@ -35,4 +35,4 @@ sources:
   - https://github.com/RickDB/PlexAniSync
   - https://github.com/RickDB/PlexAniSync/pkgs/container/plexanisync
 type: application
-version: 8.1.9
+version: 8.1.11
