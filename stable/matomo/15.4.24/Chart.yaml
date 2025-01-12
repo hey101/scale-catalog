@@ -1,13 +1,13 @@
 annotations:
   max_scale_version: 24.04.2.5
   min_scale_version: 24.04.0
-  truecharts.org/category: website
+  truecharts.org/category: productivity
   truecharts.org/max_helm_version: '3.15'
   truecharts.org/min_helm_version: '3.11'
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "6.6.2"
+appVersion: "5.2.1"
 dependencies:
   - name: common
     version: 24.1.11
@@ -24,21 +24,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: The WordPress rich content management system can utilize plugins, widgets, and themes.
-home: https://truecharts.org/charts/stable/wordpress
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.webp
+description: Matomo is the leading Free/Libre open analytics platform
+home: https://truecharts.org/charts/stable/matomo
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/matomo.webp
 keywords:
-  - wordpress
-  - cms
+  - analytics
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: wordpress
+name: matomo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
-  - https://hub.docker.com/r/bitnami/wordpress
-  - https://www.wordpress.org
+  - https://github.com/truecharts/charts/tree/master/charts/stable/matomo
+  - https://github.com/bitnami/bitnami-docker-matomo
+  - https://github.com/matomo-org/matomo
+  - https://hub.docker.com/r/bitnami/matomo
 type: application
-version: 9.4.43
+version: 15.4.24
