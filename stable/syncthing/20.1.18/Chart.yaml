@@ -7,7 +7,7 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "1.29.1.490"
+appVersion: "1.29.2"
 dependencies:
   - name: common
     version: 24.1.11
@@ -17,24 +17,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps.
-home: https://truecharts.org/charts/stable/prowlarr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.webp
+description: P2P file synchronization application
+home: https://truecharts.org/charts/stable/syncthing
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/syncthing.webp
 keywords:
-  - prowlarr
-  - torrent
-  - usenet
+  - syncthing
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: prowlarr
+name: syncthing
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/prowlarr
-  - https://ghcr.io/onedr0p/exportarr
-  - https://ghcr.io/onedr0p/prowlarr-develop
-  - https://github.com/Prowlarr/Prowlarr
-  - https://github.com/k8s-at-home/container-images
+  - https://github.com/truecharts/charts/tree/master/charts/stable/syncthing
+  - https://github.com/syncthing/syncthing
+  - https://hub.docker.com/r/syncthing/syncthing
+  - https://syncthing.net/
 type: application
-version: 18.3.18
+version: 20.1.18
