@@ -17,20 +17,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: 'Tracks is a web-based todo application to help you implement the GTD   methodology. '
-home: https://truecharts.org/charts/stable/tracks
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/tracks.webp
+description: Meta search engine which aggregates results from more than 70 search services.
+home: https://truecharts.org/charts/stable/searxng
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/searxng.webp
 keywords:
-  - tracks
+  - searxng
   - Productivity
+  - Other
 kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: tracks
+name: searxng
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/tracks
-  - https://hub.docker.com/r/tracksapp/tracks
+  - https://github.com/truecharts/charts/tree/master/charts/stable/searxng
+  - https://github.com/searxng/searxng
+  - https://hub.docker.com/r/searxng/searxng
 type: application
-version: 7.1.32
+version: 9.1.83
