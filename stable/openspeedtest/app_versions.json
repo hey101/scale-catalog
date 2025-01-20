@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/10.1.10",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_10.1.10",
@@ -4665,11 +4665,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/10.1.9",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_10.1.9",
@@ -9326,11 +9326,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/9.0.9",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_9.0.9",
@@ -13984,11 +13984,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/9.0.8",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_9.0.8",
@@ -18642,11 +18642,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/8.8.14",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_8.8.14",
@@ -23072,11 +23072,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/8.8.13",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_8.8.13",
@@ -27502,13 +27502,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/7.3.0",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -31975,13 +31975,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openspeedtest/7.2.0",
-        "last_update": "2025-01-11 22:23:50",
+        "last_update": "2025-01-19 23:19:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
