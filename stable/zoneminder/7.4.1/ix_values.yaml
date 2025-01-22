@@ -1,0 +1,48 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/dlandon/zoneminder.unraid
+  tag: latest@sha256:c91c1a8ab4e72772661d77b6dc302ab56bbe522ad7a7f794b3b531e30378f3e4
+persistence:
+  varrun:
+    enabled: false
+  config:
+    enabled: true
+    mountPath: /config
+  datapath:
+    enabled: true
+    mountPath: /var/cache/zoneminder
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10292
+        protocol: https
+        targetPort: 443
+  zmninja:
+    enabled: true
+    ports:
+      zmninja:
+        enabled: true
+        port: 10293
+        protocol: tcp
+        targetPort: 9000
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              path: /zm
+            readiness:
+              path: /zm
+            startup:
+              path: /zm

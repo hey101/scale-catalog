@@ -1,0 +1,40 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/mindustry-server
+  tag: latest@sha256:89d872c76c01f14c108d5bfe09cc3407254c03ed15240532400acbc887d239bb
+persistence:
+  serverfiles:
+    enabled: true
+    mountPath: /mindustry
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 6567
+        protocol: tcp
+        targetPort: 6567
+  udpgameport:
+    enabled: true
+    ports:
+      udpgameport:
+        enabled: true
+        port: 6567
+        protocol: udp
+        targetPort: 6567
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            GAME_PARAMS: ""
+            GAME_V: latest@sha256:f0065aa44fb1c38b7fc30d34e220138dc0a0c6477b78eb7f59015622c2052030
+            SRV_NAME: DockerMindustry

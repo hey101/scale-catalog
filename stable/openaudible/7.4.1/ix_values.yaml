@@ -1,0 +1,23 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/openaudible/openaudible
+  tag: latest@sha256:f912e5982bab568aa440f0b6121c32ff19ec0fbcb83676ca92ee90ff7e7bd7c3
+persistence:
+  config:
+    enabled: true
+    mountPath: /config/OpenAudible
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10325
+        protocol: http
+        targetPort: 3000

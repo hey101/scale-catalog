@@ -1,0 +1,49 @@
+image:
+  repository: docker.io/koush/scrypted
+  tag: v0.121.0-jammy-full@sha256:21b998e51a3369a3be1276c82dd393b32c73555c86179942d0534a04d8586cd7
+  pullPolicy: Always
+liteImage:
+  repository: docker.io/koush/scrypted
+  tag: v0.121.0-jammy-lite@sha256:e129b3045eaaca17a9d432f3632b3576e0b4b54a622d59ecf93f2e579a5b4164
+  pullPolicy: Always
+nvidiaImage:
+  repository: docker.io/koush/scrypted
+  tag: v0.121.0-jammy-nvidia@sha256:25d413d0745599b86a4e308a05ed7d655c2b7f99e0f92fe62be5a42b1d75f30c
+  pullPolicy: Always
+
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        port: 10611
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          imageSelector: image
+          env:
+            SCRYPTED_INSECURE_PORT: "{{ .Values.service.main.ports.main.port }}"
+            # SCRYPTED_WEBHOOK_UPDATE_AUTHORIZATION: Bearer SET_THIS_TO_SOME_RANDOM_TEXT
+            # SCRYPTED_WEBHOOK_UPDATE: http://localhost:10444/v1/update
+
+persistence:
+  server:
+    enabled: true
+    mountPath: /server/volume
+  media:
+    enabled: true
+    mountPath: /media/external
+
+portal:
+  open:
+    enabled: true
