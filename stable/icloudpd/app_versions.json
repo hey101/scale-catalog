@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/8.4.1",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.0.826_8.4.1",
         "version": "8.4.1",
@@ -5137,12 +5137,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/8.1.10",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.0.826_8.1.10",
         "version": "8.1.10",
@@ -10270,12 +10270,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/7.0.15",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.0.826_7.0.15",
         "version": "7.0.15",
@@ -15400,12 +15400,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/7.0.14",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.0.826_7.0.14",
         "version": "7.0.14",
@@ -20530,12 +20530,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/6.8.14",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.0.733_6.8.14",
         "version": "6.8.14",
@@ -25230,12 +25230,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/6.8.13",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.0.733_6.8.13",
         "version": "6.8.13",
@@ -29930,13 +29930,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/5.3.0",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "1.0.718_5.3.0",
         "version": "5.3.0",
@@ -34673,13 +34673,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/icloudpd/5.2.2",
-        "last_update": "2025-01-22 03:00:05",
+        "last_update": "2025-01-22 05:12:21",
         "required_features": [
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "1.0.718_5.2.2",
         "version": "5.2.2",
