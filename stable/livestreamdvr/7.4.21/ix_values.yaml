@@ -1,6 +1,6 @@
 image:
   pullPolicy: IfNotPresent
-  repository: mrbrax/twitchautomator
+  repository: docker.io/mrbrax/twitchautomator
   tag: master@sha256:20abcea3aab0b2e7d1bd406a8fe355a4271562ec1467f450178413f46e6c24b8
 
 securityContext:
