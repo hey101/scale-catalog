@@ -32,7 +32,7 @@ localpv-provisioner:
       # For example : quay.io/ is a correct value here and quay.io is incorrect
       registry:
       repository: openebs/provisioner-localpv
-      tag: 4.1.2@sha256:40b4bb60b67b1b9d55db8940c8753e520b2840392091aa55f879e7e64d986330
+      tag: 4.1.3@sha256:3b16f880f958239c0863fad2c81ce3cfed23ff3a266f575c265e9a62ee806da4
       pullPolicy: IfNotPresent
     updateStrategy:
       type: RollingUpdate
