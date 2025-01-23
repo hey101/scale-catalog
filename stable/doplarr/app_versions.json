@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/11.4.1",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.6.3_11.4.1",
         "version": "11.4.1",
@@ -3784,12 +3784,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/11.1.9",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.6.3_11.1.9",
         "version": "11.1.9",
@@ -7564,12 +7564,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/10.0.9",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.6.3_10.0.9",
         "version": "10.0.9",
@@ -11341,12 +11341,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/10.0.8",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.6.3_10.0.8",
         "version": "10.0.8",
@@ -15118,12 +15118,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/9.8.14",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.6.3_9.8.14",
         "version": "9.8.14",
@@ -18667,12 +18667,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/9.8.13",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.6.3_9.8.13",
         "version": "9.8.13",
@@ -22216,13 +22216,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/8.3.0",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "3.6.3_8.3.0",
         "version": "8.3.0",
@@ -25808,13 +25808,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/doplarr/8.2.0",
-        "last_update": "2025-01-23 02:42:06",
+        "last_update": "2025-01-23 06:17:28",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "3.6.3_8.2.0",
         "version": "8.2.0",
