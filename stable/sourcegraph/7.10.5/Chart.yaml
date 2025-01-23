@@ -1,24 +1,23 @@
 annotations:
-  max_scale_version: 24.04.2.5
+  max_scale_version: 24.04.1
   min_scale_version: 24.04.0
   truecharts.org/category: Backup
-  truecharts.org/max_helm_version: '3.15'
-  truecharts.org/min_helm_version: '3.11'
+  truecharts.org/max_helm_version: "3.15"
+  truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
-  truecharts.org/SCALE-support: 'true'
 apiVersion: v2
-appVersion: "5.11.4013"
+appVersion: "5.11.6271"
 dependencies:
   - name: common
-    version: 24.1.11
-    repository: https://petersandor.github.io/truecharts-common
-    condition: ''
-    alias: ''
+    version: 25.4.3
+    repository: oci://tccr.io/truecharts
+    condition: ""
+    alias: ""
     tags: []
     import-values: []
 deprecated: false
 description: Sourcegraph Chart.
-home: https://truecharts.org/charts/stable/sourcegraph
+home: https://github.com/hey101/charts/stable/sourcegraph
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/sourcegraph.webp
 keywords:
   - sourcegraph
@@ -27,14 +26,15 @@ keywords:
   - Network-Web
   - Productivity
   - Tools-Utilities
-kubeVersion: '>=1.24.0-0'
+kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
 name: sourcegraph
 sources:
+  - https://github.com/hey101/charts/tree/master/charts/stable/sourcegraph
   - https://github.com/truecharts/charts/tree/master/charts/stable/sourcegraph
   - https://hub.docker.com/r/sourcegraph/server
 type: application
-version: 7.3.14
+version: 7.10.5
