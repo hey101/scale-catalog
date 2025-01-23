@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/12.4.1",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "ee8a20c_12.4.1",
         "version": "12.4.1",
@@ -5284,12 +5284,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/12.1.9",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "ee8a20c_12.1.9",
         "version": "12.1.9",
@@ -10564,12 +10564,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/11.0.8",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "ee8a20c_11.0.8",
         "version": "11.0.8",
@@ -15841,12 +15841,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/11.0.7",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "ee8a20c_11.0.7",
         "version": "11.0.7",
@@ -21118,12 +21118,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/10.8.14",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "ee8a20c_10.8.14",
         "version": "10.8.14",
@@ -26066,12 +26066,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/10.8.13",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "ee8a20c_10.8.13",
         "version": "10.8.13",
@@ -31014,13 +31014,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/9.3.0",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "ee8a20c_9.3.0",
         "version": "9.3.0",
@@ -36005,13 +36005,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/static/9.2.0",
-        "last_update": "2025-01-23 00:08:33",
+        "last_update": "2025-01-23 02:42:06",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "ee8a20c_9.2.0",
         "version": "9.2.0",
