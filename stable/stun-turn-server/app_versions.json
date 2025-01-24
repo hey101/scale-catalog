@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/8.4.1",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.4.1",
@@ -5355,11 +5355,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/8.1.11",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.1.11",
@@ -10706,11 +10706,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/7.0.8",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.0.8",
@@ -16054,11 +16054,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/7.0.7",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.0.7",
@@ -21402,11 +21402,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/6.8.14",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.8.14",
@@ -26421,11 +26421,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/6.8.13",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.8.13",
@@ -31440,13 +31440,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/5.3.0",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.3.0",
         "version": "5.3.0",
@@ -36502,13 +36502,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stun-turn-server/5.2.0",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.2.0",
         "version": "5.2.0",

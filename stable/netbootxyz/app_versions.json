@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/6.4.1",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.3_6.4.1",
@@ -6593,11 +6593,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/6.1.10",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.3_6.1.10",
@@ -13182,11 +13182,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/5.0.9",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.0_5.0.9",
@@ -19768,11 +19768,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/5.0.8",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.0_5.0.8",
@@ -26354,11 +26354,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/4.8.14",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.0_4.8.14",
@@ -32510,11 +32510,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/4.8.13",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.0_4.8.13",
@@ -38666,13 +38666,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/3.3.0",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.7.0_3.3.0",
         "version": "3.3.0",
@@ -44865,13 +44865,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/netbootxyz/3.2.0",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.7.0_3.2.0",
         "version": "3.2.0",

@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/5.1.11",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.1.11",
@@ -5650,11 +5650,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/5.1.10",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.1.10",
@@ -11296,11 +11296,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/4.0.8",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.0.8",
@@ -16939,11 +16939,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/4.0.7",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.0.7",
@@ -22582,11 +22582,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/3.8.14",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_3.8.14",
@@ -28354,11 +28354,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/3.8.13",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_3.8.13",
@@ -34126,13 +34126,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/2.3.0",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.3.0",
         "version": "2.3.0",
@@ -39973,13 +39973,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellystat/2.2.0",
-        "last_update": "2025-01-24 15:16:01",
+        "last_update": "2025-01-24 17:48:42",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.2.0",
         "version": "2.2.0",
