@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/7.4.2",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -6058,10 +6058,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/7.1.17",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -12112,10 +12112,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/6.0.11",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -18163,10 +18163,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/6.0.10",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -24214,10 +24214,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/5.8.14",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -29835,10 +29835,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/5.8.13",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -35456,13 +35456,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/4.3.0",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -41120,13 +41120,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/universal-media-server/4.2.0",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

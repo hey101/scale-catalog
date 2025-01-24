@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/10.6.1",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -4489,10 +4489,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/10.2.11",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -8974,10 +8974,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/9.0.8",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -13456,10 +13456,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/9.0.7",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -17938,10 +17938,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/8.8.15",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -22091,10 +22091,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/8.8.14",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -26244,13 +26244,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/7.3.0",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.6.3_7.3.0",
         "version": "7.3.0",
@@ -30440,13 +30440,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/7.2.0",
-        "last_update": "2025-01-23 22:55:10",
+        "last_update": "2025-01-24 01:57:55",
         "required_features": [
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.6.3_7.2.0",
         "version": "7.2.0",
