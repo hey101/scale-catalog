@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/tccr/nextcloud-fpm
   pullPolicy: IfNotPresent
-  tag: v30.0.0@sha256:a67e7515d596fc6d9d54095528d0c1b76573ac1093a61c54adb7cefc24ed32fc
+  tag: v30.0.0@sha256:5fe06043249e97091deccb4db9e33a481a84849cc436facb587ed2af59250bfe
 nginxImage:
   repository: docker.io/nginxinc/nginx-unprivileged
   pullPolicy: IfNotPresent
