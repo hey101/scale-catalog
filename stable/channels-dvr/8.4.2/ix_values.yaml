@@ -5,7 +5,7 @@ image:
 tveImage:
   repository: docker.io/fancybits/channels-dvr
   pullPolicy: Always
-  tag: tve@sha256:b0b668d078da29bc06ef4deb8662e9104c7bf1af201c06a9a99141c703b5fd1d
+  tag: tve@sha256:3eb3d95a62b1f41dac3a8f3d61758755d1b9e3751a5e7cfe8f331b1f4bfa607a
 service:
   main:
     ports:
