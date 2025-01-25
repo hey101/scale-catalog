@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/7.1.10",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "cstrikecze_7.1.10",
@@ -5758,10 +5758,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/7.1.9",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "cstrikecze_7.1.9",
@@ -11512,10 +11512,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/6.0.9",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "cstrikeczero_6.0.9",
@@ -17263,10 +17263,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/6.0.8",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "cstrikeczero_6.0.8",
@@ -23014,10 +23014,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/5.8.14",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "cstrikeczero_5.8.14",
@@ -28335,10 +28335,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/5.8.13",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "cstrikeczero_5.8.13",
@@ -33656,12 +33656,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/4.3.0",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "cstrikeczero_4.3.0",
         "version": "4.3.0",
@@ -39020,12 +39020,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cstrikeconditionzero/4.2.0",
-        "last_update": "2025-01-24 17:48:42",
+        "last_update": "2025-01-24 23:29:41",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "cstrikeczero_4.2.0",
         "version": "4.2.0",
