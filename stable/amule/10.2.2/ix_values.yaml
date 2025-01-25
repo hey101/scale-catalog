@@ -1,0 +1,81 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ngosang/amule
+  tag: 2.3.3-18test@sha256:3ef93d32a37bf73b22330b310112b4db42b78514930e217a3040980c4f36ee80
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 4711
+        protocol: http
+        targetPort: 4711
+  remote:
+    enabled: true
+    ports:
+      gui:
+        enabled: true
+        port: 4712
+        protocol: tcp
+        targetPort: 4712
+  ed2k:
+    enabled: true
+    ports:
+      tcp:
+        enabled: true
+        port: 4662
+        protocol: tcp
+        targetPort: 4662
+      # ed2k global search udp (tcp port +3)
+      udp:
+        enabled: true
+        port: 4665
+        protocol: udp
+        targetPort: 4665
+      udp2:
+        enabled: true
+        port: 4672
+        protocol: udp
+        targetPort: 4672
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env:
+            WEBUI_PWD: ""
+            GUI_PWD: ""
+            MOD_AUTO_RESTART_ENABLED: true
+            MOD_AUTO_RESTART_CRON: "0 6 * * *"
+            # MOD_AUTO_SHARE_ENABLED: false
+            # MOD_AUTO_SHARE_DIRECTORIES=/incoming;/my_movies
+            # MOD_FIX_KAD_GRAPH_ENABLED=true
+            # MOD_FIX_KAD_BOOTSTRAP_ENABLED=true
+persistence:
+  config:
+    enabled: true
+    mountPath: /home/amule/.aMule
+  complete:
+    enabled: true
+    mountPath: /incoming
+  incomplete:
+    enabled: true
+    mountPath: /temp
+portal:
+  open:
+    enabled: true

@@ -1,0 +1,37 @@
+image:
+  repository: docker.io/modem7/docker-rickroll
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:484a0f078e26f587ce1e88a05557170be26f14929a058c5d0c364d057294d483
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        port: 10289
+        targetPort: 8080
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+            readiness:
+              type: http
+            startup:
+              type: http
+          env:
+            TITLE: "Rickroll"
+            HEIGHT: "100vh"
+            WIDTH: "100%"
+            HEADLINE: ""
+portal:
+  open:
+    enabled: true

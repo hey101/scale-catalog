@@ -1,0 +1,28 @@
+image:
+  repository: docker.io/biospheere/promcord
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  main:
+    ports:
+      main:
+        type: ClusterIP
+        enabled: true
+        port: 8080
+# env:
+#   DISCORD_TOKEN:
+metrics:
+  main:
+    enabled: true
+    type: "servicemonitor"
+    endpoints:
+      - port: main
+        path: /metrics
+    prometheusRule:
+      enabled: false
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false

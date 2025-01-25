@@ -1,0 +1,39 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/xonotic
+  tag: latest@sha256:55c1f415c7a16e7379ca4c1131e53c5334f6e7d1bd6d829d5406cad26c5c777b
+persistence:
+  serverfiles:
+    enabled: true
+    mountPath: /serverdata/serverfiles
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 26000
+        protocol: udp
+        targetPort: 26000
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            BASIC_URL: https://dl.xonotic.org/
+            GAME_PARAMS: ""
+            GAME_VERSION: 0.8.2
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

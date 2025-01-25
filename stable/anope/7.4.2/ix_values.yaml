@@ -1,0 +1,45 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/anope
+  tag: latest@sha256:821f20471a7b22595ef2d77ac50eca72d74fa0d8e26d08eee2f8c94d2a328214
+persistence:
+  datapath:
+    enabled: true
+    mountPath: /anope
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            CASEMAP: rfc1459
+            DATA_PERM: "770"
+            HOST: irc.example.com
+            IP_ADDR: ""
+            IRCD: inspircd3
+            LOCAL_HOSTNAME: services
+            PASSWORD: ""
+            PORT: "7000"
+            SSL: "yes"
+
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

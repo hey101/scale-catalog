@@ -1,0 +1,45 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/steamcmd
+  tag: stn@sha256:c5f785056413fe133dafe2611fd50e5097da49a38cf625afa9bf36a00d5ee12d
+persistence:
+  serverfiles:
+    enabled: true
+    mountPath: /serverdata/serverfiles
+  steamcmd:
+    enabled: true
+    mountPath: /serverdata/steamcmd
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 7950
+        protocol: udp
+        targetPort: 7950
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DEBUG_OUTPUT: "false"
+            GAME_ID: "1502300"
+            GAME_PARAMS: ""
+            PASSWRD: ""
+            USERNAME: ""
+            VALIDATE: "false"
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

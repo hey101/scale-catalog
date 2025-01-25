@@ -1,0 +1,41 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/online-check-pushover
+  tag: latest@sha256:1ad48c72c25a975205cff5632671582da48952bd6c2039e5b8d030f2a6400d88
+persistence: {}
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            HOST: google.com
+            PING_INTERVAL: "300"
+            PING_RETRY: "3600"
+            PING_TIMEOUT: "10"
+            PUSHOVER_APP_TOKEN: ""
+            PUSHOVER_MESSAGE: google.com is offline!
+            PUSHOVER_PRIORITY: "0"
+            PUSHOVER_TITLE: Online Check
+            PUSHOVER_USER_TOKEN: ""
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
