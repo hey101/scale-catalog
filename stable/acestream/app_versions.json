@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/8.5.1",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.0.2.8_8.5.1",
         "version": "8.5.1",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/8.1.9",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.0.2.8_8.1.9",
         "version": "8.1.9",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/7.0.9",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.0.2.8_7.0.9",
         "version": "7.0.9",
@@ -15832,12 +15832,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/7.0.8",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.0.2.8_7.0.8",
         "version": "7.0.8",
@@ -21106,12 +21106,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/6.8.14",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.0.2.8_6.8.14",
         "version": "6.8.14",
@@ -26051,12 +26051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/6.8.13",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.0.2.8_6.8.13",
         "version": "6.8.13",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/5.3.0",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.0.2.8_5.3.0",
         "version": "5.3.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/acestream/5.2.0",
-        "last_update": "2025-01-25 02:19:47",
+        "last_update": "2025-01-25 05:59:21",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.0.2.8_5.2.0",
         "version": "5.2.0",
