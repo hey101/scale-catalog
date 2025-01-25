@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/4.4.1",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "cpu_4.4.1",
@@ -5908,11 +5908,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/4.1.10",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "cpu_4.1.10",
@@ -11812,11 +11812,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/3.1.9",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "2.5.1_3.1.9",
@@ -17713,11 +17713,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/3.0.9",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "2.5.1_3.0.9",
@@ -23614,11 +23614,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/2.8.14",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "2.5.1_2.8.14",
@@ -29085,11 +29085,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/2.8.13",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "2.5.1_2.8.13",
@@ -34556,13 +34556,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/1.2.0",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.5.1_1.2.0",
         "version": "1.2.0",
@@ -40070,13 +40070,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/codeproject-ai-server/1.1.0",
-        "last_update": "2025-01-25 09:52:35",
+        "last_update": "2025-01-25 16:45:34",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.5.1_1.1.0",
         "version": "1.1.0",
