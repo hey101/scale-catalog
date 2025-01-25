@@ -1,24 +1,17 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: learning
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.7.5"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 25.4.3
     repository: oci://tccr.io/truecharts
     condition: ""
-    alias: ""
-    tags: []
-    import-values: []
-  - name: mariadb
-    version: 15.8.0
-    repository: oci://tccr.io/truecharts
-    condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
@@ -30,22 +23,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: CTFd is a Capture The Flag framework focusing on ease of use and customizability.
-home: https://github.com/hey101/charts/stable/ctfd
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/ctfd.webp
+description: A free and open source alternative Twitter front-end focused on privacy and performance.
+home: https://github.com/hey101/charts/stable/nitter
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/nitter.webp
 keywords:
-  - ctfd
-  - learning
+  - nitter
+  - libre
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: ctfd
+name: nitter
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/ctfd
-  - https://ghcr.io/ctfd/ctfd
-  - https://github.com/CTFd/CTFd
-  - https://github.com/truecharts/charts/tree/master/charts/stable/ctfd
+  - https://github.com/hey101/charts/tree/master/charts/stable/nitter
+  - https://github.com/truecharts/charts/tree/master/charts/stable/nitter
+  - https://github.com/zedeus/nitter
+  - https://hub.docker.com/r/zedeus/nitter
 type: application
-version: 6.12.3
+version: 8.9.3
