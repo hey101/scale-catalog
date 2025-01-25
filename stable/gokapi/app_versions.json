@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/7.5.1",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5704,7 +5704,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/7.2.12",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -11404,7 +11404,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/6.0.8",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -17101,7 +17101,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/6.0.7",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -22798,7 +22798,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/5.8.15",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -28065,7 +28065,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/5.8.14",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -33332,12 +33332,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/4.3.0",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.8.0_4.3.0",
         "version": "4.3.0",
@@ -38642,12 +38642,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/4.2.1",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.8.0_4.2.1",
         "version": "4.2.1",

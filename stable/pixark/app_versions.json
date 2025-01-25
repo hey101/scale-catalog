@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/7.4.1",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5861,7 +5861,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/7.1.11",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -11718,7 +11718,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/6.0.9",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -17572,7 +17572,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/6.0.8",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23426,7 +23426,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/5.8.14",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -28850,7 +28850,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/5.8.13",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -34274,12 +34274,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/4.3.0",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "pixark_4.3.0",
         "version": "4.3.0",
@@ -39741,12 +39741,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixark/4.2.0",
-        "last_update": "2025-01-25 16:45:34",
+        "last_update": "2025-01-25 18:31:22",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "pixark_4.2.0",
         "version": "4.2.0",
