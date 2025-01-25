@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/18.2.13",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.7.4_18.2.13",
@@ -5633,11 +5633,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/18.2.12",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.7.3_18.2.12",
@@ -11262,11 +11262,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/17.0.8",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.6.3_17.0.8",
@@ -16888,11 +16888,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/17.0.7",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.6.3_17.0.7",
@@ -22514,11 +22514,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/16.9.16",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.6.3_16.9.16",
@@ -28269,11 +28269,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/16.9.15",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.6.2_16.9.15",
@@ -34024,13 +34024,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/15.3.0",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_15.3.0",
         "version": "15.3.0",
@@ -39854,13 +39854,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/15.2.0",
-        "last_update": "2025-01-25 18:31:22",
+        "last_update": "2025-01-25 21:57:12",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_15.2.0",
         "version": "15.2.0",
