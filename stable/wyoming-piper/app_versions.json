@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/6.4.2",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.0_6.4.2",
         "version": "6.4.2",
@@ -5742,12 +5742,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/6.4.1",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.0_6.4.1",
         "version": "6.4.1",
@@ -11480,12 +11480,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/5.0.8",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.0_5.0.8",
         "version": "5.0.8",
@@ -17215,12 +17215,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/5.0.7",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.0_5.0.7",
         "version": "5.0.7",
@@ -22950,12 +22950,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/4.9.14",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.0_4.9.14",
         "version": "4.9.14",
@@ -28356,12 +28356,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/4.9.13",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.0_4.9.13",
         "version": "4.9.13",
@@ -33762,13 +33762,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/3.3.0",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.4.0_3.3.0",
         "version": "3.3.0",
@@ -39211,13 +39211,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-piper/3.2.0",
-        "last_update": "2025-01-26 11:09:56",
+        "last_update": "2025-01-26 14:30:43",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.4.0_3.2.0",
         "version": "3.2.0",
