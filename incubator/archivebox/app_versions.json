@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/1.2.18",
-        "last_update": "2025-01-25 23:33:06",
+        "last_update": "2025-01-26 05:54:45",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_1.2.18",
         "version": "1.2.18",
@@ -4980,12 +4980,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/1.2.17",
-        "last_update": "2025-01-25 23:33:06",
+        "last_update": "2025-01-26 05:54:45",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_1.2.17",
         "version": "1.2.17",
@@ -9956,13 +9956,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/0.7.2",
-        "last_update": "2025-01-25 23:33:06",
+        "last_update": "2025-01-26 05:54:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_0.7.2",
         "version": "0.7.2",
