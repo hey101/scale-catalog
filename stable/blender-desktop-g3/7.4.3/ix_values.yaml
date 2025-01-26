@@ -1,11 +1,14 @@
 image:
   pullPolicy: IfNotPresent
-  repository: docker.io/accetto/ubuntu-vnc-xfce-opengl-g3
-  tag: latest@sha256:841bab01bd471f25f557e27bb6007bbd15c5f9242985f9972f1a570f24f23bc0
+  repository: docker.io/accetto/ubuntu-vnc-xfce-blender-g3
+  tag: latest@sha256:17d331ef6ddde05b941e361bfb317ceecc279475063d3465d25f0c5c3e402a70
 persistence:
   internalshare:
     enabled: true
     mountPath: /UNRAID_SHARE
+  storageprojects:
+    enabled: true
+    mountPath: /srv/projects
 portal:
   open:
     enabled: true

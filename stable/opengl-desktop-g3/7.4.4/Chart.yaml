@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 25.4.3
+    version: 25.4.6
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -17,10 +17,10 @@ dependencies:
     import-values: []
 deprecated: false
 description: Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D/3D drawing
-home: https://github.com/hey101/charts/stable/blender-desktop-g3
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/blender-desktop-g3.webp
+home: https://github.com/hey101/charts/stable/opengl-desktop-g3
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/opengl-desktop-g3.webp
 keywords:
-  - blender-desktop-g3
+  - opengl-desktop-g3
   - Productivity
   - Tools-Utilities
   - MediaApp-Photos
@@ -30,11 +30,11 @@ maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: blender-desktop-g3
+name: opengl-desktop-g3
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/blender-desktop-g3
+  - https://github.com/hey101/charts/tree/master/charts/stable/opengl-desktop-g3
+  - https://github.com/truecharts/charts/tree/master/charts/stable/opengl-desktop-g3
   - https://github.com/accetto/headless-drawing-g3/
-  - https://github.com/truecharts/charts/tree/master/charts/stable/blender-desktop-g3
-  - https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-blender-g3
+  - https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-opengl-g3
 type: application
-version: 7.4.1
+version: 7.4.4
