@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.4.1"
+appVersion: "2.8.2.4493"
 dependencies:
   - name: common
     version: 25.4.6
@@ -16,23 +16,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Free and easy binary newsreader
-home: https://github.com/hey101/charts/stable/sabnzbd
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/sabnzbd.webp
+description: Looks and smells like Sonarr but made for music
+home: https://github.com/hey101/charts/stable/lidarr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.webp
 keywords:
-  - sabnzbd
+  - lidarr
+  - torrent
   - usenet
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: sabnzbd
+name: lidarr
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/sabnzbd
+  - https://github.com/hey101/charts/tree/master/charts/stable/lidarr
+  - https://ghcr.io/elfhosted/lidarr
   - https://ghcr.io/onedr0p/exportarr
-  - https://ghcr.io/onedr0p/sabnzbd
-  - https://github.com/truecharts/charts/tree/master/charts/stable/sabnzbd
-  - https://sabnzbd.org/
+  - https://github.com/Lidarr/Lidarr
+  - https://github.com/truecharts/charts/tree/master/charts/stable/lidarr
 type: application
-version: 21.5.2
+version: 24.6.3
