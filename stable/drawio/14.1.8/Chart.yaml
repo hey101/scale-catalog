@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "26.0.7"
+appVersion: "26.0.9"
 dependencies:
   - name: common
-    version: 25.4.3
+    version: 25.4.6
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://github.com/jgraph/drawio
   - https://hub.docker.com/r/jgraph/drawio
 type: application
-version: 14.1.6
+version: 14.1.8
