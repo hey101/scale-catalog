@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/7.5.2",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.10.1_7.5.2",
         "version": "7.5.2",
@@ -5905,12 +5905,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/7.5.1",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.10.1_7.5.1",
         "version": "7.5.1",
@@ -11806,12 +11806,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/6.0.9",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.9.5_6.0.9",
         "version": "6.0.9",
@@ -17704,12 +17704,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/6.0.8",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.9.5_6.0.8",
         "version": "6.0.8",
@@ -23602,12 +23602,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/5.8.15",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.9.5_5.8.15",
         "version": "5.8.15",
@@ -29070,12 +29070,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/5.8.14",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.9.5_5.8.14",
         "version": "5.8.14",
@@ -34538,13 +34538,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/4.4.0",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.9.4_4.4.0",
         "version": "4.4.0",
@@ -40049,13 +40049,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/baikal/4.3.0",
-        "last_update": "2025-01-27 10:16:50",
+        "last_update": "2025-01-27 15:08:02",
         "required_features": [
             "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.9.4_4.3.0",
         "version": "4.3.0",
