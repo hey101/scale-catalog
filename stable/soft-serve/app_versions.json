@@ -4,13 +4,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/8.5.3",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.8.2_8.5.3",
         "version": "8.5.3",
@@ -6524,13 +6524,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/8.5.2",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.8.2_8.5.2",
         "version": "8.5.2",
@@ -13044,13 +13044,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/7.0.9",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.7.4_7.0.9",
         "version": "7.0.9",
@@ -19561,13 +19561,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/7.0.8",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.7.4_7.0.8",
         "version": "7.0.8",
@@ -26078,13 +26078,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/6.8.14",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.7.4_6.8.14",
         "version": "6.8.14",
@@ -32064,13 +32064,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/6.8.13",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.7.4_6.8.13",
         "version": "6.8.13",
@@ -38050,14 +38050,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/5.3.0",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.7.4_5.3.0",
         "version": "5.3.0",
@@ -44079,14 +44079,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/soft-serve/5.2.0",
-        "last_update": "2025-01-27 23:41:44",
+        "last_update": "2025-01-28 02:04:02",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/nodeIP",
-            "normalize/interfaceConfiguration"
+            "definitions/nodeIP"
         ],
         "human_version": "0.7.4_5.2.0",
         "version": "5.2.0",
