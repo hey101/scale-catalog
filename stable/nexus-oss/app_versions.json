@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/7.12.3",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.76.1_7.12.3",
         "version": "7.12.3",
@@ -5299,12 +5299,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/7.12.2",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.76.1_7.12.2",
         "version": "7.12.2",
@@ -10594,12 +10594,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/6.1.5",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.68.1_6.1.5",
         "version": "6.1.5",
@@ -15886,12 +15886,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/6.1.4",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.68.1_6.1.4",
         "version": "6.1.4",
@@ -21178,12 +21178,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/5.10.15",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.67.1_5.10.15",
         "version": "5.10.15",
@@ -26141,12 +26141,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/5.10.14",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.67.1_5.10.14",
         "version": "5.10.14",
@@ -31104,13 +31104,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/4.5.0",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.65.0_4.5.0",
         "version": "4.5.0",
@@ -36110,13 +36110,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/4.4.0",
-        "last_update": "2025-01-28 08:07:10",
+        "last_update": "2025-01-28 11:32:02",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.65.0_4.4.0",
         "version": "4.4.0",
