@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/facturascripts/4.1.11",
-        "last_update": "2025-01-28 02:04:02",
+        "last_update": "2025-01-28 06:38:41",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_4.1.11",
