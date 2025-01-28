@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/12.4.2",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.2.7_12.4.2",
         "version": "12.4.2",
@@ -6490,12 +6490,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/12.4.1",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.2.7_12.4.1",
         "version": "12.4.1",
@@ -12976,12 +12976,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/11.0.9",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.2.7_11.0.9",
         "version": "11.0.9",
@@ -19459,12 +19459,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/11.0.8",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.2.7_11.0.8",
         "version": "11.0.8",
@@ -25942,12 +25942,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/10.8.14",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.2.6_10.8.14",
         "version": "10.8.14",
@@ -31894,12 +31894,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/10.8.13",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "0.2.6_10.8.13",
         "version": "10.8.13",
@@ -37846,13 +37846,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/9.3.0",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.2.4_9.3.0",
         "version": "9.3.0",
@@ -43841,13 +43841,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unmanic/9.2.0",
-        "last_update": "2025-01-27 20:29:54",
+        "last_update": "2025-01-27 23:41:44",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.2.4_9.2.0",
         "version": "9.2.0",
