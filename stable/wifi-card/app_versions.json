@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/7.4.2",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.4.2",
         "version": "7.4.2",
@@ -4472,12 +4472,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/7.4.1",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.4.1",
         "version": "7.4.1",
@@ -8940,12 +8940,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/6.0.8",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -13405,12 +13405,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/6.0.7",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.7",
         "version": "6.0.7",
@@ -17870,12 +17870,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/5.9.14",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.9.14",
         "version": "5.9.14",
@@ -22107,12 +22107,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/5.9.13",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.9.13",
         "version": "5.9.13",
@@ -26344,12 +26344,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/4.3.0",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -29523,12 +29523,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wifi-card/4.2.0",
-        "last_update": "2025-01-28 06:38:41",
+        "last_update": "2025-01-28 08:07:10",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
