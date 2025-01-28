@@ -1,7 +1,7 @@
 image:
   repository: docker.io/gaseousgames/gaseousserver
   pullPolicy: IfNotPresent
-  tag: v1.7.8@sha256:a8e7894daa8eaa8c16feeb705f72083ee07c779bb193e13d0ae47996fdd1e327
+  tag: v1.7.9@sha256:cc52d74793d369dee467714eb39079bdd5f9568ce1199db3f9bf0da32011490f
 
 securityContext:
   container:
