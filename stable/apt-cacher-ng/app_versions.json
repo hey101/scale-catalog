@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/10.4.2",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "3.7.4_10.4.2",
         "version": "10.4.2",
@@ -5270,12 +5270,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/10.4.1",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "3.7.4_10.4.1",
         "version": "10.4.1",
@@ -10536,12 +10536,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/9.0.9",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "3.7.4_9.0.9",
         "version": "9.0.9",
@@ -15799,12 +15799,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/9.0.8",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "3.7.4_9.0.8",
         "version": "9.0.8",
@@ -21062,12 +21062,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/8.8.14",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "3.7.4_8.8.14",
         "version": "8.8.14",
@@ -25996,12 +25996,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/8.8.13",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "3.7.4_8.8.13",
         "version": "8.8.13",
@@ -30930,13 +30930,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/7.3.0",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.7.4_7.3.0",
         "version": "7.3.0",
@@ -35907,13 +35907,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/apt-cacher-ng/7.2.0",
-        "last_update": "2025-01-29 02:12:17",
+        "last_update": "2025-01-29 06:43:39",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.7.4_7.2.0",
         "version": "7.2.0",
