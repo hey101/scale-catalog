@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/15.6.12",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.260.1_15.6.12",
@@ -5778,11 +5778,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/15.6.11",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.260.0_15.6.11",
@@ -11552,11 +11552,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/14.2.7",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.207.3_14.2.7",
@@ -17323,11 +17323,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/14.2.6",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.207.2_14.2.6",
@@ -23094,11 +23094,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/13.11.20",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.205.1_13.11.20",
@@ -28994,11 +28994,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/13.11.19",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.205.1_13.11.19",
@@ -34894,13 +34894,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/12.6.0",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "0.204.0_12.6.0",
         "version": "12.6.0",
@@ -40869,13 +40869,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nocodb/12.5.0",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "0.204.0_12.5.0",
         "version": "12.5.0",

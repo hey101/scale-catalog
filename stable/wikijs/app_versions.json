@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/17.1.11",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "2.5.305_17.1.11",
@@ -5027,11 +5027,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/17.1.10",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "2.5.305_17.1.10",
@@ -10050,11 +10050,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/16.0.9",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "2.5.303_16.0.9",
@@ -15070,11 +15070,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/16.0.8",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "2.5.303_16.0.8",
@@ -20090,11 +20090,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/15.8.15",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "2.5.302_15.8.15",
@@ -25340,11 +25340,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/15.8.14",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "2.5.302_15.8.14",
@@ -30590,13 +30590,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/14.3.0",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.5.301_14.3.0",
         "version": "14.3.0",
@@ -35915,13 +35915,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wikijs/14.2.0",
-        "last_update": "2025-01-29 10:26:28",
+        "last_update": "2025-01-29 15:31:14",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.5.301_14.2.0",
         "version": "14.2.0",
