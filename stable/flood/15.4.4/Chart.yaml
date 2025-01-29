@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.9.0"
+appVersion: "4.9.3"
 dependencies:
   - name: common
-    version: 25.4.3
+    version: 25.4.6
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/jesec/flood
   - https://hub.docker.com/r/jesec/flood
 type: application
-version: 15.4.2
+version: 15.4.4
