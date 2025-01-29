@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/projectzomboidreporter-frontend/4.2.0",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_4.2.0",

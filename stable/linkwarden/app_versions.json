@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/6.3.10",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.9.2_6.3.10",
@@ -5687,11 +5687,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/6.3.9",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.9.1_6.3.9",
@@ -11370,11 +11370,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/5.0.9",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.5.3_5.0.9",
@@ -17050,11 +17050,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/5.0.8",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.5.3_5.0.8",
@@ -22730,11 +22730,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/4.9.16",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.5.3_4.9.16",
@@ -28539,11 +28539,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/4.9.15",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.5.3_4.9.15",
@@ -34348,13 +34348,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/3.4.0",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.4.9_3.4.0",
         "version": "3.4.0",
@@ -40232,13 +40232,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwarden/3.3.0",
-        "last_update": "2025-01-29 06:43:39",
+        "last_update": "2025-01-29 10:26:28",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.4.9_3.3.0",
         "version": "3.3.0",
