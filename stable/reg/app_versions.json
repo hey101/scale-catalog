@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/15.4.5",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2_15.4.5",
         "version": "15.4.5",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/15.4.4",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2_15.4.4",
         "version": "15.4.4",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/14.0.9",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.0.0_14.0.9",
         "version": "14.0.9",
@@ -15832,12 +15832,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/14.0.8",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.0.0_14.0.8",
         "version": "14.0.8",
@@ -21106,12 +21106,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/13.8.14",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.0.0_13.8.14",
         "version": "13.8.14",
@@ -26051,12 +26051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/13.8.13",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.0.0_13.8.13",
         "version": "13.8.13",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/12.3.0",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.0.0_12.3.0",
         "version": "12.3.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/reg/12.2.0",
-        "last_update": "2025-01-28 17:18:10",
+        "last_update": "2025-01-28 23:24:17",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.0.0_12.2.0",
         "version": "12.2.0",
