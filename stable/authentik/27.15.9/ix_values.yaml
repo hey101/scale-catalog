@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/goauthentik/server
-  tag: 2024.12.2@sha256:017794a605d295bf1029da317e572f379e7f25d9b6fcae2fe7dad0d4b0753b42
+  tag: 2024.12.3@sha256:df5fe4863ebf84fa09aecbd7e0e795b4785d0b3ac136545852dc8f77ced8c25d
   pullPolicy: IfNotPresent
 geoipImage:
   repository: ghcr.io/maxmind/geoipupdate
@@ -8,15 +8,15 @@ geoipImage:
   pullPolicy: IfNotPresent
 ldapImage:
   repository: ghcr.io/goauthentik/ldap
-  tag: 2024.12.2@sha256:c91d2d2d16f40cc2a8cbb0d529c6833a8a2f04adfbab5bddb4386a9537744a8c
+  tag: 2024.12.3@sha256:2501d6f2b9512920965ff4efa7c8898e9483634412ab8653324e81b24122d893
   pullPolicy: IfNotPresent
 radiusImage:
   repository: ghcr.io/goauthentik/radius
-  tag: 2024.12.2@sha256:da40531e95078c9041019e852762d6873b085e6a7428988c6e846d8a864d0f32
+  tag: 2024.12.3@sha256:469e3d31a069487ab1709948d6f3b2e4e6b073febd723a5574fe2f5ec1a8faaa
   pullPolicy: IfNotPresent
 proxyImage:
   repository: ghcr.io/goauthentik/proxy
-  tag: 2024.12.2@sha256:d02cf3a71a75625a7b5704442ced0df670022b3275533200cc045bfcabfad35a
+  tag: 2024.12.3@sha256:75b8f7a67db42fcbefc895bb8f78a1c0eae49011cf7181e0035c8f275f188358
   pullPolicy: IfNotPresent
 authentik:
   credentials:
