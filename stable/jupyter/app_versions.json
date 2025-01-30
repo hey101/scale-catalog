@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/10.4.3",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2023-10_10.4.3",
         "version": "10.4.3",
@@ -5378,12 +5378,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/10.4.2",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2023-10_10.4.2",
         "version": "10.4.2",
@@ -10752,12 +10752,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/9.0.9",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2023.10.20_9.0.9",
         "version": "9.0.9",
@@ -16123,12 +16123,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/9.0.8",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2023.10.20_9.0.8",
         "version": "9.0.8",
@@ -21494,12 +21494,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/8.8.14",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2023.10.20_8.8.14",
         "version": "8.8.14",
@@ -26536,12 +26536,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/8.8.13",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2023.10.20_8.8.13",
         "version": "8.8.13",
@@ -31578,13 +31578,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/7.3.0",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.10.20_7.3.0",
         "version": "7.3.0",
@@ -36663,13 +36663,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jupyter/7.2.0",
-        "last_update": "2025-01-29 17:50:12",
+        "last_update": "2025-01-29 22:23:17",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.10.20_7.2.0",
         "version": "7.2.0",
