@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/13.10.4",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "RELEASE.20_13.10.4",
         "version": "13.10.4",
@@ -5931,12 +5931,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/13.10.3",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "RELEASE.20_13.10.3",
         "version": "13.10.3",
@@ -11858,12 +11858,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/12.1.7",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2024.05.28_12.1.7",
         "version": "12.1.7",
@@ -17782,12 +17782,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/12.1.6",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2024.05.27_12.1.6",
         "version": "12.1.6",
@@ -23706,12 +23706,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/11.9.14",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2024.03.10_11.9.14",
         "version": "11.9.14",
@@ -29301,12 +29301,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/11.9.13",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2024.03.10_11.9.13",
         "version": "11.9.13",
@@ -34896,13 +34896,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/10.3.0",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.02.09_10.3.0",
         "version": "10.3.0",
@@ -40534,13 +40534,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/10.2.0",
-        "last_update": "2025-01-31 15:59:49",
+        "last_update": "2025-01-31 18:26:43",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.02.09_10.2.0",
         "version": "10.2.0",
