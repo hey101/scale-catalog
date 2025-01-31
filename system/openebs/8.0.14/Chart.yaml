@@ -10,7 +10,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 25.4.3
+    version: 25.4.6
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -42,4 +42,4 @@ sources:
   - https://cert-manager.io/
   - https://github.com/cert-manager
 type: application
-version: 8.0.12
+version: 8.0.14
