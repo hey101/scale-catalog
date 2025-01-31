@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 25.4.3
+    version: 25.4.6
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/orgs/linuxserver/packages/container/package/pyload-ng
   - https://pyload.net/
 type: application
-version: 7.4.5
+version: 7.4.7
