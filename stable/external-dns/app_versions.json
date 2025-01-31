@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/6.5.2",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.15.1_6.5.2",
         "version": "6.5.2",
@@ -4567,12 +4567,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/6.5.1",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.15.1_6.5.1",
         "version": "6.5.1",
@@ -9130,12 +9130,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/5.0.10",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.14.2_5.0.10",
         "version": "5.0.10",
@@ -13690,12 +13690,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/5.0.9",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.14.2_5.0.9",
         "version": "5.0.9",
@@ -18250,12 +18250,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/4.8.14",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.14.1_4.8.14",
         "version": "4.8.14",
@@ -22582,12 +22582,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/4.8.13",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.14.1_4.8.13",
         "version": "4.8.13",
@@ -26914,13 +26914,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/3.3.0",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.14.0_3.3.0",
         "version": "3.3.0",
@@ -31289,13 +31289,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/external-dns/3.2.0",
-        "last_update": "2025-01-30 22:32:48",
+        "last_update": "2025-01-31 01:57:26",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.14.0_3.2.0",
         "version": "3.2.0",
