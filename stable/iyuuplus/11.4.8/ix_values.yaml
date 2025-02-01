@@ -1,0 +1,29 @@
+image:
+  repository: docker.io/iyuucn/iyuuplus
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:651227c926f0fe0ee5cf19cbd27554ee1514ec1352a022ae02e1b4e122c8008d
+service:
+  main:
+    ports:
+      main:
+        targetPort: 8787
+        port: 10188
+persistence:
+  config:
+    enabled: true
+    mountPath: "/IYUU/db"
+  torrents:
+    enabled: true
+    mountPath: "/torrents"
+  btbackup:
+    enabled: true
+    mountPath: "/BT_backup"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0

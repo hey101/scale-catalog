@@ -1,0 +1,35 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/tracksapp/tracks
+  tag: latest@sha256:0d9983b7fa1c481cee685bb32634376cc6b9c0fe8a67c17349ef7245d037d059
+persistence: {}
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 3000
+        protocol: tcp
+        targetPort: 3000
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            BUNDLE_WITHOUT: ""
+            DATABASE_ENCODING: utf8
+            DATABASE_HOST: 10.0.0.10
+            DATABASE_NAME: tracks
+            DATABASE_PASSWORD: password
+            DATABASE_PORT: "3306"
+            DATABASE_TYPE: mysql2
+            DATABASE_USERNAME: tracks
+            RAILS_ENV: production

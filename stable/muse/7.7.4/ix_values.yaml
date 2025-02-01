@@ -1,0 +1,77 @@
+image:
+  repository: ghcr.io/museofficial/muse
+  pullPolicy: IfNotPresent
+  tag: 2.10.1@sha256:8922feb6d5226c0056ce5cad0985a88d51c5b14f00aeff69e5610ab82a54516c
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+muse:
+  discord:
+    token: ""
+  spotify:
+    client:
+      id: ""
+      secret: ""
+  youtube:
+    key: ""
+  bot:
+    # online (Online)
+    # idle (Away)
+    # dnd (Do not Disturb)
+    status: "online"
+    # PLAYING (Playing XYZ)
+    # LISTENING (Listening to XYZ)
+    # WATCHING (Watching XYZ)
+    # STREAMING (Streaming XYZ)
+    activity:
+      type: "PLAYING"
+      detail: "A helm chart"
+      url: "https://www.youtube.com/truecharts"
+    # If you have Muse running in a lot of guilds (10+)
+    # you may want to set to true to registering commands bot-wide
+    # rather than for each guild (may take hours for commands to propagate)
+    register_commands: false
+  cache:
+    # 512MB | 10GB
+    limit: 2GB
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
+          env:
+            DATA_DIR: "{{.Values.persistence.config.mountPath }}"
+            DISCORD_TOKEN: "{{.Values.muse.discord.token }}"
+            SPOTIFY_CLIENT_ID: "{{.Values.muse.spotify.client.id }}"
+            SPOTIFY_CLIENT_SECRET: "{{.Values.muse.spotify.client.secret }}"
+            YOUTUBE_API_KEY: "{{.Values.muse.youtube.key }}"
+            BOT_STATUS: "{{.Values.muse.bot.status }}"
+            BOT_ACTIVITY_TYPE: "{{.Values.muse.bot.activity.type }}"
+            BOT_ACTIVITY: "{{.Values.muse.bot.activity.detail }}"
+            BOT_ACTIVITY_URL: "{{.Values.muse.bot.activity.url }}"
+            REGISTER_COMMANDS_ON_BOT: "{{.Values.muse.bot.register_commands }}"
+            CACHE_LIMIT: "{{.Values.muse.cache.limit }}"
+
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: false

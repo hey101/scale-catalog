@@ -1,0 +1,33 @@
+image:
+  repository: docker.io/duplicati/duplicati
+  tag: latest@sha256:c6a2efddd86bdaf7c6927ea5c807986df7c0395581d061595db4884db2783ac5
+  pullPolicy: IfNotPresent
+service:
+  main:
+    ports:
+      main:
+        port: 8200
+        targetPort: 8200
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+persistence:
+  config:
+    enabled: true
+    mountPath: /data
+portal:
+  open:
+    enabled: true

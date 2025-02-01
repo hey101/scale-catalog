@@ -1,0 +1,42 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/accetto/ubuntu-vnc-xfce-blender-g3
+  tag: latest@sha256:17d331ef6ddde05b941e361bfb317ceecc279475063d3465d25f0c5c3e402a70
+persistence:
+  internalshare:
+    enabled: true
+    mountPath: /UNRAID_SHARE
+  storageprojects:
+    enabled: true
+    mountPath: /srv/projects
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 6901
+        protocol: http
+        targetPort: 6901
+  webuivnc:
+    enabled: true
+    ports:
+      webuivnc:
+        enabled: true
+        port: 5901
+        protocol: tcp
+        targetPort: 5901
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            VNC_PW: unraid
+            VNC_RESOLUTION: 1360x768
