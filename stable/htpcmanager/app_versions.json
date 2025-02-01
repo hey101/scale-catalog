@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/11.4.2",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.17_11.4.2",
@@ -5279,11 +5279,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/11.4.1",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.17_11.4.1",
@@ -10554,11 +10554,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/10.0.8",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.17_10.0.8",
@@ -15826,11 +15826,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/10.0.7",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.17_10.0.7",
@@ -21098,11 +21098,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/9.8.14",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.17_9.8.14",
@@ -26041,11 +26041,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/9.8.13",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.17_9.8.13",
@@ -30984,13 +30984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/8.3.0",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2021.11.17_8.3.0",
         "version": "8.3.0",
@@ -35970,13 +35970,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/htpcmanager/8.2.0",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2021.11.17_8.2.0",
         "version": "8.2.0",

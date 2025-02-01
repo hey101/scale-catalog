@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/18.1.16",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.43_18.1.16",
@@ -6264,11 +6264,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/18.1.15",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.42_18.1.15",
@@ -12524,11 +12524,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/17.0.10",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.36_17.0.10",
@@ -18781,11 +18781,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/17.0.9",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.36_17.0.9",
@@ -25038,11 +25038,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/16.8.14",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.35_16.8.14",
@@ -31323,11 +31323,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/16.8.13",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.35_16.8.13",
@@ -37608,13 +37608,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/15.3.0",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.2.35_15.3.0",
         "version": "15.3.0",
@@ -43968,13 +43968,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kanboard/15.2.0",
-        "last_update": "2025-01-31 23:43:48",
+        "last_update": "2025-02-01 03:04:20",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.2.35_15.2.0",
         "version": "15.2.0",
