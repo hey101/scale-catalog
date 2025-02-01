@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/7.4.2",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2024.5.13_7.4.2",
@@ -4663,11 +4663,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/7.4.1",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2024.5.13_7.4.1",
@@ -9322,11 +9322,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/6.0.5",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2024.5.13_6.0.5",
@@ -13978,11 +13978,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/6.0.4",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2024.5.13_6.0.4",
@@ -18634,11 +18634,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/5.0.4",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.12.21_5.0.4",
@@ -23290,11 +23290,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/5.0.3",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.12.21_5.0.3",
@@ -27962,11 +27962,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/4.8.14",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.12.21_4.8.14",
@@ -32390,11 +32390,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/4.8.13",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.12.21_4.8.13",
@@ -36818,13 +36818,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/3.3.0",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2023.12.21_3.3.0",
         "version": "3.3.0",
@@ -41289,13 +41289,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/it-tools/3.2.0",
-        "last_update": "2025-02-01 03:04:20",
+        "last_update": "2025-02-01 06:31:21",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2023.12.21_3.2.0",
         "version": "3.2.0",
