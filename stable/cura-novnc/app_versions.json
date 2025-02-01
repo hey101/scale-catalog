@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/10.4.2",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -5887,10 +5887,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/10.4.1",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -11770,10 +11770,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/9.0.10",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -17650,10 +17650,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/9.0.9",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -23530,10 +23530,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/8.8.14",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -28980,10 +28980,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/8.8.13",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -34430,13 +34430,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/7.3.0",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -39923,13 +39923,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cura-novnc/7.2.0",
-        "last_update": "2025-02-01 06:31:21",
+        "last_update": "2025-02-01 10:12:15",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
