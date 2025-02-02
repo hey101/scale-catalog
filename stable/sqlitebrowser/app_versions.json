@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/12.4.4",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "18.04.1_12.4.4",
@@ -5284,11 +5284,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/12.4.3",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "18.04.1_12.4.3",
@@ -10564,11 +10564,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/11.0.8",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "18.04.1_11.0.8",
@@ -15841,11 +15841,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/11.0.7",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "18.04.1_11.0.7",
@@ -21118,11 +21118,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/10.8.14",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "18.04.1_10.8.14",
@@ -26066,11 +26066,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/10.8.13",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "18.04.1_10.8.13",
@@ -31014,13 +31014,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/9.3.0",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "18.04.1_9.3.0",
         "version": "9.3.0",
@@ -36005,13 +36005,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sqlitebrowser/9.2.0",
-        "last_update": "2025-02-02 05:41:29",
+        "last_update": "2025-02-02 10:15:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "18.04.1_9.2.0",
         "version": "9.2.0",
