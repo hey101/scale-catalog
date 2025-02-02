@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/15.1.11",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.25.11_15.1.11",
         "version": "15.1.11",
@@ -5750,12 +5750,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/15.1.10",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.25.11_15.1.10",
         "version": "15.1.10",
@@ -11496,12 +11496,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/14.0.8",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.16.2_14.0.8",
         "version": "14.0.8",
@@ -17239,12 +17239,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/14.0.7",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.16.2_14.0.7",
         "version": "14.0.7",
@@ -22982,12 +22982,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/13.8.14",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.16.2_13.8.14",
         "version": "13.8.14",
@@ -28854,12 +28854,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/13.8.13",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.16.2_13.8.13",
         "version": "13.8.13",
@@ -34726,11 +34726,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/12.3.0",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone"
         ],
@@ -40673,11 +40673,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/12.2.0",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone"
         ],

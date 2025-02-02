@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/15.4.4",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.10.3_15.4.4",
         "version": "15.4.4",
@@ -5320,12 +5320,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/15.4.3",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.10.3_15.4.3",
         "version": "15.4.3",
@@ -10636,12 +10636,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/14.0.10",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.10.1_14.0.10",
         "version": "14.0.10",
@@ -15949,12 +15949,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/14.0.9",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.10.1_14.0.9",
         "version": "14.0.9",
@@ -21262,12 +21262,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/13.9.1",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.10.0_13.9.1",
         "version": "13.9.1",
@@ -26246,12 +26246,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/13.9.0",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.10.0_13.9.0",
         "version": "13.9.0",
@@ -31230,11 +31230,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/12.3.0",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone"
         ],
@@ -36257,11 +36257,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/octoprint/12.2.0",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone"
         ],

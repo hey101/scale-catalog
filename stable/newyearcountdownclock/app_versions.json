@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/7.4.4",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.4.4",
         "version": "7.4.4",
@@ -3372,11 +3372,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/7.4.3",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.4.3",
         "version": "7.4.3",
@@ -6740,11 +6740,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/6.0.9",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.0.9",
         "version": "6.0.9",
@@ -10105,11 +10105,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/6.0.8",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -13470,11 +13470,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/5.8.16",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.8.16",
         "version": "5.8.16",
@@ -16607,11 +16607,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/5.8.15",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.8.15",
         "version": "5.8.15",
@@ -19744,12 +19744,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/4.3.0",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -22924,12 +22924,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/newyearcountdownclock/4.2.1",
-        "last_update": "2025-02-01 23:38:51",
+        "last_update": "2025-02-02 03:05:42",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
