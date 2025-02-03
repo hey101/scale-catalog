@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/11.4.4",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -5888,7 +5888,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/11.4.3",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -11772,7 +11772,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/10.0.9",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -17653,7 +17653,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/10.0.8",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -23534,7 +23534,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/9.9.11",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -28985,7 +28985,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/9.9.10",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -34436,13 +34436,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/8.3.0",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "0.7.14_8.3.0",
         "version": "8.3.0",
@@ -39930,13 +39930,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kavita/8.2.0",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "0.7.14_8.2.0",
         "version": "8.2.0",

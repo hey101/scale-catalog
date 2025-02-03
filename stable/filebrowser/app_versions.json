@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/11.5.5",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -6520,7 +6520,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/11.5.4",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -13036,7 +13036,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/10.2.4",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -19549,7 +19549,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/10.2.3",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -26062,7 +26062,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/9.9.14",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -32044,7 +32044,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/9.9.13",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -38026,13 +38026,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/8.4.0",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.27.0_8.4.0",
         "version": "8.4.0",
@@ -44051,13 +44051,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/filebrowser/8.3.0",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.27.0_8.3.0",
         "version": "8.3.0",

@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/10.4.4",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -5312,7 +5312,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/10.4.3",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -10620,7 +10620,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/9.0.9",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -15925,7 +15925,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/9.0.8",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -21230,7 +21230,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/8.8.14",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -26206,7 +26206,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/8.8.13",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -31182,13 +31182,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/7.3.0",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -36201,13 +36201,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plaxt/7.2.0",
-        "last_update": "2025-02-02 23:56:50",
+        "last_update": "2025-02-03 02:09:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
