@@ -6,31 +6,35 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "26.0.9"
+appVersion: "1.19.1"
 dependencies:
   - name: common
-    version: 25.4.15
+    version: 25.6.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: Drawio is free online diagram software.
-home: https://github.com/hey101/charts/stable/drawio
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/drawio.webp
+description: A comics/mangas server to serve/stream pages via API
+home: https://github.com/hey101/charts/stable/komga
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/komga.webp
 keywords:
-  - drawio
+  - komga
+  - comics
+  - mangas
+  - server
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: drawio
+name: komga
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/drawio
-  - https://github.com/truecharts/charts/tree/master/charts/stable/drawio
-  - https://github.com/jgraph/drawio
-  - https://hub.docker.com/r/jgraph/drawio
+  - https://github.com/hey101/charts/tree/master/charts/stable/komga
+  - https://github.com/truecharts/charts/tree/master/charts/stable/komga
+  - https://github.com/gotson/komga
+  - https://hub.docker.com/r/gotson/komga
+  - https://komga.org/
 type: application
-version: 14.1.9
+version: 15.10.7

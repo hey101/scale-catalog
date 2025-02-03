@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "1.4.2"
 dependencies:
   - name: common
-    version: 25.4.15
+    version: 25.6.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/Cisco-Talos/clamav
   - https://hub.docker.com/r/clamav/clamav
 type: application
-version: 12.5.9
+version: 12.5.11
