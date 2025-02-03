@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/8.4.4",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.6.17_8.4.4",
         "version": "8.4.4",
@@ -4885,12 +4885,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/8.4.3",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.6.17_8.4.3",
         "version": "8.4.3",
@@ -9766,12 +9766,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/7.0.11",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.6.11_7.0.11",
         "version": "7.0.11",
@@ -14644,12 +14644,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/7.0.10",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.6.11_7.0.10",
         "version": "7.0.10",
@@ -19522,12 +19522,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/6.8.15",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.6.9_6.8.15",
         "version": "6.8.15",
@@ -24172,12 +24172,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/6.8.14",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.6.9_6.8.14",
         "version": "6.8.14",
@@ -28822,11 +28822,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/5.4.0",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration"
         ],
@@ -33515,11 +33515,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/adguardhome-sync/5.3.0",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration"
         ],

@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/16.14.7",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.24.0_16.14.7",
         "version": "16.14.7",
@@ -5913,12 +5913,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/16.14.6",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.24.0_16.14.6",
         "version": "16.14.6",
@@ -11822,12 +11822,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/15.2.3",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.11.0_15.2.3",
         "version": "15.2.3",
@@ -17728,12 +17728,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/15.2.2",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.11.0_15.2.2",
         "version": "15.2.2",
@@ -23634,12 +23634,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/14.9.14",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.6.0_14.9.14",
         "version": "14.9.14",
@@ -29211,12 +29211,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/14.9.13",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.6.0_14.9.13",
         "version": "14.9.13",
@@ -34788,11 +34788,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/13.6.0",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration"
         ],
@@ -40408,11 +40408,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/calibre/13.5.1",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration"
         ],

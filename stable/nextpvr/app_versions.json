@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/11.4.4",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/nodeIP"
         ],
@@ -6621,11 +6621,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/11.4.3",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/nodeIP"
         ],
@@ -13238,11 +13238,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/10.0.9",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/nodeIP"
         ],
@@ -19852,11 +19852,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/10.0.8",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/nodeIP"
         ],
@@ -26466,11 +26466,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/9.8.14",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/nodeIP"
         ],
@@ -32549,11 +32549,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/9.8.13",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/nodeIP"
         ],
@@ -38632,14 +38632,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/8.3.0",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/nodeIP"
         ],
         "human_version": "stable_8.3.0",
         "version": "8.3.0",
@@ -44758,14 +44758,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nextpvr/8.2.0",
-        "last_update": "2025-02-03 09:56:21",
+        "last_update": "2025-02-03 14:09:57",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/nodeIP"
         ],
         "human_version": "stable_8.2.0",
         "version": "8.2.0",
