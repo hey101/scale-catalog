@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/7.4.7",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.4.7",
         "version": "7.4.7",
@@ -4749,12 +4749,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/7.4.6",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.4.6",
         "version": "7.4.6",
@@ -9494,12 +9494,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/6.0.9",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.9",
         "version": "6.0.9",
@@ -14236,12 +14236,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/6.0.8",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -18978,12 +18978,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/5.8.16",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.16",
         "version": "5.8.16",
@@ -23492,12 +23492,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/5.8.15",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.15",
         "version": "5.8.15",
@@ -28006,13 +28006,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/4.3.0",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -32563,13 +32563,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dns-doh-companion/4.2.1",
-        "last_update": "2025-02-03 02:09:03",
+        "last_update": "2025-02-03 06:00:39",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
