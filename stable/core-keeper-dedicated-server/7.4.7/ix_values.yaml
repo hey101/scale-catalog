@@ -1,0 +1,43 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/escaping/core-keeper-dedicated
+  tag: latest@sha256:bb7ad5bc5714cecde87181be0b57823790a7c63e62badd8ad96f7667691247e4
+persistence:
+  datafiles:
+    enabled: true
+    mountPath: /home/steam/core-keeper-data
+  serverfiles:
+    enabled: true
+    mountPath: /home/steam/core-keeper-dedicated
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DATA_PATH: ""
+            GAME_ID: examplegameidwillgohere
+            MAX_PLAYERS: "10"
+            WORLD_INDEX: "0"
+            WORLD_NAME: World name here
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
