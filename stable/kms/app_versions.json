@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/20.4.4",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "minimal_20.4.4",
         "version": "20.4.4",
@@ -3680,12 +3680,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/20.4.3",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "minimal_20.4.3",
         "version": "20.4.3",
@@ -7356,12 +7356,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/19.0.9",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "minimal_19.0.9",
         "version": "19.0.9",
@@ -11029,12 +11029,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/19.0.8",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "minimal_19.0.8",
         "version": "19.0.8",
@@ -14702,12 +14702,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/18.8.14",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "minimal_18.8.14",
         "version": "18.8.14",
@@ -18147,12 +18147,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/18.8.13",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "minimal_18.8.13",
         "version": "18.8.13",
@@ -21592,13 +21592,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/17.3.0",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "minimal_17.3.0",
         "version": "17.3.0",
@@ -25080,13 +25080,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kms/17.2.0",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "minimal_17.2.0",
         "version": "17.2.0",

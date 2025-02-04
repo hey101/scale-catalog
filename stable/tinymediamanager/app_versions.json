@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/12.4.5",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "5.1.1_12.4.5",
         "version": "12.4.5",
@@ -6513,12 +6513,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/12.4.4",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "5.1.1_12.4.4",
         "version": "12.4.4",
@@ -13022,12 +13022,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/11.0.9",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "5.0.5_11.0.9",
         "version": "11.0.9",
@@ -19528,12 +19528,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/11.0.8",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "5.0.5_11.0.8",
         "version": "11.0.8",
@@ -26034,12 +26034,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/10.8.14",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "5.0.4_10.8.14",
         "version": "10.8.14",
@@ -32009,12 +32009,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/10.8.13",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "5.0.4_10.8.13",
         "version": "10.8.13",
@@ -37984,13 +37984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/9.2.0",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "5.0.2_9.2.0",
         "version": "9.2.0",
@@ -44002,13 +44002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tinymediamanager/9.1.0",
-        "last_update": "2025-02-04 03:53:33",
+        "last_update": "2025-02-04 07:13:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "5.0.2_9.1.0",
         "version": "9.1.0",
