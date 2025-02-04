@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: 4.0.6
+appVersion: "4.0.6"
 dependencies:
   - name: common
-    version: 25.4.10
+    version: 25.6.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -17,7 +17,7 @@ dependencies:
     import-values: []
 deprecated: false
 description: fast, easy, and free BitTorrent client.
-home: https://truecharts.org/charts/stable/transmission
+home: https://github.com/hey101/charts/stable/transmission
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/transmission.webp
 keywords:
   - transmission
@@ -30,9 +30,10 @@ maintainers:
     url: https://truecharts.org
 name: transmission
 sources:
+  - https://github.com/hey101/charts/tree/master/charts/stable/transmission
   - https://github.com/linuxserver/docker-transmission
   - https://github.com/transmission/transmission
   - https://github.com/truecharts/charts/tree/master/charts/stable/transmission
   - https://hub.docker.com/r/linuxserver/transmission
 type: application
-version: 23.0.11
+version: 23.0.13
