@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "7.24.0"
 dependencies:
   - name: common
-    version: 25.6.0
+    version: 26.0.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://ghcr.io/linuxserver/calibre
   - https://github.com/kovidgoyal/calibre/
 type: application
-version: 16.14.7
+version: 16.14.9
