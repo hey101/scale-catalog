@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/12.4.12",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.8.2_12.4.12",
         "version": "12.4.12",
@@ -5887,12 +5887,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/12.4.11",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.8.2_12.4.11",
         "version": "12.4.11",
@@ -11770,12 +11770,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/11.0.12",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.8.2_11.0.12",
         "version": "11.0.12",
@@ -17650,12 +17650,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/11.0.11",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.8.2_11.0.11",
         "version": "11.0.11",
@@ -23530,12 +23530,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/10.8.17",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.8.2_10.8.17",
         "version": "10.8.17",
@@ -28980,12 +28980,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/10.8.16",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.8.2_10.8.16",
         "version": "10.8.16",
@@ -34430,13 +34430,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/9.3.0",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.8.2_9.3.0",
         "version": "9.3.0",
@@ -39923,13 +39923,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smokeping/9.2.1",
-        "last_update": "2025-02-05 02:06:02",
+        "last_update": "2025-02-05 11:53:20",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.8.2_9.2.1",
         "version": "9.2.1",
