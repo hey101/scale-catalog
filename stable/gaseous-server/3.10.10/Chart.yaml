@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "1.7.10"
 dependencies:
   - name: common
     version: 26.0.1
@@ -15,32 +15,30 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: redis
-    version: 15.6.2
+  - name: mariadb
+    version: 15.8.1
     repository: oci://tccr.io/truecharts
-    condition: redis.enabled
+    condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: RSSHub can generate RSS feeds from pretty much everything
-home: https://github.com/hey101/charts/stable/rsshub
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.webp
+description: A game ROM manager using multiple sources to identify and provide metadata.
+home: https://github.com/hey101/charts/stable/gaseous-server
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/gaseous-server.webp
 keywords:
-  - rsshub
-  - rss
+  - gaseous-server
+  - rom-manager
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rsshub
+name: gaseous-server
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/rsshub
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
-  - https://docs.rsshub.app/en/install/
-  - https://github.com/DIYgod/RSSHub
-  - https://hub.docker.com/r/browserless/chrome
-  - https://hub.docker.com/r/diygod/rsshub
+  - https://github.com/hey101/charts/tree/master/charts/stable/gaseous-server
+  - https://github.com/gaseous-project/gaseous-server
+  - https://github.com/truecharts/charts/tree/master/charts/stable/gaseous-server
+  - https://hub.docker.com/r/gaseousgames/gaseousserver
 type: application
-version: 14.9.41
+version: 3.10.10
