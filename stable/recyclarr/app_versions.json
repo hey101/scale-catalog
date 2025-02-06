@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/12.7.5",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.4.0_12.7.5",
         "version": "12.7.5",
@@ -4224,12 +4224,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/12.7.4",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.4.0_12.7.4",
         "version": "12.7.4",
@@ -8444,12 +8444,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/10.0.8",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_10.0.8",
         "version": "10.0.8",
@@ -12661,12 +12661,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/10.0.7",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_10.0.7",
         "version": "10.0.7",
@@ -16878,12 +16878,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/9.8.14",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_9.8.14",
         "version": "9.8.14",
@@ -20766,12 +20766,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/9.8.13",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_9.8.13",
         "version": "9.8.13",
@@ -24654,13 +24654,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/8.3.0",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_8.3.0",
         "version": "8.3.0",
@@ -28585,13 +28585,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/recyclarr/8.2.0",
-        "last_update": "2025-02-05 23:21:46",
+        "last_update": "2025-02-06 01:55:16",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_8.2.0",
         "version": "8.2.0",
