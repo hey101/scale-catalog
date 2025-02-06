@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.12.2"
+appVersion: "2.12.3"
 dependencies:
   - name: common
-    version: 25.6.0
+    version: 26.0.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -43,4 +43,4 @@ sources:
   - https://hub.docker.com/r/jc21/nginx-proxy-manager
   - https://nginxproxymanager.com/
 type: application
-version: 11.11.6
+version: 11.11.8
