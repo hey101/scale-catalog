@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/10.6.5",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.8.0_10.6.5",
         "version": "10.6.5",
@@ -4489,12 +4489,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/10.6.4",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.8.0_10.6.4",
         "version": "10.6.4",
@@ -8974,12 +8974,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/9.0.8",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.6.4_9.0.8",
         "version": "9.0.8",
@@ -13456,12 +13456,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/9.0.7",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.6.4_9.0.7",
         "version": "9.0.7",
@@ -17938,12 +17938,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/8.8.15",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.6.4_8.8.15",
         "version": "8.8.15",
@@ -22091,12 +22091,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/8.8.14",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.6.4_8.8.14",
         "version": "8.8.14",
@@ -26244,13 +26244,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/7.3.0",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "5.6.3_7.3.0",
         "version": "7.3.0",
@@ -30440,13 +30440,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ring-mqtt/7.2.0",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "5.6.3_7.2.0",
         "version": "7.2.0",

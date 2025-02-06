@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/7.5.5",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.14.0_7.5.5",
         "version": "7.5.5",
@@ -5886,12 +5886,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/7.5.4",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "0.14.0_7.5.4",
         "version": "7.5.4",
@@ -11768,12 +11768,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/6.0.8",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "master_6.0.8",
         "version": "6.0.8",
@@ -17647,12 +17647,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/6.0.7",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "master_6.0.7",
         "version": "6.0.7",
@@ -23526,12 +23526,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/5.8.14",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "master_5.8.14",
         "version": "5.8.14",
@@ -28975,12 +28975,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/5.8.13",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "master_5.8.13",
         "version": "5.8.13",
@@ -34424,13 +34424,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/4.3.0",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "master_4.3.0",
         "version": "4.3.0",
@@ -39916,13 +39916,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shaarli/4.2.0",
-        "last_update": "2025-02-06 16:25:01",
+        "last_update": "2025-02-06 18:44:57",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "master_4.2.0",
         "version": "4.2.0",
