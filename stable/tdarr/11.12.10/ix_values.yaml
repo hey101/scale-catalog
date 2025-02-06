@@ -1,17 +1,25 @@
 image:
-  repository: docker.io/haveagitgat/tdarr_node
+  repository: docker.io/haveagitgat/tdarr
   pullPolicy: IfNotPresent
-  tag: 2.31.01@sha256:21d3515652341403bf6a7c63dae3f2ec89a5f156f3c669267c07f896f7fa41bb
+  tag: 2.31.02@sha256:4df313a6ed3caf1c235e81443a34ee5f4cc0a1f510b4a5a84da650e2d6871917
 service:
   main:
-    enabled: false
     ports:
       main:
-        enabled: false
+        port: 8265
+  comm:
+    enabled: true
+    ports:
+      comm:
+        enabled: true
+        port: 8266
 persistence:
   configs:
     enabled: true
     mountPath: "/app/configs"
+  server:
+    enabled: true
+    mountPath: "/app/server"
   logs:
     enabled: true
     mountPath: "/app/logs"
@@ -25,7 +33,7 @@ persistence:
     enabled: true
 portal:
   open:
-    enabled: false
+    enabled: true
 securityContext:
   container:
     readOnlyRootFilesystem: false
@@ -37,15 +45,10 @@ workload:
     podSpec:
       containers:
         main:
-          probes:
-            liveness:
-              enabled: false
-            readiness:
-              enabled: false
-            startup:
-              enabled: false
           env:
+            webUIPort: "{{ .Values.service.main.ports.main.port }}"
+            serverPort: "{{ .Values.service.comm.ports.comm.port }}"
             # User Defined
-            nodeID: "myFirstTdarrNode"
-            serverIP: "0.0.0.0"
-            serverPort: 8266
+            internalNode: true
+            serverIP: "127.0.0.1"
+            nodeID: "Internal Node"
