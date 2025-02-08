@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "3.3.3"
 dependencies:
   - name: common
-    version: 26.0.1
+    version: 26.0.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/traefik/traefik-helm-chart
   - https://traefik.io/
 type: application
-version: 30.3.54
+version: 30.3.56
