@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/9.2.613",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_9.2.613",
         "version": "9.2.613",
@@ -5369,12 +5369,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/9.2.612",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_9.2.612",
         "version": "9.2.612",
@@ -10734,12 +10734,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/8.1.63",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_8.1.63",
         "version": "8.1.63",
@@ -16096,12 +16096,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/8.1.62",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_8.1.62",
         "version": "8.1.62",
@@ -21458,12 +21458,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/7.10.76",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_7.10.76",
         "version": "7.10.76",
@@ -26491,12 +26491,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/7.10.75",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_7.10.75",
         "version": "7.10.75",
@@ -31524,13 +31524,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/6.4.0",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_6.4.0",
         "version": "6.4.0",
@@ -36600,13 +36600,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/libremdb/6.3.1",
-        "last_update": "2025-02-08 11:16:22",
+        "last_update": "2025-02-08 15:01:58",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_6.3.1",
         "version": "6.3.1",
