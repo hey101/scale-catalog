@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/20.5.13",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "10.10.5_20.5.13",
         "version": "20.5.13",
@@ -5907,12 +5907,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/20.5.12",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "10.10.5_20.5.12",
         "version": "20.5.12",
@@ -11810,12 +11810,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/19.1.11",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "10.9.3_19.1.11",
         "version": "19.1.11",
@@ -17710,12 +17710,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/19.1.10",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "10.9.3_19.1.10",
         "version": "19.1.10",
@@ -23610,12 +23610,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/18.8.17",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "10.8.13_18.8.17",
         "version": "18.8.17",
@@ -29080,12 +29080,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/18.8.16",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "10.8.13_18.8.16",
         "version": "18.8.16",
@@ -34550,13 +34550,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/17.3.0",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "10.8.13_17.3.0",
         "version": "17.3.0",
@@ -40063,13 +40063,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jellyfin/17.2.1",
-        "last_update": "2025-02-08 06:29:58",
+        "last_update": "2025-02-08 11:16:22",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "10.8.13_17.2.1",
         "version": "17.2.1",
