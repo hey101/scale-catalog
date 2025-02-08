@@ -1,0 +1,53 @@
+image:
+  repository: docker.io/linuxserver/transmission
+  pullPolicy: IfNotPresent
+  tag: 2021.11.18@sha256:9944fcda726c9749914b06268e5435c5ba057191fde0052013c8f84c303763a4
+service:
+  main:
+    ports:
+      main:
+        port: 9091
+        targetPort: 9091
+  torrent:
+    enabled: true
+    ports:
+      torrent:
+        enabled: true
+        port: 51414
+        protocol: tcp
+      torrentudp:
+        enabled: true
+        port: "{{ .Values.service.torrent.ports.torrent.port }}"
+        protocol: udp
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: true
+              type: tcp
+            startup:
+              enabled: true
+              type: tcp
+            readiness:
+              enabled: true
+              type: tcp
+          env:
+            PEERPORT: "{{ .Values.service.torrent.ports.torrent.port }}"
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
+manifestManager:
+  enabled: false

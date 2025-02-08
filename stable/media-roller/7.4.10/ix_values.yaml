@@ -1,0 +1,23 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/ronnieroller/media-roller
+  tag: latest@sha256:944c2155afe563749c179c27e989485cf605367fc17cc7835db2bcb70aaac32a
+persistence:
+  download:
+    enabled: true
+    mountPath: /download
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 3000
+        protocol: tcp
+        targetPort: 3000
