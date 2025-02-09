@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/15.5.6",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.14.5_15.5.6",
         "version": "15.5.6",
@@ -4812,12 +4812,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/15.5.5",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.14.5_15.5.5",
         "version": "15.5.5",
@@ -9620,12 +9620,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/14.0.8",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.13.1_14.0.8",
         "version": "14.0.8",
@@ -14425,12 +14425,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/14.0.7",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.13.1_14.0.7",
         "version": "14.0.7",
@@ -19230,12 +19230,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/13.8.14",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.13.1_13.8.14",
         "version": "13.8.14",
@@ -23605,12 +23605,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/13.8.13",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.13.1_13.8.13",
         "version": "13.8.13",
@@ -27980,13 +27980,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/12.4.0",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.13.1_12.4.0",
         "version": "12.4.0",
@@ -32398,13 +32398,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpackerr/12.3.0",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.13.1_12.3.0",
         "version": "12.3.0",

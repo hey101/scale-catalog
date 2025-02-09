@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/9.7.12",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "27.5.1_9.7.12",
         "version": "9.7.12",
@@ -4025,12 +4025,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/9.7.11",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "27.5.1_9.7.11",
         "version": "9.7.11",
@@ -8046,12 +8046,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/7.0.13",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "26.1.3_7.0.13",
         "version": "7.0.13",
@@ -12064,12 +12064,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/7.0.12",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "26.1.3_7.0.12",
         "version": "7.0.12",
@@ -16082,12 +16082,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/6.2.3",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "26.1.0_6.2.3",
         "version": "6.2.3",
@@ -19872,12 +19872,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/6.2.2",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "26.1.0_6.2.2",
         "version": "6.2.2",
@@ -23662,12 +23662,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/5.7.6",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "25.0.5_5.7.6",
         "version": "5.7.6",
@@ -27452,12 +27452,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/5.7.5",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "25.0.5_5.7.5",
         "version": "5.7.5",
@@ -31242,13 +31242,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/4.2.0",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "25.0.3_4.2.0",
         "version": "4.2.0",
@@ -35075,13 +35075,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/docker/4.1.1",
-        "last_update": "2025-02-09 02:33:33",
+        "last_update": "2025-02-09 07:00:03",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "25.0.3_4.1.1",
         "version": "4.1.1",
