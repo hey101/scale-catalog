@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/preclear/4.2.0",
-        "last_update": "2025-02-08 23:36:01",
+        "last_update": "2025-02-09 02:33:33",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface"
         ],
         "human_version": "latest_4.2.0",
