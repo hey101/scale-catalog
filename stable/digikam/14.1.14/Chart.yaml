@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "8.5.0"
 dependencies:
   - name: common
-    version: 26.0.2
+    version: 26.2.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -38,4 +38,4 @@ sources:
   - https://github.com/linuxserver/docker-digikam
   - https://www.digikam.org/
 type: application
-version: 14.1.12
+version: 14.1.14
