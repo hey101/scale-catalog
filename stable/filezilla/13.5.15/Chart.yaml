@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "3.68.1"
 dependencies:
   - name: common
-    version: 26.0.2
+    version: 26.2.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -38,4 +38,4 @@ sources:
   - https://ghcr.io/linuxserver/filezilla
   - https://github.com/linuxserver/docker-filezilla
 type: application
-version: 13.5.13
+version: 13.5.15
