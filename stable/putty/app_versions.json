@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/11.9.7",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.12.1_11.9.7",
@@ -5466,11 +5466,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/11.9.6",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.12.1_11.9.6",
@@ -10928,11 +10928,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/10.0.9",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.04.1_10.0.9",
@@ -16387,11 +16387,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/10.0.8",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.04.1_10.0.8",
@@ -21846,11 +21846,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/9.9.10",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.04.1_9.9.10",
@@ -26976,11 +26976,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/9.9.9",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "24.04.1_9.9.9",
@@ -32106,13 +32106,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/8.2.0",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "24.01.1_8.2.0",
         "version": "8.2.0",
@@ -37279,13 +37279,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/putty/8.1.0",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "24.01.1_8.1.0",
         "version": "8.1.0",

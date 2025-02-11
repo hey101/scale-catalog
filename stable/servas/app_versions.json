@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/6.12.10",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.4.1_6.12.10",
@@ -4718,11 +4718,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/6.12.9",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.4.1_6.12.9",
@@ -9432,11 +9432,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/5.1.8",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.2.0_5.1.8",
@@ -14143,11 +14143,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/5.1.7",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.2.0_5.1.7",
@@ -18854,11 +18854,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/4.16.24",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.2.0_4.16.24",
@@ -23337,11 +23337,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/4.16.23",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "0.2.0_4.16.23",
@@ -27820,13 +27820,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/3.5.0",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.1.0_3.5.0",
         "version": "3.5.0",
@@ -32346,13 +32346,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/servas/3.4.0",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.1.0_3.4.0",
         "version": "3.4.0",

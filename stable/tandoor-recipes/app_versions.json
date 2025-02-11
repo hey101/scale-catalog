@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/18.1.17",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.5.27_18.1.17",
@@ -5696,11 +5696,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/18.1.16",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.5.26_18.1.16",
@@ -11388,11 +11388,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/17.0.8",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.5.17_17.0.8",
@@ -17077,11 +17077,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/17.0.7",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.5.17_17.0.7",
@@ -22766,11 +22766,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/16.8.15",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.5.17_16.8.15",
@@ -28584,11 +28584,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/16.8.14",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.5.17_16.8.14",
@@ -34402,13 +34402,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/15.2.0",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.13_15.2.0",
         "version": "15.2.0",
@@ -40295,13 +40295,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tandoor-recipes/15.1.1",
-        "last_update": "2025-02-11 06:17:49",
+        "last_update": "2025-02-11 15:02:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.13_15.1.1",
         "version": "15.1.1",
