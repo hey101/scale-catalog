@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/7.4.7",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5682,7 +5682,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/7.4.6",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -11360,7 +11360,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/6.0.8",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -17035,7 +17035,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/6.0.7",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -22710,7 +22710,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/5.8.14",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -27955,7 +27955,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/5.8.13",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -33200,12 +33200,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/4.3.0",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "rust_4.3.0",
         "version": "4.3.0",
@@ -38488,12 +38488,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rust/4.2.0",
-        "last_update": "2025-02-10 20:02:50",
+        "last_update": "2025-02-10 22:33:20",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "rust_4.2.0",
         "version": "4.2.0",
