@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/11.4.13",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.0.0_11.4.13",
         "version": "11.4.13",
@@ -4201,12 +4201,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/11.4.12",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.0.0_11.4.12",
         "version": "11.4.12",
@@ -8398,12 +8398,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/10.0.12",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.11.2_10.0.12",
         "version": "10.0.12",
@@ -12592,12 +12592,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/10.0.11",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.11.2_10.0.11",
         "version": "10.0.11",
@@ -16786,12 +16786,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/9.8.18",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.11.2_9.8.18",
         "version": "9.8.18",
@@ -20651,12 +20651,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/9.8.17",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.11.2_9.8.17",
         "version": "9.8.17",
@@ -24516,13 +24516,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/8.3.0",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "3.11.2_8.3.0",
         "version": "8.3.0",
@@ -28424,13 +28424,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ddclient/8.2.0",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "3.11.2_8.2.0",
         "version": "8.2.0",

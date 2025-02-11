@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/16.4.8",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2.0.20_16.4.8",
         "version": "16.4.8",
@@ -6519,12 +6519,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/16.4.7",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2.0.20_16.4.7",
         "version": "16.4.7",
@@ -13034,12 +13034,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/15.0.10",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2.0.18_15.0.10",
         "version": "15.0.10",
@@ -19546,12 +19546,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/15.0.9",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2.0.18_15.0.9",
         "version": "15.0.9",
@@ -26058,12 +26058,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/14.8.14",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2.0.18_14.8.14",
         "version": "14.8.14",
@@ -32140,12 +32140,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/14.8.13",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "2.0.18_14.8.13",
         "version": "14.8.13",
@@ -38222,13 +38222,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/13.3.0",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.0.18_13.3.0",
         "version": "13.3.0",
@@ -44347,13 +44347,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosquitto/13.2.0",
-        "last_update": "2025-02-11 03:07:51",
+        "last_update": "2025-02-11 06:17:49",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.0.18_13.2.0",
         "version": "13.2.0",
