@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/15.1.11",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -5750,7 +5750,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/15.1.10",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -11496,7 +11496,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/14.0.8",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -17239,7 +17239,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/14.0.7",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -22982,7 +22982,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/13.8.14",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -28854,7 +28854,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/13.8.13",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -34726,13 +34726,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/12.3.0",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "4.16.2_12.3.0",
         "version": "12.3.0",
@@ -40673,13 +40673,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/strapi/12.2.0",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "4.16.2_12.2.0",
         "version": "12.2.0",

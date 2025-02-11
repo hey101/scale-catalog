@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/13.5.7",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -4703,7 +4703,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/13.5.6",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -9402,7 +9402,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/11.0.8",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -14098,7 +14098,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/11.0.7",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -18794,7 +18794,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/10.8.14",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -23262,7 +23262,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/10.8.13",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -27730,13 +27730,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/9.3.0",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "3.10.2_9.3.0",
         "version": "9.3.0",
@@ -32241,13 +32241,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/9.2.0",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "3.10.2_9.2.0",
         "version": "9.2.0",

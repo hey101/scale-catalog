@@ -1,19 +1,19 @@
 {
-    "5.12.10": {
+    "5.12.12": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.10",
-        "last_update": "2025-02-11 15:02:54",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.12",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
-        "human_version": "0.26.1_5.12.10",
-        "version": "5.12.10",
+        "human_version": "0.26.4_5.12.12",
+        "version": "5.12.12",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -24,7 +24,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "0.26.1",
+            "appVersion": "0.26.4",
             "dependencies": [
                 {
                     "name": "common",
@@ -61,7 +61,7 @@
                 "https://github.com/BeryJu/gravity"
             ],
             "type": "application",
-            "version": "5.12.10"
+            "version": "5.12.12"
         },
         "app_metadata": null,
         "schema": {
@@ -5443,21 +5443,21 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/stable/gravity\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/gravity</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/stable/gravity</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/stable/gravity/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "5.12.9": {
+    "5.12.11": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.9",
-        "last_update": "2025-02-11 15:02:54",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.11",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
-        "human_version": "0.26.1_5.12.9",
-        "version": "5.12.9",
+        "human_version": "0.26.3_5.12.11",
+        "version": "5.12.11",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -5468,11 +5468,11 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "0.26.1",
+            "appVersion": "0.26.3",
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "26.0.2",
+                    "version": "26.2.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -5505,7 +5505,7 @@
                 "https://github.com/BeryJu/gravity"
             ],
             "type": "application",
-            "version": "5.12.9"
+            "version": "5.12.11"
         },
         "app_metadata": null,
         "schema": {
@@ -10892,13 +10892,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/4.1.2",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.9.0_4.1.2",
         "version": "4.1.2",
@@ -16333,13 +16333,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/4.1.1",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.9.0_4.1.1",
         "version": "4.1.1",
@@ -21774,13 +21774,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/3.8.14",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.8.1_3.8.14",
         "version": "3.8.14",
@@ -26886,13 +26886,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/3.8.13",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.8.1_3.8.13",
         "version": "3.8.13",
@@ -31998,14 +31998,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/2.4.0",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.8.1_2.4.0",
         "version": "2.4.0",
@@ -37153,14 +37153,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/2.3.0",
-        "last_update": "2025-02-11 15:02:54",
+        "last_update": "2025-02-11 22:20:25",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/nodeIP",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.8.1_2.3.0",
         "version": "2.3.0",
