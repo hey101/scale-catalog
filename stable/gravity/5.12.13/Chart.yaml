@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.26.3"
+appVersion: "0.26.5"
 dependencies:
   - name: common
     version: 26.2.0
@@ -35,4 +35,4 @@ sources:
   - https://ghcr.io/beryju/gravity
   - https://github.com/BeryJu/gravity
 type: application
-version: 5.12.11
+version: 5.12.13
