@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/12.4.7",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_12.4.7",
         "version": "12.4.7",
@@ -4695,12 +4695,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/12.4.6",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_12.4.6",
         "version": "12.4.6",
@@ -9386,12 +9386,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/11.0.9",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_11.0.9",
         "version": "11.0.9",
@@ -14074,12 +14074,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/11.0.8",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_11.0.8",
         "version": "11.0.8",
@@ -18762,12 +18762,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/10.8.14",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_10.8.14",
         "version": "10.8.14",
@@ -23222,12 +23222,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/10.8.13",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_10.8.13",
         "version": "10.8.13",
@@ -27682,12 +27682,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/9.3.0",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "1.2.0_9.3.0",
@@ -32185,12 +32185,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/novnc/9.2.0",
-        "last_update": "2025-02-12 04:34:53",
+        "last_update": "2025-02-12 13:21:38",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "1.2.0_9.2.0",
