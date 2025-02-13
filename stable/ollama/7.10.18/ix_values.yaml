@@ -5,7 +5,7 @@ image:
 rocmImage:
   repository: docker.io/ollama/ollama
   pullPolicy: IfNotPresent
-  tag: 0.5.9-rocm@sha256:84386680db0060e1ac74c99e356ccfb44bf3c1006d774c535cb8837140904461
+  tag: 0.5.9-rocm@sha256:15318d9f5dc1098530e3996af42b0c90996a702bcdd11667b74439907471c525
 uiImage:
   repository: ghcr.io/open-webui/open-webui
   pullPolicy: IfNotPresent
