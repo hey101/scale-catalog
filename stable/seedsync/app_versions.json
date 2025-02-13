@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/9.4.7",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_9.4.7",
         "version": "9.4.7",
@@ -5694,12 +5694,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/9.4.6",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_9.4.6",
         "version": "9.4.6",
@@ -11384,12 +11384,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/8.0.8",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_8.0.8",
         "version": "8.0.8",
@@ -17071,12 +17071,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/8.0.7",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_8.0.7",
         "version": "8.0.7",
@@ -22758,12 +22758,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/7.8.14",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.8.14",
         "version": "7.8.14",
@@ -28015,12 +28015,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/7.8.13",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.8.13",
         "version": "7.8.13",
@@ -33272,13 +33272,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/6.3.0",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.3.0",
         "version": "6.3.0",
@@ -38572,13 +38572,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seedsync/6.2.0",
-        "last_update": "2025-02-13 01:42:40",
+        "last_update": "2025-02-13 10:25:33",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.2.0",
         "version": "6.2.0",
