@@ -1,13 +1,13 @@
 {
-    "9.3.18": {
+    "9.3.20": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/9.3.18",
-        "last_update": "2025-02-12 13:21:38",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/9.3.20",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
-        "human_version": "latest_9.3.18",
-        "version": "9.3.18",
+        "human_version": "latest_9.3.20",
+        "version": "9.3.20",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -31,7 +31,7 @@
                 },
                 {
                     "name": "kube-prometheus-stack",
-                    "version": "68.5.0",
+                    "version": "69.2.4",
                     "repository": "oci://ghcr.io/prometheus-community/charts",
                     "condition": "",
                     "alias": "kps",
@@ -63,7 +63,7 @@
                 "https://github.com/prometheus-operator"
             ],
             "type": "application",
-            "version": "9.3.18"
+            "version": "9.3.20"
         },
         "app_metadata": null,
         "schema": {
@@ -301,15 +301,15 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/system/prometheus-operator\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/prometheus-operator</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/system/prometheus-operator</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/system/prometheus-operator/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "9.3.17": {
+    "9.3.19": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/9.3.17",
-        "last_update": "2025-02-12 13:21:38",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/9.3.19",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
-        "human_version": "latest_9.3.17",
-        "version": "9.3.17",
+        "human_version": "latest_9.3.19",
+        "version": "9.3.19",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -324,7 +324,7 @@
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "26.0.2",
+                    "version": "26.2.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -333,7 +333,7 @@
                 },
                 {
                     "name": "kube-prometheus-stack",
-                    "version": "68.5.0",
+                    "version": "69.2.3",
                     "repository": "oci://ghcr.io/prometheus-community/charts",
                     "condition": "",
                     "alias": "kps",
@@ -365,7 +365,7 @@
                 "https://github.com/prometheus-operator"
             ],
             "type": "application",
-            "version": "9.3.17"
+            "version": "9.3.19"
         },
         "app_metadata": null,
         "schema": {
@@ -608,7 +608,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/8.3.4",
-        "last_update": "2025-02-12 13:21:38",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
         "human_version": "latest_8.3.4",
         "version": "8.3.4",
@@ -910,7 +910,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/8.3.3",
-        "last_update": "2025-02-12 13:21:38",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
         "human_version": "latest_8.3.3",
         "version": "8.3.3",
@@ -1212,7 +1212,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/7.0.4",
-        "last_update": "2025-02-12 13:21:38",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
         "human_version": "latest_7.0.4",
         "version": "7.0.4",
@@ -1512,7 +1512,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/7.0.3",
-        "last_update": "2025-02-12 13:21:38",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
         "human_version": "latest_7.0.3",
         "version": "7.0.3",
@@ -1828,7 +1828,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/6.10.15",
-        "last_update": "2025-02-12 13:21:38",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
         "human_version": "latest_6.10.15",
         "version": "6.10.15",
@@ -2001,7 +2001,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/system/prometheus-operator/6.10.14",
-        "last_update": "2025-02-12 13:21:38",
+        "last_update": "2025-02-13 01:42:40",
         "required_features": [],
         "human_version": "latest_6.10.14",
         "version": "6.10.14",
