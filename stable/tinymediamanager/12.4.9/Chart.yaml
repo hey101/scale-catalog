@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.1.1"
+appVersion: "5.1.2"
 dependencies:
   - name: common
-    version: 26.0.2
+    version: 26.2.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://gitlab.com/tinyMediaManager/tinyMediaManager
   - https://hub.docker.com/r/tinymediamanager/tinymediamanager
 type: application
-version: 12.4.7
+version: 12.4.9
