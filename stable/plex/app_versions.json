@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/19.5.9",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
@@ -5364,10 +5364,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/19.5.8",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
@@ -10724,10 +10724,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/18.0.12",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
@@ -16081,10 +16081,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/18.0.11",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
@@ -21438,10 +21438,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/17.8.18",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
@@ -26466,10 +26466,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/17.8.17",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
@@ -31494,14 +31494,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/16.4.0",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.40.0.7998_16.4.0",
         "version": "16.4.0",
@@ -36565,14 +36565,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plex/16.3.0",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/interface",
+            "definitions/nodeIP",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.40.0.7998_16.3.0",
         "version": "16.3.0",

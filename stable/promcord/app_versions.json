@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/13.4.7",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_13.4.7",
         "version": "13.4.7",
@@ -3662,12 +3662,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/13.4.6",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_13.4.6",
         "version": "13.4.6",
@@ -7320,12 +7320,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/12.0.9",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_12.0.9",
         "version": "12.0.9",
@@ -10975,12 +10975,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/12.0.8",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_12.0.8",
         "version": "12.0.8",
@@ -14630,12 +14630,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/11.8.14",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_11.8.14",
         "version": "11.8.14",
@@ -18057,12 +18057,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/11.8.13",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_11.8.13",
         "version": "11.8.13",
@@ -21484,13 +21484,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/10.3.0",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_10.3.0",
         "version": "10.3.0",
@@ -24954,13 +24954,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/promcord/10.2.0",
-        "last_update": "2025-02-13 23:18:02",
+        "last_update": "2025-02-14 06:28:41",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_10.2.0",
         "version": "10.2.0",
