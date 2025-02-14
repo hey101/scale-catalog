@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/20.4.7",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_20.4.7",
         "version": "20.4.7",
@@ -5452,12 +5452,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/20.4.6",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_20.4.6",
         "version": "20.4.6",
@@ -10900,12 +10900,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/19.0.9",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_19.0.9",
         "version": "19.0.9",
@@ -16345,12 +16345,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/19.0.8",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_19.0.8",
         "version": "19.0.8",
@@ -21790,12 +21790,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/18.8.14",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_18.8.14",
         "version": "18.8.14",
@@ -26906,12 +26906,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/18.8.13",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.1_18.8.13",
         "version": "18.8.13",
@@ -32022,12 +32022,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/17.3.0",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.1.1_17.3.0",
@@ -37181,12 +37181,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deluge/17.2.0",
-        "last_update": "2025-02-14 06:28:41",
+        "last_update": "2025-02-14 13:45:55",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.1.1_17.2.0",
