@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/11.4.7",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -5279,10 +5279,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/11.4.6",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -10554,10 +10554,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/10.0.9",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -15826,10 +15826,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/10.0.8",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -21098,10 +21098,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/9.8.14",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -26041,10 +26041,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/9.8.13",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -30984,13 +30984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/8.3.0",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_8.3.0",
         "version": "8.3.0",
@@ -35970,13 +35970,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/couchpotato/8.2.0",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_8.2.0",
         "version": "8.2.0",

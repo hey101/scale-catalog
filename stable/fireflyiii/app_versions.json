@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/27.2.13",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -5668,10 +5668,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/27.2.12",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -11332,10 +11332,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/26.1.5",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -16993,10 +16993,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/26.1.4",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -22654,10 +22654,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/25.10.22",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -28444,10 +28444,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/25.10.21",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -34234,13 +34234,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/24.4.0",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "6.1.9_24.4.0",
         "version": "24.4.0",
@@ -40099,13 +40099,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/24.3.0",
-        "last_update": "2025-02-15 07:27:14",
+        "last_update": "2025-02-15 12:08:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "6.1.9_24.3.0",
         "version": "24.3.0",
