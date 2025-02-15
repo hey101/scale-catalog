@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.25.0"
+appVersion: "2.26.0"
 dependencies:
   - name: common
-    version: 26.0.2
+    version: 26.2.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/local-ai
   - https://hub.docker.com/r/localai/localai
 type: application
-version: 11.46.6
+version: 11.46.8
