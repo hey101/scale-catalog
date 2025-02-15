@@ -10,7 +10,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 26.0.2
+    version: 26.2.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -43,4 +43,4 @@ sources:
   - https://cloudnative-pg.io/
   - https://github.com/cloudnative-pg
 type: application
-version: 8.1.16
+version: 8.1.18
