@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/8.4.9",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -5637,7 +5637,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/8.4.8",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -11270,7 +11270,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/7.0.11",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -16900,7 +16900,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/7.0.10",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -22530,7 +22530,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/6.9.1",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -27730,7 +27730,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/6.9.0",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -32930,12 +32930,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/5.3.0",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.3.2_5.3.0",
         "version": "5.3.0",
@@ -38173,12 +38173,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rstudio/5.2.0",
-        "last_update": "2025-02-14 21:26:10",
+        "last_update": "2025-02-15 04:51:28",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.3.2_5.2.0",
         "version": "5.2.0",
