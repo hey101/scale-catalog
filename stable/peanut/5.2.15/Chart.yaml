@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.1.1"
+appVersion: "5.3.0"
 dependencies:
   - name: common
     version: 26.2.0
@@ -34,4 +34,4 @@ sources:
   - https://github.com/Brandawg93/PeaNUT
   - https://hub.docker.com/r/brandawg93/peanut
 type: application
-version: 5.2.13
+version: 5.2.15
