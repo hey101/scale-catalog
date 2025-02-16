@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/10.4.7",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "1.0.202109_10.4.7",
         "version": "10.4.7",
@@ -4719,12 +4719,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/10.4.6",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "1.0.202109_10.4.6",
         "version": "10.4.6",
@@ -9434,12 +9434,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/9.0.8",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "1.0.20210914_9.0.8",
         "version": "9.0.8",
@@ -14146,12 +14146,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/9.0.7",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "1.0.20210914_9.0.7",
         "version": "9.0.7",
@@ -18858,12 +18858,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/8.8.14",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "1.0.20210914_8.8.14",
         "version": "8.8.14",
@@ -23342,12 +23342,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/8.8.13",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "1.0.20210914_8.8.13",
         "version": "8.8.13",
@@ -27826,13 +27826,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/7.3.0",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.0.20210914_7.3.0",
         "version": "7.3.0",
@@ -32353,13 +32353,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/7.2.0",
-        "last_update": "2025-02-16 11:01:42",
+        "last_update": "2025-02-16 18:52:00",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.0.20210914_7.2.0",
         "version": "7.2.0",
