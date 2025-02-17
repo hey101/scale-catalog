@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/11.4.15",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.9.2_11.4.15",
         "version": "11.4.15",
@@ -6572,12 +6572,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/11.4.14",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.9.2_11.4.14",
         "version": "11.4.14",
@@ -13140,12 +13140,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/10.1.7",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_10.1.7",
         "version": "10.1.7",
@@ -19705,12 +19705,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/10.1.6",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_10.1.6",
         "version": "10.1.6",
@@ -26270,12 +26270,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/9.8.14",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.8.8_9.8.14",
         "version": "9.8.14",
@@ -32405,12 +32405,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/9.8.13",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.8.8_9.8.13",
         "version": "9.8.13",
@@ -38540,12 +38540,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/8.4.0",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "1.8.8_8.4.0",
@@ -44718,12 +44718,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emulatorjs/8.3.1",
-        "last_update": "2025-02-17 16:06:16",
+        "last_update": "2025-02-17 20:30:56",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "1.8.8_8.3.1",
