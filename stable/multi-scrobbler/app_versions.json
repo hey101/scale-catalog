@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/8.4.9",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.4.9",
         "version": "8.4.9",
@@ -5089,12 +5089,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/8.4.8",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.4.8",
         "version": "8.4.8",
@@ -10174,12 +10174,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/7.0.9",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.0.9",
         "version": "7.0.9",
@@ -15256,12 +15256,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/7.0.8",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.0.8",
         "version": "7.0.8",
@@ -20338,12 +20338,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/6.8.15",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.8.15",
         "version": "6.8.15",
@@ -25091,12 +25091,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/6.8.14",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.8.14",
         "version": "6.8.14",
@@ -29844,13 +29844,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/5.3.0",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.3.0",
         "version": "5.3.0",
@@ -34640,13 +34640,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/5.2.0",
-        "last_update": "2025-02-17 07:24:06",
+        "last_update": "2025-02-17 12:19:13",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.2.0",
         "version": "5.2.0",
