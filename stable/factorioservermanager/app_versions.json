@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/7.4.7",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -6574,7 +6574,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/7.4.6",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -13144,7 +13144,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/6.0.9",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -19711,7 +19711,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/6.0.8",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -26278,7 +26278,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/5.8.14",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -32314,7 +32314,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/5.8.13",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -38350,13 +38350,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/4.3.0",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -44429,13 +44429,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/factorioservermanager/4.2.0",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

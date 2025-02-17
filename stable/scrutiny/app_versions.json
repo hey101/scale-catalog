@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/12.4.7",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5913,7 +5913,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/12.4.6",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -11822,7 +11822,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/11.0.8",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -17728,7 +17728,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/11.0.7",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -23634,7 +23634,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/10.9.15",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -29110,7 +29110,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/10.9.14",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -34586,13 +34586,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/9.3.0",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.2_9.3.0",
         "version": "9.3.0",
@@ -40105,13 +40105,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrutiny/9.2.0",
-        "last_update": "2025-02-16 18:52:00",
+        "last_update": "2025-02-17 01:26:08",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.2_9.2.0",
         "version": "9.2.0",
