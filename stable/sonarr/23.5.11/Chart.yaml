@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.41.3.931"
+appVersion: "4.0.13.293"
 dependencies:
   - name: common
     version: 26.2.0
@@ -16,22 +16,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Plex Media Server
-home: https://github.com/hey101/charts/stable/plex
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/plex.webp
+description: Smart PVR for newsgroup and bittorrent users
+home: https://github.com/hey101/charts/stable/sonarr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.webp
 keywords:
-  - plex
-  - plex-media-server
+  - sonarr
+  - torrent
+  - usenet
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: plex
+name: sonarr
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/plex
-  - https://ghcr.io/onedr0p/plex
-  - https://github.com/k8s-at-home/container-images/pkgs/container/plex
-  - https://github.com/truecharts/charts/tree/master/charts/stable/plex
+  - https://github.com/hey101/charts/tree/master/charts/stable/sonarr
+  - https://ghcr.io/onedr0p/exportarr
+  - https://ghcr.io/onedr0p/sonarr
+  - https://github.com/Sonarr/Sonarr
+  - https://github.com/truecharts/charts/tree/master/charts/stable/sonarr
 type: application
-version: 19.5.8
+version: 23.5.11

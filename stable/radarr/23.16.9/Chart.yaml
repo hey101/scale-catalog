@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.0.12.282"
+appVersion: "5.18.4.967"
 dependencies:
   - name: common
     version: 26.2.0
@@ -16,11 +16,11 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Smart PVR for newsgroup and bittorrent users
-home: https://github.com/hey101/charts/stable/sonarr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.webp
+description: A fork of Sonarr to work with movies à la Couchpotato
+home: https://github.com/hey101/charts/stable/radarr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/radarr.webp
 keywords:
-  - sonarr
+  - radarr
   - torrent
   - usenet
 kubeVersion: ">=1.24.0-0"
@@ -28,12 +28,12 @@ maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: sonarr
+name: radarr
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/sonarr
+  - https://github.com/hey101/charts/tree/master/charts/stable/radarr
   - https://ghcr.io/onedr0p/exportarr
-  - https://ghcr.io/onedr0p/sonarr
-  - https://github.com/Sonarr/Sonarr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/sonarr
+  - https://ghcr.io/onedr0p/radarr
+  - https://github.com/Radarr/Radarr
+  - https://github.com/truecharts/charts/tree/master/charts/stable/radarr
 type: application
-version: 23.5.9
+version: 23.16.9
