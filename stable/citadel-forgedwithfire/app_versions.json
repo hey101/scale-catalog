@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/7.4.7",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "citadelfwf_7.4.7",
         "version": "7.4.7",
@@ -5731,11 +5731,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/7.4.6",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "citadelfwf_7.4.6",
         "version": "7.4.6",
@@ -11458,11 +11458,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/6.0.9",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "citadelfwf_6.0.9",
         "version": "6.0.9",
@@ -17182,11 +17182,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/6.0.8",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "citadelfwf_6.0.8",
         "version": "6.0.8",
@@ -22906,11 +22906,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/5.8.14",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "citadelfwf_5.8.14",
         "version": "5.8.14",
@@ -28200,11 +28200,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/5.8.13",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "citadelfwf_5.8.13",
         "version": "5.8.13",
@@ -33494,11 +33494,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/4.3.0",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "citadelfwf_4.3.0",
@@ -38831,11 +38831,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/citadel-forgedwithfire/4.2.0",
-        "last_update": "2025-02-18 04:22:23",
+        "last_update": "2025-02-18 06:59:16",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "citadelfwf_4.2.0",
