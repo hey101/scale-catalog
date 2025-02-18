@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/27.2.13",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5668,7 +5668,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/27.2.12",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -11332,7 +11332,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/26.1.5",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -16993,7 +16993,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/26.1.4",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -22654,7 +22654,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/25.10.22",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -28444,7 +28444,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/25.10.21",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -34234,13 +34234,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/24.4.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "6.1.9_24.4.0",
         "version": "24.4.0",
@@ -40099,13 +40099,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fireflyiii/24.3.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "6.1.9_24.3.0",
         "version": "24.3.0",

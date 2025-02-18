@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/21.11.8",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5905,7 +5905,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/21.11.7",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -11806,7 +11806,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/20.1.8",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -17704,7 +17704,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/20.1.7",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23602,7 +23602,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/19.10.9",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -29070,7 +29070,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/19.10.8",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -34538,13 +34538,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/18.1.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.2.0_18.1.0",
         "version": "18.1.0",
@@ -40049,13 +40049,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/18.0.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.2.0_18.0.0",
         "version": "18.0.0",
@@ -45560,13 +45560,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/esphome/17.2.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2023.12.9_17.2.0",
         "version": "17.2.0",

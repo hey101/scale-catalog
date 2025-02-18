@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/7.4.10",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -4718,7 +4718,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/7.4.9",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -9432,7 +9432,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/6.0.9",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -14143,7 +14143,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/6.0.8",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -18854,7 +18854,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/5.8.14",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23337,7 +23337,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/5.8.13",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -27820,13 +27820,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/4.3.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.2.1_4.3.0",
         "version": "4.3.0",
@@ -32346,13 +32346,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpmyadmin/4.2.0",
-        "last_update": "2025-02-17 20:30:56",
+        "last_update": "2025-02-18 01:11:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.2.1_4.2.0",
         "version": "4.2.0",
