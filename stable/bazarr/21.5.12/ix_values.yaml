@@ -1,36 +1,35 @@
 image:
-  repository: ghcr.io/onedr0p/sabnzbd
+  repository: ghcr.io/onedr0p/bazarr
   pullPolicy: IfNotPresent
-  tag: 4.4.1@sha256:fd85776610865ba5bd8da40415759871ee70dfe9371f88ee88f18a847391ce6a
+  tag: 1.5.1@sha256:e1058dabc45dfa0c3eea397e8a320e1b25d7c24cf1ef78eaf550b842a43da87c
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
-  pullPolicy: IfNotPresent
   tag: v2.0.1@sha256:727e7bc8f2f0934a2117978c59f4476b954018b849a010ea6cfb380bd6539644
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:
       main:
-        port: 10097
+        port: 6767
+        protocol: http
+        targetPort: 6767
   metrics:
     enabled: "{{ .Values.metrics.main.enabled }}"
     type: ClusterIP
     ports:
       metrics:
         enabled: true
-        port: 8990
+        port: 7879
+
 workload:
   main:
     podSpec:
       containers:
-        main:
-          env:
-            SABNZBD__HOST_WHITELIST_ENTRIES: ""
-            SABNZBD__PORT: "{{ .Values.service.main.ports.main.port }}"
         exportarr:
           enabled: "{{ .Values.metrics.main.enabled }}"
           imageSelector: exportarrImage
           args:
-            - sabnzbd
+            - bazarr
           probes:
             liveness:
               enabled: true
@@ -52,6 +51,7 @@ workload:
             PORT: "{{ .Values.service.metrics.ports.metrics.port }}"
             URL: '{{ printf "http://%v:%v" (include "tc.v1.common.lib.chart.names.fullname" $) .Values.service.main.ports.main.port }}'
             APIKEY: "{{ .Values.metrics.main.apiKey }}"
+
 persistence:
   config:
     enabled: true
@@ -62,6 +62,7 @@ persistence:
         exportarr:
           mountPath: /config
           readOnly: true
+
 metrics:
   main:
     enabled: false

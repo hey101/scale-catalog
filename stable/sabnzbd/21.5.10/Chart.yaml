@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "4.4.1"
 dependencies:
   - name: common
-    version: 26.0.2
+    version: 26.2.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/sabnzbd
   - https://sabnzbd.org/
 type: application
-version: 21.5.8
+version: 21.5.10
