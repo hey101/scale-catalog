@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/15.4.9",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -5280,7 +5280,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/15.4.8",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -10556,7 +10556,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/14.0.10",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -15829,7 +15829,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/14.0.9",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -21102,7 +21102,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/13.8.14",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -26046,7 +26046,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/13.8.13",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -30990,13 +30990,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/12.3.0",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "latest_12.3.0",
         "version": "12.3.0",
@@ -35977,13 +35977,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/duplicati/12.2.0",
-        "last_update": "2025-02-18 06:59:16",
+        "last_update": "2025-02-18 12:49:01",
         "required_features": [
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "latest_12.2.0",
         "version": "12.2.0",
