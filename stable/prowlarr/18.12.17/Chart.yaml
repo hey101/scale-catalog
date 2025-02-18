@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.31.0.494"
+appVersion: "1.31.1.495"
 dependencies:
   - name: common
     version: 26.2.0
@@ -37,4 +37,4 @@ sources:
   - https://github.com/Prowlarr/Prowlarr
   - https://github.com/k8s-at-home/container-images
 type: application
-version: 18.12.15
+version: 18.12.17
