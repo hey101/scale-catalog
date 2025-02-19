@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2.10.5"
 dependencies:
   - name: common
-    version: 26.2.0
+    version: 26.2.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/automatic-ripping-machine/automatic-ripping-machine
   - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
 type: application
-version: 5.8.42
+version: 5.8.44
