@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/11.4.8",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -5267,10 +5267,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/11.4.7",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -10530,10 +10530,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/10.0.9",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -15790,10 +15790,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/10.0.8",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -21050,10 +21050,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/9.8.14",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -25981,10 +25981,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/9.8.13",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -30912,12 +30912,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/8.3.0",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2021.11.21_8.3.0",
@@ -35886,12 +35886,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/8.2.0",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2021.11.21_8.2.0",

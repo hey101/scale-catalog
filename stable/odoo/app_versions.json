@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/19.1.29",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -6287,10 +6287,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/19.1.28",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -12570,10 +12570,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/18.0.12",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -18850,10 +18850,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/18.0.11",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -25130,10 +25130,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/17.8.18",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -31438,10 +31438,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/17.8.17",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -37746,12 +37746,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/16.3.0",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "17.0.0_16.3.0",
@@ -44129,12 +44129,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/odoo/16.2.1",
-        "last_update": "2025-02-19 13:50:59",
+        "last_update": "2025-02-19 21:39:31",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "17.0.0_16.2.1",
