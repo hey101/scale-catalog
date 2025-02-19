@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/15.4.8",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.9.0_15.4.8",
@@ -4694,11 +4694,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/15.4.7",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.9.0_15.4.7",
@@ -9384,11 +9384,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/14.0.9",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.9.0_14.0.9",
@@ -14071,11 +14071,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/14.0.8",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.9.0_14.0.8",
@@ -18758,11 +18758,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/13.8.14",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.9.0_13.8.14",
@@ -23217,11 +23217,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/13.8.13",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.9.0_13.8.13",
@@ -27676,12 +27676,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/12.3.0",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "0.9.0_12.3.0",
@@ -32178,12 +32178,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/phpldapadmin/12.2.0",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "0.9.0_12.2.0",

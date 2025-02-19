@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/23.3.12",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2021.11.28_23.3.12",
@@ -5280,11 +5280,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/23.3.11",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2021.11.28_23.3.11",
@@ -10556,11 +10556,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/21.0.12",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.6.1_21.0.12",
@@ -15829,11 +15829,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/21.0.11",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.6.1_21.0.11",
@@ -21102,11 +21102,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/20.8.17",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.6.1_20.8.17",
@@ -26046,11 +26046,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/20.8.16",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.6.1_20.8.16",
@@ -30990,12 +30990,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/19.3.0",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.6.1_19.3.0",
@@ -35977,12 +35977,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/heimdall/19.2.0",
-        "last_update": "2025-02-19 09:10:18",
+        "last_update": "2025-02-19 13:50:59",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.6.1_19.2.0",
