@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "5.0.4"
 dependencies:
   - name: common
-    version: 26.2.0
+    version: 26.2.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/qbittorrent/qBittorrent
   - https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server
 type: application
-version: 22.3.12
+version: 22.3.14
