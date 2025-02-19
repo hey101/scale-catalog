@@ -1,0 +1,31 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/modem7/newyearcountdown
+  tag: latest@sha256:74cc3f7131ea569efb01c5a5249c8b069b5c8024c8313339b772d8bba56eb6c5
+persistence: {}
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

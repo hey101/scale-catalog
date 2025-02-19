@@ -1,0 +1,31 @@
+image:
+  repository: ghcr.io/linuxserver/budge
+  tag: 0.0.9@sha256:46e787758cb03c47420c1ed6f466dcb77a0d4126febb6210ca2ffb95c6de68ae
+  pullPolicy: IfNotPresent
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10165
+        protocol: http
+        targetPort: 80
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            NODE_ENV: "production"
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true

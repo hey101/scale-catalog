@@ -1,0 +1,25 @@
+image:
+  repository: ghcr.io/linuxserver/oscam
+  pullPolicy: IfNotPresent
+  tag: 11868-ls133@sha256:726d3db5cf547cb001c7543ab4a8405ce41521ed28c3fe1b7b8a71035cdbb6a2
+service:
+  main:
+    ports:
+      main:
+        port: 10062
+        targetPort: 8888
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  varrun:
+    enabled: true
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 20

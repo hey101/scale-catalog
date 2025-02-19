@@ -1,0 +1,31 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/krateng/maloja
+  tag: latest@sha256:4ecea26058d2ca5168a8d53820279942d28f0606664cea6425f42371d5d88f95
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 42010
+        protocol: tcp
+        targetPort: 42010
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            MALOJA_DATA_DIRECTORY: /config
+            MALOJA_HOST: 0.0.0.0
