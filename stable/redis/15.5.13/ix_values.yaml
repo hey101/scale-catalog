@@ -1,7 +1,7 @@
 image:
   repository: docker.io/bitnami/redis
   pullPolicy: IfNotPresent
-  tag: 7.4.2@sha256:f58a1609b7c90fb42d3f782a1cf121f704e795e1181b6871b49c955ba4473128
+  tag: 7.4.2@sha256:83d5c765b68bdd01603ea5cbad96abc196e37fb875dc2e9fb8b9bdcce59d13d5
 
 includeCommon: true
 workload:
