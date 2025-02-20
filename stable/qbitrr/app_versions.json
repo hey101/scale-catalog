@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/6.7.9",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -4809,7 +4809,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/6.7.8",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -9614,7 +9614,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/5.2.7",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -14416,7 +14416,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/5.2.6",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -19218,7 +19218,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/4.9.14",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23590,7 +23590,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/4.9.13",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -27962,13 +27962,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/3.5.0",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.3.3_3.5.0",
         "version": "3.5.0",
@@ -32377,13 +32377,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitrr/3.4.1",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.3.3_3.4.1",
         "version": "3.4.1",

@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/22.14.14",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5477,7 +5477,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/22.14.13",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -10950,7 +10950,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/21.2.8",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -16420,7 +16420,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/21.2.7",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -21890,7 +21890,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/20.20.25",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -27031,7 +27031,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/20.20.24",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -32172,13 +32172,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/19.4.0",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "1.0.8_19.4.0",
         "version": "19.4.0",
@@ -37356,13 +37356,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/anonaddy/19.3.0",
-        "last_update": "2025-02-20 08:27:09",
+        "last_update": "2025-02-20 16:49:49",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "1.0.8_19.3.0",
         "version": "19.3.0",
