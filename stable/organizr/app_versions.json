@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/20.4.8",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_20.4.8",
         "version": "20.4.8",
@@ -5885,12 +5885,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/20.4.7",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_20.4.7",
         "version": "20.4.7",
@@ -11766,12 +11766,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/19.0.9",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_19.0.9",
         "version": "19.0.9",
@@ -17644,12 +17644,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/19.0.8",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_19.0.8",
         "version": "19.0.8",
@@ -23522,12 +23522,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/18.8.14",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_18.8.14",
         "version": "18.8.14",
@@ -28970,12 +28970,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/18.8.13",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "latest_18.8.13",
         "version": "18.8.13",
@@ -34418,13 +34418,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/17.3.0",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_17.3.0",
         "version": "17.3.0",
@@ -39909,13 +39909,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/organizr/17.2.0",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_17.2.0",
         "version": "17.2.0",

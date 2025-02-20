@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/13.4.8",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "1.29.2_13.4.8",
         "version": "13.4.8",
@@ -5284,12 +5284,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/13.4.7",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "1.29.2_13.4.7",
         "version": "13.4.7",
@@ -10564,12 +10564,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/12.0.9",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "1.29.2_12.0.9",
         "version": "12.0.9",
@@ -15841,12 +15841,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/12.0.8",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "1.29.2_12.0.8",
         "version": "12.0.8",
@@ -21118,12 +21118,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/11.8.14",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "1.29.2_11.8.14",
         "version": "11.8.14",
@@ -26066,12 +26066,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/11.8.13",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "1.29.2_11.8.13",
         "version": "11.8.13",
@@ -31014,13 +31014,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/10.3.0",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.29.2_10.3.0",
         "version": "10.3.0",
@@ -36005,13 +36005,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloud9/10.2.0",
-        "last_update": "2025-02-19 21:39:31",
+        "last_update": "2025-02-20 02:54:30",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.29.2_10.2.0",
         "version": "10.2.0",
