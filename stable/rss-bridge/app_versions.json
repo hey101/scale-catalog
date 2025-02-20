@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/12.4.9",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "2025-01_12.4.9",
         "version": "12.4.9",
@@ -5280,12 +5280,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/12.4.8",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "2025-01_12.4.8",
         "version": "12.4.8",
@@ -10556,12 +10556,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/11.0.8",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "2024.2.2_11.0.8",
         "version": "11.0.8",
@@ -15829,12 +15829,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/11.0.7",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "2024.2.2_11.0.7",
         "version": "11.0.7",
@@ -21102,12 +21102,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/10.8.14",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "2024.2.2_10.8.14",
         "version": "10.8.14",
@@ -26046,12 +26046,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/10.8.13",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "2024.2.2_10.8.13",
         "version": "10.8.13",
@@ -30990,12 +30990,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/9.2.0",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2024.2.2_9.2.0",
@@ -35977,12 +35977,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rss-bridge/9.1.0",
-        "last_update": "2025-02-20 02:54:30",
+        "last_update": "2025-02-20 08:27:09",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2024.2.2_9.1.0",
