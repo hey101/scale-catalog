@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 26.2.0
+    version: 26.2.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/searxng/searxng
   - https://hub.docker.com/r/searxng/searxng
 type: application
-version: 9.4.37
+version: 9.4.39
