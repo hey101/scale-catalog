@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/5.4.9",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -5303,10 +5303,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/5.4.8",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -10602,10 +10602,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/4.0.9",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -15898,10 +15898,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/4.0.8",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -21194,10 +21194,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/3.8.14",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -26161,10 +26161,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/3.8.13",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -31128,13 +31128,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/2.3.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.8.5_2.3.0",
         "version": "2.3.0",
@@ -36139,13 +36139,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ersatztv/2.2.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.8.5_2.2.0",
         "version": "2.2.0",

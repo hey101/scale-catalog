@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/6.6.10",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -5509,10 +5509,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/6.6.9",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -11014,10 +11014,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/5.0.9",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -16516,10 +16516,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/5.0.8",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -22018,10 +22018,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/4.9.15",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -26989,10 +26989,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/4.9.14",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -31960,13 +31960,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/3.3.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.2.5_3.3.0",
         "version": "3.3.0",
@@ -36974,13 +36974,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/borg-server/3.2.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.2.5_3.2.0",
         "version": "3.2.0",

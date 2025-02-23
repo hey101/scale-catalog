@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/11.11.13",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -5319,10 +5319,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/11.11.12",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -10634,10 +10634,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/10.1.6",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -15946,10 +15946,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/10.1.5",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -21258,10 +21258,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/9.10.11",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -26241,10 +26241,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/9.10.10",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -31224,13 +31224,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/8.4.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.86.2_8.4.0",
         "version": "8.4.0",
@@ -36250,13 +36250,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/openvscode-server/8.3.1",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.86.2_8.3.1",
         "version": "8.3.1",

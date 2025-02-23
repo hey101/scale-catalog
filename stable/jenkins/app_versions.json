@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/9.28.15",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -5266,10 +5266,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/9.28.14",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -10528,10 +10528,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/8.5.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -15787,10 +15787,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/8.4.2",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -21046,10 +21046,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/7.18.1",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -25976,10 +25976,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/7.18.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -30906,13 +30906,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/6.10.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.444.0_6.10.0",
         "version": "6.10.0",
@@ -35879,13 +35879,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/6.9.0",
-        "last_update": "2025-02-20 19:29:34",
+        "last_update": "2025-02-23 15:56:00",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.444.0_6.9.0",
         "version": "6.9.0",
