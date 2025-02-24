@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 26.2.0
+    version: 26.2.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -32,4 +32,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/duckdns
   - https://ghcr.io/linuxserver/duckdns
 type: application
-version: 11.4.14
+version: 11.4.16
