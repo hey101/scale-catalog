@@ -4,13 +4,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/nvidia-gpu-exporter/0.0.1",
-        "last_update": "2025-02-24 06:59:09",
+        "last_update": "2025-02-24 18:12:58",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "1.2.0_0.0.1",
         "version": "0.0.1",
