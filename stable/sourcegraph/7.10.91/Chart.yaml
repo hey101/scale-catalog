@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "6.1.376"
+appVersion: "6.1.1295"
 dependencies:
   - name: common
-    version: 26.4.0
+    version: 26.4.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -37,4 +37,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/sourcegraph
   - https://hub.docker.com/r/sourcegraph/server
 type: application
-version: 7.10.89
+version: 7.10.91
