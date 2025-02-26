@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "stable"
 dependencies:
   - name: common
-    version: 26.4.0
+    version: 26.4.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/factoriotools/factorio-docker
   - https://hub.docker.com/r/factoriotools/factorio
 type: application
-version: 9.4.17
+version: 9.4.19
