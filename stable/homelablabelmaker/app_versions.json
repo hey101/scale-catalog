@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/10.4.10",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.4.10",
         "version": "10.4.10",
@@ -4569,12 +4569,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/10.4.9",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.4.9",
         "version": "10.4.9",
@@ -9134,12 +9134,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/9.0.8",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.0.8",
         "version": "9.0.8",
@@ -13696,12 +13696,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/9.0.7",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.0.7",
         "version": "9.0.7",
@@ -18258,12 +18258,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/8.8.14",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.8.14",
         "version": "8.8.14",
@@ -22592,12 +22592,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/8.8.13",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.8.13",
         "version": "8.8.13",
@@ -26926,13 +26926,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/7.3.0",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -31303,13 +31303,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homelablabelmaker/7.2.0",
-        "last_update": "2025-02-26 04:16:10",
+        "last_update": "2025-02-26 06:51:21",
         "required_features": [
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
