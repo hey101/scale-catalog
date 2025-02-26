@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/15.4.10",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "4_15.4.10",
         "version": "15.4.10",
@@ -4667,12 +4667,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/15.4.9",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "4_15.4.9",
         "version": "15.4.9",
@@ -9330,12 +9330,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/14.0.9",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "4.0.0_14.0.9",
         "version": "14.0.9",
@@ -13990,12 +13990,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/14.0.8",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "4.0.0_14.0.8",
         "version": "14.0.8",
@@ -18650,12 +18650,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/13.8.14",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "4.0.0_13.8.14",
         "version": "13.8.14",
@@ -23082,12 +23082,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/13.8.13",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "4.0.0_13.8.13",
         "version": "13.8.13",
@@ -27514,13 +27514,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/12.3.0",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.0.0_12.3.0",
         "version": "12.3.0",
@@ -31989,13 +31989,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pretend-youre-xyzzy/12.2.0",
-        "last_update": "2025-02-26 06:51:21",
+        "last_update": "2025-02-26 14:03:58",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.0.0_12.2.0",
         "version": "12.2.0",
