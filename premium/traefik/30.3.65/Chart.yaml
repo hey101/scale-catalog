@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: premium
 apiVersion: v2
-appVersion: "3.3.3"
+appVersion: "3.3.4"
 dependencies:
   - name: common
-    version: 26.4.0
+    version: 26.4.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/traefik/traefik-helm-chart
   - https://traefik.io/
 type: application
-version: 30.3.63
+version: 30.3.65
