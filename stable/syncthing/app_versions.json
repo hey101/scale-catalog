@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/20.6.11",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.29.2_20.6.11",
         "version": "20.6.11",
@@ -5536,12 +5536,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/20.6.10",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.29.2_20.6.10",
         "version": "20.6.10",
@@ -11068,12 +11068,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/19.0.9",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.27.7_19.0.9",
         "version": "19.0.9",
@@ -16597,12 +16597,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/19.0.8",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.27.7_19.0.8",
         "version": "19.0.8",
@@ -22126,12 +22126,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/18.8.15",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.27.6_18.8.15",
         "version": "18.8.15",
@@ -27326,12 +27326,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/18.8.14",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.27.6_18.8.14",
         "version": "18.8.14",
@@ -32526,13 +32526,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/17.3.0",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.27.3_17.3.0",
         "version": "17.3.0",
@@ -37769,13 +37769,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/syncthing/17.2.0",
-        "last_update": "2025-02-27 13:53:07",
+        "last_update": "2025-02-27 19:57:20",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.27.3_17.2.0",
         "version": "17.2.0",
