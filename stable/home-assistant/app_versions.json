@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/26.4.18",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2025.1.2_26.4.18",
@@ -5632,11 +5632,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/26.4.17",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2025.1.1_26.4.17",
@@ -11260,11 +11260,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/25.1.8",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2024.5.5_25.1.8",
@@ -16885,11 +16885,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/25.1.7",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2024.5.5_25.1.7",
@@ -22510,11 +22510,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/24.10.17",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2024.4.4_24.10.17",
@@ -28264,11 +28264,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/24.10.16",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2024.4.4_24.10.16",
@@ -34018,13 +34018,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/23.3.0",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2024.2.2_23.3.0",
         "version": "23.3.0",
@@ -39847,13 +39847,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/home-assistant/23.2.1",
-        "last_update": "2025-02-27 01:17:57",
+        "last_update": "2025-02-27 05:00:45",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2024.2.2_23.2.1",
         "version": "23.2.1",
