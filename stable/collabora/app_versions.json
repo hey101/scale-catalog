@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/7.4.16",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -4843,7 +4843,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/7.4.15",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -9682,7 +9682,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/6.0.12",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -14518,7 +14518,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/6.0.11",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -19354,7 +19354,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/5.8.14",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23962,7 +23962,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/5.8.13",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -28570,13 +28570,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/4.3.0",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "23.05.9.1.1_4.3.0",
         "version": "4.3.0",
@@ -33221,13 +33221,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/collabora/4.2.1",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "23.05.9.1.1_4.2.1",
         "version": "4.2.1",

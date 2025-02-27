@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/8.2.8",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -4763,7 +4763,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/8.2.7",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -9522,7 +9522,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/7.0.10",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -14278,7 +14278,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/7.0.9",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -19034,7 +19034,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/6.10.18",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23562,7 +23562,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/6.10.17",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -28090,13 +28090,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/5.4.0",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.4.0",
         "version": "5.4.0",
@@ -32661,13 +32661,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mongo-express/5.3.0",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.3.0",
         "version": "5.3.0",

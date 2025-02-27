@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/11.6.16",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -4806,7 +4806,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/11.6.15",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -9608,7 +9608,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/10.0.12",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -14407,7 +14407,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/10.0.11",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -19206,7 +19206,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/9.8.18",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23575,7 +23575,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/9.8.17",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -27944,13 +27944,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/8.3.0",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.1.4_8.3.0",
         "version": "8.3.0",
@@ -32356,13 +32356,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webgrabplus/8.2.1",
-        "last_update": "2025-02-27 08:07:29",
+        "last_update": "2025-02-27 13:53:07",
         "required_features": [
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "5.1.4_8.2.1",
         "version": "8.2.1",
