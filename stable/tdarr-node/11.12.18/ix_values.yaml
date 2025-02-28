@@ -1,7 +1,7 @@
 image:
   repository: docker.io/haveagitgat/tdarr_node
   pullPolicy: IfNotPresent
-  tag: 2.32.01@sha256:c187c7cab04c32d0011fdc9e46f83e422c9ac1e1881aa19ce12e98ce4d0a6e26
+  tag: 2.35.01@sha256:6a4c8e3bfb6ca72c3c1ffa833afe1e48b513bc6fba4099b858733f4181586cda
 service:
   main:
     enabled: false
