@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.32.01"
+appVersion: "2.35.01"
 dependencies:
   - name: common
     version: 26.4.1
@@ -35,4 +35,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/tdarr
   - https://hub.docker.com/r/haveagitgat/tdarr
 type: application
-version: 11.12.16
+version: 11.12.18
