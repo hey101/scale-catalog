@@ -1,0 +1,36 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/xavierh/goaccess-for-nginxproxymanager
+  tag: latest@sha256:460479648d5c1eeee420b2d8e25bbb1ff29956db2e33afc21c78dfc117d8f636
+persistence:
+  hostpath1:
+    enabled: true
+    mountPath: /opt/log
+    readOnly: true
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 7880
+        protocol: tcp
+        targetPort: 7880
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            BASIC_AUTH: "True"
+            BASIC_AUTH_PASSWORD: x
+            BASIC_AUTH_USERNAME: x
+            DEBUG: "False"
+            EXCLUDE_IPS: ""
+            SKIP_ARCHIVED_LOGS: "False"
