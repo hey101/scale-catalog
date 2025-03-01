@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/10.16.20",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.173.0_10.16.20",
         "version": "10.16.20",
@@ -5884,12 +5884,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/10.16.19",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.170.0_10.16.19",
         "version": "10.16.19",
@@ -11764,12 +11764,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/9.2.5",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.143.1_9.2.5",
         "version": "9.2.5",
@@ -17641,12 +17641,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/9.2.4",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.143.1_9.2.4",
         "version": "9.2.4",
@@ -23518,12 +23518,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/8.11.0",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.141.0_8.11.0",
         "version": "8.11.0",
@@ -28965,12 +28965,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/8.10.16",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "5.140.1_8.10.16",
         "version": "8.10.16",
@@ -34412,10 +34412,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/7.6.0",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration"
@@ -39902,10 +39902,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/7.5.1",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration"

@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mariadb/15.7.12",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "11.7.2_15.7.12",
         "version": "15.7.12",
@@ -4342,12 +4342,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mariadb/15.7.11",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "11.7.2_15.7.11",
         "version": "15.7.11",
@@ -8680,12 +8680,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mariadb/14.0.12",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "11.3.2_14.0.12",
         "version": "14.0.12",
@@ -13015,12 +13015,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mariadb/14.0.11",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "11.3.2_14.0.11",
         "version": "14.0.11",
@@ -17350,12 +17350,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mariadb/13.9.20",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "11.3.2_13.9.20",
         "version": "13.9.20",
@@ -21356,12 +21356,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mariadb/13.9.19",
-        "last_update": "2025-03-01 08:30:10",
+        "last_update": "2025-03-01 12:23:44",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "11.3.2_13.9.19",
         "version": "13.9.19",
