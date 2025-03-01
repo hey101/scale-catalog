@@ -1,0 +1,23 @@
+image:
+  repository: linuxserver/ombi
+  pullPolicy: IfNotPresent
+  tag: 4.47.1@sha256:7eec3a34bcc93930144acde80d0009cabf4bb9e15045feac8d74626dc87dae8e
+service:
+  main:
+    ports:
+      main:
+        port: 3579
+        targetPort: 3579
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+    allowPrivilegeEscalation: true
