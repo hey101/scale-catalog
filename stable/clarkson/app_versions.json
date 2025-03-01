@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/14.10.14",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.1.2_14.10.14",
@@ -36,7 +36,7 @@
                 },
                 {
                     "name": "mariadb",
-                    "version": "15.8.2",
+                    "version": "15.9.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "mariadb.enabled",
                     "alias": "",
@@ -4676,11 +4676,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/14.10.13",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.1.2_14.10.13",
@@ -9348,11 +9348,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/13.1.8",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.1.2_13.1.8",
@@ -14017,11 +14017,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/13.1.7",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.1.2_13.1.7",
@@ -18686,11 +18686,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/12.15.24",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.1.2_12.15.24",
@@ -23127,11 +23127,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/12.15.23",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.1.2_12.15.23",
@@ -27568,13 +27568,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/11.4.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.1.2_11.4.0",
         "version": "11.4.0",
@@ -32052,13 +32052,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/clarkson/11.3.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.1.2_11.3.0",
         "version": "11.3.0",

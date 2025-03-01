@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/11.4.17",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_11.4.17",
@@ -6490,11 +6490,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/11.4.16",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_11.4.16",
@@ -12976,11 +12976,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/10.0.12",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_10.0.12",
@@ -19459,11 +19459,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/10.0.11",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_10.0.11",
@@ -25942,11 +25942,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/9.8.14",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_9.8.14",
@@ -31894,11 +31894,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/9.8.13",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_9.8.13",
@@ -37846,13 +37846,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/8.3.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_8.3.0",
         "version": "8.3.0",
@@ -43841,13 +43841,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/iyuuplus/8.2.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_8.2.0",
         "version": "8.2.0",

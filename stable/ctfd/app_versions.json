@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/6.12.17",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.7.6_6.12.17",
@@ -36,7 +36,7 @@
                 },
                 {
                     "name": "mariadb",
-                    "version": "15.8.2",
+                    "version": "15.9.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "mariadb.enabled",
                     "alias": "",
@@ -6035,11 +6035,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/6.12.16",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.7.6_6.12.16",
@@ -12066,11 +12066,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/5.2.8",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.7.0_5.2.8",
@@ -18094,11 +18094,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/5.2.7",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.7.0_5.2.7",
@@ -24122,11 +24122,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/4.20.25",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.7.0_4.20.25",
@@ -29720,11 +29720,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/4.20.24",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "3.7.0_4.20.24",
@@ -35318,13 +35318,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/3.4.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.6.1_3.4.0",
         "version": "3.4.0",
@@ -40959,13 +40959,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ctfd/3.3.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.6.1_3.3.0",
         "version": "3.3.0",

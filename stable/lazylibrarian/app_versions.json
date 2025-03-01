@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/20.4.35",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_20.4.35",
@@ -5282,11 +5282,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/20.4.34",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_20.4.34",
@@ -10560,11 +10560,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/19.0.14",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_19.0.14",
@@ -15835,11 +15835,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/19.0.13",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_19.0.13",
@@ -21110,11 +21110,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/18.8.20",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_18.8.20",
@@ -26056,11 +26056,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/18.8.19",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "latest_18.8.19",
@@ -31002,13 +31002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/17.3.0",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_17.3.0",
         "version": "17.3.0",
@@ -35991,13 +35991,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lazylibrarian/17.2.1",
-        "last_update": "2025-02-28 23:41:44",
+        "last_update": "2025-03-01 04:58:15",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_17.2.1",
         "version": "17.2.1",
