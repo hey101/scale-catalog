@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/7.0.17",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2.2.3_7.0.17",
         "version": "7.0.17",
@@ -6375,12 +6375,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/7.0.16",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2.1.5_7.0.16",
         "version": "7.0.16",
@@ -12746,12 +12746,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/5.2.2",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.8.0_5.2.2",
         "version": "5.2.2",
@@ -19114,12 +19114,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/5.2.1",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.8.0_5.2.1",
         "version": "5.2.1",
@@ -25482,12 +25482,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/4.9.16",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.6.6_4.9.16",
         "version": "4.9.16",
@@ -31878,12 +31878,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/4.9.15",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.6.5_4.9.15",
         "version": "4.9.15",
@@ -38274,13 +38274,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/3.4.0",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.5.1_3.4.0",
         "version": "3.4.0",
@@ -44693,13 +44693,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flowise/3.3.1",
-        "last_update": "2025-03-02 04:18:23",
+        "last_update": "2025-03-02 10:39:48",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.5.1_3.3.1",
         "version": "3.3.1",
