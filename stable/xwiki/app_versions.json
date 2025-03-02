@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/14.3.16",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.10.2-po_14.3.16",
         "version": "14.3.16",
@@ -5649,12 +5649,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/14.3.15",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.10.1-po_14.3.15",
         "version": "14.3.15",
@@ -11294,12 +11294,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/13.1.7",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.3.1_13.1.7",
         "version": "13.1.7",
@@ -16936,12 +16936,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/13.1.6",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.3.1_13.1.6",
         "version": "13.1.6",
@@ -22578,12 +22578,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/12.10.19",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.2.0_12.10.19",
         "version": "12.10.19",
@@ -28349,12 +28349,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/12.10.18",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.2.0_12.10.18",
         "version": "12.10.18",
@@ -34120,13 +34120,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/11.2.0",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.0.0_11.2.0",
         "version": "11.2.0",
@@ -39966,13 +39966,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xwiki/11.1.0",
-        "last_update": "2025-03-02 00:17:25",
+        "last_update": "2025-03-02 04:18:23",
         "required_features": [
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "16.0.0_11.1.0",
         "version": "11.1.0",
