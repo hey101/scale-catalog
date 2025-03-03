@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/7.5.12",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.9.6_7.5.12",
@@ -5704,10 +5704,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/7.5.11",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.9.6_7.5.11",
@@ -11404,10 +11404,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/6.0.8",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.8.2_6.0.8",
@@ -17101,10 +17101,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/6.0.7",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.8.2_6.0.7",
@@ -22798,10 +22798,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/5.8.15",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.8.2_5.8.15",
@@ -28065,10 +28065,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/5.8.14",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface"
         ],
         "human_version": "1.8.2_5.8.14",
@@ -33332,12 +33332,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/4.3.0",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.8.0_4.3.0",
         "version": "4.3.0",
@@ -38642,12 +38642,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gokapi/4.2.1",
-        "last_update": "2025-03-03 01:12:24",
+        "last_update": "2025-03-03 02:52:54",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.8.0_4.2.1",
         "version": "4.2.1",
