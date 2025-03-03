@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "11870"
+appVersion: "11871"
 dependencies:
   - name: common
-    version: 26.4.2
+    version: 26.4.3
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://git.streamboard.tv/common/oscam
   - https://github.com/truecharts/charts/tree/master/charts/stable/oscam
 type: application
-version: 15.4.14
+version: 15.4.16
