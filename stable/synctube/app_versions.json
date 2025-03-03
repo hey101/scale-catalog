@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/9.4.12",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.4.12",
         "version": "9.4.12",
@@ -5286,12 +5286,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/9.4.11",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.4.11",
         "version": "9.4.11",
@@ -10568,12 +10568,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/8.0.8",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.0.8",
         "version": "8.0.8",
@@ -15847,12 +15847,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/8.0.7",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.0.7",
         "version": "8.0.7",
@@ -21126,12 +21126,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/7.8.14",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.8.14",
         "version": "7.8.14",
@@ -26076,12 +26076,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/7.8.13",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.8.13",
         "version": "7.8.13",
@@ -31026,13 +31026,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/6.3.0",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_6.3.0",
         "version": "6.3.0",
@@ -36019,13 +36019,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/synctube/6.2.0",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_6.2.0",
         "version": "6.2.0",

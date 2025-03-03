@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/9.4.13",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.18.0_9.4.13",
         "version": "9.4.13",
@@ -5592,12 +5592,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/9.4.12",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.18.0_9.4.12",
         "version": "9.4.12",
@@ -11180,12 +11180,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/8.0.9",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_8.0.9",
         "version": "8.0.9",
@@ -16765,12 +16765,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/8.0.8",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_8.0.8",
         "version": "8.0.8",
@@ -22350,12 +22350,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/7.9.14",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_7.9.14",
         "version": "7.9.14",
@@ -28064,12 +28064,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/7.9.13",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_7.9.13",
         "version": "7.9.13",
@@ -33778,13 +33778,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/6.4.0",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.16.2_6.4.0",
         "version": "6.4.0",
@@ -39567,13 +39567,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/discordgsm/6.3.0",
-        "last_update": "2025-03-03 08:47:36",
+        "last_update": "2025-03-03 19:11:33",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.16.2_6.3.0",
         "version": "6.3.0",
