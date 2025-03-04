@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/14.4.13",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "10.0_14.4.13",
         "version": "14.4.13",
@@ -5282,12 +5282,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/14.4.12",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "9.0_14.4.12",
         "version": "14.4.12",
@@ -10560,12 +10560,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/13.0.9",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "9.0.0_13.0.9",
         "version": "13.0.9",
@@ -15835,12 +15835,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/13.0.8",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "9.0.0_13.0.8",
         "version": "13.0.8",
@@ -21110,12 +21110,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/12.8.14",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "9.0.0_12.8.14",
         "version": "12.8.14",
@@ -26056,12 +26056,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/12.8.13",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "9.0.0_12.8.13",
         "version": "12.8.13",
@@ -31002,13 +31002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/11.3.0",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "9.0.0_11.3.0",
         "version": "11.3.0",
@@ -35991,13 +35991,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piaware/11.2.0",
-        "last_update": "2025-03-03 19:11:33",
+        "last_update": "2025-03-03 23:32:45",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "9.0.0_11.2.0",
         "version": "11.2.0",
