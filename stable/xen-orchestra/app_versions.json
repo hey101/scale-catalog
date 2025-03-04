@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/10.16.22",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "5.173.0_10.16.22",
@@ -5884,11 +5884,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/10.16.21",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "5.173.0_10.16.21",
@@ -11764,11 +11764,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/9.2.5",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "5.143.1_9.2.5",
@@ -17641,11 +17641,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/9.2.4",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "5.143.1_9.2.4",
@@ -23518,11 +23518,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/8.11.0",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "5.141.0_8.11.0",
@@ -28965,11 +28965,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/8.10.16",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/interface",
             "definitions/timezone"
         ],
         "human_version": "5.140.1_8.10.16",
@@ -34412,13 +34412,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/7.6.0",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "5.136.0_7.6.0",
         "version": "7.6.0",
@@ -39902,13 +39902,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/xen-orchestra/7.5.1",
-        "last_update": "2025-03-04 14:38:18",
+        "last_update": "2025-03-04 20:08:24",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "5.136.0_7.5.1",
         "version": "7.5.1",
