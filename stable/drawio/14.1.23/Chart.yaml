@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2025-02"
+appVersion: "26.1.0"
 dependencies:
   - name: common
     version: 27.0.0
@@ -16,22 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Web GUI for youtube-dl.
-home: https://github.com/hey101/charts/stable/metube
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/metube.webp
+description: Drawio is free online diagram software.
+home: https://github.com/hey101/charts/stable/drawio
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/drawio.webp
 keywords:
-  - metube
-  - media
+  - drawio
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: metube
+name: drawio
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/metube
-  - https://github.com/alexta69/metube
-  - https://github.com/truecharts/charts/tree/master/charts/stable/metube
-  - https://hub.docker.com/r/alexta69/metube
+  - https://github.com/hey101/charts/tree/master/charts/stable/drawio
+  - https://github.com/truecharts/charts/tree/master/charts/stable/drawio
+  - https://github.com/jgraph/drawio
+  - https://hub.docker.com/r/jgraph/drawio
 type: application
-version: 14.9.17
+version: 14.1.23
