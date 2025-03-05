@@ -6,35 +6,31 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.20.0"
+appVersion: "7.26.0"
 dependencies:
   - name: common
-    version: 26.4.3
+    version: 27.0.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: A comics/mangas server to serve/stream pages via API
-home: https://github.com/hey101/charts/stable/komga
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/komga.webp
+description: Calibre is a powerful and easy to use e-book manager.
+home: https://github.com/hey101/charts/stable/calibre
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/calibre.webp
 keywords:
-  - komga
-  - comics
-  - mangas
-  - server
+  - calibre
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: komga
+name: calibre
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/komga
-  - https://github.com/truecharts/charts/tree/master/charts/stable/komga
-  - https://github.com/gotson/komga
-  - https://hub.docker.com/r/gotson/komga
-  - https://komga.org/
+  - https://github.com/hey101/charts/tree/master/charts/stable/calibre
+  - https://github.com/truecharts/charts/tree/master/charts/stable/calibre
+  - https://ghcr.io/linuxserver/calibre
+  - https://github.com/kovidgoyal/calibre/
 type: application
-version: 15.10.16
+version: 16.14.23
