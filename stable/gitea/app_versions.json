@@ -4,13 +4,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/20.3.14",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/nodeIP",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.23.1_20.3.14",
         "version": "20.3.14",
@@ -5897,13 +5897,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/20.3.13",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/nodeIP",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.23.0_20.3.13",
         "version": "20.3.13",
@@ -11790,13 +11790,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/19.1.11",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/nodeIP",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.21.11_19.1.11",
         "version": "19.1.11",
@@ -17680,13 +17680,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/19.1.10",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/nodeIP",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.21.11_19.1.10",
         "version": "19.1.10",
@@ -23570,13 +23570,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/18.16.26",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/nodeIP",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.21.11_18.16.26",
         "version": "18.16.26",
@@ -29589,13 +29589,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/18.16.25",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/nodeIP",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.21.11_18.16.25",
         "version": "18.16.25",
@@ -35608,14 +35608,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/17.4.0",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/nodeIP",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.21.5_17.4.0",
         "version": "17.4.0",
@@ -41702,14 +41702,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gitea/17.3.0",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
-            "definitions/nodeIP",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/nodeIP",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.21.5_17.3.0",
         "version": "17.3.0",

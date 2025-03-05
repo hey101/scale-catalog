@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/8.4.13",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "6.2.0_8.4.13",
@@ -5284,11 +5284,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/8.4.12",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "6.2.0_8.4.12",
@@ -10564,11 +10564,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/7.0.9",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "6.2.0_7.0.9",
@@ -15841,11 +15841,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/7.0.8",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "6.2.0_7.0.8",
@@ -21118,11 +21118,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/6.9.14",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "6.2.0_6.9.14",
@@ -26066,11 +26066,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/6.9.13",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "6.2.0_6.9.13",
@@ -31014,13 +31014,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/5.2.0",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "6.1.0_5.2.0",
         "version": "5.2.0",
@@ -36005,13 +36005,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileshelter/5.1.0",
-        "last_update": "2025-03-05 16:33:49",
+        "last_update": "2025-03-05 21:02:25",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "6.1.0_5.1.0",
         "version": "5.1.0",
