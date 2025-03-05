@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/14.4.13",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "latest_14.4.13",
@@ -5401,11 +5401,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/14.4.12",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "latest_14.4.12",
@@ -10798,11 +10798,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/13.0.9",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "latest_13.0.9",
@@ -16192,11 +16192,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/13.0.8",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "latest_13.0.8",
@@ -21586,11 +21586,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/12.8.14",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "latest_12.8.14",
@@ -26651,11 +26651,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/12.8.13",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "latest_12.8.13",
@@ -31716,12 +31716,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/11.3.0",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_11.3.0",
@@ -36824,12 +36824,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/aria2/11.2.0",
-        "last_update": "2025-03-04 22:44:26",
+        "last_update": "2025-03-05 04:33:21",
         "required_features": [
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_11.2.0",
