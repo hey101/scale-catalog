@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/11.4.13",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.21_11.4.13",
         "version": "11.4.13",
@@ -5267,12 +5267,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/11.4.12",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.21_11.4.12",
         "version": "11.4.12",
@@ -10530,12 +10530,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/10.0.9",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.21_10.0.9",
         "version": "10.0.9",
@@ -15790,12 +15790,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/10.0.8",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.21_10.0.8",
         "version": "10.0.8",
@@ -21050,12 +21050,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/9.8.14",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.21_9.8.14",
         "version": "9.8.14",
@@ -25981,12 +25981,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/9.8.13",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2021.11.21_9.8.13",
         "version": "9.8.13",
@@ -30912,13 +30912,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/8.3.0",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2021.11.21_8.3.0",
         "version": "8.3.0",
@@ -35886,13 +35886,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/endlessh/8.2.0",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2021.11.21_8.2.0",
         "version": "8.2.0",

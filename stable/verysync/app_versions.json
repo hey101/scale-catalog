@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/11.6.13",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.20.1_11.6.13",
         "version": "11.6.13",
@@ -6142,12 +6142,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/11.6.12",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.20.1_11.6.12",
         "version": "11.6.12",
@@ -12280,12 +12280,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/10.0.8",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_10.0.8",
         "version": "10.0.8",
@@ -18415,12 +18415,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/10.0.7",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_10.0.7",
         "version": "10.0.7",
@@ -24550,12 +24550,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/9.8.14",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_9.8.14",
         "version": "9.8.14",
@@ -30255,12 +30255,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/9.8.13",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.0_9.8.13",
         "version": "9.8.13",
@@ -35960,13 +35960,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/8.3.0",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.17.0_8.3.0",
         "version": "8.3.0",
@@ -41708,13 +41708,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/verysync/8.2.0",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2.17.0_8.2.0",
         "version": "8.2.0",

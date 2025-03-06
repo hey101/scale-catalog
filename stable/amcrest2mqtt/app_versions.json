@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/13.4.13",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.16_13.4.13",
         "version": "13.4.13",
@@ -3692,12 +3692,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/13.4.12",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.16_13.4.12",
         "version": "13.4.12",
@@ -7380,12 +7380,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/12.0.9",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.16_12.0.9",
         "version": "12.0.9",
@@ -11065,12 +11065,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/12.0.8",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.16_12.0.8",
         "version": "12.0.8",
@@ -14750,12 +14750,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/11.8.14",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.16_11.8.14",
         "version": "11.8.14",
@@ -18207,12 +18207,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/11.8.13",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.16_11.8.13",
         "version": "11.8.13",
@@ -21664,13 +21664,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/10.3.0",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.0.16_10.3.0",
         "version": "10.3.0",
@@ -25164,13 +25164,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/amcrest2mqtt/10.2.0",
-        "last_update": "2025-03-06 14:44:42",
+        "last_update": "2025-03-06 22:29:59",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.0.16_10.2.0",
         "version": "10.2.0",
