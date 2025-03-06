@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: ssh
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2025-03"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 27.0.0
@@ -16,22 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Web GUI for youtube-dl.
-home: https://github.com/hey101/charts/stable/metube
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/metube.webp
+description: SSHwifty is a SSH and Telnet connector made for the Web.
+home: https://github.com/hey101/charts/stable/sshwifty
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/sshwifty.webp
 keywords:
-  - metube
-  - media
+  - ssh
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: metube
+name: sshwifty
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/metube
-  - https://github.com/alexta69/metube
-  - https://github.com/truecharts/charts/tree/master/charts/stable/metube
-  - https://hub.docker.com/r/alexta69/metube
+  - https://github.com/hey101/charts/tree/master/charts/stable/sshwifty
+  - https://github.com/truecharts/charts/tree/master/charts/stable/sshwifty
+  - https://github.com/niruix/sshwifty
+  - https://hub.docker.com/r/niruix/sshwifty
 type: application
-version: 14.9.18
+version: 7.4.17

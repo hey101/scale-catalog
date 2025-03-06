@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.22.1471"
+appVersion: "2025-03"
 dependencies:
   - name: common
     version: 27.0.0
@@ -16,24 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: API Support for your favorite torrent trackers.
-home: https://github.com/hey101/charts/stable/jackett
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/jackett.webp
+description: Web GUI for youtube-dl.
+home: https://github.com/hey101/charts/stable/metube
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/metube.webp
 keywords:
-  - jackett
-  - torrent
-  - usenet
+  - metube
+  - media
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: jackett
+name: metube
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/jackett
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
-  - https://ghcr.io/elfhosted/jackett
-  - https://github.com/Jackett/Jackett
-  - https://github.com/geek-cookbook/containers/pkgs/container/jackett
+  - https://github.com/hey101/charts/tree/master/charts/stable/metube
+  - https://github.com/alexta69/metube
+  - https://github.com/truecharts/charts/tree/master/charts/stable/metube
+  - https://hub.docker.com/r/alexta69/metube
 type: application
-version: 23.2.61
+version: 14.9.20
