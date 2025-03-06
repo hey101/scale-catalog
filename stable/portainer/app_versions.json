@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/10.9.18",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "2.27.1_10.9.18",
         "version": "10.9.18",
@@ -5443,12 +5443,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/10.9.17",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "2.27.1_10.9.17",
         "version": "10.9.17",
@@ -10882,12 +10882,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/9.0.13",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "2.20.3_9.0.13",
         "version": "9.0.13",
@@ -16318,12 +16318,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/9.0.12",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "2.20.3_9.0.12",
         "version": "9.0.12",
@@ -21754,12 +21754,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/8.10.14",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "2.20.1_8.10.14",
         "version": "8.10.14",
@@ -26861,12 +26861,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/8.10.13",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "2.20.1_8.10.13",
         "version": "8.10.13",
@@ -31968,12 +31968,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/7.3.0",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.19.4_7.3.0",
@@ -37118,12 +37118,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/portainer/7.2.0",
-        "last_update": "2025-03-05 21:02:25",
+        "last_update": "2025-03-06 00:42:20",
         "required_features": [
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.19.4_7.2.0",
