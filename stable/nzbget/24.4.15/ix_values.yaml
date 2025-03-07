@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/elfhosted/nzbget
   pullPolicy: IfNotPresent
-  tag: 24.6@sha256:3fafda639db264e49339c342753289b0361fac75478ad153acb8f63402ba52ce
+  tag: 24.7@sha256:899d25a11cb136ec8c48d40c6ecaf52ff71ec513d041b109b4b9cd0653c76cb9
 service:
   main:
     ports:
