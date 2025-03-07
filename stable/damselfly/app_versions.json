@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/7.4.15",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -6491,7 +6491,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/7.4.14",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -12978,7 +12978,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/6.0.9",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -19462,7 +19462,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/6.0.8",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -25946,7 +25946,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/5.8.14",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -31899,7 +31899,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/5.8.13",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -37852,13 +37852,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/4.3.0",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -43848,13 +43848,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/damselfly/4.2.0",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

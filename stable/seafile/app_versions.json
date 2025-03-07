@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/7.10.18",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5352,7 +5352,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/7.10.17",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -10700,7 +10700,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/6.1.8",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -16036,7 +16036,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/6.1.7",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -21372,7 +21372,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/5.15.25",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -26379,7 +26379,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/5.15.24",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -31386,13 +31386,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/4.4.0",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "11.0.5_4.4.0",
         "version": "4.4.0",
@@ -36436,13 +36436,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/seafile/4.3.0",
-        "last_update": "2025-03-07 04:03:58",
+        "last_update": "2025-03-07 08:13:39",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "11.0.5_4.3.0",
         "version": "4.3.0",
