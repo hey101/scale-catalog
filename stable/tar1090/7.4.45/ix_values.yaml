@@ -1,0 +1,30 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/mikenye/tar1090
+  tag: latest@sha256:2a317f08e8855d6413bc921d448b521b751bfef250a36d5314e14859bafda325
+persistence: {}
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 8078
+        protocol: tcp
+        targetPort: 80
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            BEASTHOST: <BEASTHOST>
+            LAT: xx.xxxxx
+            LONG: xx.xxxxx
+            MLATHOST: <MLATHOST>
