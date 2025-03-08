@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/14.9.84",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_14.9.84",
         "version": "14.9.84",
@@ -4775,12 +4775,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/14.9.82",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_14.9.82",
         "version": "14.9.82",
@@ -9546,12 +9546,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/13.1.39",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_13.1.39",
         "version": "13.1.39",
@@ -14314,12 +14314,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/13.1.38",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_13.1.38",
         "version": "13.1.38",
@@ -19082,12 +19082,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/12.10.54",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_12.10.54",
         "version": "12.10.54",
@@ -23622,12 +23622,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/12.10.53",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_12.10.53",
         "version": "12.10.53",
@@ -28162,10 +28162,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/11.5.0",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
@@ -32745,10 +32745,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rsshub/11.4.1",
-        "last_update": "2025-03-08 09:47:12",
+        "last_update": "2025-03-08 15:19:53",
         "required_features": [
-            "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
