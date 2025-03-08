@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/5.6.18",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.4_5.6.18",
         "version": "5.6.18",
@@ -4240,12 +4240,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/5.6.17",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.7.4_5.6.17",
         "version": "5.6.17",
@@ -8476,12 +8476,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/4.0.13",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.5.2_4.0.13",
         "version": "4.0.13",
@@ -12709,12 +12709,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/4.0.12",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.5.2_4.0.12",
         "version": "4.0.12",
@@ -16942,12 +16942,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/3.8.16",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.5.2_3.8.16",
         "version": "3.8.16",
@@ -20947,12 +20947,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/3.8.15",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.5.2_3.8.15",
         "version": "3.8.15",
@@ -24952,13 +24952,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/2.3.0",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.5.2_2.3.0",
         "version": "2.3.0",
@@ -29000,13 +29000,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smtp-relay/2.2.0",
-        "last_update": "2025-03-08 15:19:53",
+        "last_update": "2025-03-08 19:10:23",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.5.2_2.2.0",
         "version": "2.2.0",
