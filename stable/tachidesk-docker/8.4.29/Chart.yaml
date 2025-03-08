@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "iew"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/Suwayomi/Tachidesk-Server
   - https://github.com/suwayomi/docker-tachidesk
 type: application
-version: 8.4.27
+version: 8.4.29
