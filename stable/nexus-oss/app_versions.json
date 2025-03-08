@@ -1,18 +1,18 @@
 {
-    "7.12.18": {
+    "7.12.20": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/7.12.18",
-        "last_update": "2025-03-08 00:38:35",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/7.12.20",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
-        "human_version": "3.78.0_7.12.18",
-        "version": "7.12.18",
+        "human_version": "3.78.1_7.12.20",
+        "version": "7.12.20",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -23,11 +23,11 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "3.78.0",
+            "appVersion": "3.78.1",
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "27.0.0",
+                    "version": "27.1.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -58,7 +58,7 @@
                 "https://hub.docker.com/r/sonatype/nexus3"
             ],
             "type": "application",
-            "version": "7.12.18"
+            "version": "7.12.20"
         },
         "app_metadata": null,
         "schema": {
@@ -5294,20 +5294,20 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/stable/nexus-oss\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/nexus-oss</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/stable/nexus-oss</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/stable/nexus-oss/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "7.12.17": {
+    "7.12.19": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/7.12.17",
-        "last_update": "2025-03-08 00:38:35",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/7.12.19",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
-        "human_version": "3.77.2_7.12.17",
-        "version": "7.12.17",
+        "human_version": "3.78.1_7.12.19",
+        "version": "7.12.19",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -5318,7 +5318,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "3.77.2",
+            "appVersion": "3.78.1",
             "dependencies": [
                 {
                     "name": "common",
@@ -5353,7 +5353,7 @@
                 "https://hub.docker.com/r/sonatype/nexus3"
             ],
             "type": "application",
-            "version": "7.12.17"
+            "version": "7.12.19"
         },
         "app_metadata": null,
         "schema": {
@@ -10594,12 +10594,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/6.1.5",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.68.1_6.1.5",
         "version": "6.1.5",
@@ -15886,12 +15886,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/6.1.4",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.68.1_6.1.4",
         "version": "6.1.4",
@@ -21178,12 +21178,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/5.10.15",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.67.1_5.10.15",
         "version": "5.10.15",
@@ -26141,12 +26141,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/5.10.14",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.67.1_5.10.14",
         "version": "5.10.14",
@@ -31104,13 +31104,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/4.5.0",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.65.0_4.5.0",
         "version": "4.5.0",
@@ -36110,13 +36110,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nexus-oss/4.4.0",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.65.0_4.4.0",
         "version": "4.4.0",

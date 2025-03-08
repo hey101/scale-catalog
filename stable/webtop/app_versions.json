@@ -1,18 +1,18 @@
 {
-    "11.4.59": {
+    "11.4.61": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/11.4.59",
-        "last_update": "2025-03-08 00:38:35",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/11.4.61",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
-        "human_version": "latest_11.4.59",
-        "version": "11.4.59",
+        "human_version": "latest_11.4.61",
+        "version": "11.4.61",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -27,7 +27,7 @@
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "27.0.0",
+                    "version": "27.1.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -61,7 +61,7 @@
                 "https://github.com/orgs/linuxserver/packages/container/package/webtop"
             ],
             "type": "application",
-            "version": "11.4.59"
+            "version": "11.4.61"
         },
         "app_metadata": null,
         "schema": {
@@ -5471,20 +5471,20 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/stable/webtop\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/webtop</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/stable/webtop</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/stable/webtop/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "11.4.58": {
+    "11.4.60": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/11.4.58",
-        "last_update": "2025-03-08 00:38:35",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/11.4.60",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
-        "human_version": "latest_11.4.58",
-        "version": "11.4.58",
+        "human_version": "latest_11.4.60",
+        "version": "11.4.60",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -5533,7 +5533,7 @@
                 "https://github.com/orgs/linuxserver/packages/container/package/webtop"
             ],
             "type": "application",
-            "version": "11.4.58"
+            "version": "11.4.60"
         },
         "app_metadata": null,
         "schema": {
@@ -10948,12 +10948,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/10.0.128",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_10.0.128",
         "version": "10.0.128",
@@ -16417,12 +16417,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/10.0.127",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_10.0.127",
         "version": "10.0.127",
@@ -21886,12 +21886,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/9.8.108",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_9.8.108",
         "version": "9.8.108",
@@ -27026,12 +27026,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/9.8.102",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_9.8.102",
         "version": "9.8.102",
@@ -32166,13 +32166,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/8.3.0",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_8.3.0",
         "version": "8.3.0",
@@ -37349,13 +37349,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webtop/8.2.24",
-        "last_update": "2025-03-08 00:38:35",
+        "last_update": "2025-03-08 04:47:19",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_8.2.24",
         "version": "8.2.24",
