@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/5.4.24",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.4.24",
         "version": "5.4.24",
@@ -6670,12 +6670,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/5.4.23",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.4.23",
         "version": "5.4.23",
@@ -13336,12 +13336,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/4.0.13",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.0.13",
         "version": "4.0.13",
@@ -19999,12 +19999,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/4.0.12",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.0.12",
         "version": "4.0.12",
@@ -26662,12 +26662,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/3.8.17",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_3.8.17",
         "version": "3.8.17",
@@ -32794,12 +32794,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/3.8.16",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_3.8.16",
         "version": "3.8.16",
@@ -38926,13 +38926,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/2.3.0",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_2.3.0",
         "version": "2.3.0",
@@ -45101,13 +45101,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/steam-headless/2.2.1",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "latest_2.2.1",
         "version": "2.2.1",

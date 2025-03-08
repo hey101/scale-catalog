@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/12.5.21",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.13.1_12.5.21",
         "version": "12.5.21",
@@ -5283,12 +5283,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/12.5.20",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.13.1_12.5.20",
         "version": "12.5.20",
@@ -10562,12 +10562,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/11.1.9",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.12.2_11.1.9",
         "version": "11.1.9",
@@ -15838,12 +15838,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/11.1.8",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.12.2_11.1.8",
         "version": "11.1.8",
@@ -21114,12 +21114,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/10.8.15",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.11.4_10.8.15",
         "version": "10.8.15",
@@ -26061,12 +26061,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/10.8.14",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.11.4_10.8.14",
         "version": "10.8.14",
@@ -31008,13 +31008,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/9.3.0",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "5.11.4_9.3.0",
         "version": "9.3.0",
@@ -35998,13 +35998,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mstream/9.2.1",
-        "last_update": "2025-03-08 04:47:19",
+        "last_update": "2025-03-08 07:17:42",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "5.11.4_9.2.1",
         "version": "9.2.1",
