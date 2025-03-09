@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.4.11.274"
+appVersion: "0.4.12.275"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -39,4 +39,4 @@ sources:
   - https://github.com/Readarr/Readarr
   - https://readarr.com
 type: application
-version: 24.3.21
+version: 24.3.23
