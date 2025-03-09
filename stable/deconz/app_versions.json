@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/17.6.15",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.29.2_17.6.15",
@@ -5512,11 +5512,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/17.6.14",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.29.2_17.6.14",
@@ -11020,11 +11020,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/16.1.6",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.27.2_16.1.6",
@@ -16525,11 +16525,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/16.1.5",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.27.1_16.1.5",
@@ -22030,11 +22030,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/15.8.14",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.26.3_15.8.14",
@@ -27206,11 +27206,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/15.8.13",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.26.3_15.8.13",
@@ -32382,13 +32382,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/14.4.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.26.0_14.4.0",
         "version": "14.4.0",
@@ -37601,13 +37601,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/deconz/14.3.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.26.0_14.3.0",
         "version": "14.3.0",

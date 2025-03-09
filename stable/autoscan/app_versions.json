@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/10.4.18",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.4.18",
@@ -4329,11 +4329,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/10.4.17",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.4.17",
@@ -8654,11 +8654,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/9.0.10",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.0.10",
@@ -12976,11 +12976,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/9.0.9",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.0.9",
@@ -17298,11 +17298,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/8.8.21",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.8.21",
@@ -21291,11 +21291,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/8.8.20",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.8.20",
@@ -25284,13 +25284,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/7.3.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -29320,13 +29320,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/autoscan/7.2.1",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_7.2.1",
         "version": "7.2.1",

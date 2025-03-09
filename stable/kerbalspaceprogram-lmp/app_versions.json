@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/7.4.14",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -5012,7 +5012,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/7.4.13",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -10020,7 +10020,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/6.0.9",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -15025,7 +15025,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/6.0.8",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -20030,7 +20030,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/5.8.14",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -24706,7 +24706,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/5.8.13",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -29382,12 +29382,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/4.3.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -34101,12 +34101,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kerbalspaceprogram-lmp/4.2.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/15.4.23",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.3_15.4.23",
@@ -5303,11 +5303,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/15.4.22",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.3_15.4.22",
@@ -10602,11 +10602,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/14.0.12",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.3_14.0.12",
@@ -15898,11 +15898,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/14.0.11",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.3_14.0.11",
@@ -21194,11 +21194,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/13.8.16",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.3_13.8.16",
@@ -26161,11 +26161,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/13.8.15",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.3_13.8.15",
@@ -31128,13 +31128,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/12.3.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.1_12.3.0",
         "version": "12.3.0",
@@ -36138,13 +36138,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/thelounge/12.2.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "4.4.1_12.2.0",
         "version": "12.2.0",

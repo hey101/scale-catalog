@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/5.11.19",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "5.25.2_5.11.19",
@@ -5345,11 +5345,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/5.11.18",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "5.25.2_5.11.18",
@@ -10686,11 +10686,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/4.0.9",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "5.15.0_4.0.9",
@@ -16024,11 +16024,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/4.0.8",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "5.15.0_4.0.8",
@@ -21362,11 +21362,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/3.11.1",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "5.15.0_3.11.1",
@@ -26270,11 +26270,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/3.11.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "5.15.0_3.11.0",
@@ -31178,13 +31178,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/2.3.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.8.2_2.3.0",
         "version": "2.3.0",
@@ -36129,13 +36129,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pocketmine-mp/2.2.0",
-        "last_update": "2025-03-08 19:10:23",
+        "last_update": "2025-03-08 22:49:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.8.2_2.2.0",
         "version": "2.2.0",
