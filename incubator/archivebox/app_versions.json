@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/1.2.18",
-        "last_update": "2025-03-08 22:49:12",
+        "last_update": "2025-03-09 03:31:54",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_1.2.18",
@@ -4980,11 +4980,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/1.2.17",
-        "last_update": "2025-03-08 22:49:12",
+        "last_update": "2025-03-09 03:31:54",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_1.2.17",
@@ -9956,12 +9956,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/archivebox/0.7.2",
-        "last_update": "2025-03-08 22:49:12",
+        "last_update": "2025-03-09 03:31:54",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_0.7.2",
