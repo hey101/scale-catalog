@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/12.4.14",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "1.2_12.4.14",
@@ -5284,11 +5284,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/12.4.13",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "1.2_12.4.13",
@@ -10564,11 +10564,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/11.0.9",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "1.2.0_11.0.9",
@@ -15841,11 +15841,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/11.0.8",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "1.2.0_11.0.8",
@@ -21118,11 +21118,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/10.8.14",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "1.2.0_10.8.14",
@@ -26066,11 +26066,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/10.8.13",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "1.2.0_10.8.13",
@@ -31014,13 +31014,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/9.3.0",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_9.3.0",
         "version": "9.3.0",
@@ -36005,13 +36005,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pixapop/9.2.0",
-        "last_update": "2025-03-09 10:38:00",
+        "last_update": "2025-03-09 15:19:04",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.2.0_9.2.0",
         "version": "9.2.0",
