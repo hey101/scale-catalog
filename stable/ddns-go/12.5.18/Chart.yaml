@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "6.9.0"
+appVersion: "6.9.1"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/jeessy2/ddns-go
   - https://hub.docker.com/r/jeessy/ddns-go
 type: application
-version: 12.5.16
+version: 12.5.18
