@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.97.2"
+appVersion: "1.98.0"
 dependencies:
   - name: common
     version: 27.1.0
@@ -32,4 +32,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/openvscode-server
   - https://ghcr.io/linuxserver/openvscode-server
 type: application
-version: 11.11.20
+version: 11.11.22
