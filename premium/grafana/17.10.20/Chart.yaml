@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "11.5.2"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -38,4 +38,4 @@ sources:
   - https://hub.docker.com/r/grafana/grafana
   - https://quay.io/kiwigrid/k8s-sidecar
 type: application
-version: 17.10.18
+version: 17.10.20
