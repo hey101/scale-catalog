@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/5.4.14",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "sonsofthef_5.4.14",
         "version": "5.4.14",
@@ -5721,12 +5721,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/5.4.13",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "sonsofthef_5.4.13",
         "version": "5.4.13",
@@ -11438,12 +11438,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/4.0.8",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "sonsoftheforest_4.0.8",
         "version": "4.0.8",
@@ -17152,12 +17152,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/4.0.7",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "sonsoftheforest_4.0.7",
         "version": "4.0.7",
@@ -22866,12 +22866,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/3.8.14",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "sonsoftheforest_3.8.14",
         "version": "3.8.14",
@@ -28150,12 +28150,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/3.8.13",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "sonsoftheforest_3.8.13",
         "version": "3.8.13",
@@ -33434,13 +33434,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/2.3.0",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "sonsoftheforest_2.3.0",
         "version": "2.3.0",
@@ -38761,13 +38761,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonsoftheforest/2.2.0",
-        "last_update": "2025-03-09 18:35:53",
+        "last_update": "2025-03-10 00:07:45",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "sonsoftheforest_2.2.0",
         "version": "2.2.0",
