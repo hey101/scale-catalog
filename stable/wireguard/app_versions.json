@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/10.4.14",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -4719,10 +4719,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/10.4.13",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -9434,10 +9434,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/9.0.8",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -14146,10 +14146,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/9.0.7",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -18858,10 +18858,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/8.8.14",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -23342,10 +23342,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/8.8.13",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -27826,13 +27826,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/7.3.0",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.0.20210914_7.3.0",
         "version": "7.3.0",
@@ -32353,13 +32353,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wireguard/7.2.0",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "1.0.20210914_7.2.0",
         "version": "7.2.0",

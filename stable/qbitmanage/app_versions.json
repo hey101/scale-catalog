@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/10.4.19",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -4973,10 +4973,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/10.4.18",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -9942,10 +9942,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/9.0.11",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -14908,10 +14908,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/9.0.10",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -19874,10 +19874,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/8.9.16",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -24410,10 +24410,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/8.9.15",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -28946,13 +28946,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/7.3.0",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "4.0.8_7.3.0",
         "version": "7.3.0",
@@ -33525,13 +33525,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/qbitmanage/7.2.0",
-        "last_update": "2025-03-10 02:54:32",
+        "last_update": "2025-03-10 07:30:52",
         "required_features": [
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "4.0.8_7.2.0",
         "version": "7.2.0",
