@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "master"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/siafoundation/siad
   - https://github.com/truecharts/charts/tree/master/charts/stable/sia-daemon
 type: application
-version: 7.4.13
+version: 7.4.15
