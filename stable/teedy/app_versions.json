@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/17.4.14",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -5522,7 +5522,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/17.4.13",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -11040,7 +11040,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/16.0.8",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -16555,7 +16555,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/16.0.7",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -22070,7 +22070,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/15.8.14",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -27714,7 +27714,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/15.8.13",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -33358,13 +33358,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/14.3.0",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.0_14.3.0",
         "version": "14.3.0",
@@ -39077,13 +39077,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/14.2.0",
-        "last_update": "2025-03-11 08:53:02",
+        "last_update": "2025-03-11 11:45:30",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.0_14.2.0",
         "version": "14.2.0",
