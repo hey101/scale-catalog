@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/11.10.14",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.41.0_11.10.14",
         "version": "11.10.14",
@@ -5370,12 +5370,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/11.10.13",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.41.0_11.10.13",
         "version": "11.10.13",
@@ -10736,12 +10736,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/10.2.2",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.35.0_10.2.2",
         "version": "10.2.2",
@@ -16099,12 +16099,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/10.2.1",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.35.0_10.2.1",
         "version": "10.2.1",
@@ -21462,12 +21462,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/9.11.14",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.33.0_9.11.14",
         "version": "9.11.14",
@@ -26496,12 +26496,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/9.11.13",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.33.0_9.11.13",
         "version": "9.11.13",
@@ -31530,11 +31530,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/8.5.0",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
@@ -36607,11 +36607,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/alist/8.4.0",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],

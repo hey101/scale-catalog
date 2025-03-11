@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/3.0.4",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "18.1.0_3.0.4",
         "version": "3.0.4",
@@ -5298,12 +5298,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/3.0.3",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "18.1.0_3.0.3",
         "version": "3.0.3",
@@ -10608,12 +10608,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/2.5.18",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "18.1.0_2.5.18",
         "version": "2.5.18",
@@ -15573,12 +15573,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/2.5.17",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "18.1.0_2.5.17",
         "version": "2.5.17",
@@ -20538,11 +20538,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/1.0.1",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
@@ -25546,11 +25546,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/1.0.0",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
@@ -30554,11 +30554,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/incubator/atuin/0.0.3",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],

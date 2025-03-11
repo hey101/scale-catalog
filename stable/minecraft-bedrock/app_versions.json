@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/10.4.16",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_10.4.16",
         "version": "10.4.16",
@@ -4629,12 +4629,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/10.4.15",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_10.4.15",
         "version": "10.4.15",
@@ -9254,12 +9254,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/9.0.10",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_9.0.10",
         "version": "9.0.10",
@@ -13876,12 +13876,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/9.0.9",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_9.0.9",
         "version": "9.0.9",
@@ -18498,12 +18498,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/8.8.14",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2023.8.1_8.8.14",
         "version": "8.8.14",
@@ -22791,12 +22791,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/8.8.13",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2023.8.1_8.8.13",
         "version": "8.8.13",
@@ -27084,11 +27084,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/7.3.0",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
@@ -31404,11 +31404,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minecraft-bedrock/7.2.0",
-        "last_update": "2025-03-11 03:47:37",
+        "last_update": "2025-03-11 08:53:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
