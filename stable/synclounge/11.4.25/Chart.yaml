@@ -6,32 +6,30 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.41.4.946"
+appVersion: "5.2.35"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: Plex Media Server
-home: https://github.com/hey101/charts/stable/plex
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/plex.webp
+description: Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
+home: https://github.com/hey101/charts/stable/synclounge
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.webp
 keywords:
-  - plex
-  - plex-media-server
+  - synclounge
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: plex
+name: synclounge
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/plex
-  - https://ghcr.io/onedr0p/plex
-  - https://github.com/k8s-at-home/container-images/pkgs/container/plex
-  - https://github.com/truecharts/charts/tree/master/charts/stable/plex
+  - https://github.com/hey101/charts/tree/master/charts/stable/synclounge
+  - https://github.com/truecharts/charts/tree/master/charts/stable/synclounge
+  - https://ghcr.io/linuxserver/synclounge
 type: application
-version: 19.5.17
+version: 11.4.25
