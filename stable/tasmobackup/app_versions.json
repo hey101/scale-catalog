@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/8.5.14",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.06.09_8.5.14",
         "version": "8.5.14",
@@ -5208,11 +5208,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/8.5.13",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.06.09_8.5.13",
         "version": "8.5.13",
@@ -10412,11 +10412,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/7.0.8",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.05.00_7.0.8",
         "version": "7.0.8",
@@ -15613,11 +15613,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/7.0.7",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.05.00_7.0.7",
         "version": "7.0.7",
@@ -20814,11 +20814,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/6.8.14",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.05.00_6.8.14",
         "version": "6.8.14",
@@ -25686,11 +25686,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/6.8.13",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/certificate"
+            "definitions/interface"
         ],
         "human_version": "1.05.00_6.8.13",
         "version": "6.8.13",
@@ -30558,12 +30558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/5.3.0",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "1.05.00_5.3.0",
         "version": "5.3.0",
@@ -35473,12 +35473,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmobackup/5.2.0",
-        "last_update": "2025-03-10 23:03:19",
+        "last_update": "2025-03-11 03:47:37",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "1.05.00_5.2.0",
         "version": "5.2.0",
