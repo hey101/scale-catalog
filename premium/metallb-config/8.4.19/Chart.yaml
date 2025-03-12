@@ -9,29 +9,30 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: Certificate management for Kubernetes
-home: https://github.com/hey101/charts/premium/clusterissuer
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.webp
+description: A network load-balancer implementation for Kubernetes using standard routing protocols
+home: https://github.com/hey101/charts/premium/metallb-config
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.webp
 keywords:
-  - cert-manager
-  - certificates
+  - metallb
+  - loadbalancer
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: clusterissuer
+name: metallb-config
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/premium/clusterissuer
-  - https://github.com/truecharts/charts/tree/master/charts/premium/clusterissuer
-  - https://cert-manager.io/
+  - https://github.com/hey101/charts/tree/master/charts/premium/metallb-config
+  - https://github.com/truecharts/charts/tree/master/charts/premium/metallb-config
+  - https://github.com/metallb/metallb
   - https://hub.docker.com/_/hello-world
+  - https://metallb.io
 type: application
-version: 9.4.17
+version: 8.4.19
