@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/10.4.14",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.1_10.4.14",
@@ -5311,11 +5311,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/10.4.13",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.1_10.4.13",
@@ -10618,11 +10618,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/9.0.8",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.1.0_9.0.8",
@@ -15922,11 +15922,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/9.0.7",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.1.0_9.0.7",
@@ -21226,11 +21226,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/8.8.15",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.1.0_8.8.15",
@@ -26201,11 +26201,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/8.8.14",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "1.1.0_8.8.14",
@@ -31176,13 +31176,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/7.3.0",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.1.0_7.3.0",
         "version": "7.3.0",
@@ -36194,13 +36194,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/simply-shorten/7.2.0",
-        "last_update": "2025-03-11 18:01:10",
+        "last_update": "2025-03-11 22:55:27",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.1.0_7.2.0",
         "version": "7.2.0",
