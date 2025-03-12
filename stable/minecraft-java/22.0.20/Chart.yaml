@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2025.2.1"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://hub.docker.com/r/itzg/mc-backup
   - https://hub.docker.com/r/itzg/minecraft-server
 type: application
-version: 22.0.18
+version: 22.0.20
