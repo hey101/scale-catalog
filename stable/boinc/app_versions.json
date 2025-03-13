@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/11.4.25",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_11.4.25",
         "version": "11.4.25",
@@ -5298,12 +5298,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/11.4.24",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_11.4.24",
         "version": "11.4.24",
@@ -10592,12 +10592,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/10.0.14",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.0.14",
         "version": "10.0.14",
@@ -15883,12 +15883,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/10.0.13",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.0.13",
         "version": "10.0.13",
@@ -21174,12 +21174,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/9.8.16",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.8.16",
         "version": "9.8.16",
@@ -26136,12 +26136,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/9.8.15",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.8.15",
         "version": "9.8.15",
@@ -31098,11 +31098,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/8.3.0",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
@@ -36103,11 +36103,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/boinc/8.2.1",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],

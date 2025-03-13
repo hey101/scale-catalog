@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/17.4.14",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11_17.4.14",
         "version": "17.4.14",
@@ -5522,12 +5522,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/17.4.13",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11_17.4.13",
         "version": "17.4.13",
@@ -11040,12 +11040,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/16.0.8",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.0_16.0.8",
         "version": "16.0.8",
@@ -16555,12 +16555,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/16.0.7",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.0_16.0.7",
         "version": "16.0.7",
@@ -22070,12 +22070,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/15.8.14",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.0_15.8.14",
         "version": "15.8.14",
@@ -27714,12 +27714,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/15.8.13",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.11.0_15.8.13",
         "version": "15.8.13",
@@ -33358,11 +33358,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/14.3.0",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
@@ -39077,11 +39077,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/teedy/14.2.0",
-        "last_update": "2025-03-13 03:15:42",
+        "last_update": "2025-03-13 07:26:46",
         "required_features": [
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
