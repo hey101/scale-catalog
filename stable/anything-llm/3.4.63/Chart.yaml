@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://ghcr.io/mintplex-labs/anything-llm
   - https://github.com/Mintplex-Labs/anything-llm
 type: application
-version: 3.4.61
+version: 3.4.63
