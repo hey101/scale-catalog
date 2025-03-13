@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/13.4.14",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "154c581_13.4.14",
@@ -5323,11 +5323,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/13.4.13",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "154c581_13.4.13",
@@ -10642,11 +10642,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/12.0.8",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "154c581_12.0.8",
@@ -15958,11 +15958,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/12.0.7",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "154c581_12.0.7",
@@ -21274,11 +21274,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/11.8.14",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "154c581_11.8.14",
@@ -26261,11 +26261,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/11.8.13",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "154c581_11.8.13",
@@ -31248,13 +31248,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/10.3.0",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "154c581_10.3.0",
         "version": "10.3.0",
@@ -36278,13 +36278,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/golinks/10.2.0",
-        "last_update": "2025-03-13 14:32:08",
+        "last_update": "2025-03-13 21:04:36",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "154c581_10.2.0",
         "version": "10.2.0",
