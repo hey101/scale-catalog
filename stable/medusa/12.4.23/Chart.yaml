@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.3.0"
+appVersion: "1.0.22"
 dependencies:
   - name: common
     version: 27.1.0
@@ -16,20 +16,27 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Webgrabplus is a multi-site incremental xmltv epg grabber.
-home: https://github.com/hey101/charts/stable/webgrabplus
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/webgrabplus.webp
+description: An automatic Video Library Manager for TV Shows
+home: https://github.com/hey101/charts/stable/medusa
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/medusa.webp
 keywords:
-  - webgrabplus
+  - medusa
+  - video
+  - library
+  - manager
+  - tv
+  - shows
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: webgrabplus
+name: medusa
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/webgrabplus
-  - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
-  - https://ghcr.io/linuxserver/webgrabplus
+  - https://github.com/hey101/charts/tree/master/charts/stable/medusa
+  - https://github.com/truecharts/charts/tree/master/charts/stable/medusa
+  - https://ghcr.io/linuxserver/medusa
+  - https://github.com/linuxserver/docker-medusa
+  - https://pymedusa.com/
 type: application
-version: 11.6.20
+version: 12.4.23

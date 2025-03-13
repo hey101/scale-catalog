@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/orgs/linuxserver/packages/container/package/blender
   - https://www.blender.org/
 type: application
-version: 7.4.22
+version: 7.4.24
