@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/7.4.19",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_7.4.19",
         "version": "7.4.19",
@@ -5885,12 +5885,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/7.4.18",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_7.4.18",
         "version": "7.4.18",
@@ -11766,12 +11766,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/6.0.10",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.10",
         "version": "6.0.10",
@@ -17644,12 +17644,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/6.0.9",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.9",
         "version": "6.0.9",
@@ -23522,12 +23522,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/5.8.14",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -28970,12 +28970,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/5.8.13",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -34418,11 +34418,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/4.3.0",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
@@ -39909,11 +39909,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/songkong/4.2.0",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],

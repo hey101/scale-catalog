@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/11.4.22",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "0.0.9_11.4.22",
         "version": "11.4.22",
@@ -5282,12 +5282,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/11.4.21",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "0.0.9_11.4.21",
         "version": "11.4.21",
@@ -10560,12 +10560,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/10.0.13",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "0.0.9_10.0.13",
         "version": "10.0.13",
@@ -15835,12 +15835,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/10.0.12",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "0.0.9_10.0.12",
         "version": "10.0.12",
@@ -21110,12 +21110,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/9.8.16",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "0.0.9_9.8.16",
         "version": "9.8.16",
@@ -26056,12 +26056,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/9.8.15",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "0.0.9_9.8.15",
         "version": "9.8.15",
@@ -31002,11 +31002,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/8.3.0",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
@@ -35991,11 +35991,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/budge/8.2.1",
-        "last_update": "2025-03-13 07:26:46",
+        "last_update": "2025-03-13 14:32:08",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
