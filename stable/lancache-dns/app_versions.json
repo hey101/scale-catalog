@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/10.4.17",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_10.4.17",
         "version": "10.4.17",
@@ -4799,12 +4799,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/10.4.16",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_10.4.16",
         "version": "10.4.16",
@@ -9594,12 +9594,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/9.0.9",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_9.0.9",
         "version": "9.0.9",
@@ -14386,12 +14386,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/9.0.8",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_9.0.8",
         "version": "9.0.8",
@@ -19178,12 +19178,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/8.8.14",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_8.8.14",
         "version": "8.8.14",
@@ -23742,12 +23742,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/8.8.13",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_8.8.13",
         "version": "8.8.13",
@@ -28306,11 +28306,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/7.3.0",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
@@ -32913,11 +32913,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-dns/7.2.0",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],

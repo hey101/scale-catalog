@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/8.4.14",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_8.4.14",
         "version": "8.4.14",
@@ -4665,12 +4665,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/8.4.13",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_8.4.13",
         "version": "8.4.13",
@@ -9326,12 +9326,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/7.0.8",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.0.8",
         "version": "7.0.8",
@@ -13984,12 +13984,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/7.0.7",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.0.7",
         "version": "7.0.7",
@@ -18642,12 +18642,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/6.8.14",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.8.14",
         "version": "6.8.14",
@@ -23072,12 +23072,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/6.8.13",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.8.13",
         "version": "6.8.13",
@@ -27502,11 +27502,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/5.3.0",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
@@ -31975,11 +31975,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tasmocompiler/5.2.1",
-        "last_update": "2025-03-12 23:48:45",
+        "last_update": "2025-03-13 03:15:42",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration"
         ],
