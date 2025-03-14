@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/escapingnetwork/core-keeper-dedicated/
   - https://hub.docker.com/r/escaping/core-keeper-dedicated
 type: application
-version: 7.4.16
+version: 7.4.18
