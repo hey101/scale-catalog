@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "4.4.3"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -37,4 +37,4 @@ sources:
   - https://github.com/thelounge/thelounge
   - https://hub.docker.com/r/thelounge/thelounge
 type: application
-version: 15.4.22
+version: 15.4.24
