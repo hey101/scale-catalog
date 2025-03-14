@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/9.6.25",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.34.5_9.6.25",
         "version": "9.6.25",
@@ -4244,12 +4244,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/9.6.24",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.34.4_9.6.24",
         "version": "9.6.24",
@@ -8484,12 +8484,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/8.1.11",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.30.10_8.1.11",
         "version": "8.1.11",
@@ -12721,12 +12721,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/8.1.10",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.30.10_8.1.10",
         "version": "8.1.10",
@@ -16958,12 +16958,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/7.9.16",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.29.14_7.9.16",
         "version": "7.9.16",
@@ -20866,12 +20866,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/7.9.15",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.29.14_7.9.15",
         "version": "7.9.15",
@@ -24774,13 +24774,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/6.4.0",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.28.20_6.4.0",
         "version": "6.4.0",
@@ -28725,13 +28725,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plextraktsync/6.3.1",
-        "last_update": "2025-03-13 21:04:36",
+        "last_update": "2025-03-13 23:09:12",
         "required_features": [
+            "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/timezone"
         ],
         "human_version": "0.28.20_6.3.1",
         "version": "6.3.1",
