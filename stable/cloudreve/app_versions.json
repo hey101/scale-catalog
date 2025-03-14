@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/8.4.14",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.8.3_8.4.14",
         "version": "8.4.14",
@@ -6492,12 +6492,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/8.4.13",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.8.3_8.4.13",
         "version": "8.4.13",
@@ -12980,12 +12980,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/7.0.9",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.8.3_7.0.9",
         "version": "7.0.9",
@@ -19465,12 +19465,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/7.0.8",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.8.3_7.0.8",
         "version": "7.0.8",
@@ -25950,12 +25950,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/6.8.14",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.8.3_6.8.14",
         "version": "6.8.14",
@@ -31904,12 +31904,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/6.8.13",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.8.3_6.8.13",
         "version": "6.8.13",
@@ -37858,13 +37858,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/5.2.0",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.8.3_5.2.0",
         "version": "5.2.0",
@@ -43855,13 +43855,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudreve/5.1.0",
-        "last_update": "2025-03-14 14:35:48",
+        "last_update": "2025-03-14 20:32:46",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.8.3_5.1.0",
         "version": "5.1.0",
