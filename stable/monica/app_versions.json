@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/14.10.31",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "4.1.2_14.10.31",
         "version": "14.10.31",
@@ -5320,12 +5320,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/14.10.30",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "4.1.2_14.10.30",
         "version": "14.10.30",
@@ -10636,12 +10636,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/13.2.12",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "4.1.2_13.2.12",
         "version": "13.2.12",
@@ -15949,12 +15949,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/13.2.11",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "4.1.2_13.2.11",
         "version": "13.2.11",
@@ -21262,12 +21262,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/12.15.28",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "4.0.0_12.15.28",
         "version": "12.15.28",
@@ -26246,12 +26246,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/12.15.27",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "4.0.0_12.15.27",
         "version": "12.15.27",
@@ -31230,12 +31230,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/11.4.0",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.0.0_11.4.0",
@@ -36257,12 +36257,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monica/11.3.0",
-        "last_update": "2025-03-14 20:32:46",
+        "last_update": "2025-03-15 01:47:03",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "4.0.0_11.3.0",
