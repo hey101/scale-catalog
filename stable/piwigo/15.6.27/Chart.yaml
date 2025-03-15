@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "15.4.0"
+appVersion: "15.5.0"
 dependencies:
   - name: common
     version: 27.1.0
@@ -43,4 +43,4 @@ sources:
   - https://ghcr.io/linuxserver/piwigo
   - https://github.com/linuxserver/docker-piwigo
 type: application
-version: 15.6.25
+version: 15.6.27
