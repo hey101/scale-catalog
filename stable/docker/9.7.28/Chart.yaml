@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "28.0.1"
 dependencies:
   - name: common
-    version: 27.0.0
+    version: 27.1.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -32,4 +32,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/docker
   - https://hub.docker.com/_/docker
 type: application
-version: 9.7.26
+version: 9.7.28
