@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/15.12.24",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.3.0_15.12.24",
         "version": "15.12.24",
@@ -5539,12 +5539,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/15.12.23",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.2.2_15.12.23",
         "version": "15.12.23",
@@ -11074,12 +11074,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/14.1.11",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.0.3_14.1.11",
         "version": "14.1.11",
@@ -16606,12 +16606,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/14.1.10",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.0.3_14.1.10",
         "version": "14.1.10",
@@ -22138,12 +22138,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/13.15.25",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.0.3_13.15.25",
         "version": "13.15.25",
@@ -27341,12 +27341,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/13.15.24",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.0.3_13.15.24",
         "version": "13.15.24",
@@ -32544,13 +32544,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/12.3.0",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "5.0.2_12.3.0",
         "version": "12.3.0",
@@ -37790,13 +37790,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/matomo/12.2.0",
-        "last_update": "2025-03-15 10:11:12",
+        "last_update": "2025-03-15 17:02:54",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "5.0.2_12.2.0",
         "version": "12.2.0",
