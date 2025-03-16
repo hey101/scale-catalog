@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/21.3.17",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.0.9_21.3.17",
         "version": "21.3.17",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/21.3.16",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.0.9_21.3.16",
         "version": "21.3.16",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/19.0.10",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.1.9_19.0.10",
         "version": "19.0.10",
@@ -15832,12 +15832,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/19.0.9",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.1.9_19.0.9",
         "version": "19.0.9",
@@ -21106,12 +21106,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/18.8.15",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.1.9_18.8.15",
         "version": "18.8.15",
@@ -26051,12 +26051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/18.8.14",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "3.1.9_18.8.14",
         "version": "18.8.14",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/17.3.0",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.1.5_17.3.0",
         "version": "17.3.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/node-red/17.2.0",
-        "last_update": "2025-03-16 07:23:38",
+        "last_update": "2025-03-16 12:01:52",
         "required_features": [
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.1.5_17.2.0",
         "version": "17.2.0",
