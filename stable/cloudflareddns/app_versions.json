@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/11.4.20",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_11.4.20",
         "version": "11.4.20",
@@ -4394,12 +4394,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/11.4.19",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_11.4.19",
         "version": "11.4.19",
@@ -8784,12 +8784,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/10.0.11",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_10.0.11",
         "version": "10.0.11",
@@ -13171,12 +13171,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/10.0.10",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_10.0.10",
         "version": "10.0.10",
@@ -17558,12 +17558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/9.8.22",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_9.8.22",
         "version": "9.8.22",
@@ -21616,12 +21616,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/9.8.21",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_9.8.21",
         "version": "9.8.21",
@@ -25674,13 +25674,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/8.3.0",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_8.3.0",
         "version": "8.3.0",
@@ -29775,13 +29775,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cloudflareddns/8.2.1",
-        "last_update": "2025-03-16 12:01:52",
+        "last_update": "2025-03-16 14:48:54",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_8.2.1",
         "version": "8.2.1",
