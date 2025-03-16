@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/12.5.15",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.13.3_12.5.15",
@@ -5538,11 +5538,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/12.5.14",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.13.3_12.5.14",
@@ -11072,11 +11072,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/11.0.9",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.12.1_11.0.9",
@@ -16603,11 +16603,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/11.0.8",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.12.1_11.0.8",
@@ -22134,11 +22134,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/10.8.14",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.12.1_10.8.14",
@@ -27336,11 +27336,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/10.8.13",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
         "human_version": "2.12.1_10.8.13",
@@ -32538,13 +32538,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/9.3.0",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.12.1_9.3.0",
         "version": "9.3.0",
@@ -37783,13 +37783,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airdcpp-webclient/9.2.0",
-        "last_update": "2025-03-15 19:25:23",
+        "last_update": "2025-03-15 23:37:14",
         "required_features": [
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.12.1_9.2.0",
         "version": "9.2.0",
