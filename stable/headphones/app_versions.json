@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/13.4.14",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "a78f38c1_13.4.14",
         "version": "13.4.14",
@@ -5283,12 +5283,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/13.4.13",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "a78f38c1_13.4.13",
         "version": "13.4.13",
@@ -10562,12 +10562,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/12.0.8",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "a78f38c1_12.0.8",
         "version": "12.0.8",
@@ -15838,12 +15838,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/12.0.7",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "a78f38c1_12.0.7",
         "version": "12.0.7",
@@ -21114,12 +21114,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/11.8.14",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "a78f38c1_11.8.14",
         "version": "11.8.14",
@@ -26061,12 +26061,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/11.8.13",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "a78f38c1_11.8.13",
         "version": "11.8.13",
@@ -31008,13 +31008,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/10.3.0",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "a78f38c1_10.3.0",
         "version": "10.3.0",
@@ -35998,13 +35998,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/headphones/10.2.0",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "a78f38c1_10.2.0",
         "version": "10.2.0",

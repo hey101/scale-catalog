@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/7.4.14",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.0.36_7.4.14",
         "version": "7.4.14",
@@ -5280,12 +5280,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/7.4.13",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.0.36_7.4.13",
         "version": "7.4.13",
@@ -10556,12 +10556,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/6.0.9",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.0.36_6.0.9",
         "version": "6.0.9",
@@ -15829,12 +15829,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/6.0.8",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.0.36_6.0.8",
         "version": "6.0.8",
@@ -21102,12 +21102,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/5.8.14",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.0.36_5.8.14",
         "version": "5.8.14",
@@ -26046,12 +26046,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/5.8.13",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "0.0.36_5.8.13",
         "version": "5.8.13",
@@ -30990,13 +30990,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/4.3.0",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.0.36_4.3.0",
         "version": "4.3.0",
@@ -35977,13 +35977,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkwallet/4.2.0",
-        "last_update": "2025-03-16 05:11:19",
+        "last_update": "2025-03-16 07:23:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.0.36_4.2.0",
         "version": "4.2.0",
