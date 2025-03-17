@@ -1,0 +1,39 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/accetto/ubuntu-vnc-xfce-firefox-g3
+  tag: latest@sha256:97f17a3b18c77d041f43d8e42b50bf48d9d78fad002ab9843c0905de26ac2ed5
+persistence:
+  internalshare:
+    enabled: true
+    mountPath: /UNRAID_SHARE
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 6901
+        protocol: http
+        targetPort: 6901
+  webuivnc:
+    enabled: true
+    ports:
+      webuivnc:
+        enabled: true
+        port: 5901
+        protocol: tcp
+        targetPort: 5901
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            VNC_PW: unraid
+            VNC_RESOLUTION: 1360x768

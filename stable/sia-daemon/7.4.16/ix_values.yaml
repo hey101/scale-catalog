@@ -1,0 +1,47 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/siafoundation/siad
+  tag: master@sha256:be7850f0389a6a68ae86181e1e1363328062f76777ce5bcfb3ae3a7ca314cd03
+persistence:
+  datadirectory:
+    enabled: true
+    mountPath: /sia-data
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  hostrhp2port:
+    enabled: true
+    ports:
+      hostrhp2port:
+        enabled: true
+        port: 9982
+        protocol: tcp
+        targetPort: 9982
+  hostrhp3port:
+    enabled: true
+    ports:
+      hostrhp3port:
+        enabled: true
+        port: 9983
+        protocol: tcp
+        targetPort: 9983
+  main:
+    ports:
+      main:
+        port: 9981
+        protocol: tcp
+        targetPort: 9981
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            SIA_API_PASSWORD: ""
+            SIA_WALLET_PASSWORD: ""
