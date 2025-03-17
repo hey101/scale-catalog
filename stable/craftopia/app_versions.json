@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/7.4.15",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -5729,7 +5729,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/7.4.14",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -11454,7 +11454,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/6.0.9",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -17176,7 +17176,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/6.0.8",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -22898,7 +22898,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/5.8.14",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -28190,7 +28190,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/5.8.13",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -33482,12 +33482,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/4.3.0",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "craftopia_4.3.0",
         "version": "4.3.0",
@@ -38817,12 +38817,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/craftopia/4.2.0",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "craftopia_4.2.0",
         "version": "4.2.0",

@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/7.4.17",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -4458,7 +4458,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/7.4.16",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -8912,7 +8912,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/6.0.8",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -13363,7 +13363,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/6.0.7",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -17814,7 +17814,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/5.8.14",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -22037,7 +22037,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/5.8.13",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -26260,12 +26260,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/4.3.0",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -30526,12 +30526,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tracks/4.2.1",
-        "last_update": "2025-03-17 08:57:48",
+        "last_update": "2025-03-17 19:11:27",
         "required_features": [
             "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.2.1",
         "version": "4.2.1",
