@@ -1,0 +1,23 @@
+image:
+  repository: ghcr.io/linuxserver/digikam
+  pullPolicy: IfNotPresent
+  tag: 8.5.0@sha256:7d98d0e3d2806799a0f7df53ece41b760795248f2977a9dc9d4c755c6b83850d
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10033
+        targetPort: 3000
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
