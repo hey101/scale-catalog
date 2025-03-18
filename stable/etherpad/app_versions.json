@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/18.1.9",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.8.14_18.1.9",
@@ -6296,11 +6296,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/18.1.8",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.8.14_18.1.8",
@@ -12588,11 +12588,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/17.0.9",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.8.14_17.0.9",
@@ -18877,11 +18877,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/17.0.8",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.8.14_17.0.8",
@@ -25166,11 +25166,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/16.8.14",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.8.14_16.8.14",
@@ -31483,11 +31483,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/16.8.13",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.8.14_16.8.13",
@@ -37800,13 +37800,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/15.3.0",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.8.14_15.3.0",
         "version": "15.3.0",
@@ -44192,13 +44192,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/etherpad/15.2.0",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.8.14_15.2.0",
         "version": "15.2.0",

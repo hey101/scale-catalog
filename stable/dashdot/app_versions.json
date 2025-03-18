@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/10.5.15",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "5.9.0_10.5.15",
@@ -5219,11 +5219,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/10.5.14",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "5.9.0_10.5.14",
@@ -10434,11 +10434,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/9.0.9",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "5.8.3_9.0.9",
@@ -15646,11 +15646,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/9.0.8",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "5.8.3_9.0.8",
@@ -20858,11 +20858,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/8.8.14",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "5.8.3_8.8.14",
@@ -25842,11 +25842,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/8.8.13",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "5.8.3_8.8.13",
@@ -30826,13 +30826,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/7.5.0",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.8.3_7.5.0",
         "version": "7.5.0",
@@ -35853,13 +35853,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashdot/7.4.0",
-        "last_update": "2025-03-17 19:11:27",
+        "last_update": "2025-03-18 01:55:46",
         "required_features": [
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.8.3_7.4.0",
         "version": "7.4.0",
