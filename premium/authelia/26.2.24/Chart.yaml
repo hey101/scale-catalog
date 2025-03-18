@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: premium
 apiVersion: v2
-appVersion: "4.39.0"
+appVersion: "4.39.1"
 dependencies:
   - name: common
-    version: 27.1.0
+    version: 27.1.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -51,4 +51,4 @@ sources:
   - https://github.com/authelia/chartrepo
   - https://github.com/truecharts/charts/tree/master/charts/premium/authelia
 type: application
-version: 26.2.22
+version: 26.2.24
