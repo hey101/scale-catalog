@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/12.7.16",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.14.1_12.7.16",
         "version": "12.7.16",
@@ -3681,12 +3681,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/12.7.15",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.14.1_12.7.15",
         "version": "12.7.15",
@@ -7358,12 +7358,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/11.0.8",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.11.2_11.0.8",
         "version": "11.0.8",
@@ -11032,12 +11032,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/11.0.7",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.11.2_11.0.7",
         "version": "11.0.7",
@@ -14706,12 +14706,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/10.11.15",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.11.2_10.11.15",
         "version": "10.11.15",
@@ -18152,12 +18152,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/10.11.14",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.11.2_10.11.14",
         "version": "10.11.14",
@@ -21598,13 +21598,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/9.3.0",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.9.5_9.3.0",
         "version": "9.3.0",
@@ -25087,13 +25087,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/9.2.0",
-        "last_update": "2025-03-18 01:55:46",
+        "last_update": "2025-03-18 08:14:57",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.9.5_9.2.0",
         "version": "9.2.0",
