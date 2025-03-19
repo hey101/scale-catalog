@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/7.4.16",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_7.4.16",
         "version": "7.4.16",
@@ -3484,10 +3484,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/7.4.15",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_7.4.15",
         "version": "7.4.15",
@@ -6964,10 +6964,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/6.0.8",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -10441,10 +10441,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/6.0.7",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_6.0.7",
         "version": "6.0.7",
@@ -13918,10 +13918,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/5.8.14",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -17167,10 +17167,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/5.8.13",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -20416,13 +20416,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/4.3.0",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -23835,13 +23835,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hetzner-ddns/4.2.0",
-        "last_update": "2025-03-19 04:40:50",
+        "last_update": "2025-03-19 09:25:18",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
