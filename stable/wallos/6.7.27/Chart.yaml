@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.47.0"
+appVersion: "2.48.0"
 dependencies:
   - name: common
     version: 27.1.3
@@ -33,4 +33,4 @@ sources:
   - https://ghcr.io/ellite/wallos
   - https://github.com/ellite/Wallos
 type: application
-version: 6.7.25
+version: 6.7.27
