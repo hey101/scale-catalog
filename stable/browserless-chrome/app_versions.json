@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/11.4.16",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.61.1-chr_11.4.16",
         "version": "11.4.16",
@@ -6087,12 +6087,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/11.4.15",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.61.1-chr_11.4.15",
         "version": "11.4.15",
@@ -12170,12 +12170,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/10.0.9",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.61.1_10.0.9",
         "version": "10.0.9",
@@ -18250,12 +18250,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/10.0.8",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.61.1_10.0.8",
         "version": "10.0.8",
@@ -24330,12 +24330,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/9.8.14",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.61.1_9.8.14",
         "version": "9.8.14",
@@ -29980,12 +29980,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/9.8.13",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "1.61.1_9.8.13",
         "version": "9.8.13",
@@ -35630,13 +35630,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/8.4.0",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.61.1_8.4.0",
         "version": "8.4.0",
@@ -41323,13 +41323,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/browserless-chrome/8.3.0",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.61.1_8.3.0",
         "version": "8.3.0",

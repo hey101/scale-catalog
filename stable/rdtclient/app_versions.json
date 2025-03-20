@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/6.4.21",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.0.102_6.4.21",
         "version": "6.4.21",
@@ -5339,12 +5339,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/6.4.20",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.0.102_6.4.20",
         "version": "6.4.20",
@@ -10674,12 +10674,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/5.0.9",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.0.78_5.0.9",
         "version": "5.0.9",
@@ -16006,12 +16006,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/5.0.8",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.0.78_5.0.8",
         "version": "5.0.8",
@@ -21338,12 +21338,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/4.8.20",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.0.75_4.8.20",
         "version": "4.8.20",
@@ -26341,12 +26341,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/4.8.19",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.0.75_4.8.19",
         "version": "4.8.19",
@@ -31344,13 +31344,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/3.3.0",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.0.62_3.3.0",
         "version": "3.3.0",
@@ -36390,13 +36390,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdtclient/3.2.1",
-        "last_update": "2025-03-20 04:14:34",
+        "last_update": "2025-03-20 06:44:11",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.0.62_3.2.1",
         "version": "3.2.1",
