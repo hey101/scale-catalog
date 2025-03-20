@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/15.4.16",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_15.4.16",
         "version": "15.4.16",
@@ -5311,12 +5311,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/15.4.15",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_15.4.15",
         "version": "15.4.15",
@@ -10618,12 +10618,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/14.0.8",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_14.0.8",
         "version": "14.0.8",
@@ -15922,12 +15922,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/14.0.7",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_14.0.7",
         "version": "14.0.7",
@@ -21226,12 +21226,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/13.8.14",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_13.8.14",
         "version": "13.8.14",
@@ -26201,12 +26201,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/13.8.13",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_13.8.13",
         "version": "13.8.13",
@@ -31176,13 +31176,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/12.3.0",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_12.3.0",
         "version": "12.3.0",
@@ -36194,13 +36194,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ser2sock/12.2.0",
-        "last_update": "2025-03-19 22:12:21",
+        "last_update": "2025-03-20 04:14:34",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_12.2.0",
         "version": "12.2.0",
