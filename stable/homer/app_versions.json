@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/11.7.21",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -5302,10 +5302,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/11.7.20",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -10600,10 +10600,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/10.1.2",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -15895,10 +15895,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/10.1.1",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -21190,10 +21190,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/9.8.14",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -26156,10 +26156,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/9.8.13",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -31122,13 +31122,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/8.3.0",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "23.10.1_8.3.0",
         "version": "8.3.0",
@@ -36131,13 +36131,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/8.2.0",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "23.10.1_8.2.0",
         "version": "8.2.0",

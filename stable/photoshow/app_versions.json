@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/12.4.16",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -5285,10 +5285,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/12.4.15",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -10566,10 +10566,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/11.0.9",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -15844,10 +15844,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/11.0.8",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -21122,10 +21122,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/10.8.14",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -26071,10 +26071,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/10.8.13",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -31020,13 +31020,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/9.3.0",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "48aabb98_9.3.0",
         "version": "9.3.0",
@@ -36012,13 +36012,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoshow/9.2.0",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "48aabb98_9.2.0",
         "version": "9.2.0",

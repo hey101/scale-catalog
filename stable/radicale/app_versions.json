@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/7.5.22",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -5617,10 +5617,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/7.5.21",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -11230,10 +11230,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/6.1.2",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -16840,10 +16840,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/6.1.1",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -22450,10 +22450,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/5.8.14",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -27731,10 +27731,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/5.8.13",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -33012,13 +33012,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/4.3.0",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "3.1.8.3_4.3.0",
         "version": "4.3.0",
@@ -38336,13 +38336,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/radicale/4.2.0",
-        "last_update": "2025-03-21 12:54:09",
+        "last_update": "2025-03-21 16:08:04",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "definitions/interface"
         ],
         "human_version": "3.1.8.3_4.2.0",
         "version": "4.2.0",
