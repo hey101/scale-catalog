@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/7.4.16",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_7.4.16",
         "version": "7.4.16",
@@ -5014,11 +5014,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/7.4.15",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_7.4.15",
         "version": "7.4.15",
@@ -10024,11 +10024,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/6.0.8",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_6.0.8",
         "version": "6.0.8",
@@ -15031,11 +15031,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/6.0.7",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_6.0.7",
         "version": "6.0.7",
@@ -20038,11 +20038,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/5.8.14",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_5.8.14",
         "version": "5.8.14",
@@ -24716,11 +24716,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/5.8.13",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_5.8.13",
         "version": "5.8.13",
@@ -29394,12 +29394,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/4.3.0",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_4.3.0",
         "version": "4.3.0",
@@ -34115,12 +34115,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/flame/4.2.0",
-        "last_update": "2025-03-21 16:08:04",
+        "last_update": "2025-03-21 21:16:25",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_4.2.0",
         "version": "4.2.0",
