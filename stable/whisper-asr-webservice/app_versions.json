@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/6.7.17",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -6581,10 +6581,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/6.7.16",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -13158,10 +13158,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/5.0.8",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -19732,10 +19732,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/5.0.7",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -26306,10 +26306,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/4.9.10",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -32349,10 +32349,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/4.9.9",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -38392,12 +38392,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/3.3.0",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.2.3_3.3.0",
@@ -44553,12 +44553,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/whisper-asr-webservice/3.2.0",
-        "last_update": "2025-03-21 07:46:19",
+        "last_update": "2025-03-21 12:54:09",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone"
         ],
         "human_version": "1.2.3_3.2.0",
