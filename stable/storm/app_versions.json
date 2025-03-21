@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/7.4.16",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -4729,7 +4729,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/7.4.15",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -9454,7 +9454,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/6.0.8",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -14176,7 +14176,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/6.0.7",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -18898,7 +18898,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/5.8.14",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -23392,7 +23392,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/5.8.13",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -27886,13 +27886,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/4.3.0",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "1.3.0_4.3.0",
         "version": "4.3.0",
@@ -32423,13 +32423,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/storm/4.2.0",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "1.3.0_4.2.0",
         "version": "4.2.0",

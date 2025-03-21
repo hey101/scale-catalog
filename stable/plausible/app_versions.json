@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/12.5.8",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -5442,7 +5442,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/12.5.7",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -10880,7 +10880,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/11.2.9",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -16315,7 +16315,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/11.2.8",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -21750,7 +21750,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/10.17.24",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -27415,7 +27415,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/10.17.23",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/certificate",
@@ -33080,13 +33080,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/9.3.0",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.0.0_9.3.0",
         "version": "9.3.0",
@@ -38820,13 +38820,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/plausible/9.2.0",
-        "last_update": "2025-03-21 02:15:21",
+        "last_update": "2025-03-21 07:46:19",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.0.0_9.2.0",
         "version": "9.2.0",
