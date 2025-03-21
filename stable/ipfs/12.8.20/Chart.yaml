@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: docker
+  truecharts.org/category: storage
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "28.0.1"
+appVersion: "0.34.0"
 dependencies:
   - name: common
     version: 27.1.3
@@ -16,20 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Dedicated App for using Docker-in-Docker
-home: https://github.com/hey101/charts/stable/docker
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/docker.webp
+description: IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
+home: https://github.com/hey101/charts/stable/ipfs
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/ipfs.webp
 keywords:
-  - docker
+  - ipfs
+  - kubo
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: docker
+name: ipfs
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/docker
-  - https://github.com/truecharts/charts/tree/master/charts/stable/docker
-  - https://hub.docker.com/_/docker
+  - https://github.com/hey101/charts/tree/master/charts/stable/ipfs
+  - https://github.com/ipfs/kubo
+  - https://github.com/truecharts/charts/tree/master/charts/stable/ipfs
+  - https://hub.docker.com/r/ipfs/kubo
 type: application
-version: 9.7.33
+version: 12.8.20
