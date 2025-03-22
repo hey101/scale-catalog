@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/14.10.19",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.2_14.10.19",
@@ -5930,11 +5930,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/14.10.18",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.2_14.10.18",
@@ -11856,11 +11856,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/13.1.8",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.2_13.1.8",
@@ -17779,11 +17779,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/13.1.7",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.2_13.1.7",
@@ -23702,11 +23702,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/12.15.24",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.2_12.15.24",
@@ -29195,11 +29195,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/12.15.23",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.2_12.15.23",
@@ -34688,13 +34688,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/11.4.0",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.6.2_11.4.0",
         "version": "11.4.0",
@@ -40224,13 +40224,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/chevereto/11.3.0",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.6.2_11.3.0",
         "version": "11.3.0",

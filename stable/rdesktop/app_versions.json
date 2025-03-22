@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/10.4.70",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.4.70",
@@ -5389,11 +5389,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/10.4.69",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_10.4.69",
@@ -10774,11 +10774,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/9.0.132",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.0.132",
@@ -16156,11 +16156,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/9.0.131",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_9.0.131",
@@ -21538,11 +21538,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/8.8.75",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.8.75",
@@ -26591,11 +26591,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/8.8.69",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_8.8.69",
@@ -31644,13 +31644,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/7.3.0",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -36740,13 +36740,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/rdesktop/7.2.24",
-        "last_update": "2025-03-22 04:11:08",
+        "last_update": "2025-03-22 07:30:24",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.2.24",
         "version": "7.2.24",
