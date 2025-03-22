@@ -2,7 +2,7 @@ affinity: {}
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/mikenye/piaware
-  tag: v10.0@sha256:44327321d8f36c439d9270d85e2e880e172de26a55bb10abd7733231ce392e5c
+  tag: v10.0@sha256:a285f58667afd4cccd39c3baffe01a8802d7ca68a6477898f14e738b07d564e8
 persistence:
   config:
     enabled: true
