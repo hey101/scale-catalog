@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/11.4.21",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.9.1_11.4.21",
@@ -5279,11 +5279,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/11.4.20",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.9.1_11.4.20",
@@ -10554,11 +10554,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/10.0.11",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.9.0_10.0.11",
@@ -15826,11 +15826,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/10.0.10",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.9.0_10.0.10",
@@ -21098,11 +21098,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/9.9.16",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.9.0_9.9.16",
@@ -26041,11 +26041,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/9.9.15",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.9.0_9.9.15",
@@ -30984,13 +30984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/8.3.0",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.8.2_8.3.0",
         "version": "8.3.0",
@@ -35970,13 +35970,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/znc/8.2.0",
-        "last_update": "2025-03-22 00:13:34",
+        "last_update": "2025-03-22 04:11:08",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.8.2_8.2.0",
         "version": "8.2.0",
