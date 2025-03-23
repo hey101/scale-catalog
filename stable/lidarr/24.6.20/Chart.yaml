@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.9.6.4552"
+appVersion: "2.10.3.460"
 dependencies:
   - name: common
-    version: 27.1.2
+    version: 27.1.3
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/Lidarr/Lidarr
   - https://github.com/truecharts/charts/tree/master/charts/stable/lidarr
 type: application
-version: 24.6.18
+version: 24.6.20
