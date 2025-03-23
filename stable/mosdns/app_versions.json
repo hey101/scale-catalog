@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/11.4.16",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "5.3.3_11.4.16",
         "version": "11.4.16",
@@ -4383,12 +4383,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/11.4.15",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "5.3.3_11.4.15",
         "version": "11.4.15",
@@ -8762,12 +8762,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/10.0.9",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "5.3.1_10.0.9",
         "version": "10.0.9",
@@ -13138,12 +13138,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/10.0.8",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "5.3.1_10.0.8",
         "version": "10.0.8",
@@ -17514,12 +17514,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/9.8.14",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "5.3.1_9.8.14",
         "version": "9.8.14",
@@ -21561,12 +21561,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/9.8.13",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "5.3.1_9.8.13",
         "version": "9.8.13",
@@ -25608,11 +25608,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/8.3.0",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "definitions/certificate"
         ],
@@ -29698,11 +29698,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mosdns/8.2.0",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "definitions/certificate"
         ],

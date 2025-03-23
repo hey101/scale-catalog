@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/11.5.23",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.33.0_11.5.23",
         "version": "11.5.23",
@@ -4663,12 +4663,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/11.5.22",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.33.0_11.5.22",
         "version": "11.5.22",
@@ -9322,12 +9322,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/10.1.4",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.30.0_10.1.4",
         "version": "10.1.4",
@@ -13978,12 +13978,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/10.1.3",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.30.0_10.1.3",
         "version": "10.1.3",
@@ -18634,12 +18634,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/9.9.14",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.29.1_9.9.14",
         "version": "9.9.14",
@@ -23062,12 +23062,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/9.9.13",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.29.1_9.9.13",
         "version": "9.9.13",
@@ -27490,11 +27490,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/8.4.0",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "definitions/certificate"
         ],
@@ -31961,11 +31961,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fluidd/8.3.1",
-        "last_update": "2025-03-23 11:41:57",
+        "last_update": "2025-03-23 15:13:09",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "definitions/certificate"
         ],
