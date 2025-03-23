@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/7.4.17",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -5368,7 +5368,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/7.4.16",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -10732,7 +10732,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/6.0.9",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -16093,7 +16093,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/6.0.8",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -21454,7 +21454,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/5.8.15",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -26486,7 +26486,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/5.8.14",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/certificate",
             "definitions/interface",
@@ -31518,13 +31518,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/4.3.0",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -36593,13 +36593,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bitcoind/4.2.0",
-        "last_update": "2025-03-23 04:20:39",
+        "last_update": "2025-03-23 09:09:42",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
