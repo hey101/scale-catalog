@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/7.4.16",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -5843,7 +5843,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/7.4.15",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -11682,7 +11682,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/6.0.9",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -17518,7 +17518,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/6.0.8",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -23354,7 +23354,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/5.8.14",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -28760,7 +28760,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/5.8.13",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -34166,12 +34166,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/4.3.0",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "mordhau_4.3.0",
         "version": "4.3.0",
@@ -39615,12 +39615,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mordhau/4.2.0",
-        "last_update": "2025-03-23 20:40:10",
+        "last_update": "2025-03-23 23:30:04",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "mordhau_4.2.0",
         "version": "4.2.0",
