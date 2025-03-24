@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/9.28.27",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -5266,7 +5266,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/9.28.26",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -10528,7 +10528,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/8.5.0",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -15787,7 +15787,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/8.4.2",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -21046,7 +21046,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/7.18.1",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -25976,7 +25976,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/7.18.0",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -30906,13 +30906,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/6.10.0",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.444.0_6.10.0",
         "version": "6.10.0",
@@ -35879,13 +35879,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jenkins/6.9.0",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.444.0_6.9.0",
         "version": "6.9.0",

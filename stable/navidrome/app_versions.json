@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/21.6.20",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -5927,7 +5927,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/21.6.19",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -11850,7 +11850,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/20.1.5",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -17770,7 +17770,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/20.1.4",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -23690,7 +23690,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/19.8.14",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -29180,7 +29180,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/19.8.13",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -34670,13 +34670,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/18.4.0",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.51.1_18.4.0",
         "version": "18.4.0",
@@ -40203,13 +40203,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/navidrome/18.3.1",
-        "last_update": "2025-03-23 23:30:04",
+        "last_update": "2025-03-24 04:37:04",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "0.51.1_18.3.1",
         "version": "18.3.1",
