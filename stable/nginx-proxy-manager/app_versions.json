@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/11.11.21",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.12.3_11.11.21",
@@ -5114,11 +5114,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/11.11.20",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.12.3_11.11.20",
@@ -10224,11 +10224,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/10.1.10",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.11.2_10.1.10",
@@ -15331,11 +15331,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/10.1.9",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.11.2_10.1.9",
@@ -20438,11 +20438,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/9.15.25",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.11.1_9.15.25",
@@ -25115,11 +25115,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/9.15.24",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "2.11.1_9.15.24",
@@ -29792,12 +29792,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/8.5.0",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2.11.1_8.5.0",
@@ -34512,12 +34512,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nginx-proxy-manager/8.4.0",
-        "last_update": "2025-03-24 04:37:04",
+        "last_update": "2025-03-24 10:23:21",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2.11.1_8.4.0",
