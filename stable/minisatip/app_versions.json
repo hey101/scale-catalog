@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/11.4.16",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2021.12.01_11.4.16",
         "version": "11.4.16",
@@ -5449,12 +5449,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/11.4.15",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2021.12.01_11.4.15",
         "version": "11.4.15",
@@ -10894,12 +10894,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/10.0.9",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2021.12.01_10.0.9",
         "version": "10.0.9",
@@ -16336,12 +16336,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/10.0.8",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2021.12.01_10.0.8",
         "version": "10.0.8",
@@ -21778,12 +21778,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/9.8.14",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2021.12.01_9.8.14",
         "version": "9.8.14",
@@ -26891,12 +26891,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/9.8.13",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "2021.12.01_9.8.13",
         "version": "9.8.13",
@@ -32004,12 +32004,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/8.3.0",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2021.12.01_8.3.0",
@@ -37160,12 +37160,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minisatip/8.2.0",
-        "last_update": "2025-03-25 02:15:59",
+        "last_update": "2025-03-25 08:20:38",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2021.12.01_8.2.0",
