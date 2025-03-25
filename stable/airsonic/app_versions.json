@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/15.4.16",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "10.6.2_15.4.16",
@@ -5282,11 +5282,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/15.4.15",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "10.6.2_15.4.15",
@@ -10560,11 +10560,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/14.0.9",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "10.6.2_14.0.9",
@@ -15835,11 +15835,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/14.0.8",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "10.6.2_14.0.8",
@@ -21110,11 +21110,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/13.8.14",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "10.6.2_13.8.14",
@@ -26056,11 +26056,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/13.8.13",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "10.6.2_13.8.13",
@@ -31002,13 +31002,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/12.3.0",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "10.6.2_12.3.0",
         "version": "12.3.0",
@@ -35991,13 +35991,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic/12.2.0",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "10.6.2_12.2.0",
         "version": "12.2.0",

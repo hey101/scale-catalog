@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/6.7.27",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.48.0_6.7.27",
@@ -5885,11 +5885,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/6.7.26",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "2.47.1_6.7.26",
@@ -11766,11 +11766,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/5.0.21",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.0.21",
@@ -17644,11 +17644,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/5.0.20",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.0.20",
@@ -23522,11 +23522,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/4.8.19",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.8.19",
@@ -28970,11 +28970,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/4.8.18",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.8.18",
@@ -34418,13 +34418,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/3.3.0",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_3.3.0",
         "version": "3.3.0",
@@ -39909,13 +39909,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wallos/3.2.1",
-        "last_update": "2025-03-25 00:49:52",
+        "last_update": "2025-03-25 02:15:59",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_3.2.1",
         "version": "3.2.1",
