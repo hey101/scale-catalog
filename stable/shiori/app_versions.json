@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/18.2.13",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -5633,10 +5633,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/18.2.12",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -11262,10 +11262,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/17.0.8",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -16888,10 +16888,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/17.0.7",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -22514,10 +22514,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/16.9.16",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -28269,10 +28269,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/16.9.15",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -34024,13 +34024,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/15.3.0",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.5.5_15.3.0",
         "version": "15.3.0",
@@ -39854,13 +39854,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shiori/15.2.0",
-        "last_update": "2025-03-25 22:52:54",
+        "last_update": "2025-03-26 05:49:34",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.5.5_15.2.0",
         "version": "15.2.0",
