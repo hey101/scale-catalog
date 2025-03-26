@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/13.5.16",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "4.3.0_13.5.16",
         "version": "13.5.16",
@@ -4703,12 +4703,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/13.5.15",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "4.3.0_13.5.15",
         "version": "13.5.15",
@@ -9402,12 +9402,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/11.0.8",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "3.10.2_11.0.8",
         "version": "11.0.8",
@@ -14098,12 +14098,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/11.0.7",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "3.10.2_11.0.7",
         "version": "11.0.7",
@@ -18794,12 +18794,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/10.8.14",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "3.10.2_10.8.14",
         "version": "10.8.14",
@@ -23262,12 +23262,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/10.8.13",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "3.10.2_10.8.13",
         "version": "10.8.13",
@@ -27730,13 +27730,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/9.3.0",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.10.2_9.3.0",
         "version": "9.3.0",
@@ -32241,13 +32241,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/9.2.0",
-        "last_update": "2025-03-26 05:49:34",
+        "last_update": "2025-03-26 14:45:45",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.10.2_9.2.0",
         "version": "9.2.0",
