@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/9.4.16",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_9.4.16",
@@ -5090,11 +5090,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/9.4.15",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_9.4.15",
@@ -10176,11 +10176,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/8.0.8",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_8.0.8",
@@ -15259,11 +15259,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/8.0.7",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_8.0.7",
@@ -20342,11 +20342,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/7.8.14",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_7.8.14",
@@ -25096,11 +25096,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/7.8.13",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "latest_7.8.13",
@@ -29850,13 +29850,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/6.3.0",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.3.0",
         "version": "6.3.0",
@@ -34647,13 +34647,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/snippet-box/6.2.0",
-        "last_update": "2025-03-25 15:11:08",
+        "last_update": "2025-03-25 22:52:54",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.2.0",
         "version": "6.2.0",
