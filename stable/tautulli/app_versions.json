@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/20.5.17",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.15.1_20.5.17",
         "version": "20.5.17",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/20.5.16",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.15.1_20.5.16",
         "version": "20.5.16",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/19.0.8",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.13.4_19.0.8",
         "version": "19.0.8",
@@ -15832,12 +15832,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/19.0.7",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.13.4_19.0.7",
         "version": "19.0.7",
@@ -21106,12 +21106,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/18.8.16",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.13.4_18.8.16",
         "version": "18.8.16",
@@ -26051,12 +26051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/18.8.15",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.13.4_18.8.15",
         "version": "18.8.15",
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/17.3.0",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.13.4_17.3.0",
         "version": "17.3.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tautulli/17.2.0",
-        "last_update": "2025-03-26 23:23:03",
+        "last_update": "2025-03-27 03:48:38",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.13.4_17.2.0",
         "version": "17.2.0",
