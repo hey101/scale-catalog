@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: Productivity
+  truecharts.org/category: Other
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
@@ -16,23 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Meta search engine which aggregates results from more than 70 search services.
-home: https://github.com/hey101/charts/stable/searxng
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/searxng.webp
+description: Multi-arch tar1090 Chart for visualising ADSB data.
+home: https://github.com/hey101/charts/stable/tar1090
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/tar1090.webp
 keywords:
-  - searxng
-  - Productivity
+  - tar1090
   - Other
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: searxng
+name: tar1090
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/searxng
-  - https://github.com/truecharts/charts/tree/master/charts/stable/searxng
-  - https://github.com/searxng/searxng
-  - https://hub.docker.com/r/searxng/searxng
+  - https://github.com/hey101/charts/tree/master/charts/stable/tar1090
+  - https://github.com/truecharts/charts/tree/master/charts/stable/tar1090
+  - https://hub.docker.com/r/mikenye/tar1090
 type: application
-version: 9.4.80
+version: 7.4.61
