@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/10.5.16",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.16.1_10.5.16",
         "version": "10.5.16",
@@ -5438,12 +5438,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/10.5.15",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.16.1_10.5.15",
         "version": "10.5.15",
@@ -10872,12 +10872,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/9.0.9",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.15.1_9.0.9",
         "version": "9.0.9",
@@ -16303,12 +16303,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/9.0.8",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.15.1_9.0.8",
         "version": "9.0.8",
@@ -21734,12 +21734,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/8.8.14",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.15.1_8.8.14",
         "version": "8.8.14",
@@ -26836,12 +26836,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/8.8.13",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.15.1_8.8.13",
         "version": "8.8.13",
@@ -31938,13 +31938,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/7.4.0",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.15.0_7.4.0",
         "version": "7.4.0",
@@ -37083,13 +37083,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kasm/7.3.0",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.15.0_7.3.0",
         "version": "7.3.0",

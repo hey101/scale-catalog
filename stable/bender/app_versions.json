@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/7.4.16",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.0.3_7.4.16",
         "version": "7.4.16",
@@ -5301,12 +5301,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/7.4.15",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.0.3_7.4.15",
         "version": "7.4.15",
@@ -10598,12 +10598,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/6.0.9",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.0.3_6.0.9",
         "version": "6.0.9",
@@ -15892,12 +15892,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/6.0.8",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.0.3_6.0.8",
         "version": "6.0.8",
@@ -21186,12 +21186,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/5.8.14",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.0.3_5.8.14",
         "version": "5.8.14",
@@ -26151,12 +26151,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/5.8.13",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.0.3_5.8.13",
         "version": "5.8.13",
@@ -31116,13 +31116,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/4.3.0",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.3_4.3.0",
         "version": "4.3.0",
@@ -36124,13 +36124,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/bender/4.2.0",
-        "last_update": "2025-03-28 22:28:54",
+        "last_update": "2025-03-29 03:32:28",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.0.3_4.2.0",
         "version": "4.2.0",
