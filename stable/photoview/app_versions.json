@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/15.2.7",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -6296,11 +6296,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/15.2.6",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -12588,11 +12588,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/14.0.9",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -18877,11 +18877,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/14.0.8",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -25166,11 +25166,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/13.8.14",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -31483,11 +31483,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/13.8.13",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -37800,14 +37800,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/12.3.0",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2.3.13_12.3.0",
         "version": "12.3.0",
@@ -44192,14 +44192,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/photoview/12.2.0",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/nodeIP",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/nodeIP",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2.3.13_12.2.0",
         "version": "12.2.0",

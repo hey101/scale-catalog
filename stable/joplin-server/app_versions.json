@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/20.0.6",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.0.1_20.0.6",
         "version": "20.0.6",
@@ -5790,12 +5790,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/20.0.5",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.0.1_20.0.5",
         "version": "20.0.5",
@@ -11576,12 +11576,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/18.0.8",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.14.2_18.0.8",
         "version": "18.0.8",
@@ -17359,12 +17359,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/18.0.7",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.14.2_18.0.7",
         "version": "18.0.7",
@@ -23142,12 +23142,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/17.8.14",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.14.2_17.8.14",
         "version": "17.8.14",
@@ -29054,12 +29054,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/17.8.13",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.14.2_17.8.13",
         "version": "17.8.13",
@@ -34966,13 +34966,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/16.4.0",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2.14.2_16.4.0",
         "version": "16.4.0",
@@ -40953,13 +40953,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/joplin-server/16.3.0",
-        "last_update": "2025-03-28 16:54:34",
+        "last_update": "2025-03-28 22:28:54",
         "required_features": [
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "2.14.2_16.3.0",
         "version": "16.3.0",
