@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/12.4.23",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -6719,10 +6719,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/12.4.22",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -13434,10 +13434,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/11.0.10",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -20146,10 +20146,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/11.0.9",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -26858,10 +26858,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/10.8.14",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -33140,10 +33140,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/10.8.13",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -39422,13 +39422,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/9.3.0",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_9.3.0",
         "version": "9.3.0",
@@ -45747,13 +45747,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/valheim/9.2.0",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_9.2.0",
         "version": "9.2.0",

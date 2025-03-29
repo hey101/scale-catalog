@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/14.1.15",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -6889,10 +6889,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/14.1.14",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -13774,10 +13774,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/13.0.8",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -20656,10 +20656,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/13.0.7",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -27538,10 +27538,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/12.8.14",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -34549,10 +34549,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/12.8.13",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
@@ -41560,13 +41560,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/11.3.0",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.9.9_11.3.0",
         "version": "11.3.0",
@@ -48646,13 +48646,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hedgedoc/11.2.0",
-        "last_update": "2025-03-29 16:03:19",
+        "last_update": "2025-03-29 20:14:46",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "1.9.9_11.2.0",
         "version": "11.2.0",
