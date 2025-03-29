@@ -1,0 +1,106 @@
+image:
+  repository: ghcr.io/elfhosted/lidarr
+  pullPolicy: IfNotPresent
+  tag: 2.10.3.4602@sha256:0313dc0bf41afbd894940ce66f3b801738dcc3208a68ac0b2290160a47b63f1e
+exportarrImage:
+  repository: ghcr.io/onedr0p/exportarr
+  pullPolicy: IfNotPresent
+  tag: v2.1.0@sha256:ffe2065573db0f9717443143316eac6b335c37e6f6fea2f6a238ef3f134ee50a
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+service:
+  main:
+    ports:
+      main:
+        port: 8686
+  metrics:
+    enabled: "{{ .Values.metrics.main.enabled }}"
+    type: ClusterIP
+    ports:
+      metrics:
+        enabled: true
+        port: 8687
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: true
+              type: http
+              path: /ping
+            readiness:
+              enabled: true
+              type: http
+              path: /ping
+            startup:
+              enabled: true
+              type: http
+              path: /ping
+          env:
+            LIDARR__SERVER__PORT:
+              "{{ .Values.service.main.ports.main.port }}"
+              # External | Basic | Forms
+            LIDARR__AUTH__METHOD: ""
+            # DisabledForLocalAddresses | Enabled
+            LIDARR__AUTH__REQUIRED: DisabledForLocalAddresses
+            # LIDARR__APP__THEME: dark
+            # LIDARR__APP__INSTANCENAME: Lidarr
+            # LIDARR__LOG__LEVEL: info
+            # LIDARR__UPDATE__BRANCH: develop
+        exportarr:
+          enabled: "{{ .Values.metrics.main.enabled }}"
+          imageSelector: exportarrImage
+          args:
+            - lidarr
+          probes:
+            liveness:
+              enabled: true
+              type: http
+              path: /healthz
+              port: "{{ .Values.service.metrics.ports.metrics.port }}"
+            readiness:
+              enabled: true
+              type: http
+              path: /healthz
+              port: "{{ .Values.service.metrics.ports.metrics.port }}"
+            startup:
+              enabled: true
+              type: http
+              path: /healthz
+              port: "{{ .Values.service.metrics.ports.metrics.port }}"
+          env:
+            INTERFACE: 0.0.0.0
+            PORT: "{{ .Values.service.metrics.ports.metrics.port }}"
+            URL: '{{ printf "http://%v:%v" (include "tc.v1.common.lib.chart.names.fullname" $) .Values.service.main.ports.main.port }}'
+            # additional metrics (slow)
+            # ENABLE_ADDITIONAL_METRICS: false
+            # enable gathering unknown queue items
+            # ENABLE_UNKNOWN_QUEUE_ITEMS: false
+            CONFIG: "/config/config.xml"
+persistence:
+  config:
+    enabled: true
+    targetSelector:
+      main:
+        main:
+          mountPath: /config
+        exportarr:
+          mountPath: /config
+          readOnly: true
+metrics:
+  main:
+    enabled: true
+    type: "servicemonitor"
+    endpoints:
+      - port: metrics
+        path: /metrics
+    targetSelector: metrics
+    prometheusRule:
+      enabled: false
+portal:
+  open:
+    enabled: true
+updated: true
