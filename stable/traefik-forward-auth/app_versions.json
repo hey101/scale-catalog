@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/5.5.16",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.5.16",
         "version": "5.5.16",
@@ -5093,12 +5093,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/5.5.15",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.5.15",
         "version": "5.5.15",
@@ -10182,12 +10182,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/4.0.8",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_4.0.8",
         "version": "4.0.8",
@@ -15268,12 +15268,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/4.0.7",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_4.0.7",
         "version": "4.0.7",
@@ -20354,12 +20354,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/3.8.14",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_3.8.14",
         "version": "3.8.14",
@@ -25212,12 +25212,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/3.8.13",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_3.8.13",
         "version": "3.8.13",
@@ -30070,13 +30070,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/2.3.0",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
             "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_2.3.0",
         "version": "2.3.0",
@@ -35487,13 +35487,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traefik-forward-auth/2.2.0",
-        "last_update": "2025-03-29 07:59:24",
+        "last_update": "2025-03-29 11:21:04",
         "required_features": [
             "definitions/gpuConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "latest_2.2.0",
         "version": "2.2.0",
