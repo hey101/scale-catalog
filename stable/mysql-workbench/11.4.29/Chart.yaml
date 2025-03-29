@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.98.0"
+appVersion: "8.0.41"
 dependencies:
   - name: common
     version: 27.1.3
@@ -16,20 +16,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Openvscode-server provides a version of VS Code that runs a server on a remote machine.
-home: https://github.com/hey101/charts/stable/openvscode-server
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.webp
+description: MySQL Workbench is a unified visual tool for database architects, developers and DBAs.
+home: https://github.com/hey101/charts/stable/mysql-workbench
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/mysql-workbench.webp
 keywords:
-  - openvscode-server
+  - mysql-workbench
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: openvscode-server
+name: mysql-workbench
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/openvscode-server
-  - https://github.com/truecharts/charts/tree/master/charts/stable/openvscode-server
-  - https://ghcr.io/linuxserver/openvscode-server
+  - https://github.com/hey101/charts/tree/master/charts/stable/mysql-workbench
+  - https://github.com/truecharts/charts/tree/master/charts/stable/mysql-workbench
+  - https://ghcr.io/linuxserver/mysql-workbench
 type: application
-version: 11.11.24
+version: 11.4.29
