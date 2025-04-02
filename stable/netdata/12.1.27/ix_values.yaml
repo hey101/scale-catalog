@@ -1,6 +1,6 @@
 image:
   repository: docker.io/netdata/netdata
-  tag: v2.3.0@sha256:48ccf75d70f385afba2418e283b58b620b6b3ca480309cb324e4f22aa19553ca
+  tag: v2.3.2@sha256:5a7b8adf26add2c6855dcb713427e3511f8f73b7159e39559025563caac478a7
   pullPolicy: IfNotPresent
 # -- The service account the pods will use to interact with the Kubernetes API
 serviceAccount:
