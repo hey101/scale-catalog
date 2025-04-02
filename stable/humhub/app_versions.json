@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/9.13.23",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.17.1_9.13.23",
         "version": "9.13.23",
@@ -7889,12 +7889,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/9.13.22",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.16.2_9.13.22",
         "version": "9.13.22",
@@ -15774,12 +15774,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/8.2.8",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.15.4_8.2.8",
         "version": "8.2.8",
@@ -23656,12 +23656,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/8.2.7",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.15.4_8.2.7",
         "version": "8.2.7",
@@ -31538,12 +31538,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/7.19.25",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.15.4_7.19.25",
         "version": "7.19.25",
@@ -38687,12 +38687,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/7.19.24",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.15.4_7.19.24",
         "version": "7.19.24",
@@ -45836,13 +45836,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/6.5.0",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "1.15.2_6.5.0",
         "version": "6.5.0",
@@ -53028,13 +53028,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/humhub/6.4.0",
-        "last_update": "2025-04-02 09:34:41",
+        "last_update": "2025-04-02 17:43:49",
         "required_features": [
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "1.15.2_6.4.0",
         "version": "6.4.0",
