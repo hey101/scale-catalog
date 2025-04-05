@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "3.8"
 dependencies:
   - name: common
-    version: 27.1.2
+    version: 27.1.3
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -48,4 +48,4 @@ sources:
   - https://ghcr.io/rommapp/romm
   - https://github.com/zurdi15/romm
 type: application
-version: 10.18.25
+version: 10.18.27
