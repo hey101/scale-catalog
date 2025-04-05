@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.22",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -5448,7 +5448,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.21",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -10892,7 +10892,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/4.1.2",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -16333,7 +16333,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/4.1.1",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -21774,7 +21774,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/3.8.14",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -26886,7 +26886,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/3.8.13",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -31998,14 +31998,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/2.4.0",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
             "definitions/nodeIP",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.8.1_2.4.0",
         "version": "2.4.0",
@@ -37153,14 +37153,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/2.3.0",
-        "last_update": "2025-04-05 07:55:18",
+        "last_update": "2025-04-05 10:45:30",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
             "definitions/nodeIP",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.8.1_2.3.0",
         "version": "2.3.0",
