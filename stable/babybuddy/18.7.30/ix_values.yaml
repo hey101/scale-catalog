@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/babybuddy
   pullPolicy: IfNotPresent
-  tag: 2.7.1@sha256:1bdd2523864931ca430fc094e96d7446285d84bd16865faed214c4a825f61ed6
+  tag: 2.7.1@sha256:978f241dc2f7c236d881c86988566c6bf603913a14e07bbd3d5b888fdf4e8ed3
 securityContext:
   container:
     readOnlyRootFilesystem: false
