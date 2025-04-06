@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/14.1.32",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -5285,7 +5285,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/14.1.31",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -10566,7 +10566,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/13.1.12",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -15847,7 +15847,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/13.1.11",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -21128,7 +21128,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/12.0.9",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -26406,7 +26406,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/12.0.8",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -31684,7 +31684,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/11.8.14",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -36633,7 +36633,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/11.8.13",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
             "normalize/interfaceConfiguration",
@@ -41582,13 +41582,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/10.3.0",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "7.8.0_10.3.0",
         "version": "10.3.0",
@@ -46574,13 +46574,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/digikam/10.2.0",
-        "last_update": "2025-04-06 06:57:36",
+        "last_update": "2025-04-06 10:32:50",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "7.8.0_10.2.0",
         "version": "10.2.0",
