@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/elfhosted/jackett
   pullPolicy: IfNotPresent
-  tag: 0.22.1730@sha256:b6660e3eb9d9a128dc731e23520c83be705a5a6a36a1c732c391e83bce8b3d51
+  tag: 0.22.1740@sha256:4fd086ad576c306f956f8053da2ca3cec280e6d620fe3346bd8b54d44000dd0f
 service:
   main:
     ports:
