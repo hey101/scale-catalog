@@ -1,0 +1,23 @@
+affinity: {}
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/mikenye/piaware
+  tag: v10.0@sha256:76a3ec963c282cc69472b2f79c03e6f70a5cc868590f8cfebdb17f9347d0cac6
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10092
+        targetPort: 8080

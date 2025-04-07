@@ -1,0 +1,37 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/redislabs/redisinsight
+  tag: 2.68.0@sha256:019fcf7746316312474c2f347a9ee21797a8cb48ebaacb50f3000b4be08a468e
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        port: 10579
+redisinsight:
+  log_level: info
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            RI_APP_PORT: "{{ .Values.service.main.ports.main.port }}"
+            RI_FILES_LOGGER: /logs
+            RI_LOG_LEVEL: "{{ .Values.redisinsight.log_level }}"
+persistence:
+  config:
+    enabled: true
+    mountPath: /data
+  logs:
+    enabled: true
+    mountPath: /logs
+portal:
+  open:
+    enabled: true
