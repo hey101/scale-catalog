@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.22.1744"
+appVersion: "5.3.1"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,24 +16,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: API Support for your favorite torrent trackers.
-home: https://github.com/hey101/charts/stable/jackett
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/jackett.webp
+description: Webgrabplus is a multi-site incremental xmltv epg grabber.
+home: https://github.com/hey101/charts/stable/webgrabplus
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/webgrabplus.webp
 keywords:
-  - jackett
-  - torrent
-  - usenet
+  - webgrabplus
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: jackett
+name: webgrabplus
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/jackett
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
-  - https://ghcr.io/elfhosted/jackett
-  - https://github.com/Jackett/Jackett
-  - https://github.com/geek-cookbook/containers/pkgs/container/jackett
+  - https://github.com/hey101/charts/tree/master/charts/stable/webgrabplus
+  - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
+  - https://ghcr.io/linuxserver/webgrabplus
 type: application
-version: 23.2.98
+version: 11.6.28
