@@ -1,13 +1,21 @@
 image:
-  repository: ghcr.io/linuxserver/davos
+  repository: docker.io/codercom/code-server
   pullPolicy: IfNotPresent
-  tag: 2.2.2@sha256:14dd9e6c04c9acdf9d51f8e1fed8eedfb0065ba10b6fb4bf941b0232488641bd
+  tag: 4.99.2@sha256:6b5fcf74bb19579ca1666c8f96ac406ca5146a5c8756963a10991c4e520fa085
 securityContext:
   container:
     readOnlyRootFilesystem: false
+    allowPrivilegeEscalation: true
     runAsNonRoot: false
     runAsUser: 0
     runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10063
+        protocol: http
+        targetPort: 8080
 workload:
   main:
     podSpec:
@@ -23,14 +31,13 @@ workload:
             startup:
               type: http
               path: /
-          env: {}
-service:
-  main:
-    ports:
-      main:
-        port: 10081
-        protocol: http
-        targetPort: 8080
+          env:
+            PROXY_DOMAIN: ""
+          args:
+            - --user-data-dir
+            - "/config/.vscode"
+            - --auth
+            - none
 persistence:
   config:
     enabled: true
