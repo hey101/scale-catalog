@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/elfhosted/emby
   pullPolicy: IfNotPresent
-  tag: 4.9.0.44@sha256:13097efec75345fa03ce73c073afed0cc94979c0202f5b03eeba989bb298c028
+  tag: 4.9.0.45@sha256:45f8293fa7d0304d3c07fd5913bed9026b9dfcde636bc95381c834b4a9900f86
 securityContext:
   container:
     readOnlyRootFilesystem: false
