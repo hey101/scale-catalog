@@ -1,7 +1,7 @@
 image:
   repository: docker.io/diygod/rsshub
   pullPolicy: IfNotPresent
-  tag: latest@sha256:d3bfefdbf7c745a2b85f887e6207387aabe551823d4da9195750e177877e2247
+  tag: latest@sha256:17eda2e49a8cb4ede1b764b7b69c0e61d23f953929140b610a9d19c2b9a86517
 browserlessImage:
   repository: docker.io/browserless/chrome
   tag: 1.61.1-chrome-stable@sha256:efac47cfff3830d9a50b27d29f8bbb61949058ae336c823fbe9bd3c0d1debcc8
