@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/rocker/rstudio
-  tag: 4.4.3@sha256:85e84d206368208675350d8740725d8642662120cea847ccf41e24c6ad278459
+  tag: 4.4.3@sha256:8e0b919afc4032904412f914b63164bc29ed744edb27618530df3ca83f098c65
 persistence:
   config:
     enabled: true
