@@ -1,25 +1,23 @@
 image:
-  repository: ghcr.io/linuxserver/lazylibrarian
+  repository: ghcr.io/linuxserver/grocy
+  tag: 4.5.0@sha256:3fdf0e26724a4818c139644b387f9d0d848ab33cfa4bdca115382ebf127504fd
   pullPolicy: IfNotPresent
-  tag: latest@sha256:baf90b7cc8646b9b933534d91d705658ac132ab2a8e7b40489a14cc2c5dcda01
 service:
   main:
     ports:
       main:
-        port: 5299
-        targetPort: 5299
+        port: 10013
+        targetPort: 80
 persistence:
   config:
     enabled: true
     mountPath: "/config"
-  varrun:
-    enabled: true
 portal:
   open:
     enabled: true
 securityContext:
   container:
-    runAsNonRoot: false
     readOnlyRootFilesystem: false
+    runAsNonRoot: false
     runAsUser: 0
     runAsGroup: 0
