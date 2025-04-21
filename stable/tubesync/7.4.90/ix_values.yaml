@@ -1,0 +1,40 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/meeb/tubesync
+  tag: latest@sha256:136621e4cabaaa80b9ae58b15f4b1118a8e4f663791c8b3dedc707eec668f51d
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  downloads:
+    enabled: true
+    mountPath: /downloads
+  varrun:
+    enabled: false
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 4848
+        protocol: tcp
+        targetPort: 4848
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DATABASE_CONNECTION: ""
+            http_PASS: ""
+            http_USER: ""
+            TUBESYNC_DEBUG: "False"
+            TUBESYNC_HOSTS: ""
+            TUBESYNC_WORKERS: "2"
