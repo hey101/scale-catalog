@@ -1,7 +1,7 @@
 image:
   repository: docker.io/wiserain/flexget
   pullPolicy: IfNotPresent
-  tag: 3.15.31@sha256:3f42a3e0e769a7c20bb588b022961829860af2f15f152e1863ef945d5d76f0d9
+  tag: 3.15.34@sha256:4537768f3dcd3c2329b7c1454619912bfe269baac3f8f53adce01b562460f86c
 securityContext:
   container:
     runAsNonRoot: false
