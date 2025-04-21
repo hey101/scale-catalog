@@ -1,0 +1,39 @@
+image:
+  repository: ghcr.io/linuxserver/duckdns
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:05f83ee230faa8f2a121b409aef5d17c6487f71a9a5175d12d718c7a03eafcae
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
+          env:
+            SUBDOMAINS: ""
+            LOG_FILE: false
+            TOKEN: ""
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: false
