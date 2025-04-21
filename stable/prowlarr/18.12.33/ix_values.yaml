@@ -1,7 +1,7 @@
 image:
-  repository: ghcr.io/elfhosted/readarr-develop
+  repository: ghcr.io/onedr0p/prowlarr-develop
+  tag: 1.32.2.4987@sha256:f3c0edbd19d744c8306ae8f72e75f0fb54ff662e9f7b22a4d9029e5c0b7f075c
   pullPolicy: IfNotPresent
-  tag: 0.4.15.2787@sha256:e2da4611474274755d4ee9c272e579fa2e0b5596b4370bb3f4ccbe477bddec45
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
   pullPolicy: IfNotPresent
@@ -13,14 +13,14 @@ service:
   main:
     ports:
       main:
-        port: 8787
+        port: 9696
   metrics:
     enabled: "{{ .Values.metrics.main.enabled }}"
     type: ClusterIP
     ports:
       metrics:
         enabled: true
-        port: 8788
+        port: 9697
 workload:
   main:
     podSpec:
@@ -28,33 +28,27 @@ workload:
         main:
           probes:
             liveness:
-              enabled: true
-              type: http
               path: /ping
             readiness:
-              enabled: true
-              type: http
               path: /ping
             startup:
-              enabled: true
-              type: http
-              path: /ping
+              type: tcp
           env:
-            READARR__SERVER__PORT:
+            PROWLARR__SERVER__PORT:
               "{{ .Values.service.main.ports.main.port }}"
               # External | Basic | Forms
-            READARR__AUTH__METHOD: ""
+            PROWLARR__AUTH__METHOD: ""
             # DisabledForLocalAddresses | Enabled
-            READARR__AUTH__REQUIRED: DisabledForLocalAddresses
-            # READARR__APP__THEME: dark
-            # READARR__APP__INSTANCENAME: Readarr
-            # READARR__LOG__LEVEL: info
-            # READARR__UPDATE__BRANCH: develop
+            PROWLARR__AUTH__REQUIRED: DisabledForLocalAddresses
+            # PROWLARR__APP__THEME: dark
+            # PROWLARR__APP__INSTANCENAME: Prowlarr
+            # PROWLARR__LOG__LEVEL: info
+            # PROWLARR__UPDATE__BRANCH: develop
         exportarr:
           enabled: "{{ .Values.metrics.main.enabled }}"
           imageSelector: exportarrImage
           args:
-            - readarr
+            - prowlarr
           probes:
             liveness:
               enabled: true
@@ -79,6 +73,10 @@ workload:
             # ENABLE_ADDITIONAL_METRICS: false
             # enable gathering unknown queue items
             # ENABLE_UNKNOWN_QUEUE_ITEMS: false
+            # enable backfill of historical metrics
+            # PROWLARR__BACKFILL: false
+            # Set a date from which to start the backfill
+            # PROWLARR__BACKFILL_SINCE_DATE: 1970-01-01
             CONFIG: "/config/config.xml"
 persistence:
   config:
@@ -90,6 +88,14 @@ persistence:
         exportarr:
           mountPath: /config
           readOnly: true
+configmap:
+  dashboard:
+    enabled: true
+    labels:
+      grafana_dashboard: "1"
+    data:
+      prowlarr.json: >-
+        {{ .Files.Get "dashboard.json" | indent 8 }}
 metrics:
   main:
     enabled: true
@@ -103,4 +109,3 @@ metrics:
 portal:
   open:
     enabled: true
-updated: true

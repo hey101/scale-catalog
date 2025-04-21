@@ -1,26 +1,23 @@
 image:
-  repository: ghcr.io/elfhosted/readarr-develop
+  repository: ghcr.io/onedr0p/sonarr
   pullPolicy: IfNotPresent
-  tag: 0.4.15.2787@sha256:e2da4611474274755d4ee9c272e579fa2e0b5596b4370bb3f4ccbe477bddec45
+  tag: 4.0.14.2938@sha256:f82e69b2d290877b89c2bcae9928df7ed74e05ab3cba905ecaeced85f4f1f2c6
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
   pullPolicy: IfNotPresent
   tag: v2.2.0@sha256:320b0ea7399f4b9af4741dcdddd7d40c05c36b0359679305d8a54df4e97065df
-securityContext:
-  container:
-    readOnlyRootFilesystem: false
 service:
   main:
     ports:
       main:
-        port: 8787
+        port: 8989
   metrics:
     enabled: "{{ .Values.metrics.main.enabled }}"
     type: ClusterIP
     ports:
       metrics:
         enabled: true
-        port: 8788
+        port: 8990
 workload:
   main:
     podSpec:
@@ -40,21 +37,21 @@ workload:
               type: http
               path: /ping
           env:
-            READARR__SERVER__PORT:
+            SONARR__SERVER__PORT:
               "{{ .Values.service.main.ports.main.port }}"
               # External | Basic | Forms
-            READARR__AUTH__METHOD: ""
+            SONARR__AUTH__METHOD: ""
             # DisabledForLocalAddresses | Enabled
-            READARR__AUTH__REQUIRED: DisabledForLocalAddresses
-            # READARR__APP__THEME: dark
-            # READARR__APP__INSTANCENAME: Readarr
-            # READARR__LOG__LEVEL: info
-            # READARR__UPDATE__BRANCH: develop
+            SONARR__AUTH__REQUIRED: DisabledForLocalAddresses
+            # SONARR__APP__THEME: dark
+            # SONARR__APP__INSTANCENAME: Sonarr
+            # SONARR__LOG__LEVEL: info
+            # SONARR__UPDATE__BRANCH: develop
         exportarr:
           enabled: "{{ .Values.metrics.main.enabled }}"
           imageSelector: exportarrImage
           args:
-            - readarr
+            - sonarr
           probes:
             liveness:
               enabled: true
@@ -103,4 +100,3 @@ metrics:
 portal:
   open:
     enabled: true
-updated: true
