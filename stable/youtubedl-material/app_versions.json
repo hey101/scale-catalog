@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/12.2.6",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -8132,10 +8132,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/12.2.5",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -16260,10 +16260,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/11.0.8",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -24385,10 +24385,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/11.0.7",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -32510,10 +32510,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/10.10.17",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -39902,10 +39902,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/10.10.16",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone"
         ],
@@ -47294,13 +47294,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/9.4.0",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.3.2_9.4.0",
         "version": "9.4.0",
@@ -54729,13 +54729,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/youtubedl-material/9.3.0",
-        "last_update": "2025-04-22 07:28:58",
+        "last_update": "2025-04-22 12:20:19",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "4.3.2_9.3.0",
         "version": "9.3.0",
