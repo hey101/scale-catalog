@@ -9,14 +9,14 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.1.3
+    version: 27.1.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
   - name: cert-manager
-    version: v1.17.1
+    version: v1.17.2
     repository: https://charts.jetstack.io
     condition: ""
     alias: certmanager
@@ -42,4 +42,4 @@ sources:
   - https://cert-manager.io/
   - https://github.com/cert-manager
 type: application
-version: 6.4.20
+version: 6.4.22
