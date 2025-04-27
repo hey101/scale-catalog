@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/6.3.33",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.28.1_6.3.33",
         "version": "6.3.33",
@@ -4769,12 +4769,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/6.3.32",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.27.2_6.3.32",
         "version": "6.3.32",
@@ -9534,12 +9534,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/5.0.10",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.20.3_5.0.10",
         "version": "5.0.10",
@@ -14295,12 +14295,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/5.0.9",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.20.3_5.0.9",
         "version": "5.0.9",
@@ -19056,12 +19056,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/4.8.15",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.20.2_4.8.15",
         "version": "4.8.15",
@@ -23589,12 +23589,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/4.8.14",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
             "definitions/interface",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.20.2_4.8.14",
         "version": "4.8.14",
@@ -28122,11 +28122,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/3.3.0",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration"
         ],
@@ -32698,11 +32698,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/mc-router/3.2.0",
-        "last_update": "2025-04-26 19:55:44",
+        "last_update": "2025-04-26 23:49:38",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/gpuConfiguration"
         ],
