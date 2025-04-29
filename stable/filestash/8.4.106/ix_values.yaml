@@ -1,6 +1,6 @@
 image:
   repository: docker.io/machines/filestash
-  tag: latest@sha256:753a4e0afd82f2903db10dc13c2d9ee4c39d08830bd93b92425a2390e89f9c0a
+  tag: latest@sha256:d53347fc33e146e4954c8cd8d7ef4e5a50632f1c65af349f1b162aa6a783ef68
   pullPolicy: IfNotPresent
 
 securityContext:
