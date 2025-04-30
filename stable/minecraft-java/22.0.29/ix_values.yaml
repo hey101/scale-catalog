@@ -52,7 +52,7 @@ j8alpineImage:
   pullPolicy: Always
 mcBackupImage:
   repository: docker.io/itzg/mc-backup
-  tag: latest@sha256:577d126620228d685af0db3262847570c632c7fd949972a037e56a071082e5e5
+  tag: latest@sha256:f163c0bc97ae6776b5854a85b56250a05e7d0ef3827da60aaa9ed26a47ef541e
   pullPolicy: Always
 
 service:
