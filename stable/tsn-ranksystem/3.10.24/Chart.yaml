@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.1.3
+    version: 27.1.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -44,4 +44,4 @@ sources:
   - https://hub.docker.com/r/serverlein/tsn-ranksystem-webserver
   - https://ts-ranksystem.com/
 type: application
-version: 3.10.22
+version: 3.10.24
