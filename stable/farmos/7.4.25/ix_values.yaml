@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/farmos/farmos
-  tag: latest@sha256:ac673b1ea672f76ba49fe7acf9043d79354b301682dbdd614f73460bd6af080b
+  tag: latest@sha256:9aa08d7b1afaa8c88e190232a58c7dedec9fb89d8d7c45010f57af86478372cd
 persistence:
   sitesdirectory:
     enabled: true
