@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/hexxa/quickshare
-  tag: latest@sha256:7b572a81af1094d22e63b57fec0bcc78f5ba75dfa7f13d8adc6f774fb4788cc1
+  tag: latest@sha256:0b2fe173eabb1b242c0d8c0773b88764c529639d5d4a443e2ab898c7dc4c82c2
 persistence:
   storagedata:
     enabled: true
