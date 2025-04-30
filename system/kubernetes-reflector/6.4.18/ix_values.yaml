@@ -1,7 +1,7 @@
 image:
   repository: docker.io/emberstack/kubernetes-reflector
   pullPolicy: IfNotPresent
-  tag: build-7.1.217@sha256:982b8fc714349abe480a6864f3c3fce8e8801fd5068fac6add5b22ed32efc033
+  tag: build-7.1.217@sha256:077ec3f4b46ed348b5169ca1c46de7de48bf31cd109ff31174b14be31002c063
 operator:
   register: true
 portal:
