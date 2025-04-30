@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.15.0"
+appVersion: "0.15.1"
 dependencies:
   - name: common
     version: 27.1.4
@@ -36,4 +36,4 @@ sources:
   - https://github.com/blakeblackshear/frigate
   - https://github.com/truecharts/charts/tree/master/charts/stable/frigate
 type: application
-version: 16.5.18
+version: 16.5.20
