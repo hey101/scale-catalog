@@ -1,16 +1,14 @@
 image:
   pullPolicy: IfNotPresent
-  repository: docker.io/xthursdayx/gpodder-docker
-  tag: latest@sha256:7f9b748fd60f5290b46bc2eff3f266ff8f8c7c489d1453dbbd884dbfd507f80a
+  repository: docker.io/jvt038/metatube
+  tag: latest@sha256:30591e0b8b498286d8c0e8bdc41c0ebeaaf30be0edd8a9a00a44ddde7a9fdd59
 persistence:
-  config:
+  storagedatabase:
     enabled: true
-    mountPath: /config
-  downloadspath:
+    mountPath: /database
+  storagedownloads:
     enabled: true
     mountPath: /downloads
-  varrun:
-    enabled: false
 portal:
   open:
     enabled: true
@@ -23,13 +21,16 @@ service:
   main:
     ports:
       main:
-        port: 3000
+        port: 5000
         protocol: tcp
-        targetPort: 3000
+        targetPort: 5000
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            PASSWORD: ""
+            DEBUG: "False"
+            LOG: "False"
+            LOG_LEVEL: "10"
+            SOCKET_LOG: "False"
