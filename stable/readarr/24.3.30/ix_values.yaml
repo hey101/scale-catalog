@@ -1,7 +1,7 @@
 image:
-  repository: ghcr.io/elfhosted/lidarr
+  repository: ghcr.io/elfhosted/readarr-develop
   pullPolicy: IfNotPresent
-  tag: 2.10.3.4602@sha256:0313dc0bf41afbd894940ce66f3b801738dcc3208a68ac0b2290160a47b63f1e
+  tag: 0.4.15.2787@sha256:21319880278f524150fe1dbd4f7b04c94a94a3ea98c54a6befc19eb275a867ab
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
   pullPolicy: IfNotPresent
@@ -13,14 +13,14 @@ service:
   main:
     ports:
       main:
-        port: 8686
+        port: 8787
   metrics:
     enabled: "{{ .Values.metrics.main.enabled }}"
     type: ClusterIP
     ports:
       metrics:
         enabled: true
-        port: 8687
+        port: 8788
 workload:
   main:
     podSpec:
@@ -40,21 +40,21 @@ workload:
               type: http
               path: /ping
           env:
-            LIDARR__SERVER__PORT:
+            READARR__SERVER__PORT:
               "{{ .Values.service.main.ports.main.port }}"
               # External | Basic | Forms
-            LIDARR__AUTH__METHOD: ""
+            READARR__AUTH__METHOD: ""
             # DisabledForLocalAddresses | Enabled
-            LIDARR__AUTH__REQUIRED: DisabledForLocalAddresses
-            # LIDARR__APP__THEME: dark
-            # LIDARR__APP__INSTANCENAME: Lidarr
-            # LIDARR__LOG__LEVEL: info
-            # LIDARR__UPDATE__BRANCH: develop
+            READARR__AUTH__REQUIRED: DisabledForLocalAddresses
+            # READARR__APP__THEME: dark
+            # READARR__APP__INSTANCENAME: Readarr
+            # READARR__LOG__LEVEL: info
+            # READARR__UPDATE__BRANCH: develop
         exportarr:
           enabled: "{{ .Values.metrics.main.enabled }}"
           imageSelector: exportarrImage
           args:
-            - lidarr
+            - readarr
           probes:
             liveness:
               enabled: true

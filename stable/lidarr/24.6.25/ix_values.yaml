@@ -1,11 +1,11 @@
 image:
-  repository: ghcr.io/elfhosted/readarr-develop
+  repository: ghcr.io/elfhosted/lidarr
   pullPolicy: IfNotPresent
-  tag: 0.4.13.2760@sha256:b01506982cb8886aab5e0e0f2a2781d8ab5157b36ffd5791175e4a6bfedfb0cd
+  tag: 2.11.2.4629@sha256:fbb60ea435bbafed7b210e0e34eb2e1aaf40e83340c5e3b83bfcef7ea4f88c82
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
   pullPolicy: IfNotPresent
-  tag: v2.1.0@sha256:ffe2065573db0f9717443143316eac6b335c37e6f6fea2f6a238ef3f134ee50a
+  tag: v2.2.0@sha256:320b0ea7399f4b9af4741dcdddd7d40c05c36b0359679305d8a54df4e97065df
 securityContext:
   container:
     readOnlyRootFilesystem: false
@@ -13,14 +13,14 @@ service:
   main:
     ports:
       main:
-        port: 8787
+        port: 8686
   metrics:
     enabled: "{{ .Values.metrics.main.enabled }}"
     type: ClusterIP
     ports:
       metrics:
         enabled: true
-        port: 8788
+        port: 8687
 workload:
   main:
     podSpec:
@@ -40,21 +40,21 @@ workload:
               type: http
               path: /ping
           env:
-            READARR__SERVER__PORT:
+            LIDARR__SERVER__PORT:
               "{{ .Values.service.main.ports.main.port }}"
               # External | Basic | Forms
-            READARR__AUTH__METHOD: ""
+            LIDARR__AUTH__METHOD: ""
             # DisabledForLocalAddresses | Enabled
-            READARR__AUTH__REQUIRED: DisabledForLocalAddresses
-            # READARR__APP__THEME: dark
-            # READARR__APP__INSTANCENAME: Readarr
-            # READARR__LOG__LEVEL: info
-            # READARR__UPDATE__BRANCH: develop
+            LIDARR__AUTH__REQUIRED: DisabledForLocalAddresses
+            # LIDARR__APP__THEME: dark
+            # LIDARR__APP__INSTANCENAME: Lidarr
+            # LIDARR__LOG__LEVEL: info
+            # LIDARR__UPDATE__BRANCH: develop
         exportarr:
           enabled: "{{ .Values.metrics.main.enabled }}"
           imageSelector: exportarrImage
           args:
-            - readarr
+            - lidarr
           probes:
             liveness:
               enabled: true

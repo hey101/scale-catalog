@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.4.13.276"
+appVersion: "2.11.2.462"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,27 +16,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A fork of Radarr to work with Books & AudioBooks
-home: https://github.com/hey101/charts/stable/readarr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/readarr.webp
+description: Looks and smells like Sonarr but made for music
+home: https://github.com/hey101/charts/stable/lidarr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.webp
 keywords:
-  - readarr
+  - lidarr
   - torrent
   - usenet
-  - AudioBooks
-  - ebooks
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: readarr
+name: lidarr
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/readarr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/readarr
-  - https://ghcr.io/elfhosted/readarr-develop
+  - https://github.com/hey101/charts/tree/master/charts/stable/lidarr
+  - https://ghcr.io/elfhosted/lidarr
   - https://ghcr.io/onedr0p/exportarr
-  - https://github.com/Readarr/Readarr
-  - https://readarr.com
+  - https://github.com/Lidarr/Lidarr
+  - https://github.com/truecharts/charts/tree/master/charts/stable/lidarr
 type: application
-version: 24.3.28
+version: 24.6.25
