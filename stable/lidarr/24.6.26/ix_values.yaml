@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/elfhosted/lidarr
   pullPolicy: IfNotPresent
-  tag: 2.11.2.4629@sha256:c5343844b1a140e4aa61eb485d09ee8a81ad6b8b149b18cc9179a632b323bece
+  tag: 2.11.2.4629@sha256:819a4471b61889213477075c24c6c4e6d2c7c5bf4ff422bf564cc438ffa327ca
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
   pullPolicy: IfNotPresent
