@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.1.1"
+appVersion: "2.2.0"
 dependencies:
   - name: common
     version: 27.1.4
@@ -35,4 +35,4 @@ sources:
   - https://github.com/deluge-torrent/deluge
   - https://github.com/truecharts/charts/tree/master/charts/stable/deluge
 type: application
-version: 20.4.17
+version: 20.4.19
