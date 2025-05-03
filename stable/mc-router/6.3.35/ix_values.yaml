@@ -1,7 +1,7 @@
 image:
   repository: itzg/mc-router
   pullPolicy: IfNotPresent
-  tag: 1.28.1@sha256:8654789a094b605f1d5b62671380d3387a3ae14308b1983c2129b2d3bcfad0c0
+  tag: 1.29.0@sha256:18c1ad4dca67f02d7dc5d77162d5fd64d4a3ba9c350f3b723468966b78c2d565
 service:
   main:
     ports:
