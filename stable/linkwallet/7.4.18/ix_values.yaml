@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/tardisx/linkwallet
-  tag: v0.0.36@sha256:a8b2ed2b80256d701428222bea69b686114dd240be0f479f01c5e8f1757d55d1
+  tag: v0.1.0@sha256:48a0da501ab2ac583030a9684337b3c4097c7ead7449af47a75c1b08a549c470
 persistence:
   data:
     enabled: true
