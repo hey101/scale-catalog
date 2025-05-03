@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "1.9.8"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,21 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Minecraft Bedrock Dedicated Server
-home: https://github.com/hey101/charts/stable/minecraft-bedrock
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bedrock.webp
+description: Satisfactory Dedicated Server
+home: https://github.com/hey101/charts/stable/satisfactory
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/satisfactory.webp
 keywords:
-  - minecraft
+  - satisfactory
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: minecraft-bedrock
+name: satisfactory
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/minecraft-bedrock
-  - https://github.com/itzg/docker-minecraft-server
-  - https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-bedrock
-  - https://hub.docker.com/r/itzg/minecraft-bedrock-server
+  - https://github.com/hey101/charts/tree/master/charts/stable/satisfactory
+  - https://github.com/truecharts/charts/tree/master/charts/stable/satisfactory
+  - https://github.com/wolveix/satisfactory-server
+  - https://hub.docker.com/r/wolveix/satisfactory-server
 type: application
-version: 10.4.21
+version: 12.4.26
