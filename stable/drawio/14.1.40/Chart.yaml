@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.22.1857"
+appVersion: "26.2.15"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,24 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: API Support for your favorite torrent trackers.
-home: https://github.com/hey101/charts/stable/jackett
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/jackett.webp
+description: Drawio is free online diagram software.
+home: https://github.com/hey101/charts/stable/drawio
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/drawio.webp
 keywords:
-  - jackett
-  - torrent
-  - usenet
+  - drawio
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: jackett
+name: drawio
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/jackett
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
-  - https://ghcr.io/elfhosted/jackett
-  - https://github.com/Jackett/Jackett
-  - https://github.com/geek-cookbook/containers/pkgs/container/jackett
+  - https://github.com/hey101/charts/tree/master/charts/stable/drawio
+  - https://github.com/truecharts/charts/tree/master/charts/stable/drawio
+  - https://github.com/jgraph/drawio
+  - https://hub.docker.com/r/jgraph/drawio
 type: application
-version: 23.2.115
+version: 14.1.40
