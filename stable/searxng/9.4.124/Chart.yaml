@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: Productivity
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
@@ -16,22 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
-home: https://github.com/hey101/charts/stable/autoscan
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/autoscan.webp
+description: Meta search engine which aggregates results from more than 70 search services.
+home: https://github.com/hey101/charts/stable/searxng
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/searxng.webp
 keywords:
-  - autoscan
-  - media
+  - searxng
+  - Productivity
+  - Other
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: autoscan
+name: searxng
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/autoscan
-  - https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
-  - https://ghcr.io/hotio/autoscan
-  - https://hotio.dev/containers/autoscan
+  - https://github.com/hey101/charts/tree/master/charts/stable/searxng
+  - https://github.com/truecharts/charts/tree/master/charts/stable/searxng
+  - https://github.com/searxng/searxng
+  - https://hub.docker.com/r/searxng/searxng
 type: application
-version: 10.4.26
+version: 9.4.124
