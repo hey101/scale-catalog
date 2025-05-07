@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/20.5.30",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -5281,10 +5281,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/20.5.29",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -10558,10 +10558,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/19.0.12",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -15832,10 +15832,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/19.0.11",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -21106,10 +21106,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/18.9.15",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -26051,10 +26051,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/18.9.14",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -30996,13 +30996,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/17.4.0",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.1.0_17.4.0",
         "version": "17.4.0",
@@ -35984,13 +35984,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/grocy/17.3.1",
-        "last_update": "2025-05-06 18:41:04",
+        "last_update": "2025-05-07 00:58:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.1.0_17.3.1",
         "version": "17.3.1",
