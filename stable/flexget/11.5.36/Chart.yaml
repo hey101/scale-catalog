@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.2.2"
+appVersion: "3.15.40"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,24 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: An FTP automation tool that periodically scans given host locations for new files.
-home: https://github.com/hey101/charts/stable/davos
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/davos.webp
+description: FlexGet is a multipurpose automation tool for all of your media
+home: https://github.com/hey101/charts/stable/flexget
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/flexget.webp
 keywords:
-  - davos
-  - ftp
+  - flexget
   - automation
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: davos
+name: flexget
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/davos
-  - https://github.com/truecharts/charts/tree/master/charts/stable/davos
-  - https://ghcr.io/linuxserver/davos
-  - https://github.com/linuxserver/davos/
-  - https://github.com/linuxserver/docker-davos
+  - https://github.com/hey101/charts/tree/master/charts/stable/flexget
+  - https://github.com/truecharts/charts/tree/master/charts/stable/flexget
+  - https://github.com/wiserain/docker-flexget
+  - https://hub.docker.com/r/wiserain/flexget
 type: application
-version: 14.4.29
+version: 11.5.36
