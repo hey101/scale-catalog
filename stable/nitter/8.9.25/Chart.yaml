@@ -23,24 +23,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: RSSHub can generate RSS feeds from pretty much everything
-home: https://github.com/hey101/charts/stable/rsshub
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.webp
+description: A free and open source alternative Twitter front-end focused on privacy and performance.
+home: https://github.com/hey101/charts/stable/nitter
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/nitter.webp
 keywords:
-  - rsshub
-  - rss
+  - nitter
+  - libre
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rsshub
+name: nitter
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/rsshub
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
-  - https://docs.rsshub.app/en/install/
-  - https://github.com/DIYgod/RSSHub
-  - https://hub.docker.com/r/browserless/chrome
-  - https://hub.docker.com/r/diygod/rsshub
+  - https://github.com/hey101/charts/tree/master/charts/stable/nitter
+  - https://github.com/truecharts/charts/tree/master/charts/stable/nitter
+  - https://github.com/zedeus/nitter
+  - https://hub.docker.com/r/zedeus/nitter
 type: application
-version: 14.9.165
+version: 8.9.25
