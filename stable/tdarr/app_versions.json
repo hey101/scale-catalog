@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/11.12.28",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -7820,7 +7820,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/11.12.27",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -15636,7 +15636,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/10.2.2",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -23449,7 +23449,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/10.2.1",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -31262,7 +31262,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/9.8.14",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -38342,7 +38342,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/9.8.13",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -45422,13 +45422,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/8.3.0",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_8.3.0",
         "version": "8.3.0",
@@ -52545,13 +52545,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/8.2.0",
-        "last_update": "2025-05-10 11:24:59",
+        "last_update": "2025-05-10 15:20:17",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_8.2.0",
         "version": "8.2.0",
