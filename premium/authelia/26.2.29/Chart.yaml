@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: premium
 apiVersion: v2
-appVersion: "4.39.1"
+appVersion: "4.39.2"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,7 +16,7 @@ dependencies:
     tags: []
     import-values: []
   - name: redis
-    version: 15.6.9
+    version: 15.6.11
     repository: oci://tccr.io/truecharts
     condition: redis.enabled
     alias: ""
@@ -51,4 +51,4 @@ sources:
   - https://github.com/authelia/chartrepo
   - https://github.com/truecharts/charts/tree/master/charts/premium/authelia
 type: application
-version: 26.2.27
+version: 26.2.29
