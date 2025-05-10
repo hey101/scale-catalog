@@ -9,7 +9,7 @@ rocmImage:
 uiImage:
   repository: ghcr.io/open-webui/open-webui
   pullPolicy: IfNotPresent
-  tag: latest@sha256:80bea3284ad84c66ce7525c2ddf69ea809fb848b0401974836baee172117ddd6
+  tag: latest@sha256:adf595ab18245517083276e38685b1e4d3ab065399c55dd09ee22677ca68fd42
 
 securityContext:
   container:
