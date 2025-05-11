@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/shaneisrael/fireshare
-  tag: v1.2.22@sha256:18888755dc184c81426d1839e2ef1caba74b9950f1db8f020a66129a819b9a5f
+  tag: v1.2.24@sha256:2f54eeec4e3bdd79be4236de7e6a3401b7c6b90f7210b5b8515e7778738fcfbb
 
 securityContext:
   container:
