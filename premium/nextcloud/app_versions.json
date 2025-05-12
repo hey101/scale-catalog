@@ -1,17 +1,17 @@
 {
-    "32.6.72": {
+    "32.6.74": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/32.6.72",
-        "last_update": "2025-05-11 22:59:31",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/32.6.74",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
             "definitions/timezone"
         ],
-        "human_version": "31.0.4_32.6.72",
-        "version": "32.6.72",
+        "human_version": "31.0.4_32.6.74",
+        "version": "32.6.74",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -73,7 +73,7 @@
                 "https://hub.docker.com/r/nginxinc/nginx-unprivileged"
             ],
             "type": "application",
-            "version": "32.6.72"
+            "version": "32.6.74"
         },
         "app_metadata": null,
         "schema": {
@@ -7315,19 +7315,19 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/premium/nextcloud\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/nextcloud</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/premium/nextcloud</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/premium/nextcloud/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "32.6.71": {
+    "32.6.73": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/32.6.71",
-        "last_update": "2025-05-11 22:59:31",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/32.6.73",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
             "definitions/timezone"
         ],
-        "human_version": "31.0.4_32.6.71",
-        "version": "32.6.71",
+        "human_version": "31.0.4_32.6.73",
+        "version": "32.6.73",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -7389,7 +7389,7 @@
                 "https://hub.docker.com/r/nginxinc/nginx-unprivileged"
             ],
             "type": "application",
-            "version": "32.6.71"
+            "version": "32.6.73"
         },
         "app_metadata": null,
         "schema": {
@@ -14636,7 +14636,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/31.4.67",
-        "last_update": "2025-05-11 22:59:31",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
@@ -21952,7 +21952,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/31.4.66",
-        "last_update": "2025-05-11 22:59:31",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
@@ -29268,7 +29268,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/30.1.24",
-        "last_update": "2025-05-11 22:59:31",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
@@ -36584,7 +36584,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/30.1.23",
-        "last_update": "2025-05-11 22:59:31",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
@@ -43900,7 +43900,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/29.11.0",
-        "last_update": "2025-05-11 22:59:31",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
@@ -51143,7 +51143,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/premium/nextcloud/29.10.36",
-        "last_update": "2025-05-11 22:59:31",
+        "last_update": "2025-05-12 04:53:42",
         "required_features": [
             "definitions/certificate",
             "definitions/nodeIP",
