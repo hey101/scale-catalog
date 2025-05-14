@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.4.35"
+appVersion: "2025-05"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,25 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A remote desktop client written in GTK
-home: https://github.com/hey101/charts/stable/remmina
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/remmina.webp
+description: A lightweight NodeJS server that emulates the iOS HomeKit API
+home: https://github.com/hey101/charts/stable/homebridge
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/homebridge.webp
 keywords:
-  - remina
-  - remote
-  - desktop
-  - client
+  - homebridge
+  - homekit
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: remmina
+name: homebridge
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/remmina
-  - https://github.com/truecharts/charts/tree/master/charts/stable/remmina
-  - https://ghcr.io/linuxserver/remmina
-  - https://github.com/linuxserver/docker-remmina
-  - https://remmina.org/
+  - https://github.com/hey101/charts/tree/master/charts/stable/homebridge
+  - https://github.com/oznu/docker-homebridge
+  - https://github.com/truecharts/charts/tree/master/charts/stable/homebridge
+  - https://homebridge.io/
+  - https://hub.docker.com/r/homebridge/homebridge
 type: application
-version: 12.4.31
+version: 9.4.22
