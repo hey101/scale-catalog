@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: ai
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.28.0"
+appVersion: "4.9.0.55"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,22 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Self-hosted, community-driven, local OpenAI-compatible API.
-home: https://github.com/hey101/charts/stable/local-ai
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/local-ai.webp
+description: Emby Server is a home media server
+home: https://github.com/hey101/charts/stable/emby
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/emby.webp
 keywords:
-  - local-ai
-  - ai
+  - jellyfin
+  - plex
+  - emby
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: local-ai
+name: emby
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/local-ai
-  - https://github.com/go-skynet/LocalAI
-  - https://github.com/truecharts/charts/tree/master/charts/stable/local-ai
-  - https://hub.docker.com/r/localai/localai
+  - https://github.com/hey101/charts/tree/master/charts/stable/emby
+  - https://ghcr.io/elfhosted/emby
+  - https://github.com/linuxserver/docker-emby.git
+  - https://github.com/truecharts/charts/tree/master/charts/stable/emby
 type: application
-version: 11.46.22
+version: 22.2.41
