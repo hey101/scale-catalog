@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: lscr.io/linuxserver/blender
-  tag: latest@sha256:7b311d4f10a6657deb05153e26d60b124b8350b24f2200e67488f6bd307e011b
+  tag: latest@sha256:2b0b9588c897098997d22c57fe871db911ca28b36b35f3d2ac415436f56f66e3
 persistence:
   config:
     enabled: true
