@@ -1,7 +1,7 @@
 image:
   repository: docker.io/niruix/sshwifty
   pullPolicy: IfNotPresent
-  tag: latest@sha256:713aba405bd37f8b40b42a5f5d6ecbaaf725a265364d2d3fe8ae08123e588542
+  tag: latest@sha256:1bfa246a2b98adae6dfd34267efe8c670c9208a0ba63ea3fdda4383085b78f8c
 securityContext:
   container:
     readOnlyRootFilesystem: false
