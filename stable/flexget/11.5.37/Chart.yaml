@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.15.38"
+appVersion: "3.15.42"
 dependencies:
   - name: common
     version: 27.1.4
@@ -34,4 +34,4 @@ sources:
   - https://github.com/wiserain/docker-flexget
   - https://hub.docker.com/r/wiserain/flexget
 type: application
-version: 11.5.35
+version: 11.5.37
