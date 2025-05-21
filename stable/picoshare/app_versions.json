@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/11.4.17",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -5361,7 +5361,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/11.4.16",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -10718,7 +10718,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/10.0.9",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -16072,7 +16072,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/10.0.8",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -21426,7 +21426,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/9.8.14",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -26451,7 +26451,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/9.8.13",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -31476,13 +31476,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/8.3.0",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.4.2_8.3.0",
         "version": "8.3.0",
@@ -36544,13 +36544,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/picoshare/8.2.1",
-        "last_update": "2025-05-20 17:31:42",
+        "last_update": "2025-05-21 02:43:24",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.4.2_8.2.1",
         "version": "8.2.1",
