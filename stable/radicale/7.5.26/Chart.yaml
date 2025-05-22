@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.5.1.0"
+appVersion: "3.5.3.1"
 dependencies:
   - name: common
     version: 27.1.4
@@ -41,4 +41,4 @@ sources:
   - https://hub.docker.com/r/tomsquest/docker-radicale
   - https://radicale.org/
 type: application
-version: 7.5.24
+version: 7.5.26
