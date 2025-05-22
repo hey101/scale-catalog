@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: chronograf
-  tag: latest@sha256:914107f57203813f1dd81e2b22be6d1b5c80d5882679e2aaba28342314781373
+  tag: latest@sha256:84af7bc8a2265fa109f149bcf0543c6c47d201f86f56ce9b37ed470c807d3db8
 persistence:
   chronograf:
     enabled: true
