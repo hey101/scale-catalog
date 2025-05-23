@@ -4,27 +4,27 @@ image:
   tag: latest@sha256:b24c1fb2efd116093ca59bca519f62b6ffa056483d0b1c9e437cf8ae1095aef7
 ubuntuXFCEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-xfce@sha256:21e7825a8a0a862517e052abb7e3e42bff6b3afe01d19d9e98f4fa1439899855
+  tag: ubuntu-xfce@sha256:0096a9abd56557ae56e61ece833dd842827f60762c8c292ea7a4789f6a423527
   pullPolicy: Always
 fedoraXFCEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-xfce@sha256:c8dde629953e994710d55e9c5ca7e6f8bc062faa5ecd2a3de113133acd69bbb6
+  tag: fedora-xfce@sha256:47655322e86fa1c9cf23916d0425ff7e28cdca620082adffcafbd60026141c59
   pullPolicy: Always
 archXFCEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-xfce@sha256:f0d8a66b7b6bef881cd5da80da28d692b443bcd27146cfb15cfd67ee34fb1763
+  tag: arch-xfce@sha256:2c82e7782632a7ab7b37eaef24f16cd16e41c46a10c6e359e4c0e0b2297c6ab8
   pullPolicy: Always
 alpineKDEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-kde@sha256:f8e1a507568e35f6842ddec8f1e0d1dc86a230190cdbc3846c9ba1e6592595ca
+  tag: alpine-kde@sha256:f86d962618eefa97297ef135b9072f81bbb27209fa9983b85e64bf34cf3dad62
   pullPolicy: Always
 ubuntuKDEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-kde@sha256:6f89407653ec7828b2d7f1c132fedc8bc49d25f3736722010a44175f9a1d381e
+  tag: ubuntu-kde@sha256:a0c1f73d211dcc9c01bbc7d6fe640d551f6cbabb14c3789ad0e818d3f06f0cb6
   pullPolicy: Always
 fedoraKDEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-kde@sha256:7404ad294a55d3d49159b20ba2a3b0a0eba8c1c54e2b9d8cff4f20b8827da6f7
+  tag: fedora-kde@sha256:030f119470aff19ac5c970c5c9ebb7a5dca0d08e92812c72b3d161101108d93a
   pullPolicy: Always
 archKDEImage:
   repository: lscr.io/linuxserver/webtop
@@ -32,67 +32,67 @@ archKDEImage:
   pullPolicy: Always
 alpineMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-mate@sha256:719809abe6e2fbe1a8483017aca76db9bae8d13bee76068354b6deca691c03c6
+  tag: alpine-mate@sha256:f24ac31b3b8a3e78ec942ddc9d97c08f591db47c29136fb2d76a1c60e7d58194
   pullPolicy: Always
 ubuntuMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-mate@sha256:24ee8eb361b115ecc71b7fb7a40f5d48cd4e35d44fafaf1fcc4d7ef531a303aa
+  tag: ubuntu-mate@sha256:49936a894376a6f2c1d2f0442ab65c1b90e2b2edfdeffd7a6b6733c4c7771e1f
   pullPolicy: Always
 fedoraMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-mate@sha256:99ba87d1f0c60f71aa4ab22333adb5e4727e3700e5058235ccc265008704534f
+  tag: fedora-mate@sha256:53ca5e015139c9e7a645e715b2adcb56787d8576baca768e81b12eacbf91bf6a
   pullPolicy: Always
 archMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-mate@sha256:ec05c6f5b815d386c52856b5fa14a786e9e61cd63d459099e3913eec17ca7bb3
+  tag: arch-mate@sha256:3b7cc32b9e99d3d3cf493e99b85a3edb90b6696357f8ade19362ec51b02e3b41
   pullPolicy: Always
 alpineI3Image:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-i3@sha256:abce7520cca6423654c1b1846b51e18cdebb98ab3c2efec2c345d54c0d3d09b9
+  tag: alpine-i3@sha256:415bc3888bdb61af79b2f6559608d284fa893bd95b824752424e65c02a12ec11
   pullPolicy: Always
 ubuntuI3Image:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-i3@sha256:0819883e42e40490ef09bfc348d868a044138e4a3ca894b1ba774fe19e38c3c8
+  tag: ubuntu-i3@sha256:1cb2b2995cc0c37f52080f1af20320264365c910eb40714dbc747e5efaf953be
   pullPolicy: Always
 fedoraI3Image:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-i3@sha256:d232bbd408a1e3c9a94111fb21fb04fb568f2d6c27301e8d54cac8300ef81e55
+  tag: fedora-i3@sha256:4c7b9ff5e86a03c8151678533e3abe3dbf04ac3fa427a693d7154d41ced61c58
   pullPolicy: Always
 archI3Image:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-i3@sha256:f3f46ed33eba5ceea666a7083a71e8e1cbc4da2687c717440ed153eadefe7c98
+  tag: arch-i3@sha256:a02aac649eb66168bb705d992d50e07fec6d65e7c3351f64b586a85f1eb92cdd
   pullPolicy: Always
 alpineOpenBoxImage:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-openbox@sha256:26eea886febe153ad994f84d67ffb8a1298953ace24994048662440408eca51d
+  tag: alpine-openbox@sha256:f5d877ad244a02d97f7f5b007799ec1a799246401e414a34f11c903611cab9b3
   pullPolicy: Always
 ubuntuOpenBoxImage:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-openbox@sha256:d78a392ea649fc568ed0ca957d2c7e21cde6e0830ec1d03968954dab169987e5
+  tag: ubuntu-openbox@sha256:de508c6d0a8dfacc8138d95d628d794f21ea754edb8c41a0349d10b27a8d8c63
   pullPolicy: Always
 fedoraOpenBoxImage:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-openbox@sha256:5da47e1ab339a079f42dc7ec967f13739dd096617ef31fe292dab68e48799d0b
+  tag: fedora-openbox@sha256:29375a33133acb86530f43af8a9ca1bb73722bb17f13c1b49844f9fecb6a3e37
   pullPolicy: Always
 archOpenBoxImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-openbox@sha256:a6b6a6023a92e39c7f56741197ce325aaf7a82b143f156f8aa1e551c3a3222d0
+  tag: arch-openbox@sha256:c18bb6093f46a5d813a424a7b5eabb0282b5e2f9f8f8c857ad160fed12a32574
   pullPolicy: Always
 alpineICEWMImage:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-icewm@sha256:932a0b0e7a971291580b231bdc4281b1d06957d0035fa2c734f9b7da5e0052d4
+  tag: alpine-icewm@sha256:6ded386bc5c3ec51d403d40062bcd6cf3c564f074de7ab23541955de65852dd6
   pullPolicy: Always
 ubuntuICEWMImage:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-icewm@sha256:8d87a26a17161e978a73b6909a11c87f0fb71073ff45384bdcb7267932ba5ab5
+  tag: ubuntu-icewm@sha256:21c0b32920b9c2bb2212ca3b16732c915c1b4fedc12fab8a581a8657a2e65945
   pullPolicy: Always
 fedoraICEWMImage:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-icewm@sha256:a8732acf5ed15a6fc4cf2dcb5fd1a11588dea7696bc5e3a83be3a6d452863c52
+  tag: fedora-icewm@sha256:faea507108d2d97926d5f4d3d2a042a766e026a20ddf8565017d09683514bceb
   pullPolicy: Always
 archICEWMImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-icewm@sha256:199b1d11955f3963578ef8eff7a54851e72dd7e5b6883cbf8b9c64a265dd6123
+  tag: arch-icewm@sha256:01400a2e70b8cdbec9510ddfe54b2ced099e2e11934b009e009ab0275ca6dc68
   pullPolicy: Always
 service:
   main:
