@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/sourcegraph/server
-  tag: 6.3.0@sha256:210aa3094ab387623cfd875acc322f84a0b3ce31e19fe0c8782d63e043644aa1
+  tag: 6.3.4167@sha256:cc9e0c16e538e38cac3cfe3b92da60527d6b1401fbc6d5b86edaf239bcdb8349
 persistence:
   applicationdatastoragepath:
     enabled: true
