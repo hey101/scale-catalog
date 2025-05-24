@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/17.0.13",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -5300,10 +5300,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/17.0.12",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -10596,10 +10596,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/14.0.14",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -15889,10 +15889,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/14.0.13",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -21182,10 +21182,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/13.1.15",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -26146,10 +26146,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/13.1.14",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -31110,10 +31110,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/12.3.2",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -36074,10 +36074,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/12.3.1",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -41038,10 +41038,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/11.4.1",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -46002,10 +46002,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/11.4.0",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -50966,12 +50966,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/10.2.0",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "120.0.1_10.2.0",
@@ -55973,12 +55973,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/firefox/10.1.0",
-        "last_update": "2025-05-23 18:52:12",
+        "last_update": "2025-05-24 02:02:04",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "120.0.1_10.1.0",
