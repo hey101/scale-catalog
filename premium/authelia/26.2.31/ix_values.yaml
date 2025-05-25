@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/authelia/authelia
   pullPolicy: IfNotPresent
-  tag: 4.39.2@sha256:7422c90751d71e68667eb33185b7900ec57bd7d03895d1102cb76ff0e7969ad0
+  tag: 4.39.4@sha256:64b356c30fd817817a4baafb4dbc0f9f8702e46b49e1edb92ff42e19e487b517
 
 workload:
   main:
