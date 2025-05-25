@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/senseai-server/4.1.11",
-        "last_update": "2025-05-25 10:50:22",
+        "last_update": "2025-05-25 16:46:16",
         "required_features": [
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
             "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface"
         ],
