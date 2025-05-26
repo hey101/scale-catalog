@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/deluge
   pullPolicy: IfNotPresent
-  tag: version-2.2.0-r0@sha256:35cccafd0f435bd445e0ea2bb0e35aa496e42cafac223a6aee06035d700912a1
+  tag: version-2.2.0-r0@sha256:d1b81765d63e27ab4ad7f50f380ea007b122259b0d340b57aa6f4086d827f850
 securityContext:
   container:
     runAsNonRoot: false

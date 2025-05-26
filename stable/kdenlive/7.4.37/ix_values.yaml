@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: lscr.io/linuxserver/kdenlive
-  tag: latest@sha256:49b418103ac7a1a7b0466ae1f038f45ddf1b13e455d9db1ad80f82fd69220fa2
+  tag: latest@sha256:c56813533e8f4eda629536507ff01e7d91ae8c74a5d1eac0b4c4578db67dacc4
 persistence:
   config:
     enabled: true
