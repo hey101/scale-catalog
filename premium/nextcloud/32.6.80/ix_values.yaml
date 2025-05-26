@@ -13,11 +13,11 @@ imaginaryImage:
 hpbImage:
   repository: tccr.io/tccr/nextcloud-push-notify
   pullPolicy: IfNotPresent
-  tag: v0.7.0@sha256:6f65f84ed67f0b1d499691db7905ad363aadaecad59e5c2a88fa7fe6d656765a
+  tag: v0.7.0@sha256:ecbfc3dede7674fb7689da1ef5302b86a9656c7a664eafd909376f03592bc721
 clamavImage:
   repository: docker.io/clamav/clamav
   pullPolicy: IfNotPresent
-  tag: 1.4.2@sha256:854283b899897458ed200214b0926c1659af9f726bf8d57d528c80badd21e845
+  tag: 1.4.2@sha256:583f88cc2df29be5a82cb89f26aae68e4a976cbe1216aba0f370ca8c52b64048
 collaboraImage:
   repository: docker.io/collabora/code
   pullPolicy: IfNotPresent
