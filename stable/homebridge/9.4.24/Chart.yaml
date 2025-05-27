@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.107.60"
+appVersion: "2025-05"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,21 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Free and open source, powerful network-wide ads & trackers blocking DNS server.
-home: https://github.com/hey101/charts/stable/adguard-home
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/adguard-home.webp
+description: A lightweight NodeJS server that emulates the iOS HomeKit API
+home: https://github.com/hey101/charts/stable/homebridge
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/homebridge.webp
 keywords:
-  - adblock
-  - adguard
+  - homebridge
+  - homekit
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: adguard-home
+name: homebridge
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/adguard-home
-  - https://github.com/truecharts/charts/tree/master/charts/stable/adguard-home
-  - https://hub.docker.com/r/adguard/adguardhome
+  - https://github.com/hey101/charts/tree/master/charts/stable/homebridge
+  - https://github.com/oznu/docker-homebridge
+  - https://github.com/truecharts/charts/tree/master/charts/stable/homebridge
+  - https://homebridge.io/
+  - https://hub.docker.com/r/homebridge/homebridge
 type: application
-version: 11.4.22
+version: 9.4.24
