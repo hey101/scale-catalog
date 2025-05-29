@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/emulatorjs
   pullPolicy: IfNotPresent
-  tag: 1.9.2@sha256:706319fb4c5c21523cced4ba5ae2121a543688298151870d3b28db4254f2fb1f
+  tag: 1.9.2@sha256:7508f12e88202ce10ae009483fee278b677e4b9d3583cb3d019f389f3b03379c
 securityContext:
   container:
     runAsNonRoot: false
