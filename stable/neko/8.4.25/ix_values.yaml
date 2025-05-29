@@ -5,7 +5,7 @@ image:
 braveImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/brave
-  tag: 3.0.5@sha256:43eb4f185ecdff3f1b4c5087306f8ac569535cd0f40cfb8a61dd6cc1a379356f
+  tag: 3.0.6@sha256:ebae69a74e3d79a1e24ae0a5c1428da57dc6eaf796c21b4e0610d5f1c739c6b2
 chromeImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/google-chrome
@@ -13,7 +13,7 @@ chromeImage:
 chromiumImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/chromium
-  tag: 3.0.5@sha256:fe26b96367db649ad67a880ba76765611f584592aad4c6130e7d7406c49f03bd
+  tag: 3.0.6@sha256:8e70e7d6bd2251cacdc92b4c493ab8ee20ce503738123f5aad03e4d5ec5452c3
 edgeImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/microsoft-edge
@@ -21,7 +21,7 @@ edgeImage:
 remminaImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/remmina
-  tag: 3.0.5@sha256:431b1a19a8dcd67ad72c989a756684c163a5e10a74b7a10f728d17a0c074adab
+  tag: 3.0.6@sha256:f5b34a1411fe8d9a46a9f92f79d354cd7b5459c64cfc76b167693cf8b26cada9
 torImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/tor-browser
