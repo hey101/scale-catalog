@@ -1,0 +1,27 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/petersem/posterr
+  tag: latest@sha256:e7bdd80ba44e2f7727b43d110eb27ab6f2944d169c6246539b74aac08549d53b
+service:
+  main:
+    ports:
+      main:
+        port: 9876
+        protocol: http
+        targetPort: 3000
+persistence:
+  config:
+    enabled: true
+    mountPath: /usr/src/app/config
+  custom:
+    enabled: true
+    mountPath: /usr/src/app/public/custom
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
