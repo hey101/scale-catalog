@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.22.1960"
+appVersion: "5.15"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,24 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: API Support for your favorite torrent trackers.
-home: https://github.com/hey101/charts/stable/jackett
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/jackett.webp
+description: Omada is a SDN tool for TP-Link Omada hardware
+home: https://github.com/hey101/charts/stable/omada-controller
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.webp
 keywords:
-  - jackett
-  - torrent
-  - usenet
+  - omada-controller
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: jackett
+name: omada-controller
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/jackett
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
-  - https://ghcr.io/elfhosted/jackett
-  - https://github.com/Jackett/Jackett
-  - https://github.com/geek-cookbook/containers/pkgs/container/jackett
+  - https://github.com/hey101/charts/tree/master/charts/stable/omada-controller
+  - https://github.com/truecharts/charts/tree/master/charts/stable/omada-controller
+  - https://github.com/mbentley/docker-omada-controller
+  - https://hub.docker.com/r/mbentley/omada-controller
 type: application
-version: 23.2.143
+version: 16.6.44
