@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "7.13.0"
+appVersion: "0.8.2"
 dependencies:
   - name: common
     version: 27.1.4
@@ -15,23 +15,23 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-deprecated: true
-description: Usenet meta search
-home: https://github.com/hey101/charts/stable/nzbhydra
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/nzbhydra.webp
+deprecated: false
+description: Mylar is a automated Comic Book downloader
+home: https://github.com/hey101/charts/stable/mylar
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/mylar.webp
 keywords:
-  - nzbhydra
-  - usenet
+  - mylar
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: nzbhydra
+name: mylar
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/nzbhydra
-  - https://ghcr.io/elfhosted/nzbhydra2
-  - https://github.com/theotherp/nzbhydra2
-  - https://github.com/truecharts/charts/tree/master/charts/stable/nzbhydra
+  - https://github.com/hey101/charts/tree/master/charts/stable/mylar
+  - https://fleet.linuxserver.io/image?name=linuxserver/mylar3
+  - https://github.com/linuxserver/docker-mylar3
+  - https://github.com/mylar3/mylar3
+  - https://github.com/truecharts/charts/tree/master/charts/stable/mylar
 type: application
-version: 24.2.27
+version: 15.4.30
