@@ -1,7 +1,7 @@
 image:
   repository: docker.io/bitnami/solr
   pullPolicy: IfNotPresent
-  tag: 9.8.1@sha256:6270eea7e6121040d27cef53c62ed2e004e3a72b83e0b49a639ab5ff9facdc1c
+  tag: 9.8.1@sha256:ff91cc3dae1e5de0f37e8ccb31bb1a5b1ac7a9143f5d139d70dd52551a199e5b
 
 includeCommon: true
 workload:
