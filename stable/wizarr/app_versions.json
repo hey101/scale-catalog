@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/9.5.17",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -5302,7 +5302,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/9.5.16",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -10600,7 +10600,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/8.0.5",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -15895,7 +15895,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/8.0.4",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -21190,7 +21190,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/7.0.4",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -26485,7 +26485,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/7.0.3",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -31796,7 +31796,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/6.8.14",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -36762,7 +36762,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/6.8.13",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -41728,13 +41728,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/5.3.0",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.5.1_5.3.0",
         "version": "5.3.0",
@@ -46737,13 +46737,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/5.2.0",
-        "last_update": "2025-05-29 20:05:45",
+        "last_update": "2025-05-29 22:42:00",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.5.1_5.2.0",
         "version": "5.2.0",
