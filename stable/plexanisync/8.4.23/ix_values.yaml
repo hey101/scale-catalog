@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/rickdb/plexanisync
   pullPolicy: IfNotPresent
-  tag: 1.4.2@sha256:bbecf86de416859b2b1bdfc08456a12185cfd28239e7edc8627b04dd45ac3685
+  tag: 1.4.3@sha256:f2868085ece87af82867b708c20206626794d559ca6f7e592a36924d4b07fd82
 securityContext:
   container:
     runAsNonRoot: false
