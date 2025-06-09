@@ -1,7 +1,7 @@
 image:
   repository: docker.io/bitnami/wordpress
   pullPolicy: IfNotPresent
-  tag: 6.8.1@sha256:30e6ebcd4f93e54820d63e5847d4b284a570eba5181d6ca9130bdc9323fab451
+  tag: 6.8.1@sha256:dff1e915f158539210e9589ff044a5c9b0c57b7d42dd29eb97c3919b2e471b8c
 securityContext:
   container:
     readOnlyRootFilesystem: false
