@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "4.0.0"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,20 +16,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: BOINC is a platform for high-throughput computing on a large scale (thousands or millions of computers).
-home: https://github.com/hey101/charts/stable/boinc
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/boinc.webp
+description: Ddclient is a Perl client used to update dynamic DNS entries for accounts on Dynamic DNS Network Service Provider.
+home: https://github.com/hey101/charts/stable/ddclient
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/ddclient.webp
 keywords:
-  - boinc
+  - ddclient
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: boinc
+name: ddclient
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/boinc
-  - https://github.com/truecharts/charts/tree/master/charts/stable/boinc
-  - https://ghcr.io/linuxserver/boinc
+  - https://github.com/hey101/charts/tree/master/charts/stable/ddclient
+  - https://github.com/truecharts/charts/tree/master/charts/stable/ddclient
+  - https://ghcr.io/linuxserver/ddclient
 type: application
-version: 11.4.34
+version: 11.4.35

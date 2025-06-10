@@ -1,7 +1,7 @@
 image:
   repository: docker.io/jeessy/ddns-go
   pullPolicy: IfNotPresent
-  tag: v6.9.4@sha256:a7534183558c47a264ed2065155ee5c74ab9654e3a36fc858e31ab8b2c73c714
+  tag: v6.10.0@sha256:dea3669692f90d88ef3435d95a18ab79a8b74d744e3d35532e116aad9eab1a95
 securityContext:
   container:
     readOnlyRootFilesystem: false

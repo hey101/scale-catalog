@@ -1,35 +1,31 @@
 image:
-  repository: docker.io/homebridge/homebridge
-  tag: 2025-05-16@sha256:90e03ebaa909fb7fc98334245ba9b70c9c42d46aacbc549004a66e53bcd676de
+  repository: ghcr.io/linuxserver/boinc
   pullPolicy: IfNotPresent
-
+  tag: latest@sha256:7de5848c47c8b6e115457443bf027de3f7a2a37695ca09958a775bcc1ee39c30
 securityContext:
   container:
     readOnlyRootFilesystem: false
     runAsNonRoot: false
     runAsUser: 0
     runAsGroup: 0
-
+service:
+  main:
+    ports:
+      main:
+        targetPort: 8080
+        protocol: http
+        port: 10142
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            HOMEBRIDGE_CONFIG_UI: 1
-
-service:
-  main:
-    ports:
-      main:
-        protocol: http
-        port: 8581
-
+            PASSWORD: ""
 persistence:
   config:
     enabled: true
-    mountPath: /homebridge
-
+    mountPath: /config
 portal:
   open:
     enabled: true
