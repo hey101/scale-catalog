@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.82.5"
+appVersion: "1.84.2"
 dependencies:
   - name: common
     version: 27.1.4
@@ -34,4 +34,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/tailscale
   - https://hub.docker.com/r/tailscale/tailscale
 type: application
-version: 10.10.21
+version: 10.10.23
