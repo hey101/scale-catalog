@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ghcr.io/suwayomi/tachidesk
-  tag: preview@sha256:566b919baaaaa916f9ca5873751a14f6760c55514c4427cf0580fad6ff73a798
+  tag: preview@sha256:5ab67b7c77d0eea3656488dfe28b71789a6fe7a682c6daff6d54e703e99b35a9
 
 securityContext:
   container:
