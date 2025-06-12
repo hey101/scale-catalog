@@ -1,7 +1,7 @@
 image:
-  repository: docker.io/jgraph/drawio
-  tag: 26.2.15@sha256:469ef96c1c3428ecc10ac31f956c7f71e8481887061b2f6888e1be0b9ff0f643
+  repository: ghcr.io/linuxserver/doublecommander
   pullPolicy: IfNotPresent
+  tag: latest@sha256:3714c0270c8e5db8075b96a8f66ce97f3b2b7963eb2afea3e8db8b8b8fa5d416
 securityContext:
   container:
     readOnlyRootFilesystem: false
@@ -12,13 +12,19 @@ service:
   main:
     ports:
       main:
-        port: 10214
-        targetPort: 8080
+        port: 10034
+        targetPort: 3000
 workload:
   main:
     podSpec:
       containers:
         main:
+          securityContext:
+            capabilities:
+              add:
+                - SYS_CHROOT
+                - KILL
+                - NET_BIND_SERVICE
           probes:
             liveness:
               type: http
@@ -29,7 +35,10 @@ workload:
             startup:
               type: http
               path: /
-          env: {}
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
 portal:
   open:
     enabled: true
