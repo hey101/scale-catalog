@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "6.7"
+appVersion: "5.13.1"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,22 +16,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Traccar is an open source GPS tracking system.
-home: https://github.com/hey101/charts/stable/traccar
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/traccar.webp
+description: A personal music streaming server
+home: https://github.com/hey101/charts/stable/mstream
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/mstream.webp
 keywords:
-  - traccar
-  - gps
+  - mstream
+  - server
+  - music
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: traccar
+name: mstream
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/traccar
-  - https://github.com/truecharts/charts/tree/master/charts/stable/traccar
-  - https://github.com/traccar/traccar
-  - https://hub.docker.com/r/traccar/traccar
+  - https://github.com/hey101/charts/tree/master/charts/stable/mstream
+  - https://ghcr.io/linuxserver/mstream
+  - https://github.com/linuxserver/docker-mstream
+  - https://github.com/truecharts/charts/tree/master/charts/stable/mstream
+  - https://mstream.io/
 type: application
-version: 18.8.19
+version: 12.5.27
