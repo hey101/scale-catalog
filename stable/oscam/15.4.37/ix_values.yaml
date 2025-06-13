@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/oscam
   pullPolicy: IfNotPresent
-  tag: 11884-ls135@sha256:fcde25af3eb933aa9ca5e0ccec0d2a92ad8cde42d33b2318d6ab1c59290e61d4
+  tag: 11884-ls137@sha256:0076204e6f7d6296a42b0ba7cfca23f8e963930a136bc68e386d44d45f2c99c1
 service:
   main:
     ports:
