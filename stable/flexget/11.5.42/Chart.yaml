@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.3.22"
+appVersion: "3.16.5"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,22 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: FlareSolverr is a proxy server to bypass Cloudflare protection
-home: https://github.com/hey101/charts/stable/flaresolverr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.webp
+description: FlexGet is a multipurpose automation tool for all of your media
+home: https://github.com/hey101/charts/stable/flexget
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/flexget.webp
 keywords:
-  - flaresolverr
-  - proxy
+  - flexget
+  - automation
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: flaresolverr
+name: flexget
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/flaresolverr
-  - https://ghcr.io/flaresolverr/flaresolverr
-  - https://github.com/FlareSolverr/FlareSolverr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/flaresolverr
+  - https://github.com/hey101/charts/tree/master/charts/stable/flexget
+  - https://github.com/truecharts/charts/tree/master/charts/stable/flexget
+  - https://github.com/wiserain/docker-flexget
+  - https://hub.docker.com/r/wiserain/flexget
 type: application
-version: 15.4.18
+version: 11.5.42

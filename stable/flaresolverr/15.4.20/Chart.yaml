@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.16.0"
+appVersion: "3.3.25"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,22 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
-home: https://github.com/hey101/charts/stable/maintainerr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/maintainerr.webp
+description: FlareSolverr is a proxy server to bypass Cloudflare protection
+home: https://github.com/hey101/charts/stable/flaresolverr
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.webp
 keywords:
-  - maintainerr
-  - media
+  - flaresolverr
+  - proxy
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: maintainerr
+name: flaresolverr
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/maintainerr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/maintainerr
-  - https://github.com/jorenn92/Maintainerr
-  - https://hub.docker.com/r/jorenn92/maintainerr
+  - https://github.com/hey101/charts/tree/master/charts/stable/flaresolverr
+  - https://ghcr.io/flaresolverr/flaresolverr
+  - https://github.com/FlareSolverr/FlareSolverr
+  - https://github.com/truecharts/charts/tree/master/charts/stable/flaresolverr
 type: application
-version: 4.9.28
+version: 15.4.20
