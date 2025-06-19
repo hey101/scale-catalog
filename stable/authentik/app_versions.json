@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/27.15.41",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -9601,7 +9601,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/27.15.39",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -19198,7 +19198,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/26.1.8",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -28792,7 +28792,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/26.1.7",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -38386,7 +38386,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/25.4.5",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -47705,7 +47705,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/25.4.1",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -57024,7 +57024,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/24.10.9",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -66347,7 +66347,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/24.10.8",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -75670,13 +75670,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/23.1.4",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2024.2.1_23.1.4",
         "version": "23.1.4",
@@ -85064,13 +85064,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/23.1.0",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2024.2.0_23.1.0",
         "version": "23.1.0",
@@ -94458,13 +94458,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/19.4.0",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.10.7_19.4.0",
         "version": "19.4.0",
@@ -103852,13 +103852,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/19.3.0",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2023.10.7_19.3.0",
         "version": "19.3.0",

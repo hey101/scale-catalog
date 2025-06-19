@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/4.5.18",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -4041,7 +4041,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/4.5.17",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -8078,7 +8078,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/3.0.8",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -12112,7 +12112,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/3.0.7",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -16146,7 +16146,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/2.10.14",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -20053,7 +20053,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/2.10.13",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/timezone",
@@ -23960,13 +23960,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/1.1.0",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.11.0_1.1.0",
         "version": "1.1.0",
@@ -27910,13 +27910,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/smartctl-exporter/1.0.0",
-        "last_update": "2025-06-19 14:34:51",
+        "last_update": "2025-06-19 21:05:16",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.11.0_1.0.0",
         "version": "1.0.0",
