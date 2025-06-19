@@ -1,13 +1,13 @@
 image:
-  repository: ghcr.io/linuxserver/sickchill
+  repository: ghcr.io/linuxserver/lazylibrarian
   pullPolicy: IfNotPresent
-  tag: 2024.3.1@sha256:fcfc74a47c3c6da82ce37c64ec3ff4c33e095ce9583b009d64f4d68b87486a19
+  tag: latest@sha256:15470212c399539ef21fb4eba957dcf0e97ddad7cb78573e197c5100f3b1fc31
 service:
   main:
     ports:
       main:
-        port: 10067
-        targetPort: 8081
+        port: 5299
+        targetPort: 5299
 persistence:
   config:
     enabled: true
@@ -19,7 +19,7 @@ portal:
     enabled: true
 securityContext:
   container:
-    readOnlyRootFilesystem: false
     runAsNonRoot: false
+    readOnlyRootFilesystem: false
     runAsUser: 0
     runAsGroup: 0
