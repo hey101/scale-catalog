@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/factoriotools/factorio
-  tag: stable@sha256:8f14395ce25ac54ca018d74c3fe996ae77de425b3352e4f3724e9d1e7dd2407c
+  tag: stable@sha256:4cdac3d184ec5fe56800d787541c94780072dfdefb609fd757146d5eae3e8b3d
 
 securityContext:
   container:
