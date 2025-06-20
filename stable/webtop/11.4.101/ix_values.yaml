@@ -20,19 +20,19 @@ alpineKDEImage:
   pullPolicy: Always
 ubuntuKDEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: ubuntu-kde@sha256:de14e2ffc0f36584d07def29da8a0d4ed5428e551332f9a1f948c97c12205580
+  tag: ubuntu-kde@sha256:6ef9bf500ec9f5c1209a217838a88c37fb76df9238d6dcb152fd499f1e0f6cff
   pullPolicy: Always
 fedoraKDEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: fedora-kde@sha256:5458882c267349e29c1ebb758db2a27144ba1784fafc56c1b70e803eb6d9b695
+  tag: fedora-kde@sha256:9d7648b4b68557f12c5711bab770e39633a47ee4225d1b799e94390db4618854
   pullPolicy: Always
 archKDEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-kde@sha256:c94849e4bb72a5b539f0b8336c115de75ecf55640bed141d7bcd096ee998b0d9
+  tag: arch-kde@sha256:d6a5305bdafe15deec23e4ea85cbc8897c8eaed3ee9a52a7e1192812e8339921
   pullPolicy: Always
 alpineMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-mate@sha256:4ce02bdb89318a136d37d5a21207f0f599aae0de07637b321c87d32ce443b4fa
+  tag: alpine-mate@sha256:9e8c099d1aeef11b2244b0850e1c60abea58aadc17a4c3d2eb1b366112da1cfc
   pullPolicy: Always
 ubuntuMATEImage:
   repository: lscr.io/linuxserver/webtop
