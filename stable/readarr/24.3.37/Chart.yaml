@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.4.16.279"
+appVersion: "0.4.18.280"
 dependencies:
   - name: common
     version: 27.1.4
@@ -39,4 +39,4 @@ sources:
   - https://github.com/Readarr/Readarr
   - https://readarr.com
 type: application
-version: 24.3.35
+version: 24.3.37
