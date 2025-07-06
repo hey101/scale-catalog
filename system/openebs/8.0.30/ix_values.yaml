@@ -39,8 +39,7 @@ localpv-provisioner:
     # If set to false, containers created by the localpv provisioner will run without extra privileges.
     privileged: true
     annotations: {}
-    podAnnotations:
-      {}
+    podAnnotations: {}
       ## Labels to be added to localpv provisioner deployment pods
     podLabels:
       name: openebs-localpv-provisioner
@@ -69,8 +68,7 @@ localpv-provisioner:
   imagePullSecrets:
     # - name: img-pull-secret
 
-  podSecurityContext:
-    {}
+  podSecurityContext: {}
     # fsGroup: 2000
 
   nameOverride: ""
