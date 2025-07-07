@@ -4,7 +4,7 @@ image:
   pullPolicy: IfNotPresent
 beImage:
   repository: docker.io/portainer/portainer-ee
-  tag: 2.31.1@sha256:87273e4424c70dc74df817dd980fa59b103397a1dc6d7b25c43efd43d86410b5
+  tag: 2.31.3@sha256:46e4896a069a7f3d1ab1533a019c819ab7b387f0b936d230579520a5f8bb688f
   pullPolicy: IfNotPresent
 portainer:
   # Logo URL
