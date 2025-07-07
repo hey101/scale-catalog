@@ -1,0 +1,48 @@
+image:
+  repository: ghcr.io/linuxserver/foldingathome
+  pullPolicy: IfNotPresent
+  tag: 8.4.9@sha256:9e868e04c623e5662cbb20f76deaf1f4f1fe8ce67f016d66e5a453d9bc61401b
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+service:
+  main:
+    ports:
+      main:
+        targetPort: 7396
+        port: 7396
+  control:
+    enabled: true
+    ports:
+      control:
+        enabled: true
+        targetPort: 36330
+        port: 36330
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  varrun:
+    enabled: true
+portal:
+  open:
+    enabled: true
