@@ -1,0 +1,27 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: lscr.io/linuxserver/cops
+  tag: 3.6.5@sha256:1bb454705567e4448dda67cbb866d09feaeebce49c8e65e6610d013d1ecebf0d
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10609
+        protocol: http
+        targetPort: 80
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  books:
+    enabled: true
+    mountPath: /books
+portal:
+  open:
+    enabled: true
