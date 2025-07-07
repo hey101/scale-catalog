@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: networking
+  truecharts.org/category: files
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.12.4"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 27.1.4
@@ -23,24 +23,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Managing Nginx proxy hosts with a simple, powerful interface.
-home: https://github.com/hey101/charts/stable/nginx-proxy-manager
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/nginx-proxy-manager.webp
+description: ProjectSend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself.
+home: https://github.com/hey101/charts/stable/projectsend
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.webp
 keywords:
-  - nginx-proxy-manager
-  - nginx
-  - reverse-proxy
+  - projectsend
+  - files
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: nginx-proxy-manager
+name: projectsend
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/nginx-proxy-manager
-  - https://github.com/NginxProxyManager/nginx-proxy-manager
-  - https://github.com/truecharts/charts/tree/master/charts/stable/nginx-proxy-manager
-  - https://hub.docker.com/r/jc21/nginx-proxy-manager
-  - https://nginxproxymanager.com/
+  - https://github.com/hey101/charts/tree/master/charts/stable/projectsend
+  - https://ghcr.io/linuxserver/projectsend
+  - https://github.com/projectsend/projectsend
+  - https://github.com/truecharts/charts/tree/master/charts/stable/projectsend
 type: application
-version: 11.11.23
+version: 14.10.37

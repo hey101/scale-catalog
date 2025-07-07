@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: networking
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.12.4"
+appVersion: "3.10"
 dependencies:
   - name: common
     version: 27.1.4
@@ -22,25 +22,30 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
+  - name: redis
+    version: 16.0.5
+    repository: oci://tccr.io/truecharts
+    condition: redis.enabled
+    alias: ""
+    tags: []
+    import-values: []
 deprecated: false
-description: Managing Nginx proxy hosts with a simple, powerful interface.
-home: https://github.com/hey101/charts/stable/nginx-proxy-manager
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/nginx-proxy-manager.webp
+description: game library manager focused in retro gaming
+home: https://github.com/hey101/charts/stable/romm
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
 keywords:
-  - nginx-proxy-manager
-  - nginx
-  - reverse-proxy
+  - romm
+  - rom-manager
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: nginx-proxy-manager
+name: romm
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/nginx-proxy-manager
-  - https://github.com/NginxProxyManager/nginx-proxy-manager
-  - https://github.com/truecharts/charts/tree/master/charts/stable/nginx-proxy-manager
-  - https://hub.docker.com/r/jc21/nginx-proxy-manager
-  - https://nginxproxymanager.com/
+  - https://github.com/hey101/charts/tree/master/charts/stable/romm
+  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
+  - https://ghcr.io/rommapp/romm
+  - https://github.com/zurdi15/romm
 type: application
-version: 11.11.23
+version: 10.18.37
