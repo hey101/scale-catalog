@@ -1,6 +1,6 @@
 image:
   repository: docker.io/mauricenino/dashdot
-  tag: 5.9.2@sha256:2369978169172d213368fb8b3f9df8aca31a2cbd116be9b6a21506d6f7a6e16c
+  tag: 6.1.0@sha256:077c81ecd05e22d7f524a6b0cdbe971c03f52f080fcbd083a63b8b8ccd5a1c33
   pullPolicy: IfNotPresent
 securityContext:
   container:
