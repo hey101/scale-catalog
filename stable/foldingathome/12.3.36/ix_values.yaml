@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/foldingathome
   pullPolicy: IfNotPresent
-  tag: 8.4.9@sha256:9265b76600ed34bee1bef67b7993ad49f3142cbc58f4f0c7952bc570502ea9b5
+  tag: 8.4.9@sha256:25971a16fa3df5235baa3ab66744da3f173f3299a92dcae5a4870a53a08a3537
 securityContext:
   container:
     runAsNonRoot: false
