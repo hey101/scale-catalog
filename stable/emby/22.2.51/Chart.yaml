@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.13.1"
+appVersion: "4.9.1.5"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,24 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A personal music streaming server
-home: https://github.com/hey101/charts/stable/mstream
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/mstream.webp
+description: Emby Server is a home media server
+home: https://github.com/hey101/charts/stable/emby
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/emby.webp
 keywords:
-  - mstream
-  - server
-  - music
+  - jellyfin
+  - plex
+  - emby
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: mstream
+name: emby
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/mstream
-  - https://ghcr.io/linuxserver/mstream
-  - https://github.com/linuxserver/docker-mstream
-  - https://github.com/truecharts/charts/tree/master/charts/stable/mstream
-  - https://mstream.io/
+  - https://github.com/hey101/charts/tree/master/charts/stable/emby
+  - https://ghcr.io/elfhosted/emby
+  - https://github.com/linuxserver/docker-emby.git
+  - https://github.com/truecharts/charts/tree/master/charts/stable/emby
 type: application
-version: 12.5.26
+version: 22.2.51
