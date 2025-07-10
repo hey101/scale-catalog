@@ -1,6 +1,6 @@
 image:
   repository: docker.io/josh5/unmanic
-  tag: 0.2.7@sha256:7652682370454f509d718d9dcfbd27c7099def3800f770bb7bb932c5a6e0212a
+  tag: 0.3.0@sha256:3e2957543b9f23caccf17cdf22f2a71957d8e6c42722809b8b392018c8bdf264
   pullPolicy: IfNotPresent
 service:
   main:
