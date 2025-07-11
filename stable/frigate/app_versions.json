@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/16.5.20",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -6181,10 +6181,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/16.5.19",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -12358,10 +12358,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/15.0.8",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -18532,10 +18532,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/15.0.7",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -24706,10 +24706,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/14.4.14",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -30450,10 +30450,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/14.4.13",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -36194,10 +36194,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/13.4.1",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -41938,10 +41938,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/13.4.0",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -47682,13 +47682,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/12.3.0",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.12.1_12.3.0",
         "version": "12.3.0",
@@ -53469,13 +53469,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/frigate/12.2.0",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.12.1_12.2.0",
         "version": "12.2.0",

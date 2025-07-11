@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/8.4.25",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -5089,10 +5089,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/8.4.24",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -10174,10 +10174,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/7.0.9",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -15256,10 +15256,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/7.0.8",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -20338,10 +20338,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/6.8.15",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -25091,10 +25091,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/6.8.14",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/timezone"
         ],
@@ -29844,13 +29844,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/5.3.0",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_5.3.0",
         "version": "5.3.0",
@@ -34640,13 +34640,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/multi-scrobbler/5.2.0",
-        "last_update": "2025-07-11 02:29:32",
+        "last_update": "2025-07-11 08:12:02",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_5.2.0",
         "version": "5.2.0",
