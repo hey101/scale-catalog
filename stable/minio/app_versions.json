@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/13.10.27",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -5931,10 +5931,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/13.10.26",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -11858,10 +11858,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/12.1.7",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -17782,10 +17782,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/12.1.6",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -23706,10 +23706,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/11.9.14",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -29301,10 +29301,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/11.9.13",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/interface",
             "definitions/certificate"
         ],
@@ -34896,13 +34896,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/10.3.0",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "2024.02.09_10.3.0",
         "version": "10.3.0",
@@ -40534,13 +40534,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/minio/10.2.0",
-        "last_update": "2025-07-10 19:18:32",
+        "last_update": "2025-07-11 01:00:23",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
+            "definitions/interface",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/certificate"
         ],
         "human_version": "2024.02.09_10.2.0",
         "version": "10.2.0",
