@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "27.1.6"
+appVersion: "2025-07"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,21 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Drawio is free online diagram software.
-home: https://github.com/hey101/charts/stable/drawio
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/drawio.webp
+description: A lightweight NodeJS server that emulates the iOS HomeKit API
+home: https://github.com/hey101/charts/stable/homebridge
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/homebridge.webp
 keywords:
-  - drawio
+  - homebridge
+  - homekit
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: drawio
+name: homebridge
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/drawio
-  - https://github.com/truecharts/charts/tree/master/charts/stable/drawio
-  - https://github.com/jgraph/drawio
-  - https://hub.docker.com/r/jgraph/drawio
+  - https://github.com/hey101/charts/tree/master/charts/stable/homebridge
+  - https://github.com/oznu/docker-homebridge
+  - https://github.com/truecharts/charts/tree/master/charts/stable/homebridge
+  - https://homebridge.io/
+  - https://hub.docker.com/r/homebridge/homebridge
 type: application
-version: 14.1.45
+version: 9.4.28
