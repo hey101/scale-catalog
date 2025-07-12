@@ -1,6 +1,6 @@
 image:
   repository: docker.io/josh5/steam-headless
-  tag: latest@sha256:1c028fa228d258243441e41b2e0fe6fa6dc58669d77393442ec3cf0ea2bbdd30
+  tag: latest@sha256:d8896d351ddd673e5d30c411c39b4395a5325b970cb6cd1af761627b8093e14e
   pullPolicy: IfNotPresent
 
 securityContext:
