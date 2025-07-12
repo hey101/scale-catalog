@@ -1,7 +1,7 @@
 image:
   repository: docker.io/filebrowser/filebrowser
   pullPolicy: IfNotPresent
-  tag: v2.33.10@sha256:dd2e1d8f7382d53afab915fea6bb49cd38112587e766a70241b120cd00f517c2
+  tag: v2.38.0@sha256:1acf323924130eff7ed9ebd0bd7e2250f101ef387b6c77822cc55dfe42417fed
 workload:
   main:
     podSpec:
