@@ -1,15 +1,24 @@
 image:
-  repository: docker.io/revenz/fileflows
-  tag: 25.07@sha256:ffcb58fa3413bfb62e0c3b415287d55a5017a8228b2907834426f85718e4c8c7
+  repository: docker.io/leonismoe/ariang
   pullPolicy: IfNotPresent
+  tag: 1.3.11@sha256:961661f0a7690042772ee320dd88e77c0d866a424125d4815b059df0ec7bc51d
 securityContext:
   container:
     readOnlyRootFilesystem: false
     runAsNonRoot: false
+    allowPrivilegeEscalation: true
     runAsUser: 0
     runAsGroup: 0
-    allowPrivilegeEscalation: true
-    privileged: true
+    capabilities:
+      add:
+        - SYS_CHROOT
+service:
+  main:
+    ports:
+      main:
+        targetPort: 8080
+        protocol: http
+        port: 10276
 workload:
   main:
     podSpec:
@@ -26,25 +35,6 @@ workload:
               type: http
               path: /
           env: {}
-service:
-  main:
-    ports:
-      main:
-        port: 10242
-        targetPort: 5000
-persistence:
-  data:
-    enabled: true
-    mountPath: /app/Data
-  logs:
-    enabled: true
-    mountPath: /app/Logs
-  temp:
-    enabled: true
-    mountPath: /temp
-  media:
-    enabled: true
-    mountPath: /media
 portal:
   open:
     enabled: true
