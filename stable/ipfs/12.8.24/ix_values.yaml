@@ -1,7 +1,7 @@
 image:
   repository: docker.io/ipfs/kubo
   pullPolicy: IfNotPresent
-  tag: v0.34.1@sha256:1cf421fbd881d01144c0da39aa1511c05f1ef3fd5eebee6ba7487ecc0f915a44
+  tag: v0.36.0@sha256:51dd374d5a6a7e1a7c77358701d65bbf558a2e76802d65d4f81b125877811ee1
 service:
   main:
     ports:

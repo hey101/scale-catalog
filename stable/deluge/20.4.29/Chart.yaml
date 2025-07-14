@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: storage
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.34.1"
+appVersion: "2.2.0"
 dependencies:
   - name: common
     version: 27.1.4
@@ -16,22 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
-home: https://github.com/hey101/charts/stable/ipfs
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/ipfs.webp
+description: Deluge App for TrueNAS SCALE
+home: https://github.com/hey101/charts/stable/deluge
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/deluge.webp
 keywords:
-  - ipfs
-  - kubo
+  - transmission
+  - torrent
+  - usenet
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: ipfs
+name: deluge
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/ipfs
-  - https://github.com/ipfs/kubo
-  - https://github.com/truecharts/charts/tree/master/charts/stable/ipfs
-  - https://hub.docker.com/r/ipfs/kubo
+  - https://github.com/hey101/charts/tree/master/charts/stable/deluge
+  - https://ghcr.io/linuxserver/deluge
+  - https://github.com/deluge-torrent/deluge
+  - https://github.com/truecharts/charts/tree/master/charts/stable/deluge
 type: application
-version: 12.8.22
+version: 20.4.29
