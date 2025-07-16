@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: adminer
-  tag: latest@sha256:5ee6e18fce9d4ec5d2e82c7f2937b414b076908f11963fe175116e561011b305
+  tag: latest@sha256:abdd5cf45ad060b93e44a8535f6650f4272a1f3c86c1bf91bcdecc5f5609132d
 securityContext:
   container:
     readOnlyRootFilesystem: false

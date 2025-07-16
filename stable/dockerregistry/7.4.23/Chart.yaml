@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2"
+appVersion: "3"
 dependencies:
   - name: common
     version: 27.1.4
@@ -39,4 +39,4 @@ sources:
   - https://hub.docker.com/_/registry
   - https://registry.hub.docker.com/_/registry/
 type: application
-version: 7.4.21
+version: 7.4.23
