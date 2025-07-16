@@ -1,16 +1,13 @@
 image:
-  repository: ghcr.io/elfhosted/emby
   pullPolicy: IfNotPresent
-  tag: 4.9.1.6@sha256:631e611054085c46372c718ad67cf207a4c788bd079d8a9c1a81f3af9c0dc5bf
+  repository: adminer
+  tag: latest@sha256:ff53e842ac98d12648c9c10e453ccacee427a58978f98e68fdbf20e43e81b48c
 securityContext:
   container:
     readOnlyRootFilesystem: false
-service:
-  main:
-    ports:
-      main:
-        port: 10079
-        targetPort: 8096
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
 workload:
   main:
     podSpec:
@@ -26,11 +23,16 @@ workload:
             startup:
               type: http
               path: /
-          env: {}
-persistence:
-  config:
-    enabled: true
-    mountPath: /config
+          env:
+            ADMINER_DESIGN: ""
+            ADMINER_PLUGINS: ""
+service:
+  main:
+    ports:
+      main:
+        port: 18080
+        protocol: http
+        targetPort: 8080
 portal:
   open:
     enabled: true
