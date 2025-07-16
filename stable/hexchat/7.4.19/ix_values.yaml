@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/binhex/arch-hexchat
-  tag: latest@sha256:ac8bc52a7f5d5cece19e9408a293d4a497b5de276407b5b504d113cf5ea99b46
+  tag: latest@sha256:503ccaeec82cab508eff7abf27ec6c54a874ec44a425dfb0c87c67691e710c45
 persistence:
   config:
     enabled: true
