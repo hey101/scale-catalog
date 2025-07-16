@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ghcr.io/bakito/adguardhome-sync
-  tag: v0.7.6@sha256:c0252a231f6bd997495b19d01248f21eff334fc5dded08bff34b72ba4319412a
+  tag: v0.7.8@sha256:d6b2e7c5178c589cfc90c82f88a072b7e9c485f2f1362745edfd1f5fd60c47df
 portal:
   open:
     enabled: true
