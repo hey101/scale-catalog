@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/atuin/5.6.21",
-        "last_update": "2025-07-17 13:53:05",
+        "last_update": "2025-07-17 16:21:18",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "18.7.1_5.6.21",
         "version": "5.6.21",
@@ -5301,12 +5301,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/atuin/5.6.20",
-        "last_update": "2025-07-17 13:53:05",
+        "last_update": "2025-07-17 16:21:18",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "18.6.1_5.6.20",
         "version": "5.6.20",
@@ -10598,12 +10598,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/atuin/4.1.4",
-        "last_update": "2025-07-17 13:53:05",
+        "last_update": "2025-07-17 16:21:18",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "18.2.0_4.1.4",
         "version": "4.1.4",
@@ -15892,12 +15892,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/atuin/4.1.3",
-        "last_update": "2025-07-17 13:53:05",
+        "last_update": "2025-07-17 16:21:18",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "18.2.0_4.1.3",
         "version": "4.1.3",
