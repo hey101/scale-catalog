@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "11.7.2"
+appVersion: "11.8.2"
 dependencies:
   - name: common
     version: 27.1.4
@@ -38,4 +38,4 @@ sources:
   - https://hub.docker.com/r/bitnami/mariadb
   - https://mariadb.org
 type: application
-version: 15.7.18
+version: 15.7.20
