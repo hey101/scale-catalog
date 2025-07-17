@@ -1,0 +1,40 @@
+image:
+  repository: docker.io/machines/filestash
+  tag: latest@sha256:befc23e13c29c3ac4f958e91ad6b53a1481558d6f94549e3adc88c2f4c528abc
+  pullPolicy: IfNotPresent
+
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        targetPort: 8334
+        port: 8334
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            APPLICATION_URL: "http://localhost:8334"
+            GDRIVE_CLIENT_ID: ""
+            GDRIVE_CLIENT_SECRET: ""
+            DROPBOX_CLIENT_ID: ""
+            ONLYOFFICE_URL: ""
+
+persistence:
+  data:
+    enabled: true
+    mountPath: /app/data/state
+
+portal:
+  open:
+    enabled: true
