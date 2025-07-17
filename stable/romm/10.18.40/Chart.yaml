@@ -6,12 +6,19 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "3.10"
 dependencies:
   - name: common
     version: 27.1.4
     repository: oci://tccr.io/truecharts
     condition: ""
+    alias: ""
+    tags: []
+    import-values: []
+  - name: mariadb
+    version: 16.1.0
+    repository: oci://tccr.io/truecharts
+    condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
@@ -23,24 +30,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: RSSHub can generate RSS feeds from pretty much everything
-home: https://github.com/hey101/charts/stable/rsshub
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.webp
+description: game library manager focused in retro gaming
+home: https://github.com/hey101/charts/stable/romm
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
 keywords:
-  - rsshub
-  - rss
+  - romm
+  - rom-manager
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rsshub
+name: romm
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/rsshub
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
-  - https://docs.rsshub.app/en/install/
-  - https://github.com/DIYgod/RSSHub
-  - https://hub.docker.com/r/browserless/chrome
-  - https://hub.docker.com/r/diygod/rsshub
+  - https://github.com/hey101/charts/tree/master/charts/stable/romm
+  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
+  - https://ghcr.io/rommapp/romm
+  - https://github.com/zurdi15/romm
 type: application
-version: 14.9.276
+version: 10.18.40
