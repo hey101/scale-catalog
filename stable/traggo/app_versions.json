@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/8.6.20",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -5355,7 +5355,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/8.6.19",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -10706,7 +10706,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/7.0.8",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -16054,7 +16054,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/7.0.7",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -21402,7 +21402,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/6.9.14",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -26421,7 +26421,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/6.9.13",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate",
@@ -31440,13 +31440,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/5.3.0",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.3.0_5.3.0",
         "version": "5.3.0",
@@ -36502,13 +36502,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traggo/5.2.0",
-        "last_update": "2025-07-18 00:11:01",
+        "last_update": "2025-07-18 02:54:26",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.3.0_5.2.0",
         "version": "5.2.0",
