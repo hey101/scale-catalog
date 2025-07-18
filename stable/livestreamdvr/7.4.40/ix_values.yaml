@@ -1,0 +1,48 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/mrbrax/twitchautomator
+  tag: master@sha256:405ead3fef1c42ad8a38dd5dbd9c72ddeeed4e065739ceb90631fa9debc0bb4a
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        port: 8146
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          args:
+            - --port
+            - "{{ .Values.service.main.ports.main.port }}"
+          env:
+            TCD_ENABLE_FILES_API: false
+            TCD_EXPOSE_LOGS_TO_PUBLIC: false
+            TCD_MIGRATE_OLD_VOD_JSON: false
+
+persistence:
+  config:
+    enabled: true
+    mountPath: /usr/local/share/twitchautomator/data/config
+  cache:
+    enabled: true
+    mountPath: /usr/local/share/twitchautomator/data/cache
+  logs:
+    enabled: true
+    mountPath: /usr/local/share/twitchautomator/data/logs
+  storage:
+    enabled: true
+    mountPath: /usr/local/share/twitchautomator/data/storage
+
+portal:
+  open:
+    enabled: true

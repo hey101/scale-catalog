@@ -1,0 +1,40 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/otherguy/dropbox
+  tag: latest@sha256:2ed2f984344974e4b97fa88ee2bd8ce23136e49953b6680399ea23e426b18365
+persistence:
+  dropboxsettings:
+    enabled: true
+    mountPath: /opt/dropbox/.dropbox
+  dropboxuserfiles:
+    enabled: true
+    mountPath: /opt/dropbox/Dropbox
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DROPBOX_GID: "100"
+            DROPBOX_UID: "99"
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

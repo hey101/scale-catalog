@@ -1,0 +1,31 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/hexxa/quickshare
+  tag: latest@sha256:a6e9988e209fcd04506cadd9c2967d6e55ee4cc5ed8fc8d45e5c3e85f3dca1d9
+persistence:
+  storagedata:
+    enabled: true
+    mountPath: /quickshare/root
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 8686
+        protocol: tcp
+        targetPort: 8686
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DEFAULTADMIN: admin
+            DEFAULTADMINPWD: "1234"

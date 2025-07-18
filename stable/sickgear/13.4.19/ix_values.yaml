@@ -1,0 +1,32 @@
+image:
+  repository: docker.io/sickgear/sickgear
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:e8b7515bed19b18731d9e6efb9214086cdd2792847e0e6ba3e338b95bcb4c149
+service:
+  main:
+    ports:
+      main:
+        port: 10066
+        targetPort: 8081
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  varrun:
+    enabled: true
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            APP_DATA: /config

@@ -1,0 +1,36 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/sismics/docs
+  tag: latest@sha256:4b0a3d3823591c7f55abe045d863758e433f88f9426e64bc484161ae7893cb96
+persistence:
+  data:
+    enabled: true
+    mountPath: /data
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            DOCS_BASE_URL: ""
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

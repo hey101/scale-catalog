@@ -1,0 +1,31 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/bsyed/troddit
+  tag: latest@sha256:93f47640961cf52b395e923bc9206466479eb6b943e06ae185f22f469108fc28
+persistence: {}
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 3000
+        protocol: tcp
+        targetPort: 3000
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            CLIENT_ID: ""
+            CLIENT_SECRET: ""
+            NEXTAUTH_SECRET: ""
+            NEXTAUTH_URL: ""
+            REDDIT_REDIRECT: ""

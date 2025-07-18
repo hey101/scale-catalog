@@ -1,0 +1,75 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/cryptpad/cryptpad
+  tag: version-5.5.0@sha256:09d04859bc99f3780e55af360198df82f3d14ead4475d23322b4f2dcdb06437a
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env:
+            CPAD_MAIN_DOMAIN: "https://your-main-domain.com"
+            CPAD_CONF: /cryptpad/config/config.js
+
+persistence:
+  blobpath:
+    enabled: true
+    mountPath: /cryptpad/blob
+  blockpath:
+    enabled: true
+    mountPath: /cryptpad/block
+  customizepath:
+    enabled: true
+    mountPath: /cryptpad/customize
+  data:
+    enabled: true
+    mountPath: /cryptpad/data
+  datastorepath:
+    enabled: true
+    mountPath: /cryptpad/datastore
+
+service:
+  main:
+    ports:
+      main:
+        port: 3000
+        protocol: http
+        targetPort: 3000
+  port2:
+    enabled: true
+    ports:
+      port2:
+        enabled: true
+        port: 3001
+        protocol: tcp
+        targetPort: 3001
+  websocket:
+    enabled: true
+    ports:
+      websocket:
+        enabled: true
+        port: 3003
+        protocol: tcp
+        targetPort: 3003
+
+portal:
+  open:
+    enabled: true
