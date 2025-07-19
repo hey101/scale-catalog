@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -37,4 +37,4 @@ sources:
   - https://hub.docker.com/r/machines/filestash
   - https://www.filestash.app/
 type: application
-version: 8.4.161
+version: 8.4.163
