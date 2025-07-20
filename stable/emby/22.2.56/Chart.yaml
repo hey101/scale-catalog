@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.9.1.7"
+appVersion: "4.9.1.8"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/linuxserver/docker-emby.git
   - https://github.com/truecharts/charts/tree/master/charts/stable/emby
 type: application
-version: 22.2.54
+version: 22.2.56
