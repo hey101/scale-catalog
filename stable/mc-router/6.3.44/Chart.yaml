@@ -7,10 +7,10 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: "true"
 apiVersion: v2
-appVersion: "1.32.4"
+appVersion: "1.33.0"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/itzg/mc-router
   - https://hub.docker.com/r/itzg/mc-router
 type: application
-version: 6.3.42
+version: 6.3.44
