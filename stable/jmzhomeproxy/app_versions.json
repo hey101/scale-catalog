@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/7.4.18",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "latest_7.4.18",
@@ -4665,11 +4665,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/7.4.17",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "latest_7.4.17",
@@ -9326,11 +9326,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/6.0.8",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "latest_6.0.8",
@@ -13984,11 +13984,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/6.0.7",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "latest_6.0.7",
@@ -18642,11 +18642,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/5.8.14",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "latest_5.8.14",
@@ -23072,11 +23072,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/5.8.13",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
+            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
             "definitions/interface"
         ],
         "human_version": "latest_5.8.13",
@@ -27502,13 +27502,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/4.3.0",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -31975,13 +31975,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/jmzhomeproxy/4.2.0",
-        "last_update": "2025-07-20 01:50:13",
+        "last_update": "2025-07-20 08:40:43",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
+            "definitions/certificate",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
