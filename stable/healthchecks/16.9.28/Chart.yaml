@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "3.10.20250"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/healthchecks/healthchecks
   - https://github.com/truecharts/charts/tree/master/charts/stable/healthchecks
 type: application
-version: 16.9.26
+version: 16.9.28
