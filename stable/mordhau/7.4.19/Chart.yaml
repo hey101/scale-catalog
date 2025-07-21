@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "mordhau"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/mordhau
   - https://www.steampowered.com/
 type: application
-version: 7.4.17
+version: 7.4.19
