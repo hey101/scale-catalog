@@ -17,7 +17,7 @@ hpbImage:
 clamavImage:
   repository: docker.io/clamav/clamav
   pullPolicy: IfNotPresent
-  tag: 1.4.3@sha256:82325dad9376915754569d1a9c3fbf656fddcbb719328449a29b821a1872a380
+  tag: 1.4.3@sha256:33c8ce837ed99a364947626b8dd8e8fddbd80b3132e8471ea26e9f6ef552b0c6
 collaboraImage:
   repository: docker.io/collabora/code
   pullPolicy: IfNotPresent
