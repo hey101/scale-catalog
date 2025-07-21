@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/12.7.21",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -3681,7 +3681,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/12.7.20",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -7358,7 +7358,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/11.0.8",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -11032,7 +11032,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/11.0.7",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -14706,7 +14706,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/10.11.15",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -18152,7 +18152,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/10.11.14",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -21598,13 +21598,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/9.3.0",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.9.5_9.3.0",
         "version": "9.3.0",
@@ -25087,13 +25087,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/unpoller/9.2.0",
-        "last_update": "2025-07-21 09:16:04",
+        "last_update": "2025-07-21 11:52:55",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.9.5_9.2.0",
         "version": "9.2.0",
