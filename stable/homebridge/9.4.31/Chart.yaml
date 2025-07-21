@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2025-07"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://homebridge.io/
   - https://hub.docker.com/r/homebridge/homebridge
 type: application
-version: 9.4.29
+version: 9.4.31
