@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2025-07"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/metube
   - https://hub.docker.com/r/alexta69/metube
 type: application
-version: 14.9.41
+version: 14.9.43
