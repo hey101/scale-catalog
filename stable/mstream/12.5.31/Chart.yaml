@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "5.13.1"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/mstream
   - https://mstream.io/
 type: application
-version: 12.5.29
+version: 12.5.31
