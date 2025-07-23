@@ -1,15 +1,15 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: website
+  truecharts.org/category: crm
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "6.8.2"
+appVersion: "4.1.2"
 dependencies:
   - name: common
-    version: 27.1.4
+    version: 28.13.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -23,22 +23,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: The WordPress rich content management system can utilize plugins, widgets, and themes.
-home: https://github.com/hey101/charts/stable/wordpress
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.webp
+description: Monica is a great open source personal relationship management system.
+home: https://github.com/hey101/charts/stable/monica
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/monica.webp
 keywords:
-  - wordpress
-  - cms
+  - crm
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: wordpress
+name: monica
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/wordpress
-  - https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
-  - https://hub.docker.com/r/bitnami/wordpress
-  - https://www.wordpress.org
+  - https://github.com/hey101/charts/tree/master/charts/stable/monica
+  - https://github.com/truecharts/charts/tree/master/charts/stable/monica
+  - https://github.com/monicahq/monica
+  - https://hub.docker.com/_/monica
 type: application
-version: 9.12.49
+version: 14.10.59
