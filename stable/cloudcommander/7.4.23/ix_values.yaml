@@ -1,11 +1,14 @@
 image:
   pullPolicy: IfNotPresent
-  repository: lscr.io/linuxserver/blender
-  tag: latest@sha256:6a8a3b9a9b6ccee50b5769b7dcf7a6ce9629f53af32389b0f26eae5721af66d4
+  repository: docker.io/coderaiser/cloudcmd
+  tag: latest@sha256:763a99d36c483c73a342d752343b3ff1899c250e3a9e76891a9f8ef470c051ba
 persistence:
-  config:
+  appdata:
     enabled: true
-    mountPath: /config
+    mountPath: /root
+  mountpath:
+    enabled: true
+    mountPath: /UNRAID
 portal:
   open:
     enabled: true
@@ -18,14 +21,13 @@ service:
   main:
     ports:
       main:
-        port: 3000
+        port: 8765
         protocol: tcp
-        targetPort: 3000
+        targetPort: 8000
 workload:
   main:
     podSpec:
       containers:
         main:
           env:
-            KEYBOARD: ""
-            SUBFOLDER: ""
+            HOME: /root
