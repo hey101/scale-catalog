@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/jasongdove/ersatztv
-  tag: v25.2.0@sha256:b8abbf6a1919e7e40fda02ba467b2084ba8b144d1feb0587f667167ef35aa41f
+  tag: v25.3.0@sha256:6942d9295e2f7265ed4ccd95895a0bd95047137ffe091599dd38aad3086dbe43
 imageSelector: image
 nvidiaImage:
   pullPolicy: Always
