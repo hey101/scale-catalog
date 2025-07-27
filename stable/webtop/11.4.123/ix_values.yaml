@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: lscr.io/linuxserver/webtop
-  tag: latest@sha256:0d7d39b5a9a307d5fa32da1fde4e213cfaba7e41dc0aad47845231692be7ab68
+  tag: latest@sha256:ac422c2b88ed54280c6f14871c3cc704bb25a25b901f512b2978f05f41f18c71
 ubuntuXFCEImage:
   repository: lscr.io/linuxserver/webtop
   tag: ubuntu-xfce@sha256:d3c8f640dad0ba5c8547d7e26de933258d300db4650855ccaa25fdeec0078ba5
@@ -12,7 +12,7 @@ fedoraXFCEImage:
   pullPolicy: Always
 archXFCEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-xfce@sha256:0cce2a9987de6c79ced884fcabc3f77d1a418c8e70c16ac6a61ade2559450f4a
+  tag: arch-xfce@sha256:78da53f7717000271048ee5fb079d0ae24285d7211c9f361630b438f2220af7a
   pullPolicy: Always
 alpineKDEImage:
   repository: lscr.io/linuxserver/webtop
@@ -32,7 +32,7 @@ archKDEImage:
   pullPolicy: Always
 alpineMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-mate@sha256:96f25f286aa2cd38b6d46019fa070e2b59f0bc5fa988351f37bb731ce517a6fc
+  tag: alpine-mate@sha256:cb7d7a8a42b526e3676f0b1ce587962a65ce67b1dfd64610102d87bfbc9aa15d
   pullPolicy: Always
 ubuntuMATEImage:
   repository: lscr.io/linuxserver/webtop
@@ -44,11 +44,11 @@ fedoraMATEImage:
   pullPolicy: Always
 archMATEImage:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-mate@sha256:b12603e40e2a0def694fa5be0954f009c59acb9a751fee333148fba2a0f8c651
+  tag: arch-mate@sha256:fdec2f95a58910f6aacad58d6d2841fe37d8538a3c2c7f11e967b4d5cac7f5d1
   pullPolicy: Always
 alpineI3Image:
   repository: lscr.io/linuxserver/webtop
-  tag: alpine-i3@sha256:c4c82c4a66994c316fdc58abdfcc02722e2f48be6b0725471be459dc92296692
+  tag: alpine-i3@sha256:819c2bfb7f9a45b32ee83d61872120cff7cebf70c901a34a10ddf68ce0298965
   pullPolicy: Always
 ubuntuI3Image:
   repository: lscr.io/linuxserver/webtop
@@ -60,7 +60,7 @@ fedoraI3Image:
   pullPolicy: Always
 archI3Image:
   repository: lscr.io/linuxserver/webtop
-  tag: arch-i3@sha256:cb99a34c09a4c8e824c4feb760a09c082b643c79a56e2f23c955830e766bb87f
+  tag: arch-i3@sha256:7def0d2807a6184a5d60fc8bf6aec50810f247a9f239645d173494ec9b930408
   pullPolicy: Always
 alpineOpenBoxImage:
   repository: lscr.io/linuxserver/webtop
