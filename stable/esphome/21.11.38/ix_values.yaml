@@ -1,7 +1,7 @@
 image:
   repository: docker.io/esphome/esphome
   pullPolicy: IfNotPresent
-  tag: 2025.7.2@sha256:51444ee5d1532330c1bd871e90d341d9f416111d63d88abd04d0ef23216cde27
+  tag: 2025.7.4@sha256:b67293dc1c8ced26b92d8e883f722cd2207e0f193d9aa3e6eb27bde5af874b72
 securityContext:
   container:
     runAsNonRoot: false
