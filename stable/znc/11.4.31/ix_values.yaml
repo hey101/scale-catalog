@@ -1,0 +1,25 @@
+image:
+  repository: ghcr.io/linuxserver/znc
+  pullPolicy: IfNotPresent
+  tag: 1.10.1@sha256:1d9e9bc30a1a61d41481e3c6f7ca58cbe30c38c3a67af1cc43720ceda18ca3aa
+service:
+  main:
+    ports:
+      main:
+        targetPort: 6501
+        port: 6501
+persistence:
+  varrun:
+    enabled: true
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0

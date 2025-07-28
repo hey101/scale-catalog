@@ -1,0 +1,36 @@
+image:
+  repository: ghcr.io/linuxserver/filezilla
+  tag: 3.68.1@sha256:7c05f0a925f8a4bca5d2487d17f96d3bb4f6c5a57f8e69fd892e1d83a92bd496
+  pullPolicy: IfNotPresent
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          securityContext:
+
+service:
+  main:
+    ports:
+      main:
+        port: 10035
+        protocol: http
+        targetPort: 3000
+
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  varrun:
+    enabled: false
+
+portal:
+  open:
+    enabled: true
