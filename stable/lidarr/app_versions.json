@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/24.6.34",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -5374,7 +5374,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/24.6.33",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -10744,7 +10744,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/23.2.7",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -16114,7 +16114,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/23.2.6",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -21484,7 +21484,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/22.1.6",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -26851,7 +26851,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/22.1.5",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -32218,7 +32218,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/21.6.17",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -37256,7 +37256,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/21.6.16",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -42294,7 +42294,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/20.3.1",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -47332,7 +47332,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/20.3.0",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
             "definitions/interface",
             "definitions/timezone",
@@ -52370,13 +52370,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/19.3.0",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.1.7.4030_19.3.0",
         "version": "19.3.0",
@@ -57451,13 +57451,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lidarr/19.2.0",
-        "last_update": "2025-07-29 21:37:53",
+        "last_update": "2025-07-30 03:17:12",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.1.7.4030_19.2.0",
         "version": "19.2.0",
