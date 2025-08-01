@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/jackett
   pullPolicy: IfNotPresent
-  tag: 0.22.2208@sha256:f60ab60296575ef2de158bd7a4c2fd25fe19cf666b8573a4311f6ae8aa5eb04d
+  tag: 0.22.2217@sha256:31ac0728e9491bf7c094e2ed5f161d158ad698ff1d9e00efe974847ea25b2eed
 portal:
   open:
     enabled: false
