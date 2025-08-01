@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/yacy/yacy_search_server
-  tag: latest@sha256:57bd255b476d187a04e6b5e3af659e0a3d5b8b6a2886edc7771d22c536f32fb8
+  tag: latest@sha256:06e80df3b9a732712a0b3dc9b112583a96c5c4fafc1ab5ec0c67deec8b9e1b2a
 persistence:
   appdata:
     enabled: true
