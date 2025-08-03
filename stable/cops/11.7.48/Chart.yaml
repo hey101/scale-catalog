@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "3.6.5"
 dependencies:
   - name: common
-    version: 28.15.0
+    version: 28.15.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -38,4 +38,4 @@ sources:
   - https://github.com/orgs/linuxserver/packages/container/package/cops
   - https://github.com/truecharts/charts/tree/master/charts/stable/cops
 type: application
-version: 11.7.46
+version: 11.7.48
