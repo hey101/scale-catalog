@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2.2.0"
 dependencies:
   - name: common
-    version: 28.15.0
+    version: 28.15.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/deluge-torrent/deluge
   - https://github.com/truecharts/charts/tree/master/charts/stable/deluge
 type: application
-version: 20.4.33
+version: 20.4.35
