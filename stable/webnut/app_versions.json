@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/10.4.23",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_10.4.23",
@@ -4717,11 +4717,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/10.4.22",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_10.4.22",
@@ -9430,11 +9430,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/9.0.9",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_9.0.9",
@@ -14140,11 +14140,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/9.0.8",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_9.0.8",
@@ -18850,11 +18850,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/8.8.14",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_8.8.14",
@@ -23332,11 +23332,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/8.8.13",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "latest_8.8.13",
@@ -27814,12 +27814,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/7.3.0",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "latest_7.3.0",
@@ -32339,12 +32339,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/webnut/7.2.0",
-        "last_update": "2025-08-05 07:32:31",
+        "last_update": "2025-08-05 11:30:45",
         "required_features": [
+            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate"
         ],
         "human_version": "latest_7.2.0",
