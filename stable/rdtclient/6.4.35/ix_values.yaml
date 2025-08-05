@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/rogerfar/rdtclient
   pullPolicy: IfNotPresent
-  tag: 2.0.114@sha256:063ae3b8ae4c4bf3c55cc7aa38bf11e8110ddee7093dd893e181bb8fc88b1f20
+  tag: 2.0.116@sha256:5f0b90ffd09892fc003ab84a42b9bec64da201aefc9ae6f6dbb0bdeef351636c
 aria2Image:
   repository: docker.io/p3terx/aria2-pro
   pullPolicy: IfNotPresent
