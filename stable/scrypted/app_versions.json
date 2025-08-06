@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/6.21.21",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -5936,7 +5936,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/6.21.20",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -11868,7 +11868,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/5.1.2",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -17797,7 +17797,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/5.1.1",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -23726,7 +23726,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/4.9.14",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -29221,7 +29221,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/4.9.13",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -34716,13 +34716,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/3.5.0",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "18.0.0_3.5.0",
         "version": "3.5.0",
@@ -40254,13 +40254,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/scrypted/3.4.0",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "18.0.0_3.4.0",
         "version": "3.4.0",

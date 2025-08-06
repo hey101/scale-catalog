@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/10.5.25",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -3781,7 +3781,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/10.5.24",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -7558,7 +7558,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/9.0.10",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -11332,7 +11332,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/9.0.9",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -15106,7 +15106,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/8.8.15",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -18652,7 +18652,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/8.8.14",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
             "definitions/certificate",
             "definitions/timezone",
@@ -22198,13 +22198,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/7.4.0",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_7.4.0",
         "version": "7.4.0",
@@ -25787,13 +25787,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/impostor-server/7.3.0",
-        "last_update": "2025-08-06 03:35:24",
+        "last_update": "2025-08-06 10:23:10",
         "required_features": [
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_7.3.0",
         "version": "7.3.0",
