@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/11.10.27",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -5350,7 +5350,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/11.10.26",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -10696,7 +10696,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/10.0.9",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -16039,7 +16039,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/10.0.8",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -21382,7 +21382,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/9.14.7",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -26396,7 +26396,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/9.14.6",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -31410,13 +31410,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/8.4.0",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.24.0_8.4.0",
         "version": "8.4.0",
@@ -36467,13 +36467,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/linkding/8.3.0",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.24.0_8.3.0",
         "version": "8.3.0",

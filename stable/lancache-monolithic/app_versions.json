@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/10.4.25",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -6866,7 +6866,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/10.4.24",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -13728,7 +13728,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/9.0.9",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -20587,7 +20587,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/9.0.8",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -27446,7 +27446,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/8.8.14",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -33774,7 +33774,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/8.8.13",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
             "normalize/interfaceConfiguration",
             "definitions/interface",
@@ -40102,13 +40102,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/7.3.0",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_7.3.0",
         "version": "7.3.0",
@@ -46473,13 +46473,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/lancache-monolithic/7.2.0",
-        "last_update": "2025-08-08 21:53:39",
+        "last_update": "2025-08-09 02:06:49",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_7.2.0",
         "version": "7.2.0",
