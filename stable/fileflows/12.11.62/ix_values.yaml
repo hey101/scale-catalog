@@ -1,13 +1,15 @@
 image:
-  repository: docker.io/wiserain/flexget
+  repository: docker.io/revenz/fileflows
+  tag: 25.08@sha256:c7a2de3d80c68d0955dc293d440e750dc81d5a5b338c83bd19ac69ce5badc9e8
   pullPolicy: IfNotPresent
-  tag: 3.17.0@sha256:46edee984ab5f3ef42ad13edd66a97adf6ac67a29f6d38bb43f88ee216f6009c
 securityContext:
   container:
-    runAsNonRoot: false
     readOnlyRootFilesystem: false
+    runAsNonRoot: false
     runAsUser: 0
     runAsGroup: 0
+    allowPrivilegeEscalation: true
+    privileged: true
 workload:
   main:
     podSpec:
@@ -23,23 +25,26 @@ workload:
             startup:
               type: http
               path: /
-          env:
-            FG_LOG_LEVEL: info
-            FG_LOG_FILE: flexget.log
-            FG_WEBUI_PASSWD: "jLeT78KBDPW"
+          env: {}
 service:
   main:
     ports:
       main:
-        port: 10174
-        targetPort: 5050
+        port: 10242
+        targetPort: 5000
 persistence:
-  config:
-    enabled: true
-    mountPath: /config
   data:
     enabled: true
-    mountPath: /data
+    mountPath: /app/Data
+  logs:
+    enabled: true
+    mountPath: /app/Logs
+  temp:
+    enabled: true
+    mountPath: /temp
+  media:
+    enabled: true
+    mountPath: /media
 portal:
   open:
     enabled: true
