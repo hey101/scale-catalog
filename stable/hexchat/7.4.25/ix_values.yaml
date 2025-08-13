@@ -1,0 +1,31 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/binhex/arch-hexchat
+  tag: latest@sha256:c99d7cea48789657fb30de2194646e23631ee2249f59113d1cadf40689b72d34
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10307
+        protocol: http
+        targetPort: 6080
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            VNC_PASSWORD: ""
+            WEBPAGE_TITLE: HexChat

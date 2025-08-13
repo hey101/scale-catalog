@@ -1,0 +1,33 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/ckulka/baikal
+  tag: 0.10.1-nginx@sha256:434bdd162247cc6aa6f878c9b4dce6216e39e79526b980453b13812d5f8ebf4b
+persistence:
+  config:
+    enabled: true
+    mountPath: /var/www/baikal/config
+  specific:
+    enabled: true
+    mountPath: /var/www/baikal/Specific
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10293
+        protocol: http
+        targetPort: 80
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            BAIKAL_SKIP_CHOWN: false

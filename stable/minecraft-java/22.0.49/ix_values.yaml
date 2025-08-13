@@ -1,0 +1,247 @@
+image:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1@sha256:92681e6745391ed80c7e59ebe9ba9956e787178b9e52c34e734e998bc80a8649
+  pullPolicy: Always
+j21Image:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java21@sha256:92681e6745391ed80c7e59ebe9ba9956e787178b9e52c34e734e998bc80a8649
+  pullPolicy: Always
+j21graalvmImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java21-graalvm@sha256:f82784cb0f117569015516c35c7bef6881a5c1d546cb5e5bbebe714cd0380077
+  pullPolicy: Always
+j21alpineImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java21-alpine@sha256:8e7fbabc2961178b6b2b4255bffdeafd39bb505805a33a1547fdd3bbdf18e17f
+  pullPolicy: Always
+j17Image:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java17@sha256:8004ad61ba9d7ee41bb705f10a60dcb1b26981f54d5382b778f09223371580cc
+  pullPolicy: Always
+j17jdkImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2024.6.1-java17-jdk@sha256:2c43fcede436aff9f50b1adf4448d55d221651be471ef41412232c141bfa89f6
+  pullPolicy: Always
+j17graalvmImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java17-graalvm@sha256:34c3d8eb41a2e372ffda87574958cec064e330635161571d09f39964ffb43109
+  pullPolicy: Always
+j17alpineImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java17-alpine@sha256:6420f14e2ff4611e2d2d5d703b51f4079ad4737cfc993cbf7ba159dd548ddf84
+  pullPolicy: Always
+j11Image:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java11@sha256:413beec695a3e71f1794624d88c56f6d2820c1d397c2ffd8b74922a90bb1c2c1
+  pullPolicy: Always
+j8Image:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java8@sha256:8c69d0fc87f7f1026d4967a68fa7a224854f0a21675f8d8ef75aff4e0db78a02
+  pullPolicy: Always
+j8graalvmImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java8-graalvm-ce@sha256:8f18b4a9cc670f753ffe2676d723d3a6d09c3d046d105b28442cdefcbe22d57e
+  pullPolicy: Always
+j8jdkImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2025.8.1-java8-jdk@sha256:26d86869032002ed62c301c7277f9f52d0e7fa3077bac2c61436500dea603751
+  pullPolicy: Always
+j8alpineImage:
+  repository: docker.io/itzg/minecraft-server
+  tag: 2024.9.0-java8-alpine@sha256:ee8505b9670a82b7703ec35b2a87fe9b7f7823b50ae50fad18bf1fe511e577f9
+  pullPolicy: Always
+mcBackupImage:
+  repository: docker.io/itzg/mc-backup
+  tag: latest@sha256:e870f9fc61f739cefe7b60b7b4a696bb4e20de65567ee4b44ce502dffffe4e1d
+  pullPolicy: Always
+
+service:
+  main:
+    enabled: true
+    ports:
+      main:
+        enabled: true
+        protocol: tcp
+        port: 25565
+      query:
+        enabled: true
+        protocol: udp
+        port: 25565
+  rcon:
+    enabled: true
+    ports:
+      rcon:
+        enabled: true
+        port: 25575
+
+mcbackup:
+  zstd_params:
+    - --long=25
+    - --single-thread
+  # comma separated list
+  excludes:
+    - "*.jar"
+    - "cache"
+    - "logs"
+    - "*.tmp"
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          imageSelector: image
+          probes:
+            liveness:
+              enabled: true
+              type: exec
+              command:
+                - mc-health
+            readiness:
+              enabled: true
+              type: exec
+              command:
+                - mc-health
+            startup:
+              enabled: true
+              type: exec
+              command:
+                - mc-health
+          env:
+            SERVER_PORT: "{{ .Values.service.main.ports.main.port }}"
+            QUERY_PORT: "{{ .Values.service.main.ports.query.port }}"
+            RCON_PORT: "{{ .Values.service.rcon.ports.rcon.port }}"
+            ENABLE_QUERY: "true"
+            EULA: "TRUE"
+            GUI: "FALSE"
+            OVERRIDE_SERVER_PROPERTIES: true
+            VERSION: "LATEST"
+            TYPE: "VANILLA"
+            DIFFICULTY: easy
+            MAX_PLAYERS: 20
+            MAX_WORLD_SIZE: 10000
+            ALLOW_NETHER: true
+            ANNOUNCE_PLAYER_ACHIEVEMENTS: true
+            ENABLE_COMMAND_BLOCK: false
+            FORCE_GAMEMODE: false
+            GENERATE_STRUCTURES: true
+            HARDCORE: false
+            MAX_BUILD_HEIGHT: 256
+            MAX_TICK_TIME: 60000
+            SPAWN_ANIMALS: true
+            SPAWN_MONSTERS: true
+            SPAWN_NPCS: true
+            VIEW_DISTANCE: 16
+            MODE: survival
+            MOTD: "Welcome to Minecraft on TrueNAS Scale!"
+            PVP: false
+            LEVEL_TYPE: DEFAULT
+            LEVEL: world
+            ONLINE_MODE: true
+            MEMORY: 2048M
+            RCON_PASSWORD: "secretrconpass"
+            # PACKWIZ_URL: ""
+            # CUSTOM_SERVER: ""
+            # QUILT_LOADER_VERSION: ""
+            # QUILT_LAUNCHER: ""
+            # QUILT_LAUNCHER_URL: ""
+            # PUFFERFISH_BUILD: "lastSuccessfulBuild"
+            # FORGEVERSION: ""
+            # FORGE_INSTALLER: ""
+            # FORGE_INSTALLER_URL: ""
+            # FABRIC_LOADER_VERSION: ""
+            # FABRIC_INSTALLER: ""
+            # FABRIC_INSTALLER_URL: ""
+            # SPIGOT_DOWNLOAD_URL: ""
+            # BUILD_FROM_SOURCE: false
+            # BUKKIT_DOWNLOAD_URL: ""
+            # PAPERBUILD: ""
+            # PAPER_DOWNLOAD_URL: ""
+            # AIRPLANE_BUILD: "lastSuccessfulBuild"
+            # MAGMA_CHANNEL: "stable"
+            # MOHIST_BUILD: ""
+            # CANYON_BUILD: ""
+            # SPONGEBRANCH: "STABLE"
+            # SPONGEVERSION: ""
+            # LIMBO_BUILD: "LATEST"
+            # LIMBO_SCHEMA_FILENAME: "default.schem"
+            # CRUCIBLE_RELEASE: "latest"
+            # FTB_MODPACK_ID: ""
+            # FTB_MODPACK_VERSION_ID: ""
+            # CF_SERVER_MOD: ""
+            # CF_BASE_DIR: ""
+            # USE_MODPACK_START_SCRIPT: true
+            # FTB_LEGACYJAVAFIXER: false
+            # WHITELIST: ""
+            # OPS: ""
+            # ICON: ""
+            # SEED: ""
+            # GENERATOR_SETTINGS: ""
+            # WORLD: ""
+            # FORCE_REDOWNLOAD: false
+            # USE_FLARE_FLAGS: false
+            # USE_AIKAR_FLAGS: true
+            # USE_SIMD_FLAGS: false
+            # JVM_OPTS: ""
+            # JVM_XX_OPTS: ""
+            # CF_API_KEY
+            # CF_PAGE_URL
+            # CF_SLUG
+            # CF_EXCLUDE_INCLUDE_FILE
+            # CF_EXCLUDE_MODS
+            # CF_FORCE_INCLUDE_MODS
+            # CF_FORCE_SYNCHRONIZE
+            # CF_OVERRIDES_SKIP_EXISTING
+            # CF_PARALLEL_DOWNLOADS
+            # CF_SET_LEVEL_FROM
+        mcbackup:
+          enabled: true
+          imageSelector: mcBackupImage
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
+          env:
+            BACKUP_METHOD: "tar"
+            DEST_DIR: "{{.Values.persistence.backups.mountPath }}"
+            SRC_DIR: "{{.Values.persistence.data.mountPath }}"
+            SERVER_PORT: "{{ .Values.service.main.ports.main.port }}"
+            RCON_HOST: '{{ printf "%s-rcon" (include "tc.v1.common.lib.chart.names.fullname" $) }}'
+            RCON_PORT: "{{ .Values.service.rcon.ports.rcon.port }}"
+            RCON_PASSWORD: "{{ .Values.workload.main.podSpec.containers.main.env.RCON_PASSWORD }}"
+            SERVER_HOST: '{{ include "tc.v1.common.lib.chart.names.fullname" $ }}'
+
+            ZSTD_PARAMETERS: '{{ join " " .Values.mcbackup.zstd_params }}'
+            EXCLUDES: '{{ join "," .Values.mcbackup.excludes }}'
+
+            INITIAL_DELAY: "2m"
+            BACKUP_INTERVAL: "24h"
+            PRUNE_BACKUPS_DAYS: "7"
+            PAUSE_IF_NO_PLAYERS: "false"
+            PLAYERS_ONLINE_CHECK_INTERVAL: "5m"
+            LINK_LATEST: "false"
+            TAR_COMPRESS_METHOD: "zstd"
+
+persistence:
+  data:
+    enabled: true
+    targetSelector:
+      main:
+        main:
+          mountPath: /data
+        mcbackup:
+          mountPath: /data
+          readOnly: true
+  backups:
+    enabled: true
+    targetSelector:
+      main:
+        mcbackup:
+          mountPath: /backups
+
+portal:
+  open:
+    enabled: false
