@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/phasecorex/red-discordbot
-  tag: full@sha256:aada273c4291deccf5c0bf86a94c9c37e6d7df9eb504f6ed983f249773aa0ff6
+  tag: full@sha256:ffb3d6f6d7337af68c505952d1570e49dc53feb0f70e2a800113151b4485a096
 persistence:
   data:
     enabled: true
