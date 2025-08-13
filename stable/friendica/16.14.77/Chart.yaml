@@ -16,14 +16,14 @@ dependencies:
     tags: []
     import-values: []
   - name: mariadb
-    version: 16.2.2
+    version: 16.2.3
     repository: oci://tccr.io/truecharts
     condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
   - name: redis
-    version: 17.2.2
+    version: 17.3.0
     repository: oci://tccr.io/truecharts
     condition: redis.enabled
     alias: ""
@@ -48,4 +48,4 @@ sources:
   - https://friendi.ca/
   - https://hub.docker.com/_/friendica
 type: application
-version: 16.14.75
+version: 16.14.77
