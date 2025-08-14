@@ -1,13 +1,13 @@
 image:
-  repository: ghcr.io/linuxserver/remmina
+  repository: ghcr.io/linuxserver/medusa
   pullPolicy: IfNotPresent
-  tag: 1.4.35@sha256:d7f731d19333e0cfde1c083c8dc04aa8e73c08bb7618d9ac83083e9f55a0f97e
+  tag: 1.0.22@sha256:0ecdd7f729a0b88991b57b9b8cf8d1324b1590a341c7d58f80be0cd8ffb88714
 service:
   main:
     ports:
       main:
-        port: 10042
-        targetPort: 3000
+        port: 10068
+        targetPort: 8081
 persistence:
   config:
     enabled: true
