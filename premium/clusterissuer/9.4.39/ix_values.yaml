@@ -1,6 +1,6 @@
 image:
   repository: hello-world
-  tag: latest@sha256:daacd0ea3d05569dd2fda3279da82784201d77224d414e96adfd28b554139c9b
+  tag: latest@sha256:1d983076c7facf19a9a53a7a4855dbd736bf5206e3bfc5142a4c1da4ed44dedc
   pullPolicy: IfNotPresent
 manifestManager:
   enabled: true
