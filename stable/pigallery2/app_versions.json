@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/7.4.22",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -7102,10 +7102,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/7.4.21",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -14200,10 +14200,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/6.0.9",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -21295,10 +21295,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/6.0.8",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -28390,10 +28390,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/5.8.14",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -34853,10 +34853,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/5.8.13",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -41316,13 +41316,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/4.3.0",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -47822,13 +47822,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/4.2.0",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

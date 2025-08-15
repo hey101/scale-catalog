@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/15.4.22",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -5536,10 +5536,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/15.4.21",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -11068,10 +11068,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/14.0.9",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -16597,10 +16597,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/14.0.8",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -22126,10 +22126,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/13.8.14",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -27326,10 +27326,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/13.8.13",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
@@ -32526,13 +32526,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/12.3.0",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.0.15_12.3.0",
         "version": "12.3.0",
@@ -37769,13 +37769,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/hyperion-ng/12.2.0",
-        "last_update": "2025-08-15 16:02:51",
+        "last_update": "2025-08-15 19:22:53",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2.0.15_12.2.0",
         "version": "12.2.0",
