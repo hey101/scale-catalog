@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/15.4.22",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "edge_15.4.22",
@@ -7463,11 +7463,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/15.4.21",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "edge_15.4.21",
@@ -14922,11 +14922,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/14.0.9",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "edge-latest_14.0.9",
@@ -22378,11 +22378,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/14.0.8",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "edge-latest_14.0.8",
@@ -29834,11 +29834,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/13.9.15",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "edge-latest_13.9.15",
@@ -37116,11 +37116,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/13.9.14",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "edge-latest_13.9.14",
@@ -44398,13 +44398,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/12.3.0",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "edge-latest_12.3.0",
         "version": "12.3.0",
@@ -51766,13 +51766,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/airsonic-advanced/12.2.0",
-        "last_update": "2025-08-15 19:22:53",
+        "last_update": "2025-08-15 22:47:54",
         "required_features": [
+            "definitions/certificate",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "edge-latest_12.2.0",
         "version": "12.2.0",
