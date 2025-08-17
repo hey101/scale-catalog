@@ -7,10 +7,10 @@ annotations:
   truecharts.org/train: premium
   truecharts.org/SCALE-support: "true"
 apiVersion: v2
-appVersion: "0.22.2294"
+appVersion: "0.22.2301"
 dependencies:
   - name: common
-    version: 28.16.0
+    version: 28.16.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/premium/custom-app
   - https://ghcr.io/linuxserver/jackett
 type: application
-version: 14.1.101
+version: 14.1.103
