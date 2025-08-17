@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "4.5.0"
 dependencies:
   - name: common
-    version: 28.16.0
+    version: 28.16.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/grocy/grocy
   - https://github.com/truecharts/charts/tree/master/charts/stable/grocy
 type: application
-version: 20.5.43
+version: 20.5.45
