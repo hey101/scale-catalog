@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/7.4.23",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_7.4.23",
         "version": "7.4.23",
@@ -3684,12 +3684,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/7.4.22",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_7.4.22",
         "version": "7.4.22",
@@ -7364,12 +7364,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/6.0.8",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -11041,12 +11041,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/6.0.7",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.7",
         "version": "6.0.7",
@@ -14718,12 +14718,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/5.8.14",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -18167,12 +18167,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/5.8.13",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -21616,10 +21616,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/4.3.0",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
@@ -25108,10 +25108,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/vlmcsd-kms-server/4.2.0",
-        "last_update": "2025-08-17 10:04:26",
+        "last_update": "2025-08-17 14:16:08",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/gpuConfiguration"
