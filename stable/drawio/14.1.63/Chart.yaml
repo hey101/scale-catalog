@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "28.0.9"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://github.com/jgraph/drawio
   - https://hub.docker.com/r/jgraph/drawio
 type: application
-version: 14.1.61
+version: 14.1.63
