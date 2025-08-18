@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "8.2.0"
+appVersion: "8.2.1"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: includeCommon
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/redis
   - https://hub.docker.com/r/bitnami/redis
 type: application
-version: 15.5.48
+version: 15.5.50
