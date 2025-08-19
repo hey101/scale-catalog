@@ -1,0 +1,25 @@
+image:
+  repository: ghcr.io/linuxserver/lazylibrarian
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:888f01d3de2d08483bc541fd80cd2292266bde522a300af9c8dddbeb871adc52
+service:
+  main:
+    ports:
+      main:
+        port: 5299
+        targetPort: 5299
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  varrun:
+    enabled: true
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
