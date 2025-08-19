@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/linuxserver/gclient
   - https://github.com/orgs/linuxserver/packages/container/package/webtop
 type: application
-version: 11.4.145
+version: 11.4.147
