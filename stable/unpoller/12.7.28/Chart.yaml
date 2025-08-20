@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.15.3"
+appVersion: "2.15.4"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://ghcr.io/unpoller/unpoller
   - https://github.com/unifi-poller/unifi-poller
 type: application
-version: 12.7.26
+version: 12.7.28
