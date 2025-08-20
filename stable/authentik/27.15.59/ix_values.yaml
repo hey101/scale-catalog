@@ -12,11 +12,11 @@ ldapImage:
   pullPolicy: IfNotPresent
 radiusImage:
   repository: ghcr.io/goauthentik/radius
-  tag: 2025.6.4@sha256:282aa5e085d42c6424f051ee668a44645408392a6602a93362f4f8b9c4731673
+  tag: 2025.8.0@sha256:9f6d905bbfdf3673c3fdb591e67f11567d228ce4ab30151ea99308153154d258
   pullPolicy: IfNotPresent
 proxyImage:
   repository: ghcr.io/goauthentik/proxy
-  tag: 2025.6.4@sha256:28921cce42aebc2a8c7dfc1de0b46d2dde91fa7ba1c271ca6350a8bd07327550
+  tag: 2025.8.0@sha256:e10cea5eec7c5afd330a8da6c781d756857d493d579f3cc600fe790210a92a3f
   pullPolicy: IfNotPresent
 authentik:
   credentials:
