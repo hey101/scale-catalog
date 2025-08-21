@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "9.6"
+appVersion: "9.7"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://hub.docker.com/r/dpage/pgadmin4
   - https://www.pgadmin.org/
 type: application
-version: 17.11.30
+version: 17.11.32
