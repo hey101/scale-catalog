@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "1.5.1"
 dependencies:
   - name: common
     version: 28.16.2
@@ -16,22 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
-home: https://github.com/hey101/charts/stable/autoscan
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/autoscan.webp
+description: PicoShare is a minimalist service that allows you to share files easily.
+home: https://github.com/hey101/charts/stable/picoshare
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/picoshare.webp
 keywords:
-  - autoscan
-  - media
+  - picoshare
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: autoscan
+name: picoshare
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/autoscan
-  - https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
-  - https://ghcr.io/hotio/autoscan
-  - https://hotio.dev/containers/autoscan
+  - https://github.com/hey101/charts/tree/master/charts/stable/picoshare
+  - https://github.com/mtlynch/picoshare
+  - https://github.com/truecharts/charts/tree/master/charts/stable/picoshare
+  - https://hub.docker.com/r/mtlynch/picoshare
 type: application
-version: 10.4.38
+version: 11.4.26
