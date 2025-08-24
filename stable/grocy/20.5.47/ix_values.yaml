@@ -1,0 +1,23 @@
+image:
+  repository: ghcr.io/linuxserver/grocy
+  tag: 4.5.0@sha256:05b6570206f35bac089e4ff2425de154e2b3c4e4650708daf7f0a35388d3b2e9
+  pullPolicy: IfNotPresent
+service:
+  main:
+    ports:
+      main:
+        port: 10013
+        targetPort: 80
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0

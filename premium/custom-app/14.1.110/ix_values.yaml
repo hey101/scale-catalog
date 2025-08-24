@@ -1,0 +1,19 @@
+image:
+  repository: ghcr.io/linuxserver/jackett
+  pullPolicy: IfNotPresent
+  tag: 0.22.2329@sha256:b2afedcf8c553c8949bfeecabf3cd09e9f7d0d6c3302ce13728cb8c055d120e7
+portal:
+  open:
+    enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: tcp
+            readiness:
+              type: tcp
+            startup:
+              type: tcp
