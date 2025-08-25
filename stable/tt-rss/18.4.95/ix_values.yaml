@@ -5,7 +5,7 @@ image:
 nginxImage:
   repository: docker.io/cthulhoo/ttrss-web-nginx
   pullPolicy: IfNotPresent
-  tag: latest@sha256:f5fe052a5498e4a189dc8ac19556027177713f68d4d951012a73a756782c0099
+  tag: latest@sha256:c198d6ee08785ad68ad20a9eb4c5dffd87ca842616c712fb9004f33b280c8e35
 updaterImage:
   repository: docker.io/cthulhoo/ttrss-fpm-pgsql-static
   pullPolicy: IfNotPresent
