@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/13.5.28",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -4703,10 +4703,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/13.5.27",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -9402,10 +9402,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/11.0.8",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -14098,10 +14098,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/11.0.7",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -18794,10 +18794,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/10.8.14",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -23262,10 +23262,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/10.8.13",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -27730,13 +27730,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/9.3.0",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.10.2_9.3.0",
         "version": "9.3.0",
@@ -32241,13 +32241,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shlink-web-client/9.2.0",
-        "last_update": "2025-08-26 03:43:38",
+        "last_update": "2025-08-26 07:03:02",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/gpuConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.10.2_9.2.0",
         "version": "9.2.0",
