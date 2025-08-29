@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.0.22"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 28.16.2
@@ -16,27 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: An automatic Video Library Manager for TV Shows
-home: https://github.com/hey101/charts/stable/medusa
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/medusa.webp
+description: Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
+home: https://github.com/hey101/charts/stable/autoscan
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/autoscan.webp
 keywords:
-  - medusa
-  - video
-  - library
-  - manager
-  - tv
-  - shows
+  - autoscan
+  - media
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: medusa
+name: autoscan
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/medusa
-  - https://github.com/truecharts/charts/tree/master/charts/stable/medusa
-  - https://ghcr.io/linuxserver/medusa
-  - https://github.com/linuxserver/docker-medusa
-  - https://pymedusa.com/
+  - https://github.com/hey101/charts/tree/master/charts/stable/autoscan
+  - https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
+  - https://ghcr.io/hotio/autoscan
+  - https://hotio.dev/containers/autoscan
 type: application
-version: 12.4.52
+version: 10.4.41
