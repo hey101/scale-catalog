@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/18.8.30",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -5467,10 +5467,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/18.8.29",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -10930,10 +10930,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/17.0.8",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -16390,10 +16390,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/17.0.7",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -21850,10 +21850,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/16.0.10",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -27439,10 +27439,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/16.0.9",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -33028,10 +33028,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/15.8.4",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -38621,10 +38621,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/15.8.3",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -44214,13 +44214,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/14.5.0",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.12.0_14.5.0",
         "version": "14.5.0",
@@ -49878,13 +49878,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/14.4.0",
-        "last_update": "2025-08-28 09:16:34",
+        "last_update": "2025-08-29 03:38:17",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.12.0_14.4.0",
         "version": "14.4.0",
