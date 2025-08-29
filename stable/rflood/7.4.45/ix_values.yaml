@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
-  repository: lscr.io/linuxserver/blender
-  tag: latest@sha256:fa4ee7e3c0996d627f50c05b03f7dcbf0e19b4c38a89084d46b8944a183b10e8
+  repository: ghcr.io/hotio/rflood
+  tag: latest@sha256:a6bc4df141fe3e843049e6cbebc7b792f3f457b23dac87f3d2a445ca2bf585fe
 persistence:
   config:
     enabled: true
@@ -19,7 +19,7 @@ service:
     ports:
       main:
         port: 3000
-        protocol: tcp
+        protocol: http
         targetPort: 3000
 workload:
   main:
@@ -27,5 +27,4 @@ workload:
       containers:
         main:
           env:
-            KEYBOARD: ""
-            SUBFOLDER: ""
+            FLOOD_AUTH: "false"
