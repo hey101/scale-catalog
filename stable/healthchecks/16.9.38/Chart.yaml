@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.10.20250"
+appVersion: "3.11.20250"
 dependencies:
   - name: common
     version: 28.16.2
@@ -35,4 +35,4 @@ sources:
   - https://github.com/healthchecks/healthchecks
   - https://github.com/truecharts/charts/tree/master/charts/stable/healthchecks
 type: application
-version: 16.9.36
+version: 16.9.38
