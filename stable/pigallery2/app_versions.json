@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/7.4.24",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.4.24",
         "version": "7.4.24",
@@ -7102,12 +7102,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/7.4.23",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_7.4.23",
         "version": "7.4.23",
@@ -14200,12 +14200,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/6.0.9",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.9",
         "version": "6.0.9",
@@ -21295,12 +21295,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/6.0.8",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -28390,12 +28390,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/5.8.14",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -34853,12 +34853,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/5.8.13",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -41316,13 +41316,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/4.3.0",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -47822,13 +47822,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/pigallery2/4.2.0",
-        "last_update": "2025-09-03 18:12:35",
+        "last_update": "2025-09-03 21:54:05",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
