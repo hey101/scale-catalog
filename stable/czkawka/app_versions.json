@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/11.8.32",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "25.08.1_11.8.32",
         "version": "11.8.32",
@@ -6669,12 +6669,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/11.8.31",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "25.07.2_11.8.31",
         "version": "11.8.31",
@@ -13334,12 +13334,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/10.1.4",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.05.1_10.1.4",
         "version": "10.1.4",
@@ -19996,12 +19996,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/10.1.3",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.05.1_10.1.3",
         "version": "10.1.3",
@@ -26658,12 +26658,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/9.9.14",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.04.1_9.9.14",
         "version": "9.9.14",
@@ -32789,12 +32789,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/9.9.13",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "24.04.1_9.9.13",
         "version": "9.9.13",
@@ -38920,13 +38920,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/8.1.0",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "24.02.1_8.1.0",
         "version": "8.1.0",
@@ -45094,13 +45094,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/8.0.0",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "24.02.1_8.0.0",
         "version": "8.0.0",
@@ -51268,13 +51268,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/7.2.0",
-        "last_update": "2025-09-03 09:56:24",
+        "last_update": "2025-09-03 14:18:28",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "23.11.2_7.2.0",
         "version": "7.2.0",
