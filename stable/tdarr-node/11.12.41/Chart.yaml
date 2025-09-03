@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "8.7.0"
+appVersion: "2.46.01"
 dependencies:
   - name: common
     version: 28.16.2
@@ -16,26 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Professional Photo Management with the Power of Open Source
-home: https://github.com/hey101/charts/stable/digikam
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/digikam.webp
+description: Audio/Video library transcoding automation
+home: https://github.com/hey101/charts/stable/tdarr-node
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/tdarr-node.webp
 keywords:
-  - digikam
-  - photo
-  - management
-  - image
-  - gallery
+  - encode
+  - media
+  - tdarr
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: digikam
+name: tdarr-node
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/digikam
-  - https://github.com/truecharts/charts/tree/master/charts/stable/digikam
-  - https://ghcr.io/linuxserver/digikam
-  - https://github.com/linuxserver/docker-digikam
-  - https://www.digikam.org/
+  - https://github.com/hey101/charts/tree/master/charts/stable/tdarr-node
+  - https://github.com/HaveAGitGat/Tdarr
+  - https://github.com/truecharts/charts/tree/master/charts/stable/tdarr-node
+  - https://hub.docker.com/r/haveagitgat/tdarr_node
 type: application
-version: 14.1.58
+version: 11.12.41
