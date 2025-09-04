@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/10.4.26",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.7.0_10.4.26",
         "version": "10.4.26",
@@ -5302,12 +5302,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/10.4.25",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.7.0_10.4.25",
         "version": "10.4.25",
@@ -10600,12 +10600,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/9.0.10",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.7.0_9.0.10",
         "version": "9.0.10",
@@ -15895,12 +15895,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/9.0.9",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.7.0_9.0.9",
         "version": "9.0.9",
@@ -21190,12 +21190,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/8.9.14",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.7.0_8.9.14",
         "version": "8.9.14",
@@ -26156,12 +26156,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/8.9.13",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "3.7.0_8.9.13",
         "version": "8.9.13",
@@ -31122,12 +31122,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/7.3.0",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface"
         ],
         "human_version": "3.6.0_7.3.0",
@@ -36131,12 +36131,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kiwix-serve/7.2.0",
-        "last_update": "2025-09-04 10:24:27",
+        "last_update": "2025-09-04 15:27:56",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface"
         ],
         "human_version": "3.6.0_7.2.0",
