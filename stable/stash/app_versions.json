@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/17.6.26",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.28.1_17.6.26",
         "version": "17.6.26",
@@ -8305,12 +8305,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/17.6.25",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.28.1_17.6.25",
         "version": "17.6.25",
@@ -16606,12 +16606,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/16.0.8",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.25.1_16.0.8",
         "version": "16.0.8",
@@ -24904,12 +24904,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/16.0.7",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.25.1_16.0.7",
         "version": "16.0.7",
@@ -33202,12 +33202,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/15.9.14",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.25.1_15.9.14",
         "version": "15.9.14",
@@ -40666,12 +40666,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/15.9.13",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "definitions/timezone",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/timezone"
         ],
         "human_version": "0.25.1_15.9.13",
         "version": "15.9.13",
@@ -48130,13 +48130,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/14.4.0",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.24.3_14.4.0",
         "version": "14.4.0",
@@ -55637,13 +55637,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/stash/14.3.0",
-        "last_update": "2025-09-03 23:31:33",
+        "last_update": "2025-09-04 05:29:31",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
             "definitions/interface",
             "definitions/certificate",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "0.24.3_14.3.0",
         "version": "14.3.0",
