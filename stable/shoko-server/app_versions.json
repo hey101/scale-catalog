@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/12.2.25",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.1.0_12.2.25",
         "version": "12.2.25",
@@ -5281,12 +5281,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/12.2.24",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.1.0_12.2.24",
         "version": "12.2.24",
@@ -10558,12 +10558,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/11.1.11",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.0.0_11.1.11",
         "version": "11.1.11",
@@ -15835,12 +15835,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/11.1.10",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_11.1.10",
         "version": "11.1.10",
@@ -21112,12 +21112,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/10.0.8",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_10.0.8",
         "version": "10.0.8",
@@ -26386,12 +26386,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/10.0.7",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_10.0.7",
         "version": "10.0.7",
@@ -31660,12 +31660,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/9.8.14",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_9.8.14",
         "version": "9.8.14",
@@ -36605,12 +36605,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/9.8.13",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_9.8.13",
         "version": "9.8.13",
@@ -41550,13 +41550,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/8.3.0",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
+            "definitions/certificate",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_8.3.0",
         "version": "8.3.0",
@@ -46538,13 +46538,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/shoko-server/8.2.0",
-        "last_update": "2025-09-04 05:29:31",
+        "last_update": "2025-09-04 10:24:27",
         "required_features": [
+            "definitions/certificate",
             "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.2.2_8.2.0",
         "version": "8.2.0",
