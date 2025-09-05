@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.7.7"
+appVersion: "3.8.0"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -48,4 +48,4 @@ sources:
   - https://github.com/CTFd/CTFd
   - https://github.com/truecharts/charts/tree/master/charts/stable/ctfd
 type: application
-version: 6.12.43
+version: 6.12.45
