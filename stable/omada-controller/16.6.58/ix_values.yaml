@@ -1,6 +1,6 @@
 image:
   repository: docker.io/mbentley/omada-controller
-  tag: 5.15@sha256:114b5a61343cb43099548ebb6239c28e508e90d85342b1941bba39e7d0e0958c
+  tag: 5.15@sha256:79ccc84c5dbf25c7fbdc8d62207b41de82730f57e68659e1d8ebdcff2c0f8b66
   pullPolicy: IfNotPresent
 service:
   main:
