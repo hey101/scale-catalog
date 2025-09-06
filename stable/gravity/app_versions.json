@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.32",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -5448,11 +5448,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/5.12.31",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -10892,11 +10892,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/4.1.2",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -16333,11 +16333,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/4.1.1",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -21774,11 +21774,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/3.8.14",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -26886,11 +26886,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/3.8.13",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface"
         ],
@@ -31998,14 +31998,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/2.4.0",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "0.8.1_2.4.0",
         "version": "2.4.0",
@@ -37153,14 +37153,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gravity/2.3.0",
-        "last_update": "2025-09-05 18:15:06",
+        "last_update": "2025-09-05 23:25:50",
         "required_features": [
             "definitions/nodeIP",
-            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "0.8.1_2.3.0",
         "version": "2.3.0",
