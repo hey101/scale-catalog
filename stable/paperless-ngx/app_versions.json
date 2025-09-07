@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/9.5.14",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -6927,7 +6927,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/9.5.13",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -13850,7 +13850,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/8.2.12",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -20770,7 +20770,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/8.2.11",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -27690,7 +27690,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/7.12.20",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -34537,7 +34537,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/7.12.19",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -41384,13 +41384,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/6.8.0",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.5.3_6.8.0",
         "version": "6.8.0",
@@ -48306,13 +48306,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/6.7.0",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.5.3_6.7.0",
         "version": "6.7.0",

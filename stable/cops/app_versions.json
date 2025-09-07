@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/11.7.53",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -5889,7 +5889,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/11.7.52",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -11774,7 +11774,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/10.1.21",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -17659,7 +17659,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/10.1.20",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -23544,7 +23544,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/9.2.2",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -29426,7 +29426,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/9.2.1",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -35308,7 +35308,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/8.10.17",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -40760,7 +40760,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/8.10.16",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -46212,13 +46212,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/7.4.0",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_7.4.0",
         "version": "7.4.0",
@@ -51707,13 +51707,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/cops/7.3.0",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2.3.1_7.3.0",
         "version": "7.3.0",

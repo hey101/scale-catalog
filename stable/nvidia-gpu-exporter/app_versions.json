@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/4.5.26",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -4004,7 +4004,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/4.5.25",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -8004,7 +8004,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/3.0.9",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -12001,7 +12001,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/3.0.8",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -15998,7 +15998,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/2.8.14",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -19868,7 +19868,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/2.8.13",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",
@@ -23738,13 +23738,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/1.1.0",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.2.0_1.1.0",
         "version": "1.1.0",
@@ -27651,13 +27651,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/nvidia-gpu-exporter/1.0.0",
-        "last_update": "2025-09-07 02:12:22",
+        "last_update": "2025-09-07 06:12:57",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
-            "definitions/certificate",
             "definitions/interface",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "1.2.0_1.0.0",
         "version": "1.0.0",
