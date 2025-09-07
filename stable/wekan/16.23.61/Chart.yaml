@@ -16,7 +16,7 @@ dependencies:
     tags: []
     import-values: []
   - name: mongodb
-    version: 16.3.4
+    version: 16.3.7
     repository: oci://tccr.io/truecharts
     condition: mongodb.enabled
     alias: ""
@@ -42,4 +42,4 @@ sources:
   - https://hub.docker.com/r/wekanteam/wekan
   - https://wekan.github.io/
 type: application
-version: 16.23.59
+version: 16.23.61
