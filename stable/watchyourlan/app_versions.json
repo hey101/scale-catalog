@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/11.0.7",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "2.0.4_11.0.7",
@@ -5353,12 +5353,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/11.0.6",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "2.0.4_11.0.6",
@@ -10702,12 +10702,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/10.1.5",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "1.0.6_10.1.5",
@@ -16051,12 +16051,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/10.1.4",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "1.0.6_10.1.4",
@@ -21400,12 +21400,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/9.0.8",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "1.0.6_9.0.8",
@@ -26746,12 +26746,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/9.0.7",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "1.0.6_9.0.7",
@@ -32092,12 +32092,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/8.8.14",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "1.0.6_8.8.14",
@@ -37109,12 +37109,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/8.8.13",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/nodeIP",
             "definitions/interface"
         ],
         "human_version": "1.0.6_8.8.13",
@@ -42126,14 +42126,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/7.3.0",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/nodeIP",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.0.6_7.3.0",
         "version": "7.3.0",
@@ -47186,14 +47186,14 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/watchyourlan/7.2.0",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/nodeIP",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "1.0.6_7.2.0",
         "version": "7.2.0",

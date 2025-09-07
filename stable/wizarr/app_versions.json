@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/9.5.37",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2025.8.3_9.5.37",
         "version": "9.5.37",
@@ -5302,12 +5302,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/9.5.36",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "2025.8.3_9.5.36",
         "version": "9.5.36",
@@ -10600,12 +10600,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/8.0.5",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "4.1.1_8.0.5",
         "version": "8.0.5",
@@ -15895,12 +15895,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/8.0.4",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "4.1.1_8.0.4",
         "version": "8.0.4",
@@ -21190,12 +21190,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/7.0.4",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.5.1_7.0.4",
         "version": "7.0.4",
@@ -26485,12 +26485,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/7.0.3",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.5.1_7.0.3",
         "version": "7.0.3",
@@ -31796,12 +31796,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/6.8.14",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.5.1_6.8.14",
         "version": "6.8.14",
@@ -36762,12 +36762,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/6.8.13",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
-            "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "3.5.1_6.8.13",
         "version": "6.8.13",
@@ -41728,13 +41728,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/5.3.0",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.5.1_5.3.0",
         "version": "5.3.0",
@@ -46737,13 +46737,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/5.2.0",
-        "last_update": "2025-09-06 22:21:51",
+        "last_update": "2025-09-07 02:12:22",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "3.5.1_5.2.0",
         "version": "5.2.0",
