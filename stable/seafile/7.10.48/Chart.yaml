@@ -23,7 +23,7 @@ dependencies:
     tags: []
     import-values: []
   - name: memcached
-    version: 16.3.2
+    version: 16.3.5
     repository: oci://tccr.io/truecharts
     condition: memcached.enabled
     alias: ""
@@ -50,4 +50,4 @@ sources:
   - https://hub.docker.com/r/seafileltd/seafile-mc
   - https://seafile.com
 type: application
-version: 7.10.46
+version: 7.10.48
