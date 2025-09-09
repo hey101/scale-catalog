@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.525"
+appVersion: "2.527"
 dependencies:
   - name: common
     version: 28.16.2
@@ -34,4 +34,4 @@ sources:
   - https://github.com/jenkinsci/docker
   - https://hub.docker.com/r/jenkins/jenkins
 type: application
-version: 9.28.56
+version: 9.28.58

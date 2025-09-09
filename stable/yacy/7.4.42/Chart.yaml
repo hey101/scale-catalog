@@ -16,22 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: |
-  [b]CloudCommander[/b] is a simple web file browser with a built in text editor and archive compress/extract abilities.[br/]
-home: https://github.com/hey101/charts/stable/cloudcommander
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/cloudcommander.webp
+description: YaCy decentralized search engine (https://yacy.net)
+home: https://github.com/hey101/charts/stable/yacy
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/yacy.webp
 keywords:
-  - cloudcommander
+  - yacy
   - Tools-Utilities
+  - Network-Web
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: cloudcommander
+name: yacy
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/cloudcommander
-  - https://github.com/truecharts/charts/tree/master/charts/stable/cloudcommander
-  - https://hub.docker.com/r/coderaiser/cloudcmd
+  - https://github.com/hey101/charts/tree/master/charts/stable/yacy
+  - https://github.com/truecharts/charts/tree/master/charts/stable/yacy
+  - https://hub.docker.com/r/yacy/yacy_search_server
+  - https://yacy.net/
 type: application
-version: 7.4.34
+version: 7.4.42
