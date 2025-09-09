@@ -1,6 +1,6 @@
 image:
   repository: docker.io/tinymediamanager/tinymediamanager
-  tag: 5.1.8@sha256:2c5c8612ca5406718a488ea61478dab3c17b7650e53cecaae3c006b95e77a9ca
+  tag: 5.2.1@sha256:011846cdfda1a51b899773fb1ba29fcf8489708a2c23380ac55bdb06d56b4878
   pullPolicy: IfNotPresent
 service:
   main:
