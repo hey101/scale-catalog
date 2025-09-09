@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.1"
+appVersion: "4.2"
 dependencies:
   - name: common
     version: 28.16.2
@@ -48,4 +48,4 @@ sources:
   - https://ghcr.io/rommapp/romm
   - https://github.com/zurdi15/romm
 type: application
-version: 10.18.57
+version: 10.18.59
