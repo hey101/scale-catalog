@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/12.4.38",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.1.5_12.4.38",
         "version": "12.4.38",
@@ -7212,12 +7212,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/12.4.37",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.1.5_12.4.37",
         "version": "12.4.37",
@@ -14420,12 +14420,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/11.0.13",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.1.2_11.0.13",
         "version": "11.0.13",
@@ -21625,12 +21625,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/11.0.12",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.1.2_11.0.12",
         "version": "11.0.12",
@@ -28830,12 +28830,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/10.8.17",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.1.2_10.8.17",
         "version": "10.8.17",
@@ -35403,12 +35403,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/10.8.16",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
             "definitions/timezone",
-            "definitions/interface",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2.1.2_10.8.16",
         "version": "10.8.16",
@@ -41976,13 +41976,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/9.3.0",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.1.2_9.3.0",
         "version": "9.3.0",
@@ -48592,13 +48592,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ubooquity/9.2.0",
-        "last_update": "2025-09-09 18:33:41",
+        "last_update": "2025-09-09 23:06:37",
         "required_features": [
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "2.1.2_9.2.0",
         "version": "9.2.0",
