@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/11.7.33",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "25.08.1_11.7.33",
         "version": "11.7.33",
@@ -5302,12 +5302,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/11.7.32",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "25.08.1_11.7.32",
         "version": "11.7.32",
@@ -10600,12 +10600,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/10.1.2",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "24.05.1_10.1.2",
         "version": "10.1.2",
@@ -15895,12 +15895,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/10.1.1",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "24.05.1_10.1.1",
         "version": "10.1.1",
@@ -21190,12 +21190,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/9.8.14",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "23.10.1_9.8.14",
         "version": "9.8.14",
@@ -26156,12 +26156,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/9.8.13",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "23.10.1_9.8.13",
         "version": "9.8.13",
@@ -31122,11 +31122,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/8.3.0",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
@@ -36131,11 +36131,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/homer/8.2.0",
-        "last_update": "2025-09-10 14:05:26",
+        "last_update": "2025-09-10 17:40:39",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "definitions/gpuConfiguration",
+            "definitions/interface",
             "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
