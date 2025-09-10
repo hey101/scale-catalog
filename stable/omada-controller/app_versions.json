@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/16.6.62",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -6723,7 +6723,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/16.6.61",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -13442,7 +13442,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/15.0.13",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -20158,7 +20158,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/15.0.12",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -26874,7 +26874,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/14.8.14",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -33160,7 +33160,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/14.8.13",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
             "definitions/interface",
             "definitions/certificate",
@@ -39446,13 +39446,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/13.2.0",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "5.13.0_13.2.0",
         "version": "13.2.0",
@@ -45775,13 +45775,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/omada-controller/13.1.1",
-        "last_update": "2025-09-10 02:50:21",
+        "last_update": "2025-09-10 06:22:12",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/interface"
         ],
         "human_version": "5.13.0_13.1.1",
         "version": "13.1.1",
