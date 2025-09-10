@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.1.48"
+appVersion: "1.1.50"
 dependencies:
   - name: common
     version: 28.16.2
@@ -35,4 +35,4 @@ sources:
   - https://github.com/Ylianst/MeshCentral
   - https://github.com/truecharts/charts/tree/master/charts/stable/meshcentral
 type: application
-version: 17.4.35
+version: 17.4.37
