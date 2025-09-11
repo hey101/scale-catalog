@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/27.15.61",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2025.8.1_27.15.61",
@@ -9601,11 +9601,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/27.15.60",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2025.8.0_27.15.60",
@@ -19198,11 +19198,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/26.1.8",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2024.4.2_26.1.8",
@@ -28792,11 +28792,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/26.1.7",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2024.4.2_26.1.7",
@@ -38386,11 +38386,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/25.4.5",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2024.4.1_25.4.5",
@@ -47705,11 +47705,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/25.4.1",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2024.4.0_25.4.1",
@@ -57024,11 +57024,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/24.10.9",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2024.2.2_24.10.9",
@@ -66347,11 +66347,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/24.10.8",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/interface",
             "definitions/certificate",
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "2024.2.2_24.10.8",
@@ -75670,13 +75670,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/23.1.4",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "2024.2.1_23.1.4",
         "version": "23.1.4",
@@ -85064,13 +85064,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/23.1.0",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "2024.2.0_23.1.0",
         "version": "23.1.0",
@@ -94458,13 +94458,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/19.4.0",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "2023.10.7_19.4.0",
         "version": "19.4.0",
@@ -103852,13 +103852,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/authentik/19.3.0",
-        "last_update": "2025-09-10 22:09:29",
+        "last_update": "2025-09-11 01:01:32",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/certificate"
         ],
         "human_version": "2023.10.7_19.3.0",
         "version": "19.3.0",
