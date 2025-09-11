@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/8.4.32",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.4.2_8.4.32",
         "version": "8.4.32",
@@ -5431,12 +5431,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/8.4.31",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.4.1_8.4.31",
         "version": "8.4.31",
@@ -10858,12 +10858,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/7.0.14",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_7.0.14",
         "version": "7.0.14",
@@ -16282,12 +16282,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/7.0.13",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_7.0.13",
         "version": "7.0.13",
@@ -21706,12 +21706,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/6.7.17",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_6.7.17",
         "version": "6.7.17",
@@ -26801,12 +26801,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/6.7.16",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_6.7.16",
         "version": "6.7.16",
@@ -31896,11 +31896,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/5.1.1",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "latest_5.1.1",
         "version": "5.1.1",
@@ -37654,11 +37654,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/5.1.0",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "latest_5.1.0",
         "version": "5.1.0",
@@ -43412,12 +43412,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/4.3.0",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -49213,12 +49213,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/4.2.0",
-        "last_update": "2025-09-11 12:05:11",
+        "last_update": "2025-09-11 14:58:21",
         "required_features": [
-            "definitions/interface",
-            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
