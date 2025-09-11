@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/11.8.32",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "25.08.1_11.8.32",
         "version": "11.8.32",
@@ -6669,12 +6669,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/11.8.31",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "25.07.2_11.8.31",
         "version": "11.8.31",
@@ -13334,12 +13334,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/10.1.4",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "24.05.1_10.1.4",
         "version": "10.1.4",
@@ -19996,12 +19996,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/10.1.3",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "24.05.1_10.1.3",
         "version": "10.1.3",
@@ -26658,12 +26658,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/9.9.14",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "24.04.1_9.9.14",
         "version": "9.9.14",
@@ -32789,12 +32789,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/9.9.13",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "24.04.1_9.9.13",
         "version": "9.9.13",
@@ -38920,10 +38920,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/8.1.0",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
@@ -45094,10 +45094,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/8.0.0",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
@@ -51268,10 +51268,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/czkawka/7.2.0",
-        "last_update": "2025-09-11 01:01:32",
+        "last_update": "2025-09-11 02:33:01",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
