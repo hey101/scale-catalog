@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.15"
+appVersion: "8.10.0"
 dependencies:
   - name: common
     version: 28.16.2
@@ -16,21 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Omada is a SDN tool for TP-Link Omada hardware
-home: https://github.com/hey101/charts/stable/omada-controller
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.webp
+description: Calibre is a powerful and easy to use e-book manager.
+home: https://github.com/hey101/charts/stable/calibre
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/calibre.webp
 keywords:
-  - omada-controller
+  - calibre
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: omada-controller
+name: calibre
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/omada-controller
-  - https://github.com/truecharts/charts/tree/master/charts/stable/omada-controller
-  - https://github.com/mbentley/docker-omada-controller
-  - https://hub.docker.com/r/mbentley/omada-controller
+  - https://github.com/hey101/charts/tree/master/charts/stable/calibre
+  - https://github.com/truecharts/charts/tree/master/charts/stable/calibre
+  - https://ghcr.io/linuxserver/calibre
+  - https://github.com/kovidgoyal/calibre/
 type: application
-version: 16.6.63
+version: 16.14.68
