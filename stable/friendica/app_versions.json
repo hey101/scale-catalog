@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/16.14.89",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.12_16.14.89",
         "version": "16.14.89",
@@ -5974,12 +5974,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/16.14.88",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.12_16.14.88",
         "version": "16.14.88",
@@ -11944,12 +11944,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/15.2.14",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.03.0_15.2.14",
         "version": "15.2.14",
@@ -17911,12 +17911,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/15.2.13",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.03.0_15.2.13",
         "version": "15.2.13",
@@ -23878,12 +23878,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/14.4.28",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.03.0_14.4.28",
         "version": "14.4.28",
@@ -29415,12 +29415,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/14.4.27",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2024.03.0_14.4.27",
         "version": "14.4.27",
@@ -34952,12 +34952,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/13.15.1",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2023.12.0_13.15.1",
         "version": "13.15.1",
@@ -40489,12 +40489,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/13.15.0",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "2023.12.0_13.15.0",
         "version": "13.15.0",
@@ -46026,13 +46026,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/12.5.0",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2023.12.0_12.5.0",
         "version": "12.5.0",
@@ -51606,13 +51606,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/friendica/12.4.0",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "2023.12.0_12.4.0",
         "version": "12.4.0",

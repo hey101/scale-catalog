@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/18.8.30",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.8_18.8.30",
         "version": "18.8.30",
@@ -5467,12 +5467,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/18.8.29",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.8_18.8.29",
         "version": "18.8.29",
@@ -10930,12 +10930,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/17.0.8",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.1.0_17.0.8",
         "version": "17.0.8",
@@ -16390,12 +16390,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/17.0.7",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.1.0_17.0.7",
         "version": "17.0.7",
@@ -21850,12 +21850,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/16.0.10",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.1.0_16.0.10",
         "version": "16.0.10",
@@ -27439,12 +27439,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/16.0.9",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.1.0_16.0.9",
         "version": "16.0.9",
@@ -33028,12 +33028,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/15.8.4",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.12.0_15.8.4",
         "version": "15.8.4",
@@ -38621,12 +38621,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/15.8.3",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "5.12.0_15.8.3",
         "version": "15.8.3",
@@ -44214,13 +44214,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/14.5.0",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "5.12.0_14.5.0",
         "version": "14.5.0",
@@ -49878,13 +49878,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/traccar/14.4.0",
-        "last_update": "2025-09-12 00:41:57",
+        "last_update": "2025-09-12 04:08:15",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "definitions/interface"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "5.12.0_14.4.0",
         "version": "14.4.0",
