@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.3.1"
+appVersion: "5.5.0"
 dependencies:
   - name: common
     version: 28.16.2
@@ -32,4 +32,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
   - https://ghcr.io/linuxserver/webgrabplus
 type: application
-version: 11.6.43
+version: 11.6.45
