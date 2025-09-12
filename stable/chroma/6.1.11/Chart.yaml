@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.0.19"
+appVersion: "1.0.21"
 dependencies:
   - name: common
     version: 28.16.2
@@ -35,4 +35,4 @@ sources:
   - https://ghcr.io/chroma-core/chroma
   - https://github.com/chroma-core/chroma
 type: application
-version: 6.1.9
+version: 6.1.11
