@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/8.4.32",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.18.4.2_8.4.32",
@@ -5431,11 +5431,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/8.4.31",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.18.4.1_8.4.31",
@@ -10858,11 +10858,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/7.0.14",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.18.3.3_7.0.14",
@@ -16282,11 +16282,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/7.0.13",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.18.3.3_7.0.13",
@@ -21706,11 +21706,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/6.7.17",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.18.3.3_6.7.17",
@@ -26801,11 +26801,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/6.7.16",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
             "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "0.18.3.3_6.7.16",
@@ -31896,11 +31896,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/5.1.1",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.1.1",
         "version": "5.1.1",
@@ -37654,11 +37654,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/5.1.0",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_5.1.0",
         "version": "5.1.0",
@@ -43412,12 +43412,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/4.3.0",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -49213,12 +49213,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/monero-node/4.2.0",
-        "last_update": "2025-09-12 04:08:15",
+        "last_update": "2025-09-12 06:17:30",
         "required_features": [
-            "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration",
+            "definitions/certificate"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
