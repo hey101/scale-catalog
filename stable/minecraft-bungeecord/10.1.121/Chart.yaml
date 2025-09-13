@@ -7,10 +7,10 @@ annotations:
   truecharts.org/train: stable
   truecharts.org/SCALE-support: "true"
 apiVersion: v2
-appVersion: "2025.6.0"
+appVersion: "2025.9.1"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/itzg/docker-bungeecord
   - https://hub.docker.com/r/itzg/bungeecord
 type: application
-version: 10.1.119
+version: 10.1.121

@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "4.5.1"
 dependencies:
   - name: common
-    version: 28.16.1
+    version: 28.16.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/rstudio
   - https://hub.docker.com/r/rocker/rstudio
 type: application
-version: 8.4.33
+version: 8.4.35
