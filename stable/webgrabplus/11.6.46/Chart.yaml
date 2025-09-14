@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2025-09"
+appVersion: "5.5.0"
 dependencies:
   - name: common
     version: 28.16.2
@@ -16,23 +16,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: A lightweight NodeJS server that emulates the iOS HomeKit API
-home: https://github.com/hey101/charts/stable/homebridge
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/homebridge.webp
+description: Webgrabplus is a multi-site incremental xmltv epg grabber.
+home: https://github.com/hey101/charts/stable/webgrabplus
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/webgrabplus.webp
 keywords:
-  - homebridge
-  - homekit
+  - webgrabplus
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: homebridge
+name: webgrabplus
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/homebridge
-  - https://github.com/oznu/docker-homebridge
-  - https://github.com/truecharts/charts/tree/master/charts/stable/homebridge
-  - https://homebridge.io/
-  - https://hub.docker.com/r/homebridge/homebridge
+  - https://github.com/hey101/charts/tree/master/charts/stable/webgrabplus
+  - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
+  - https://ghcr.io/linuxserver/webgrabplus
 type: application
-version: 9.4.42
+version: 11.6.46
