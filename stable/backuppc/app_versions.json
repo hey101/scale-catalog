@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/8.4.24",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "6.0.4_8.4.24",
         "version": "8.4.24",
@@ -7212,12 +7212,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/8.4.23",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "6.0.4_8.4.23",
         "version": "8.4.23",
@@ -14420,12 +14420,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/7.0.10",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "6.0.4_7.0.10",
         "version": "7.0.10",
@@ -21625,12 +21625,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/7.0.9",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "6.0.4_7.0.9",
         "version": "7.0.9",
@@ -28830,12 +28830,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/6.8.14",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_6.8.14",
         "version": "6.8.14",
@@ -35403,12 +35403,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/6.8.13",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate"
         ],
         "human_version": "6.0.2_6.8.13",
         "version": "6.8.13",
@@ -41976,13 +41976,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/5.3.0",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.0.2_5.3.0",
         "version": "5.3.0",
@@ -48592,13 +48592,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/backuppc/5.2.0",
-        "last_update": "2025-09-14 23:24:27",
+        "last_update": "2025-09-15 03:25:30",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "6.0.2_5.2.0",
         "version": "5.2.0",
