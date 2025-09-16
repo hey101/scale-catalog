@@ -1,0 +1,42 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/universalmediaserver/ums
+  tag: latest@sha256:30790cc0a3ac62cdf227a59b9a8e24c57b6415adf0c9ffe069445f5e2609329e
+persistence:
+  config:
+    enabled: true
+    mountPath: /root/.config/UMS/
+  media:
+    enabled: true
+    mountPath: /media
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  api:
+    enabled: true
+    ports:
+      api:
+        enabled: true
+        port: 5001
+        protocol: tcp
+        targetPort: 5001
+  main:
+    ports:
+      main:
+        port: 9001
+        protocol: http
+        targetPort: 9001
+  sub:
+    enabled: true
+    ports:
+      sub:
+        enabled: true
+        port: 1044
+        protocol: tcp
+        targetPort: 1044

@@ -1,0 +1,77 @@
+image:
+  repository: docker.io/portainer/portainer-ce
+  tag: 2.33.1@sha256:f4c59b58fd64499295e59b1665bbd9af0cf9e823258f84859510db3263718142
+  pullPolicy: IfNotPresent
+beImage:
+  repository: docker.io/portainer/portainer-ee
+  tag: 2.33.1@sha256:5c1a782e9cfe0bfb41522b9c2af334289d19cb7f164426c0bfb9ce3b454b69e7
+  pullPolicy: IfNotPresent
+portainer:
+  # Logo URL
+  logo: ""
+  # Enables Edge Compute Features
+  edge_compute: false
+  # Sets Snapshot interval
+  snapshot_interval: 5m
+  hide_labels:
+  # - label1=value1
+  # - label2=value2
+serviceAccount:
+  main:
+    enabled: true
+    primary: true
+rbac:
+  main:
+    enabled: true
+    primary: true
+    clusterWide: true
+    rules:
+      - apiGroups:
+          - "*"
+        resources:
+          - "*"
+        verbs:
+          - "*"
+service:
+  main:
+    ports:
+      main:
+        port: 10400
+        protocol: https
+        targetPort: 9443
+  edge:
+    enabled: true
+    ports:
+      edge:
+        enabled: true
+        port: 10401
+        targetPort: 10401
+persistence:
+  data:
+    enabled: true
+    mountPath: "/data"
+  cache:
+    enabled: true
+    mountPath: "/.cache"
+    type: emptyDir
+portal:
+  open:
+    enabled: true
+workload:
+  main:
+    podSpec:
+      automountServiceAccountToken: true
+      containers:
+        main:
+          imageSelector: image
+          probes:
+            liveness:
+              port: 9443
+              type: https
+            readiness:
+              port: 9443
+              type: https
+            startup:
+              port: 9443
+              type: https
+updated: true
