@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.3.25"
+appVersion: "3.68.1"
 dependencies:
   - name: common
     version: 28.16.2
@@ -16,22 +16,26 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: FlareSolverr is a proxy server to bypass Cloudflare protection
-home: https://github.com/hey101/charts/stable/flaresolverr
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.webp
+description: A Helm chart for Kubernetes
+home: https://github.com/hey101/charts/stable/filezilla
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/filezilla.webp
 keywords:
-  - flaresolverr
-  - proxy
+  - filezilla
+  - ftp
+  - sftp
+  - ftps
+  - client
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: flaresolverr
+name: filezilla
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/flaresolverr
-  - https://ghcr.io/flaresolverr/flaresolverr
-  - https://github.com/FlareSolverr/FlareSolverr
-  - https://github.com/truecharts/charts/tree/master/charts/stable/flaresolverr
+  - https://github.com/hey101/charts/tree/master/charts/stable/filezilla
+  - https://github.com/truecharts/charts/tree/master/charts/stable/filezilla
+  - https://filezilla-project.org/
+  - https://ghcr.io/linuxserver/filezilla
+  - https://github.com/linuxserver/docker-filezilla
 type: application
-version: 15.4.27
+version: 13.5.58
