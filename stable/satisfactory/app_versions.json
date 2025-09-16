@@ -1,18 +1,18 @@
 {
-    "12.4.34": {
+    "12.4.36": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/12.4.34",
-        "last_update": "2025-09-16 18:20:50",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/12.4.36",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
-        "human_version": "1.9.9_12.4.34",
-        "version": "12.4.34",
+        "human_version": "1.9.10_12.4.36",
+        "version": "12.4.36",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -23,11 +23,11 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "1.9.9",
+            "appVersion": "1.9.10",
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "28.16.2",
+                    "version": "28.18.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -58,7 +58,7 @@
                 "https://hub.docker.com/r/wolveix/satisfactory-server"
             ],
             "type": "application",
-            "version": "12.4.34"
+            "version": "12.4.36"
         },
         "app_metadata": null,
         "schema": {
@@ -4557,20 +4557,20 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/stable/satisfactory\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/satisfactory</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/stable/satisfactory</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/stable/satisfactory/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "12.4.33": {
+    "12.4.35": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/12.4.33",
-        "last_update": "2025-09-16 18:20:50",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/12.4.35",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
-        "human_version": "1.9.9_12.4.33",
-        "version": "12.4.33",
+        "human_version": "1.9.9_12.4.35",
+        "version": "12.4.35",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -4585,7 +4585,7 @@
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "28.16.1",
+                    "version": "28.18.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -4616,7 +4616,7 @@
                 "https://hub.docker.com/r/wolveix/satisfactory-server"
             ],
             "type": "application",
-            "version": "12.4.33"
+            "version": "12.4.35"
         },
         "app_metadata": null,
         "schema": {
@@ -9120,12 +9120,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/11.1.16",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.9.1_11.1.16",
         "version": "11.1.16",
@@ -13678,12 +13678,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/11.1.15",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.8.10_11.1.15",
         "version": "11.1.15",
@@ -18236,12 +18236,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/10.0.8",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.6.2_10.0.8",
         "version": "10.0.8",
@@ -22791,12 +22791,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/10.0.7",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.6.2_10.0.7",
         "version": "10.0.7",
@@ -27346,12 +27346,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/9.8.14",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.6.2_9.8.14",
         "version": "9.8.14",
@@ -31572,12 +31572,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/9.8.13",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "definitions/interface",
+            "normalize/interfaceConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.6.2_9.8.13",
         "version": "9.8.13",
@@ -35798,13 +35798,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/8.3.0",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.1_8.3.0",
         "version": "8.3.0",
@@ -40067,13 +40067,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/satisfactory/8.2.0",
-        "last_update": "2025-09-16 18:20:50",
+        "last_update": "2025-09-16 21:07:37",
         "required_features": [
+            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.6.1_8.2.0",
         "version": "8.2.0",
