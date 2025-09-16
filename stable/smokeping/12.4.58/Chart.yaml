@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2.9.0"
 dependencies:
   - name: common
-    version: 28.16.2
+    version: 28.18.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://ghcr.io/linuxserver/smokeping
   - https://oss.oetiker.ch/smokeping/
 type: application
-version: 12.4.56
+version: 12.4.58
