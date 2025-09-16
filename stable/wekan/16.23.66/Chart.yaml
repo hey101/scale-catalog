@@ -9,14 +9,14 @@ apiVersion: v2
 appVersion: "7.94"
 dependencies:
   - name: common
-    version: 28.16.2
+    version: 28.18.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
   - name: mongodb
-    version: 16.5.2
+    version: 16.6.0
     repository: oci://tccr.io/truecharts
     condition: mongodb.enabled
     alias: ""
@@ -42,4 +42,4 @@ sources:
   - https://hub.docker.com/r/wekanteam/wekan
   - https://wekan.github.io/
 type: application
-version: 16.23.64
+version: 16.23.66
