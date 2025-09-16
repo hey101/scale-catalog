@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "5.32.1"
+appVersion: "5.33.2"
 dependencies:
   - name: common
     version: 28.16.2
@@ -34,4 +34,4 @@ sources:
   - https://github.com/pmmp/PocketMine-MP
   - https://github.com/truecharts/charts/tree/master/charts/stable/pocketmine-mp
 type: application
-version: 5.11.41
+version: 5.11.43
