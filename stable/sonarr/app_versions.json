@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/23.5.34",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.14.293_23.5.34",
@@ -5374,11 +5374,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/23.5.33",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.14.293_23.5.33",
@@ -10744,11 +10744,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/22.0.10",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.4.1491_22.0.10",
@@ -16111,11 +16111,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/22.0.9",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.4.1491_22.0.9",
@@ -21478,11 +21478,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/21.6.17",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.4.1491_21.6.17",
@@ -26516,11 +26516,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/21.6.16",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.4.1491_21.6.16",
@@ -31554,11 +31554,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/20.2.1",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.2.1183_20.2.1",
@@ -36592,11 +36592,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/20.2.0",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "4.0.1.929_20.2.0",
@@ -41630,13 +41630,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/19.2.0",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "4.0.1.929_19.2.0",
         "version": "19.2.0",
@@ -46711,13 +46711,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/sonarr/19.1.1",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "4.0.1.929_19.1.1",
         "version": "19.1.1",

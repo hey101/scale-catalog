@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/9.7.29",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "2.70.1_9.7.29",
@@ -5968,11 +5968,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/9.7.28",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "2.70.1_9.7.28",
@@ -11932,11 +11932,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/8.1.9",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "1.14.0_8.1.9",
@@ -17896,11 +17896,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/8.1.8",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "1.14.0_8.1.8",
@@ -23860,11 +23860,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/7.0.8",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "1.14.0_7.0.8",
@@ -29821,11 +29821,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/7.0.7",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "1.14.0_7.0.7",
@@ -35782,11 +35782,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/6.8.14",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "1.14.0_6.8.14",
@@ -41313,11 +41313,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/6.8.13",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/interface",
             "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
         "human_version": "1.14.0_6.8.13",
@@ -46844,13 +46844,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/5.3.0",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.14.0_5.3.0",
         "version": "5.3.0",
@@ -52418,13 +52418,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/redisinsight/5.2.0",
-        "last_update": "2025-09-15 12:25:21",
+        "last_update": "2025-09-16 05:44:56",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate"
         ],
         "human_version": "1.14.0_5.2.0",
         "version": "5.2.0",
