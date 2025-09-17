@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/22.2.63",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.9.1.8_22.2.63",
         "version": "22.2.63",
@@ -5282,12 +5282,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/22.2.62",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.9.1.8_22.2.62",
         "version": "22.2.62",
@@ -10560,12 +10560,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/20.1.9",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.8.7.0_20.1.9",
         "version": "20.1.9",
@@ -15838,12 +15838,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/20.1.8",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.8.7.0_20.1.8",
         "version": "20.1.8",
@@ -21116,12 +21116,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/19.0.11",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.8.7.0_19.0.11",
         "version": "19.0.11",
@@ -26391,12 +26391,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/19.0.10",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.8.7.0_19.0.10",
         "version": "19.0.10",
@@ -31666,12 +31666,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/18.8.17",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.8.5.0_18.8.17",
         "version": "18.8.17",
@@ -36612,12 +36612,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/18.8.16",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/certificate",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "4.8.5.0_18.8.16",
         "version": "18.8.16",
@@ -41558,13 +41558,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/17.4.0",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "4.8.1.0_17.4.0",
         "version": "17.4.0",
@@ -46547,13 +46547,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/emby/17.3.0",
-        "last_update": "2025-09-16 22:47:10",
+        "last_update": "2025-09-17 03:47:44",
         "required_features": [
-            "definitions/interface",
             "definitions/gpuConfiguration",
             "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/interface"
         ],
         "human_version": "4.8.1.0_17.3.0",
         "version": "17.3.0",
