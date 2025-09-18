@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/9.4.25",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.1.0_9.4.25",
         "version": "9.4.25",
@@ -5321,12 +5321,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/9.4.24",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.1.0_9.4.24",
         "version": "9.4.24",
@@ -10638,12 +10638,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/8.1.5",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.1.0_8.1.5",
         "version": "8.1.5",
@@ -15952,12 +15952,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/8.1.4",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.1.0_8.1.4",
         "version": "8.1.4",
@@ -21266,12 +21266,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/7.0.1",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.0.0_7.0.1",
         "version": "7.0.1",
@@ -26251,12 +26251,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/7.0.0",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "3.0.0_7.0.0",
         "version": "7.0.0",
@@ -31236,12 +31236,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/6.8.13",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/interface",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.2_6.8.13",
         "version": "6.8.13",
@@ -36221,10 +36221,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/6.8.12",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.1.2_6.8.12",
         "version": "6.8.12",
@@ -41067,13 +41067,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/5.3.0",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.1_5.3.0",
         "version": "5.3.0",
@@ -46095,13 +46095,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/5.2.0",
-        "last_update": "2025-09-17 22:29:31",
+        "last_update": "2025-09-18 03:36:19",
         "required_features": [
-            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.1.1_5.2.0",
         "version": "5.2.0",
