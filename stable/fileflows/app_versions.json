@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/12.11.75",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "25.09_12.11.75",
@@ -7095,11 +7095,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/12.11.74",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "25.09_12.11.74",
@@ -14186,11 +14186,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/11.1.7",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "24.05.0_11.1.7",
@@ -21274,11 +21274,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/11.1.6",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "24.05.0_11.1.6",
@@ -28362,11 +28362,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/10.10.10",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "24.04.0_10.10.10",
@@ -34818,11 +34818,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/10.10.9",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone"
         ],
         "human_version": "24.04.0_10.10.9",
@@ -41274,13 +41274,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/9.3.0",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "24.02.0_9.3.0",
         "version": "9.3.0",
@@ -47773,13 +47773,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/fileflows/9.2.1",
-        "last_update": "2025-09-19 03:55:44",
+        "last_update": "2025-09-19 07:42:51",
         "required_features": [
-            "definitions/timezone",
-            "definitions/interface",
             "definitions/gpuConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "normalize/interfaceConfiguration"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "24.02.0_9.2.1",
         "version": "9.2.1",
