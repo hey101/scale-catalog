@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/13.4.25",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20240206.1_13.4.25",
         "version": "13.4.25",
@@ -5425,12 +5425,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/13.4.24",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20240206.1_13.4.24",
         "version": "13.4.24",
@@ -10846,12 +10846,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/12.0.15",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20240206.1.0_12.0.15",
         "version": "12.0.15",
@@ -16264,12 +16264,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/12.0.14",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20240206.1.0_12.0.14",
         "version": "12.0.14",
@@ -21682,12 +21682,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/11.4.16",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20240206.1.0_11.4.16",
         "version": "11.4.16",
@@ -26771,12 +26771,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/11.4.15",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20240206.1.0_11.4.15",
         "version": "11.4.15",
@@ -31860,12 +31860,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/10.4.1",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20230404.1.0_10.4.1",
         "version": "10.4.1",
@@ -36949,12 +36949,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/10.4.0",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "definitions/certificate",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/timezone"
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "20230404.1.0_10.4.0",
         "version": "10.4.0",
@@ -42038,13 +42038,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/9.3.0",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "20230404.1.0_9.3.0",
         "version": "9.3.0",
@@ -47170,13 +47170,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dokuwiki/9.2.1",
-        "last_update": "2025-09-19 11:45:57",
+        "last_update": "2025-09-19 18:20:25",
         "required_features": [
-            "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration",
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/timezone"
+            "definitions/interface",
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "20230404.1.0_9.2.1",
         "version": "9.2.1",
