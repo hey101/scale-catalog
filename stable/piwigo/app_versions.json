@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/15.6.58",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "15.6.0_15.6.58",
@@ -5752,11 +5752,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/15.6.57",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "15.6.0_15.6.57",
@@ -11500,11 +11500,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/14.4.22",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "15.3.0_14.4.22",
@@ -17248,11 +17248,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/14.4.21",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "15.3.0_14.4.21",
@@ -22996,11 +22996,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/13.1.11",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "14.4.0_13.1.11",
@@ -28741,11 +28741,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/13.1.10",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "14.4.0_13.1.10",
@@ -34486,11 +34486,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/12.17.15",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "14.4.0_12.17.15",
@@ -39801,11 +39801,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/12.17.14",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "14.4.0_12.17.14",
@@ -45116,13 +45116,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/11.6.0",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "14.2.0_11.6.0",
         "version": "11.6.0",
@@ -50474,13 +50474,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/piwigo/11.5.0",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "14.2.0_11.5.0",
         "version": "11.5.0",

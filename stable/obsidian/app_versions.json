@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/8.4.25",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_8.4.25",
@@ -5992,11 +5992,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/8.4.24",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_8.4.24",
@@ -11980,11 +11980,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/7.0.9",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_7.0.9",
@@ -17965,11 +17965,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/7.0.8",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_7.0.8",
@@ -23950,11 +23950,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/6.1.14",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_6.1.14",
@@ -29505,11 +29505,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/6.1.13",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_6.1.13",
@@ -35060,11 +35060,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/5.7.2",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_5.7.2",
@@ -40615,11 +40615,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/5.7.1",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
             "definitions/interface",
+            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.1.1_5.7.1",
@@ -46170,13 +46170,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/4.3.0",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.1.1_4.3.0",
         "version": "4.3.0",
@@ -51768,13 +51768,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/obsidian/4.2.0",
-        "last_update": "2025-09-19 07:42:51",
+        "last_update": "2025-09-19 11:45:57",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.1.1_4.2.0",
         "version": "4.2.0",
