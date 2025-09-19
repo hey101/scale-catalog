@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/elfhosted/nzbhydra2
   pullPolicy: IfNotPresent
-  tag: 7.18.0@sha256:477ffd8a9f56b4d50e4dc89455b6ded6cc281f9045e695b033a92afcf3e58a94
+  tag: 7.19.1@sha256:2b0a414c2bc273dc30aa56bcaebd8330748e15e0a6eb97a4f9acb06467484aef
 service:
   main:
     ports:
