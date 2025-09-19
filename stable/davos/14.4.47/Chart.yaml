@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "2.2.2"
 dependencies:
   - name: common
-    version: 28.16.2
+    version: 28.18.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/linuxserver/davos/
   - https://github.com/linuxserver/docker-davos
 type: application
-version: 14.4.45
+version: 14.4.47
