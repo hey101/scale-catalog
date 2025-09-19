@@ -1,6 +1,6 @@
 image:
   repository: docker.io/bitnami/matomo
-  tag: 5.3.2@sha256:f02c000c54b10eee77054fdfd51423ee55aa23b2959f43524fd4560e8bbe2e61
+  tag: 5.3.2@sha256:851f66bf075268eb354611586a296d0852e1689ca8e2c35446c7174a6f9f8904
   pullPolicy: IfNotPresent
 securityContext:
   container:
