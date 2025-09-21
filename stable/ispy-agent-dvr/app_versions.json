@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/11.7.59",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "6.6.6.0_11.7.59",
         "version": "11.7.59",
@@ -7478,12 +7478,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/11.7.58",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "6.6.6.0_11.7.58",
         "version": "11.7.58",
@@ -14952,12 +14952,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/10.1.7",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "5.5.3.0_10.1.7",
         "version": "10.1.7",
@@ -22423,12 +22423,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/10.1.6",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "5.5.3.0_10.1.6",
         "version": "10.1.6",
@@ -29894,12 +29894,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/9.11.17",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "5.4.6.0_9.11.17",
         "version": "9.11.17",
@@ -36733,12 +36733,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/9.11.16",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "5.4.5.0_9.11.16",
         "version": "9.11.16",
@@ -43572,13 +43572,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/8.4.0",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.2.8.0_8.4.0",
         "version": "8.4.0",
@@ -48942,13 +48942,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ispy-agent-dvr/8.3.1",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "5.2.8.0_8.3.1",
         "version": "8.3.1",

@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/7.6.28",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.5.0_7.6.28",
         "version": "7.6.28",
@@ -6235,12 +6235,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/7.6.27",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.5.0_7.6.27",
         "version": "7.6.27",
@@ -12466,12 +12466,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/6.0.8",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.0_6.0.8",
         "version": "6.0.8",
@@ -18694,12 +18694,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/6.0.7",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.0_6.0.7",
         "version": "6.0.7",
@@ -24922,12 +24922,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/5.2.10",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.0_5.2.10",
         "version": "5.2.10",
@@ -30720,12 +30720,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/5.2.9",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "2.1.0_5.2.9",
         "version": "5.2.9",
@@ -36518,12 +36518,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/4.7.4",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.7.4",
         "version": "4.7.4",
@@ -41731,12 +41731,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/4.7.3",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/timezone"
         ],
         "human_version": "latest_4.7.3",
         "version": "4.7.3",
@@ -46944,13 +46944,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/3.3.0",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_3.3.0",
         "version": "3.3.0",
@@ -52200,13 +52200,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wyoming-whisper/3.2.0",
-        "last_update": "2025-09-21 10:25:28",
+        "last_update": "2025-09-21 14:23:21",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/interface",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_3.2.0",
         "version": "3.2.0",
