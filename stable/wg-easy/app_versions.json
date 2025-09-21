@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/16.3.29",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -5461,10 +5461,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/16.3.28",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -10918,10 +10918,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/14.0.8",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -16372,10 +16372,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/14.0.7",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -21826,10 +21826,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/13.0.4",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -27281,10 +27281,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/13.0.3",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -32752,10 +32752,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/12.2.14",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -37878,10 +37878,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/12.2.13",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -43004,10 +43004,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/11.6.1",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -48112,10 +48112,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/11.6.0",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -53220,13 +53220,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/10.1.0",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.0.0_10.1.0",
         "version": "10.1.0",
@@ -58371,13 +58371,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/10.0.0",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.0.0_10.0.0",
         "version": "10.0.0",
@@ -63522,13 +63522,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wg-easy/9.1.0",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "10.0.0_9.1.0",
         "version": "9.1.0",

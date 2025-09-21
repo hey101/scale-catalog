@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/13.5.32",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -7145,10 +7145,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/13.5.31",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -14286,10 +14286,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/12.0.9",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -21424,10 +21424,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/12.0.8",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -28562,10 +28562,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/11.10.10",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -35068,10 +35068,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/11.10.9",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
+            "definitions/certificate",
             "normalize/interfaceConfiguration",
             "definitions/interface"
         ],
@@ -41574,13 +41574,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/10.3.0",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.15.0_10.3.0",
         "version": "10.3.0",
@@ -48123,13 +48123,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/kopia/10.2.0",
-        "last_update": "2025-09-21 07:08:07",
+        "last_update": "2025-09-21 10:25:28",
         "required_features": [
             "definitions/timezone",
-            "definitions/certificate",
             "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/interface"
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.15.0_10.2.0",
         "version": "10.2.0",
