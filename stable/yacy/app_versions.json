@@ -1,18 +1,18 @@
 {
-    "7.4.51": {
+    "7.4.53": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/7.4.51",
-        "last_update": "2025-09-22 01:57:47",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/7.4.53",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
-        "human_version": "latest_7.4.51",
-        "version": "7.4.51",
+        "human_version": "latest_7.4.53",
+        "version": "7.4.53",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -27,7 +27,7 @@
             "dependencies": [
                 {
                     "name": "common",
-                    "version": "28.19.0",
+                    "version": "28.20.0",
                     "repository": "oci://tccr.io/truecharts",
                     "condition": "",
                     "alias": "",
@@ -60,7 +60,7 @@
                 "https://yacy.net/"
             ],
             "type": "application",
-            "version": "7.4.51"
+            "version": "7.4.53"
         },
         "app_metadata": null,
         "schema": {
@@ -5362,20 +5362,20 @@
         "detailed_readme": "<hr />\n<h2>title: README</h2>\n<h2>General Info</h2>\n<p>For more information about this Chart, please check the docs on the TrueCharts <a href=\"https://truecharts.org/charts/stable/yacy\">website</a></p>\n<p><strong>This chart is not maintained by the upstream project and any issues with the chart should be raised <a href=\"https://github.com/truecharts/charts/issues/new/choose\">here</a></strong></p>\n<h2>Installation</h2>\n<h3>Helm-Chart installation</h3>\n<p>To install TrueCharts Helm charts using Helm, you can use our OCI Repository.</p>\n<p><code>helm install mychart oci://tccr.io/truecharts/yacy</code></p>\n<p>For more information on how to install TrueCharts Helm charts, checkout the <a href=\"/guides\">instructions on the website</a></p>\n<h2>Chart Specific Guides and information</h2>\n<p>All our charts have dedicated documentation pages.\nThe documentation for this chart can be found here:\nhttps://truecharts.org/charts/stable/yacy</p>\n<h2>Configuration Options</h2>\n<p>To view the chart specific options, please view Values.yaml included in the chart.\nThe most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/stable/yacy/values.yaml</p>\n<p>All our Charts use a shared \"common\" library chart that contains most of the templating and options.\nFor the complete overview of all available options, please checkout the documentation for them on the <a href=\"/common\">common docs on our website</a></p>\n<p>For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml</p>\n<h2>Support</h2>\n<ul>\n<li>See the <a href=\"https://truecharts.org\">Website</a></li>\n<li>Check our <a href=\"https://discord.gg/tVsPTHWTtr\">Discord</a></li>\n<li>Open a <a href=\"https://github.com/truecharts/charts/issues/new/choose\">issue</a></li>\n</ul>\n<hr />\n<h2>Sponsor TrueCharts</h2>\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"/general/sponsor\">donation</a> or contributing back to the project any way you can!</p>\n<p><em>All Rights Reserved - The TrueCharts Project</em></p>",
         "changelog": "<p><em>for the complete changelog, please refer to the website</em></p>\n<p><strong>Important:</strong></p>"
     },
-    "7.4.50": {
+    "7.4.52": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/7.4.50",
-        "last_update": "2025-09-22 01:57:47",
+        "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/7.4.52",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
-        "human_version": "latest_7.4.50",
-        "version": "7.4.50",
+        "human_version": "latest_7.4.52",
+        "version": "7.4.52",
         "chart_metadata": {
             "annotations": {
                 "max_scale_version": "24.04.1",
@@ -5423,7 +5423,7 @@
                 "https://yacy.net/"
             ],
             "type": "application",
-            "version": "7.4.50"
+            "version": "7.4.52"
         },
         "app_metadata": null,
         "schema": {
@@ -10730,12 +10730,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/6.0.14",
-        "last_update": "2025-09-22 01:57:47",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.14",
         "version": "6.0.14",
@@ -16090,12 +16090,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/6.0.13",
-        "last_update": "2025-09-22 01:57:47",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.13",
         "version": "6.0.13",
@@ -21450,12 +21450,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/5.8.14",
-        "last_update": "2025-09-22 01:57:47",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -26481,12 +26481,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/5.8.13",
-        "last_update": "2025-09-22 01:57:47",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
+            "normalize/interfaceConfiguration",
             "definitions/timezone",
-            "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -31512,13 +31512,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/4.3.0",
-        "last_update": "2025-09-22 01:57:47",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -36586,13 +36586,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/yacy/4.2.0",
-        "last_update": "2025-09-22 01:57:47",
+        "last_update": "2025-09-22 03:30:41",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone",
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",
