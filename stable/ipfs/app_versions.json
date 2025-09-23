@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/12.8.37",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.37.0_12.8.37",
@@ -7381,11 +7381,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/12.8.36",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.37.0_12.8.36",
@@ -14758,11 +14758,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/11.0.8",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.28.0_11.0.8",
@@ -22132,11 +22132,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/11.0.7",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.28.0_11.0.7",
@@ -29506,11 +29506,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/10.10.10",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.28.0_10.10.10",
@@ -36248,11 +36248,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/10.10.9",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
+            "normalize/interfaceConfiguration",
             "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
             "definitions/timezone"
         ],
         "human_version": "0.28.0_10.10.9",
@@ -42990,13 +42990,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/9.4.0",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.26.0_9.4.0",
         "version": "9.4.0",
@@ -49775,13 +49775,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/ipfs/9.3.0",
-        "last_update": "2025-09-23 17:02:58",
+        "last_update": "2025-09-23 19:09:35",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "definitions/certificate",
             "definitions/interface",
-            "normalize/interfaceConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/interfaceConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.26.0_9.3.0",
         "version": "9.3.0",
