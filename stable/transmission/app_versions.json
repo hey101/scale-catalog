@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/23.0.38",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5685,7 +5685,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/23.0.37",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -11366,7 +11366,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/22.1.9",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -17046,7 +17046,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/22.1.8",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -22726,7 +22726,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/21.0.8",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -28403,7 +28403,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/21.0.7",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -34080,7 +34080,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/20.8.14",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -39428,7 +39428,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/20.8.13",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -44776,13 +44776,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/19.3.0",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "4.0.5_19.3.0",
         "version": "19.3.0",
@@ -50167,13 +50167,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/transmission/19.2.0",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "4.0.5_19.2.0",
         "version": "19.2.0",

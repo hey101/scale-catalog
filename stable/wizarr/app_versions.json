@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/9.5.42",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -5302,7 +5302,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/9.5.41",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -10600,7 +10600,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/8.0.5",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -15895,7 +15895,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/8.0.4",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -21190,7 +21190,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/7.0.4",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -26485,7 +26485,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/7.0.3",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -31796,7 +31796,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/6.8.14",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -36762,7 +36762,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/6.8.13",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -41728,13 +41728,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/5.3.0",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "3.5.1_5.3.0",
         "version": "5.3.0",
@@ -46737,13 +46737,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/wizarr/5.2.0",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "3.5.1_5.2.0",
         "version": "5.2.0",

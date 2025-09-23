@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/17.3.50",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -6058,7 +6058,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/17.3.49",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -12112,7 +12112,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/16.1.22",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -18166,7 +18166,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/16.1.21",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -24220,7 +24220,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/15.1.7",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -30271,7 +30271,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/15.1.6",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -36322,7 +36322,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/14.8.16",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -41943,7 +41943,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/14.8.15",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
@@ -47564,13 +47564,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/13.3.0",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.7.3_13.3.0",
         "version": "13.3.0",
@@ -53228,13 +53228,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/resilio-sync/13.2.1",
-        "last_update": "2025-09-22 19:07:13",
+        "last_update": "2025-09-22 23:02:13",
         "required_features": [
             "definitions/interface",
-            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/gpuConfiguration",
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "2.7.3_13.2.1",
         "version": "13.2.1",
