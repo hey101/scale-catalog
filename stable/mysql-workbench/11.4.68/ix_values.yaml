@@ -1,13 +1,14 @@
 image:
-  repository: ghcr.io/linuxserver/remmina
+  repository: ghcr.io/linuxserver/mysql-workbench
   pullPolicy: IfNotPresent
-  tag: 1.4.35@sha256:09c54b70b0aac1f5e950b07fed8336eb8669241125558ea631ada64d4fb982c5
+  tag: 8.0.43@sha256:7e4e7946f1270b3da6a992a6ec79a91cab869168f10326e247286d5239c62c04
 service:
   main:
     ports:
       main:
-        port: 10042
         targetPort: 3000
+        protocol: http
+        port: 10134
 persistence:
   config:
     enabled: true
@@ -19,7 +20,10 @@ portal:
     enabled: true
 securityContext:
   container:
-    readOnlyRootFilesystem: false
     runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    capabilities:
+      add:
+        - IPC_LOCK
     runAsUser: 0
     runAsGroup: 0
