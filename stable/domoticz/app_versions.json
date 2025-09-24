@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/13.5.30",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2025.1_13.5.30",
         "version": "13.5.30",
@@ -5364,12 +5364,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/13.5.29",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2025.1_13.5.29",
         "version": "13.5.29",
@@ -10724,12 +10724,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/12.0.2",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_12.0.2",
         "version": "12.0.2",
@@ -16081,12 +16081,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/12.0.1",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_12.0.1",
         "version": "12.0.1",
@@ -21438,12 +21438,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/11.0.7",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_11.0.7",
         "version": "11.0.7",
@@ -26795,12 +26795,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/11.0.6",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_11.0.6",
         "version": "11.0.6",
@@ -32152,12 +32152,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/10.8.14",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_10.8.14",
         "version": "10.8.14",
@@ -37180,12 +37180,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/10.8.13",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "normalize/interfaceConfiguration",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_10.8.13",
         "version": "10.8.13",
@@ -42208,13 +42208,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/9.3.0",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_9.3.0",
         "version": "9.3.0",
@@ -47279,13 +47279,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/domoticz/9.2.0",
-        "last_update": "2025-09-23 19:09:35",
+        "last_update": "2025-09-23 23:47:07",
         "required_features": [
-            "definitions/interface",
+            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/timezone"
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "2024.4.0_9.2.0",
         "version": "9.2.0",
