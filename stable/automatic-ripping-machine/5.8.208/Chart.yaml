@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.19.1"
+appVersion: "2.20.1"
 dependencies:
   - name: common
     version: 28.20.0
@@ -34,4 +34,4 @@ sources:
   - https://github.com/automatic-ripping-machine/automatic-ripping-machine
   - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
 type: application
-version: 5.8.206
+version: 5.8.208
