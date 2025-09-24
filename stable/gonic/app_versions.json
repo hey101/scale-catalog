@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/15.4.30",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "0.17.0_15.4.30",
@@ -7701,11 +7701,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/15.4.29",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "0.17.0_15.4.29",
@@ -15398,11 +15398,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/14.0.8",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "0.16.4_14.0.8",
@@ -23092,11 +23092,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/14.0.7",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "0.16.4_14.0.7",
@@ -30786,11 +30786,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/13.8.14",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "0.16.4_13.8.14",
@@ -37747,11 +37747,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/13.8.13",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate"
         ],
         "human_version": "0.16.4_13.8.13",
@@ -44708,13 +44708,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/12.3.0",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.16.2_12.3.0",
         "version": "12.3.0",
@@ -51712,13 +51712,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/gonic/12.2.0",
-        "last_update": "2025-09-24 02:20:14",
+        "last_update": "2025-09-24 07:26:01",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
             "definitions/interface",
-            "definitions/certificate"
+            "normalize/interfaceConfiguration",
+            "definitions/gpuConfiguration"
         ],
         "human_version": "0.16.2_12.2.0",
         "version": "12.2.0",
