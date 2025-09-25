@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.2"
+appVersion: "1.7.14"
 dependencies:
   - name: common
     version: 28.20.0
@@ -22,30 +22,23 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: redis
-    version: 17.8.1
-    repository: oci://tccr.io/truecharts
-    condition: redis.enabled
-    alias: ""
-    tags: []
-    import-values: []
 deprecated: false
-description: game library manager focused in retro gaming
-home: https://github.com/hey101/charts/stable/romm
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
+description: A game ROM manager using multiple sources to identify and provide metadata.
+home: https://github.com/hey101/charts/stable/gaseous-server
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/gaseous-server.webp
 keywords:
-  - romm
+  - gaseous-server
   - rom-manager
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: romm
+name: gaseous-server
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/romm
-  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
-  - https://ghcr.io/rommapp/romm
-  - https://github.com/zurdi15/romm
+  - https://github.com/hey101/charts/tree/master/charts/stable/gaseous-server
+  - https://github.com/gaseous-project/gaseous-server
+  - https://github.com/truecharts/charts/tree/master/charts/stable/gaseous-server
+  - https://hub.docker.com/r/gaseousgames/gaseousserver
 type: application
-version: 10.18.67
+version: 3.10.46

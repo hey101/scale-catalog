@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: Network-Management
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.2"
+appVersion: "20250519"
 dependencies:
   - name: common
     version: 28.20.0
@@ -22,30 +22,24 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: redis
-    version: 17.8.1
-    repository: oci://tccr.io/truecharts
-    condition: redis.enabled
-    alias: ""
-    tags: []
-    import-values: []
 deprecated: false
-description: game library manager focused in retro gaming
-home: https://github.com/hey101/charts/stable/romm
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
+description: Observium is an autodiscovering network monitoring platform supporting a wide range of hardware platforms and operating systems.[br][br]
+home: https://github.com/hey101/charts/stable/observium
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/observium.webp
 keywords:
-  - romm
-  - rom-manager
+  - observium
+  - Network-Management
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: romm
+name: observium
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/romm
-  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
-  - https://ghcr.io/rommapp/romm
-  - https://github.com/zurdi15/romm
+  - https://github.com/hey101/charts/tree/master/charts/stable/observium
+  - https://github.com/pvrmza/docker-observium
+  - https://github.com/truecharts/charts/tree/master/charts/stable/observium
+  - https://hub.docker.com/r/pvrmza/docker-observium
+  - https://www.observium.org/
 type: application
-version: 10.18.67
+version: 10.3.41

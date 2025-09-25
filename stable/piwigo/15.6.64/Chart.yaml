@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.2"
+appVersion: "15.6.0"
 dependencies:
   - name: common
     version: 28.20.0
@@ -22,30 +22,25 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: redis
-    version: 17.8.1
-    repository: oci://tccr.io/truecharts
-    condition: redis.enabled
-    alias: ""
-    tags: []
-    import-values: []
 deprecated: false
-description: game library manager focused in retro gaming
-home: https://github.com/hey101/charts/stable/romm
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
+description: A photo gallery software for the web.
+home: https://github.com/hey101/charts/stable/piwigo
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/piwigo.webp
 keywords:
-  - romm
-  - rom-manager
+  - piwigo
+  - gallery
+  - photo
+  - image
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: romm
+name: piwigo
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/romm
-  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
-  - https://ghcr.io/rommapp/romm
-  - https://github.com/zurdi15/romm
+  - https://github.com/hey101/charts/tree/master/charts/stable/piwigo
+  - https://github.com/truecharts/charts/tree/master/charts/stable/piwigo
+  - https://ghcr.io/linuxserver/piwigo
+  - https://github.com/linuxserver/docker-piwigo
 type: application
-version: 10.18.67
+version: 15.6.64

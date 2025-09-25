@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.2"
+appVersion: "20220121"
 dependencies:
   - name: common
     version: 28.20.0
@@ -22,30 +22,25 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: redis
-    version: 17.8.1
-    repository: oci://tccr.io/truecharts
-    condition: redis.enabled
-    alias: ""
-    tags: []
-    import-values: []
 deprecated: false
-description: game library manager focused in retro gaming
-home: https://github.com/hey101/charts/stable/romm
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
+description: PhotoPrism® is a server-based application for browsing, organizing and sharing your personal photo collection
+home: https://github.com/hey101/charts/stable/photoprism
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/photoprism.webp
 keywords:
-  - romm
-  - rom-manager
+  - photos
+  - photoprism
+  - pictures
+  - sharing
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: romm
+name: photoprism
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/romm
-  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
-  - https://ghcr.io/rommapp/romm
-  - https://github.com/zurdi15/romm
+  - https://github.com/hey101/charts/tree/master/charts/stable/photoprism
+  - https://github.com/photoprism/photoprism
+  - https://github.com/truecharts/charts/tree/master/charts/stable/photoprism
+  - https://hub.docker.com/r/photoprism/photoprism
 type: application
-version: 10.18.67
+version: 24.3.40
