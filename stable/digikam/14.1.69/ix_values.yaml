@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/digikam
   pullPolicy: IfNotPresent
-  tag: 8.7.0@sha256:697054decda044de84f83197f125252e5823eea5572918838d7b707ae6ce8612
+  tag: 8.7.0@sha256:958d4391974cf35dbf3ae238b6392e895a5657cb01b6797f4f49001441929d33
 securityContext:
   container:
     readOnlyRootFilesystem: false
