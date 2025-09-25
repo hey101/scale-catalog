@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.30.0"
+appVersion: "2.0.9"
 dependencies:
   - name: common
-    version: 28.19.0
+    version: 28.20.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://hub.docker.com/r/syncthing/syncthing
   - https://syncthing.net/
 type: application
-version: 20.6.35
+version: 20.6.37
