@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.4.35"
+appVersion: "1.4.40"
 dependencies:
   - name: common
     version: 28.20.0
@@ -37,4 +37,4 @@ sources:
   - https://github.com/linuxserver/docker-remmina
   - https://remmina.org/
 type: application
-version: 12.4.67
+version: 12.4.69
