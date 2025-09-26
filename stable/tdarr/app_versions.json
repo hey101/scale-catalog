@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/11.12.46",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.46.01_11.12.46",
         "version": "11.12.46",
@@ -7820,12 +7820,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/11.12.45",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.46.01_11.12.45",
         "version": "11.12.45",
@@ -15636,12 +15636,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/10.2.2",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.19.01_10.2.2",
         "version": "10.2.2",
@@ -23449,12 +23449,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/10.2.1",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.19.01_10.2.1",
         "version": "10.2.1",
@@ -31262,12 +31262,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/9.8.14",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_9.8.14",
         "version": "9.8.14",
@@ -38342,12 +38342,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/9.8.13",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
             "definitions/certificate",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/timezone",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_9.8.13",
         "version": "9.8.13",
@@ -45422,13 +45422,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/8.3.0",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_8.3.0",
         "version": "8.3.0",
@@ -52545,13 +52545,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/tdarr/8.2.0",
-        "last_update": "2025-09-26 12:46:08",
+        "last_update": "2025-09-26 15:37:10",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
+            "definitions/timezone",
             "definitions/certificate",
-            "definitions/interface"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_8.2.0",
         "version": "8.2.0",
