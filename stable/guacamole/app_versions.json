@@ -4,11 +4,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/15.1.9",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_15.1.9",
@@ -7316,11 +7316,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/15.1.8",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_15.1.8",
@@ -14628,11 +14628,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/14.0.8",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_14.0.8",
@@ -21937,11 +21937,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/14.0.7",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_14.0.7",
@@ -29246,11 +29246,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/13.8.14",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_13.8.14",
@@ -36583,11 +36583,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/13.8.13",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
             "definitions/certificate",
-            "definitions/timezone",
             "definitions/interface",
+            "definitions/timezone",
             "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.5_13.8.13",
@@ -43920,13 +43920,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/12.3.0",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.4_12.3.0",
         "version": "12.3.0",
@@ -51332,13 +51332,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/guacamole/12.2.0",
-        "last_update": "2025-09-25 22:10:02",
+        "last_update": "2025-09-25 23:38:35",
         "required_features": [
-            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "definitions/interface",
-            "normalize/interfaceConfiguration",
+            "definitions/certificate",
             "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "1.5.4_12.2.0",
         "version": "12.2.0",
