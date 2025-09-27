@@ -1,0 +1,45 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/steamcmd
+  tag: craftopia@sha256:175c652fb1bd256b254e8b35c4eb50a9b5a50356a1a2e6ae4a25883581701309
+persistence:
+  serverfiles:
+    enabled: true
+    mountPath: /serverdata/serverfiles
+  steamcmd:
+    enabled: true
+    mountPath: /serverdata/steamcmd
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 8787
+        protocol: tcp
+        targetPort: 8787
+  udpgameport:
+    enabled: true
+    ports:
+      udpgameport:
+        enabled: true
+        port: 8787
+        protocol: udp
+        targetPort: 8787
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            GAME_ID: "1670340"
+            GAME_PARAMS: ""
+            PASSWRD: ""
+            USERNAME: ""
+            VALIDATE: "false"

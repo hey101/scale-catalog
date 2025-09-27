@@ -1,0 +1,40 @@
+image:
+  repository: ghcr.io/linuxserver/davos
+  pullPolicy: IfNotPresent
+  tag: 2.2.2@sha256:4bd50f430a11e6cac3d8203d31b17a07f714ff809847ec84590516edc21525d2
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+service:
+  main:
+    ports:
+      main:
+        port: 10081
+        protocol: http
+        targetPort: 8080
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
