@@ -1,0 +1,49 @@
+image:
+  repository: ghcr.io/linuxserver/tvheadend
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:7062a6a0c6443334aa41d326b6615efdc4a17d8b9d3a5da5ebabdf45a230891b
+service:
+  main:
+    ports:
+      main:
+        port: 9981
+        targetPort: 9981
+  htsp:
+    enabled: true
+    ports:
+      htsp:
+        enabled: true
+        port: 9982
+        targetPort: 9982
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+  varrun:
+    enabled: true
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: tcp
+              port: "{{ .Values.service.main.ports.main.port }}"
+            readiness:
+              type: tcp
+              port: "{{ .Values.service.main.ports.main.port }}"
+            startup:
+              type: tcp
+              port: "{{ .Values.service.main.ports.main.port }}"
+          env:
+            RUN_OPTS: ""
