@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "0.12.3"
 dependencies:
   - name: common
-    version: 28.20.1
+    version: 28.21.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/open-webui/open-webui
   - https://hub.docker.com/r/ollama/ollama
 type: application
-version: 7.10.127
+version: 7.10.129
