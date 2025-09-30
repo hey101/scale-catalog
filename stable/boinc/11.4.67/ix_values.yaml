@@ -1,0 +1,31 @@
+image:
+  repository: ghcr.io/linuxserver/boinc
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:2f531c0ed196eb6aae71c0c9311226b9782e7988442afa98b5ebe533b821b262
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        targetPort: 8080
+        protocol: http
+        port: 10142
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            PASSWORD: ""
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
