@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "11887"
 dependencies:
   - name: common
-    version: 28.21.0
+    version: 28.21.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://git.streamboard.tv/common/oscam
   - https://github.com/truecharts/charts/tree/master/charts/stable/oscam
 type: application
-version: 15.4.57
+version: 15.4.59
