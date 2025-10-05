@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.7.2"
+appVersion: "3.7.8"
 dependencies:
   - name: common
-    version: 28.21.0
+    version: 28.21.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -38,4 +38,4 @@ sources:
   - https://github.com/orgs/linuxserver/packages/container/package/cops
   - https://github.com/truecharts/charts/tree/master/charts/stable/cops
 type: application
-version: 11.7.63
+version: 11.7.65
