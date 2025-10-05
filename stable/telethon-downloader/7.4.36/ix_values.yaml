@@ -1,0 +1,46 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/jsavargas/telethon_downloader
+  tag: latest@sha256:980b5b5b7dc47533077e69306b3d2aa94f3a7600e9ee0b5eed0bee0a42a84a8d
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  pathdownload:
+    enabled: true
+    mountPath: /download
+  pathwatch:
+    enabled: true
+    mountPath: /watch
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            TG_API_HASH: " "
+            TG_API_ID: " "
+            TG_AUTHORIZED_USER_ID: " "
+            TG_BOT_TOKEN: ""
+            TG_PROGRESS_DOWNLOAD: ""
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

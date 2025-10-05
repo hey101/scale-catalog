@@ -1,0 +1,34 @@
+image:
+  repository: docker.io/rossimo/retrobot
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:63f85467247ea30ee18f92d2848423c4b084cd5fd524e622506e790c7148cfea
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+persistence:
+  data:
+    enabled: true
+    mountPath: /retrobot/data
+portal:
+  open:
+    enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
+          env:
+            MAX_WORKERS: -1
+            MAX_WORKERS_PER_GAME: 3
+            RECORDING_FRAMERATE: 30
+            DISCORD_TOKEN: ""
