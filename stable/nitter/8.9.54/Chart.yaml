@@ -6,19 +6,12 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.3"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 28.22.0
     repository: oci://tccr.io/truecharts
     condition: ""
-    alias: ""
-    tags: []
-    import-values: []
-  - name: mariadb
-    version: 17.6.0
-    repository: oci://tccr.io/truecharts
-    condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
@@ -30,22 +23,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: game library manager focused in retro gaming
-home: https://github.com/hey101/charts/stable/romm
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp
+description: A free and open source alternative Twitter front-end focused on privacy and performance.
+home: https://github.com/hey101/charts/stable/nitter
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/nitter.webp
 keywords:
-  - romm
-  - rom-manager
+  - nitter
+  - libre
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: romm
+name: nitter
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/romm
-  - https://github.com/truecharts/charts/tree/master/charts/stable/romm
-  - https://ghcr.io/rommapp/romm
-  - https://github.com/zurdi15/romm
+  - https://github.com/hey101/charts/tree/master/charts/stable/nitter
+  - https://github.com/truecharts/charts/tree/master/charts/stable/nitter
+  - https://github.com/zedeus/nitter
+  - https://hub.docker.com/r/zedeus/nitter
 type: application
-version: 10.18.76
+version: 8.9.54
