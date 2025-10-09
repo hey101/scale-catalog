@@ -1,0 +1,17 @@
+image:
+  repository: registry
+  pullPolicy: IfNotPresent
+  tag: 3@sha256:491add1c62291ba36613f60a5d61d22a13f23839e69d3c3a25da114da327a7e6
+service:
+  main:
+    ports:
+      main:
+        port: 10096
+        targetPort: 8080
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
