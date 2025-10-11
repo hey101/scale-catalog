@@ -9,14 +9,14 @@ apiVersion: v2
 appVersion: "15.6.0"
 dependencies:
   - name: common
-    version: 28.22.0
+    version: 28.23.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
   - name: mariadb
-    version: 17.5.0
+    version: 17.6.0
     repository: oci://tccr.io/truecharts
     condition: mariadb.enabled
     alias: ""
@@ -43,4 +43,4 @@ sources:
   - https://ghcr.io/linuxserver/piwigo
   - https://github.com/linuxserver/docker-piwigo
 type: application
-version: 15.6.72
+version: 15.6.74
