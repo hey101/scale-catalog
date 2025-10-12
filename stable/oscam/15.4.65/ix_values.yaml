@@ -1,17 +1,19 @@
 image:
-  repository: ghcr.io/linuxserver/grocy
-  tag: 4.5.0@sha256:f1b2cdbaa30ea48fd6eba880ea428191a15378fb4076ccb1937463e970dd385b
+  repository: ghcr.io/linuxserver/oscam
   pullPolicy: IfNotPresent
+  tag: 11890-ls144@sha256:f219505b96c8015edf5d598589b45477005b4ddb9c4636761c1af77ae2950068
 service:
   main:
     ports:
       main:
-        port: 10013
-        targetPort: 80
+        port: 10062
+        targetPort: 8888
 persistence:
   config:
     enabled: true
     mountPath: "/config"
+  varrun:
+    enabled: true
 portal:
   open:
     enabled: true
@@ -20,4 +22,4 @@ securityContext:
     readOnlyRootFilesystem: false
     runAsNonRoot: false
     runAsUser: 0
-    runAsGroup: 0
+    runAsGroup: 20

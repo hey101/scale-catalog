@@ -1,13 +1,13 @@
 image:
-  repository: ghcr.io/linuxserver/oscam
+  repository: ghcr.io/linuxserver/lazylibrarian
   pullPolicy: IfNotPresent
-  tag: 11889-ls143@sha256:ace5522b503bbaa7d7d7483d05492b0b469170a993edb7d0fb08f76f5273f423
+  tag: latest@sha256:7f23f080220b548eb15821abb1b811e7da9a3f0e06a8936cb16c57f1db1e6cee
 service:
   main:
     ports:
       main:
-        port: 10062
-        targetPort: 8888
+        port: 5299
+        targetPort: 5299
 persistence:
   config:
     enabled: true
@@ -19,7 +19,7 @@ portal:
     enabled: true
 securityContext:
   container:
-    readOnlyRootFilesystem: false
     runAsNonRoot: false
+    readOnlyRootFilesystem: false
     runAsUser: 0
-    runAsGroup: 20
+    runAsGroup: 0
