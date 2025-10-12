@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.9.4"
+appVersion: "1.1.0"
 dependencies:
   - name: common
     version: 28.24.0
