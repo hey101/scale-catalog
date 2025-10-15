@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.10.24"
+appVersion: "4.10.27"
 dependencies:
   - name: common
     version: 28.25.0
@@ -35,4 +35,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/qbitrr
   - https://hub.docker.com/r/feramance/qbitrr
 type: application
-version: 6.7.47
+version: 6.7.49
