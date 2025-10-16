@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.5.0"
+appVersion: "1.5.1"
 dependencies:
   - name: common
-    version: 28.25.0
+    version: 28.26.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/Cisco-Talos/clamav
   - https://hub.docker.com/r/clamav/clamav
 type: application
-version: 12.5.76
+version: 12.5.78
