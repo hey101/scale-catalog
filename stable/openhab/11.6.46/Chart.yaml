@@ -1,36 +1,35 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: DIY
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "11891"
+appVersion: "5.0.2"
 dependencies:
   - name: common
-    version: 28.25.0
+    version: 28.26.0
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
 deprecated: false
-description: Open Source Conditional Access Module software
-home: https://github.com/hey101/charts/stable/oscam
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/oscam.webp
+description: OpenHab is a home-automation application
+home: https://github.com/hey101/charts/stable/openhab
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/openhab.webp
 keywords:
-  - oscam
+  - openhab
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: oscam
+name: openhab
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/oscam
-  - https://ghcr.io/linuxserver/oscam
-  - https://git.streamboard.tv/common/oscam
-  - https://github.com/truecharts/charts/tree/master/charts/stable/oscam
+  - https://github.com/hey101/charts/tree/master/charts/stable/openhab
+  - https://github.com/truecharts/charts/tree/master/charts/stable/openhab
+  - https://hub.docker.com/r/openhab/openhab
 type: application
-version: 15.4.67
+version: 11.6.46
