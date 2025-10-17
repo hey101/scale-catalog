@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/9.5.14",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -6927,10 +6927,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/9.5.13",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -13850,10 +13850,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/8.2.12",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -20770,10 +20770,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/8.2.11",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -27690,10 +27690,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/7.12.20",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -34537,10 +34537,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/7.12.19",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/timezone",
             "definitions/certificate",
+            "definitions/timezone",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -41384,13 +41384,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/6.8.0",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.5.3_6.8.0",
         "version": "6.8.0",
@@ -48306,13 +48306,13 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/paperless-ngx/6.7.0",
-        "last_update": "2025-10-17 10:01:10",
+        "last_update": "2025-10-17 16:54:12",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/gpuConfiguration",
+            "definitions/interface",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.5.3_6.7.0",
         "version": "6.7.0",
