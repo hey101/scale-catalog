@@ -1,0 +1,32 @@
+image:
+  repository: ghcr.io/dgtlmoon/changedetection.io
+  pullPolicy: IfNotPresent
+  tag: 0.50.26@sha256:1422b9ecb1b2934b49d1a2109e06933723d5769f29947a077d29f634753103a0
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        targetPort: 5000
+        port: 5000
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            BASE_URL: ""
+            USE_X_SETTINGS: true
+            HIDE_REFERER: true
+            FETCH_WORKERS: 10
+
+persistence:
+  datastore:
+    enabled: true
+    mountPath: "/datastore"
+
+portal:
+  open:
+    enabled: true
