@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.8.7"
+appVersion: "0.8.8"
 dependencies:
   - name: common
-    version: 28.26.0
+    version: 28.26.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://hub.docker.com/r/jvmilazz0/kavita
   - https://www.kavitareader.com
 type: application
-version: 11.4.43
+version: 11.4.45
