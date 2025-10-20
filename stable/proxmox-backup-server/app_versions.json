@@ -4,12 +4,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/5.5.40",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.0.13_5.5.40",
         "version": "5.5.40",
@@ -5280,12 +5280,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/5.5.39",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.0.13_5.5.39",
         "version": "5.5.39",
@@ -10556,12 +10556,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/4.0.9",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.1.2_4.0.9",
         "version": "4.0.9",
@@ -15829,12 +15829,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/4.0.8",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.1.2_4.0.8",
         "version": "4.0.8",
@@ -21102,12 +21102,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/3.8.14",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.1.2_3.8.14",
         "version": "3.8.14",
@@ -26046,12 +26046,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/3.8.13",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
-            "definitions/interface",
-            "definitions/certificate",
             "definitions/timezone",
-            "normalize/interfaceConfiguration"
+            "definitions/certificate",
+            "normalize/interfaceConfiguration",
+            "definitions/interface"
         ],
         "human_version": "3.1.2_3.8.13",
         "version": "3.8.13",
@@ -30990,11 +30990,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/2.4.0",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
             "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
@@ -35977,11 +35977,11 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/proxmox-backup-server/2.3.0",
-        "last_update": "2025-10-20 03:17:30",
+        "last_update": "2025-10-20 05:43:24",
         "required_features": [
             "definitions/certificate",
-            "definitions/gpuConfiguration",
             "definitions/timezone",
+            "definitions/gpuConfiguration",
             "definitions/interface",
             "normalize/interfaceConfiguration"
         ],
