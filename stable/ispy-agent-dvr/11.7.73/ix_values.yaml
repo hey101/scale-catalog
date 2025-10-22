@@ -1,6 +1,6 @@
 image:
   repository: docker.io/doitandbedone/ispyagentdvr
-  tag: 6.6.9.0@sha256:d527148c2934b10c39879c2ca897f54f8204e3915395e0fbd593c0ea18dbe175
+  tag: 6.7.2.0@sha256:f2caf7ab08194c2dca3f6701235174208afbfe9431570ddbea2105b1d358899b
   pullPolicy: IfNotPresent
 service:
   main:
