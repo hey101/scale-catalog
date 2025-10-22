@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 28.26.0
+    version: 28.26.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/aurora-files
   - https://hub.docker.com/r/afterlogic/docker-aurora-files
 type: application
-version: 7.4.40
+version: 7.4.42
