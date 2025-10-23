@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.8.7"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 28.26.1
@@ -16,24 +16,21 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats
-home: https://github.com/hey101/charts/stable/kavita
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/kavita.webp
+description: Store securely encrypted backups on cloud storage services!
+home: https://github.com/hey101/charts/stable/duplicati
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/duplicati.webp
 keywords:
-  - kavita
-  - manga
-  - library
-  - book
+  - duplicati
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: kavita
+name: duplicati
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/kavita
-  - https://github.com/truecharts/charts/tree/master/charts/stable/kavita
-  - https://hub.docker.com/r/jvmilazz0/kavita
-  - https://www.kavitareader.com
+  - https://github.com/hey101/charts/tree/master/charts/stable/duplicati
+  - https://github.com/duplicati/duplicati
+  - https://github.com/truecharts/charts/tree/master/charts/stable/duplicati
+  - https://hub.docker.com/r/duplicati/duplicati
 type: application
-version: 11.4.44
+version: 15.4.42
