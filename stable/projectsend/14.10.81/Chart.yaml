@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: file-storage
+  truecharts.org/category: files
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "12.0.10"
+appVersion: "latest"
 dependencies:
   - name: common
     version: 28.26.1
@@ -22,32 +22,23 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-  - name: memcached
-    version: 16.12.2
-    repository: oci://tccr.io/truecharts
-    condition: memcached.enabled
-    alias: ""
-    tags: []
-    import-values: []
 deprecated: false
-description: Reliable and Performant File Sync and Share Solution
-home: https://github.com/hey101/charts/stable/seafile
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/seafile.webp
+description: ProjectSend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself.
+home: https://github.com/hey101/charts/stable/projectsend
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.webp
 keywords:
-  - seafile
+  - projectsend
   - files
-  - cloud
-  - file-storage
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: seafile
+name: projectsend
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/seafile
-  - https://github.com/truecharts/charts/tree/master/charts/stable/seafile
-  - https://hub.docker.com/r/seafileltd/seafile-mc
-  - https://seafile.com
+  - https://github.com/hey101/charts/tree/master/charts/stable/projectsend
+  - https://ghcr.io/linuxserver/projectsend
+  - https://github.com/projectsend/projectsend
+  - https://github.com/truecharts/charts/tree/master/charts/stable/projectsend
 type: application
-version: 7.10.79
+version: 14.10.81
