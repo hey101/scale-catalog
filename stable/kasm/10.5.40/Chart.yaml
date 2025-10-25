@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.17.0"
+appVersion: "1.18.0"
 dependencies:
   - name: common
-    version: 28.26.0
+    version: 28.26.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://hub.docker.com/r/kasmweb/workspaces
   - https://www.kasmweb.com/
 type: application
-version: 10.5.38
+version: 10.5.40
