@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.8.1"
+appVersion: "0.8.2"
 dependencies:
   - name: common
-    version: 28.26.0
+    version: 28.26.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/bakito/adguardhome-sync/
   - https://github.com/truecharts/charts/tree/master/charts/stable/adguardhome-sync
 type: application
-version: 8.4.48
+version: 8.4.50
