@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.20.5"
+appVersion: "2.20.6"
 dependencies:
   - name: common
-    version: 28.26.0
+    version: 28.26.1
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/automatic-ripping-machine/automatic-ripping-machine
   - https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
 type: application
-version: 5.8.229
+version: 5.8.231
