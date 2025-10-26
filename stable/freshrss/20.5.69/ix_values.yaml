@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/linuxserver/freshrss
   pullPolicy: IfNotPresent
-  tag: 1.27.1@sha256:45a4f3ae95ea9f842aaf2d753c147368e924c9e6a0fcfc9a8456d30d1ba77ca1
+  tag: 1.27.1@sha256:39c91af5f39b4a369cb03296d8740541319ae1ac693a0454a4621039a2338ccb
 securityContext:
   container:
     readOnlyRootFilesystem: false
