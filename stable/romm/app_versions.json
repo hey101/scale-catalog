@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/10.18.89",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -7001,10 +7001,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/10.18.88",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -13998,10 +13998,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/9.2.11",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -20992,10 +20992,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/9.2.10",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -27986,10 +27986,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/8.8.25",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -33844,10 +33844,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/8.8.24",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -39702,10 +39702,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/7.11.1",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -45560,10 +45560,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/7.11.0",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -51418,12 +51418,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/6.6.0",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.3.1_6.6.0",
@@ -57319,12 +57319,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/romm/6.5.0",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.3.1_6.5.0",

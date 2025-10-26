@@ -4,10 +4,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/9.4.38",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -5321,10 +5321,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/9.4.37",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -10638,10 +10638,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/8.1.5",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -15952,10 +15952,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/8.1.4",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -21266,10 +21266,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/7.0.1",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -26251,10 +26251,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/7.0.0",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -31236,10 +31236,10 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/6.8.13",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
-            "definitions/interface",
             "definitions/timezone",
+            "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
@@ -36221,7 +36221,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/6.8.12",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
             "definitions/timezone",
             "definitions/certificate"
@@ -41067,12 +41067,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/5.3.0",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.1.1_5.3.0",
@@ -46095,12 +46095,12 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/work/scale-catalog/scale-catalog/stable/dashy/5.2.0",
-        "last_update": "2025-10-25 23:01:45",
+        "last_update": "2025-10-26 02:02:04",
         "required_features": [
+            "definitions/timezone",
+            "definitions/interface",
             "definitions/certificate",
             "normalize/interfaceConfiguration",
-            "definitions/interface",
-            "definitions/timezone",
             "definitions/gpuConfiguration"
         ],
         "human_version": "2.1.1_5.2.0",
