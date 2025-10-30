@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "25.9.4.58"
+appVersion: "25.9.5.21"
 dependencies:
   - name: common
-    version: 28.26.1
+    version: 28.26.2
     repository: oci://tccr.io/truecharts
     condition: includeCommon
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://clickhouse.com/
   - https://hub.docker.com/r/clickhouse/clickhouse-server
 type: application
-version: 14.10.130
+version: 14.10.132
