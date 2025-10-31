@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "1.7.50"
 dependencies:
   - name: common
-    version: 28.26.1
+    version: 28.26.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -37,4 +37,4 @@ sources:
   - https://github.com/getgrav/grav/
   - https://github.com/linuxserver/docker-grav
 type: application
-version: 13.4.64
+version: 13.4.66
