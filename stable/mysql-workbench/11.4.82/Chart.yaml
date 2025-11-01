@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "8.0.44"
 dependencies:
   - name: common
-    version: 28.26.1
+    version: 28.26.2
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -32,4 +32,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/mysql-workbench
   - https://ghcr.io/linuxserver/mysql-workbench
 type: application
-version: 11.4.80
+version: 11.4.82
