@@ -16,7 +16,7 @@ dependencies:
     tags: []
     import-values: []
   - name: mariadb
-    version: 17.9.4
+    version: 17.9.5
     repository: oci://tccr.io/truecharts
     condition: mariadb.enabled
     alias: ""
@@ -40,4 +40,4 @@ sources:
   - https://github.com/monicahq/monica
   - https://hub.docker.com/_/monica
 type: application
-version: 14.10.111
+version: 14.10.113
