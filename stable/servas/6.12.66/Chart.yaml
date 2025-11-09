@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: crm
+  truecharts.org/category: bookmarks
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.1.2"
+appVersion: "1.0.0"
 dependencies:
   - name: common
     version: 28.26.3
@@ -23,21 +23,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Monica is a great open source personal relationship management system.
-home: https://github.com/hey101/charts/stable/monica
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/monica.webp
+description: A self-hosted bookmark management tool.
+home: https://github.com/hey101/charts/stable/servas
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/servas.webp
 keywords:
-  - crm
+  - servas
+  - bookmarks
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: monica
+name: servas
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/monica
-  - https://github.com/truecharts/charts/tree/master/charts/stable/monica
-  - https://github.com/monicahq/monica
-  - https://hub.docker.com/_/monica
+  - https://github.com/hey101/charts/tree/master/charts/stable/servas
+  - https://github.com/beromir/Servas
+  - https://github.com/truecharts/charts/tree/master/charts/stable/servas
+  - https://hub.docker.com/r/beromir/servas
 type: application
-version: 14.10.115
+version: 6.12.66

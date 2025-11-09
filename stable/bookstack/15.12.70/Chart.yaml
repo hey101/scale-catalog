@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: crm
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "4.1.2"
+appVersion: "25.07.2025"
 dependencies:
   - name: common
     version: 28.26.3
@@ -23,21 +23,26 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Monica is a great open source personal relationship management system.
-home: https://github.com/hey101/charts/stable/monica
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/monica.webp
+description: A simple, self-hosted, easy-to-use platform for organising and storing information.
+home: https://github.com/hey101/charts/stable/bookstack
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/bookstack.webp
 keywords:
-  - crm
+  - bookstack
+  - book
+  - stack
+  - organizer
+  - server
+  - hosted
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: monica
+name: bookstack
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/monica
-  - https://github.com/truecharts/charts/tree/master/charts/stable/monica
-  - https://github.com/monicahq/monica
-  - https://hub.docker.com/_/monica
+  - https://github.com/hey101/charts/tree/master/charts/stable/bookstack
+  - https://ghcr.io/linuxserver/bookstack
+  - https://github.com/truecharts/charts/tree/master/charts/stable/bookstack
+  - https://www.bookstackapp.com/
 type: application
-version: 14.10.115
+version: 15.12.70
