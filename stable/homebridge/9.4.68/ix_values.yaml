@@ -1,0 +1,35 @@
+image:
+  repository: docker.io/homebridge/homebridge
+  tag: 2025-11-08@sha256:4b2cc22d3e764555061105cf7c745501aaa8fb17d2e4e0a5ecea5d9ef42ac02e
+  pullPolicy: IfNotPresent
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            HOMEBRIDGE_CONFIG_UI: 1
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        port: 8581
+
+persistence:
+  config:
+    enabled: true
+    mountPath: /homebridge
+
+portal:
+  open:
+    enabled: true
