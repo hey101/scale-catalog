@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "0.56.12"
+appVersion: "0.57.2"
 dependencies:
   - name: common
     version: 28.26.3
@@ -33,4 +33,4 @@ sources:
   - https://github.com/metabase/metabase
   - https://hub.docker.com/r/metabase/metabase
 type: application
-version: 5.7.86
+version: 5.7.88
