@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2025.10.3"
+appVersion: "2025.10.5"
 dependencies:
   - name: common
     version: 28.26.3
@@ -33,4 +33,4 @@ sources:
   - https://github.com/esphome/esphome
   - https://hub.docker.com/r/esphome/esphome
 type: application
-version: 21.11.73
+version: 21.11.75
