@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.13.2"
+appVersion: "2.13.4"
 dependencies:
   - name: common
     version: 28.26.3
@@ -43,4 +43,4 @@ sources:
   - https://hub.docker.com/r/jc21/nginx-proxy-manager
   - https://nginxproxymanager.com/
 type: application
-version: 11.11.69
+version: 11.11.71
