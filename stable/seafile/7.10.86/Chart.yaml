@@ -16,14 +16,14 @@ dependencies:
     tags: []
     import-values: []
   - name: mariadb
-    version: 17.9.5
+    version: 17.9.6
     repository: oci://tccr.io/truecharts
     condition: mariadb.enabled
     alias: ""
     tags: []
     import-values: []
   - name: memcached
-    version: 16.12.5
+    version: 16.12.7
     repository: oci://tccr.io/truecharts
     condition: memcached.enabled
     alias: ""
@@ -50,4 +50,4 @@ sources:
   - https://hub.docker.com/r/seafileltd/seafile-mc
   - https://seafile.com
 type: application
-version: 7.10.84
+version: 7.10.86
