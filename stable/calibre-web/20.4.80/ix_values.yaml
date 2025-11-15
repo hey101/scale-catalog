@@ -1,7 +1,7 @@
 image:
   repository: lscr.io/linuxserver/calibre-web
   pullPolicy: IfNotPresent
-  tag: version-0.6.25@sha256:2bd3f425a87258520468a293ee80fef9ebf6205f0cd843acee02288b375cacdc
+  tag: version-0.6.25@sha256:af0f715c498db314137a278d6184df95a074a66a26a87365b8e02786fc5ed815
 securityContext:
   container:
     readOnlyRootFilesystem: false
