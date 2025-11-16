@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "2.20.0"
+appVersion: "2.21.0"
 dependencies:
   - name: common
-    version: 28.26.2
+    version: 28.26.3
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/jorenn92/Maintainerr
   - https://hub.docker.com/r/jorenn92/maintainerr
 type: application
-version: 4.9.57
+version: 4.9.59
