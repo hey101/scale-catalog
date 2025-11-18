@@ -131,7 +131,7 @@ localpv-provisioner:
       repository: openebs/linux-utils
       pullPolicy: IfNotPresent
       # Overrides the image tag whose default is the chart appVersion.
-      tag: 4.2.0@sha256:f205fb89c88aaa35a1d46490b7ebbdac45d5c48d2924ca73b67d8eb14d4e735e
+      tag: 4.3.0@sha256:834e45ca87b252151127e3d643f9f06ca2c7e5c1bb7e620ab6451162705e9d69
 
   analytics:
     enabled: true
