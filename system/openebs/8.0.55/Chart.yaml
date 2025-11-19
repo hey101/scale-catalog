@@ -17,7 +17,7 @@ dependencies:
     tags: []
     import-values: []
   - name: localpv-provisioner
-    version: 4.3.0
+    version: 4.4.0
     repository: https://openebs.github.io/dynamic-localpv-provisioner
     condition: localpv-provisioner.enabled
     alias: ""
@@ -42,4 +42,4 @@ sources:
   - https://cert-manager.io/
   - https://github.com/cert-manager
 type: application
-version: 8.0.53
+version: 8.0.55
