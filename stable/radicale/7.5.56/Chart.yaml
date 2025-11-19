@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.5.8.1"
+appVersion: "3.5.8.2"
 dependencies:
   - name: common
-    version: 28.26.3
+    version: 28.26.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -41,4 +41,4 @@ sources:
   - https://hub.docker.com/r/tomsquest/docker-radicale
   - https://radicale.org/
 type: application
-version: 7.5.54
+version: 7.5.56
