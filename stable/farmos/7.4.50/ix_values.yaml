@@ -1,0 +1,23 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/farmos/farmos
+  tag: latest@sha256:bfd1ab23046639a125c6b830f9971e6468adb36bf2792e5c3b182f175f95dea4
+persistence:
+  sitesdirectory:
+    enabled: true
+    mountPath: /var/www/html/sites
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 80
+        protocol: tcp
+        targetPort: 80

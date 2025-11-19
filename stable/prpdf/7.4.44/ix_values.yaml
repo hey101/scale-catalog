@@ -1,0 +1,40 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/knex666/prpdf
+  tag: latest@sha256:e9ae914bfa64f2257e5e1a852a100fc17395240d73e90923b9dde7da278ebe23
+persistence:
+  config:
+    enabled: true
+    mountPath: /source/config
+  files:
+    enabled: true
+    mountPath: /Archiv/
+  hostpath2:
+    enabled: true
+    mountPath: /source/static/pdf/
+portal:
+  open:
+    enabled: false
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
