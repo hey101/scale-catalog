@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "5.5.0"
 dependencies:
   - name: common
-    version: 28.26.3
+    version: 28.26.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -32,4 +32,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
   - https://ghcr.io/linuxserver/webgrabplus
 type: application
-version: 11.6.68
+version: 11.6.70
