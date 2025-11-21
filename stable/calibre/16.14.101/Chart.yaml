@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "8.14.0"
+appVersion: "8.15.0"
 dependencies:
   - name: common
     version: 28.26.4
@@ -33,4 +33,4 @@ sources:
   - https://ghcr.io/linuxserver/calibre
   - https://github.com/kovidgoyal/calibre/
 type: application
-version: 16.14.99
+version: 16.14.101
