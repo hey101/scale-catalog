@@ -1,0 +1,27 @@
+image:
+  repository: docker.io/foxxmd/multi-scrobbler
+  tag: latest@sha256:5c261a306f4ee714ebf0e3a0f2aa6c74d312b938a0524884cc42755e91f1343e
+  pullPolicy: IfNotPresent
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
+
+service:
+  main:
+    ports:
+      main:
+        port: 9078
+        targetPort: 9078
+
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+
+portal:
+  open:
+    enabled: true
