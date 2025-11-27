@@ -9,7 +9,7 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 28.27.2
+    version: 28.27.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -36,4 +36,4 @@ sources:
   - https://ghcr.io/linuxserver/doublecommander
   - https://github.com/linuxserver/docker-doublecommander
 type: application
-version: 14.4.80
+version: 14.4.82
