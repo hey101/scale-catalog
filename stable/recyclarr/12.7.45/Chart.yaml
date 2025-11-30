@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "7.4.1"
+appVersion: "7.5.0"
 dependencies:
   - name: common
-    version: 28.27.2
+    version: 28.27.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -35,4 +35,4 @@ sources:
   - https://github.com/recyclarr/recyclarr/pkgs/container/recyclarr
   - https://github.com/truecharts/charts/tree/master/charts/stable/recyclarr
 type: application
-version: 12.7.43
+version: 12.7.45
