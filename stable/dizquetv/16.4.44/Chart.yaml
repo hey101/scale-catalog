@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "1.5.5"
+appVersion: "1.6.0"
 dependencies:
   - name: common
-    version: 28.27.2
+    version: 28.27.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -34,4 +34,4 @@ sources:
   - https://github.com/vexorian/dizquetv
   - https://hub.docker.com/r/vexorian/dizquetv
 type: application
-version: 16.4.42
+version: 16.4.44
