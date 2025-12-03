@@ -1,7 +1,7 @@
 image:
-  repository: docker.io/jlesage/avidemux
-  tag: v25.07.2@sha256:3d07d7be1e10e618215820afc77694f2044f332335178025587b8d15b98b8604
+  repository: docker.io/jlesage/czkawka
   pullPolicy: IfNotPresent
+  tag: v25.12.2@sha256:4fc8301a4e3aae4c9359404928cf5bc91718ec5d0b46ecd043e3552e9f5863a7
 securityContext:
   container:
     readOnlyRootFilesystem: false
@@ -12,7 +12,7 @@ service:
   main:
     ports:
       main:
-        port: 10272
+        port: 10258
         protocol: http
         targetPort: 5800
   vnc:
@@ -20,24 +20,24 @@ service:
     ports:
       vnc:
         enabled: true
-        port: 10273
+        port: 10259
         protocol: tcp
         targetPort: 5900
-avidemux:
+czkawka:
   KEEP_APP_RUNNING: false
   DISPLAY_WIDTH: 1280
   DISPLAY_HEIGHT: 768
   SECURE_CONNECTION: false
   ENABLE_CJK_FONT: false
 configmap:
-  avidemux:
+  czkawka:
     enabled: true
     data:
-      ENABLE_CJK_FONT: '{{ ternary "1" "0" .Values.avidemux.ENABLE_CJK_FONT }}'
-      KEEP_APP_RUNNING: '{{ ternary "1" "0" .Values.avidemux.KEEP_APP_RUNNING }}'
-      SECURE_CONNECTION: '{{ ternary "1" "0" .Values.avidemux.SECURE_CONNECTION }}'
-      DISPLAY_WIDTH: "{{ .Values.avidemux.DISPLAY_WIDTH }}"
-      DISPLAY_HEIGHT: "{{ .Values.avidemux.DISPLAY_HEIGHT }}"
+      ENABLE_CJK_FONT: '{{ ternary "1" "0" .Values.czkawka.ENABLE_CJK_FONT }}'
+      KEEP_APP_RUNNING: '{{ ternary "1" "0" .Values.czkawka.KEEP_APP_RUNNING }}'
+      SECURE_CONNECTION: '{{ ternary "1" "0" .Values.czkawka.SECURE_CONNECTION }}'
+      DISPLAY_WIDTH: "{{ .Values.czkawka.DISPLAY_WIDTH }}"
+      DISPLAY_HEIGHT: "{{ .Values.czkawka.DISPLAY_HEIGHT }}"
 workload:
   main:
     podSpec:
@@ -48,11 +48,21 @@ workload:
               add:
                 - NET_BIND_SERVICE
                 - KILL
-          envFrom:
-            - configMapRef:
-                name: "avidemux"
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
           env:
             VNC_PASSWORD: ""
+          envFrom:
+            - configMapRef:
+                name: "czkawka"
 persistence:
   config:
     enabled: true
@@ -60,6 +70,9 @@ persistence:
   storage:
     enabled: true
     mountPath: /storage
+  trash:
+    enabled: true
+    mountPath: /trash
 portal:
   open:
     enabled: true
