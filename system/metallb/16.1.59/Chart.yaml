@@ -10,14 +10,14 @@ apiVersion: v2
 appVersion: "latest"
 dependencies:
   - name: common
-    version: 28.27.2
+    version: 28.27.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
     tags: []
     import-values: []
   - name: metallb
-    version: 0.15.2
+    version: 0.15.3
     repository: https://metallb.github.io/metallb
     condition: ""
     alias: metallb
@@ -42,4 +42,4 @@ sources:
   - https://github.com/metallb/metallb
   - https://metallb.universe.tf
 type: application
-version: 16.1.57
+version: 16.1.59
