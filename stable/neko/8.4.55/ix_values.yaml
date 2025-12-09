@@ -25,7 +25,7 @@ remminaImage:
 torImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/tor-browser
-  tag: 3.0.8@sha256:e6daba04f585d351761e779eacd7fc3aa889197c0bb394ea3cbdfbb75f7c0b02
+  tag: 3.0.9@sha256:a223c162fede432c439f10d235a53afc51c5bb4ba6d7ba04d93a9bbbe0333269
 vivaldiImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/vivaldi
