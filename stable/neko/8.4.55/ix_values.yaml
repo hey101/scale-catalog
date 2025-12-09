@@ -1,11 +1,11 @@
 image:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/firefox
-  tag: 3.0.8@sha256:665701060335b662a806a7fc269ccbdcff5d054ddf5e9b0f4b31e12bab231b0e
+  tag: 3.0.9@sha256:1deb8b5bb949a7250cd1b4759f7daee0282216049f71ef7b0c2abdcd7616e74b
 braveImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/brave
-  tag: 3.0.8@sha256:f82128825bb4fee6e87cd677c8e835f50de6f7c299343df40e03a51b667d2f93
+  tag: 3.0.9@sha256:2623a75a8fac1ced51b6df93a97bb02a425dcd09e6a5b3a8d7cca4f495163e59
 chromeImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/google-chrome
@@ -33,7 +33,7 @@ vivaldiImage:
 vlcImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/vlc
-  tag: 3.0.8@sha256:4e7be45a4b90a72ad83a638e8e48e3c165016df3db0686ab9c518a3ffe5cfcbb
+  tag: 3.0.9@sha256:61705af4f0185164091426776663c9d35e429233a84be85b3d1d82be5e1f7b30
 xfceImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/m1k1o/neko/xfce
