@@ -1,13 +1,13 @@
 image:
-  repository: ghcr.io/linuxserver/lazylibrarian
+  repository: ghcr.io/linuxserver/remmina
   pullPolicy: IfNotPresent
-  tag: latest@sha256:9f0161cc4e198a4a17407fd5bfdc166300038a1bceb4c735e99ab7380dfdb899
+  tag: 1.4.40@sha256:e38f5424163c9a3fd81c548db0cd85ebdf140870cd198e0bff80c0e26aa26110
 service:
   main:
     ports:
       main:
-        port: 5299
-        targetPort: 5299
+        port: 10042
+        targetPort: 3000
 persistence:
   config:
     enabled: true
@@ -19,7 +19,7 @@ portal:
     enabled: true
 securityContext:
   container:
-    runAsNonRoot: false
     readOnlyRootFilesystem: false
+    runAsNonRoot: false
     runAsUser: 0
     runAsGroup: 0
