@@ -1,7 +1,7 @@
 image:
   repository: docker.io/metabase/metabase
   pullPolicy: IfNotPresent
-  tag: v0.57.4@sha256:c625a4b2bb6edc2a5dcfab360cbfccd27c57453236a43730cb1fb9983c8a2860
+  tag: v0.57.6@sha256:791299d1e7e382fb2426bcc3bbb4f29d51e9a63f96c5aa40d590f72285d02a53
 service:
   main:
     ports:
