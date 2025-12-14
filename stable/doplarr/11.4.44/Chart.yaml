@@ -6,10 +6,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "3.6.3"
+appVersion: "3.7.0"
 dependencies:
   - name: common
-    version: 28.27.2
+    version: 28.27.4
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -33,4 +33,4 @@ sources:
   - https://github.com/kiranshila/Doplarr
   - https://github.com/truecharts/charts/tree/master/charts/stable/doplarr
 type: application
-version: 11.4.42
+version: 11.4.44

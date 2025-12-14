@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "2025.12.0"
 dependencies:
   - name: common
     version: 28.27.4
@@ -16,21 +16,23 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Minecraft Bedrock Dedicated Server
-home: https://github.com/hey101/charts/stable/minecraft-bedrock
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-bedrock.webp
+description: Minecraft Java Dedicated Server
+home: https://github.com/hey101/charts/stable/minecraft-java
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-java.webp
 keywords:
+  - minecraft-java
   - minecraft
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: minecraft-bedrock
+name: minecraft-java
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/minecraft-bedrock
+  - https://github.com/hey101/charts/tree/master/charts/stable/minecraft-java
   - https://github.com/itzg/docker-minecraft-server
-  - https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-bedrock
-  - https://hub.docker.com/r/itzg/minecraft-bedrock-server
+  - https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-java
+  - https://hub.docker.com/r/itzg/mc-backup
+  - https://hub.docker.com/r/itzg/minecraft-server
 type: application
-version: 10.4.60
+version: 22.0.86
