@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ghcr.io/hotio/rflood
-  tag: latest@sha256:f126c19940932a3d613410395f7fe43931d50a39c8dec74e8379f262d38a8ab1
+  tag: latest@sha256:3a343af7009e0cfb66f0d786eb509205a592491986eccdbcddc8a1f3ac4a3737
 persistence:
   config:
     enabled: true
