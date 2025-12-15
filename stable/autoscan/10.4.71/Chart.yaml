@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: Downloaders
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
@@ -16,22 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Chart with rTorrent and the Flood UI.
-home: https://github.com/hey101/charts/stable/rflood
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rflood.webp
+description: Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
+home: https://github.com/hey101/charts/stable/autoscan
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/autoscan.webp
 keywords:
-  - rflood
-  - downloaders
+  - autoscan
+  - media
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rflood
+name: autoscan
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/rflood
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rflood
-  - https://ghcr.io/hotio/rflood
-  - https://hotio.dev/containers/rflood
+  - https://github.com/hey101/charts/tree/master/charts/stable/autoscan
+  - https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
+  - https://ghcr.io/hotio/autoscan
+  - https://hotio.dev/containers/autoscan
 type: application
-version: 7.4.81
+version: 10.4.71
