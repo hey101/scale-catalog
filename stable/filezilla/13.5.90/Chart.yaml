@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "3.68.1"
 dependencies:
   - name: common
     version: 28.27.4
@@ -16,22 +16,26 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
-home: https://github.com/hey101/charts/stable/autoscan
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/autoscan.webp
+description: A Helm chart for Kubernetes
+home: https://github.com/hey101/charts/stable/filezilla
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/filezilla.webp
 keywords:
-  - autoscan
-  - media
+  - filezilla
+  - ftp
+  - sftp
+  - ftps
+  - client
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: autoscan
+name: filezilla
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/autoscan
-  - https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
-  - https://ghcr.io/hotio/autoscan
-  - https://hotio.dev/containers/autoscan
+  - https://github.com/hey101/charts/tree/master/charts/stable/filezilla
+  - https://github.com/truecharts/charts/tree/master/charts/stable/filezilla
+  - https://filezilla-project.org/
+  - https://ghcr.io/linuxserver/filezilla
+  - https://github.com/linuxserver/docker-filezilla
 type: application
-version: 10.4.71
+version: 13.5.90

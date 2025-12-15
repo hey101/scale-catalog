@@ -1,12 +1,12 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: Downloaders
+  truecharts.org/category: media
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "latest"
+appVersion: "25.4"
 dependencies:
   - name: common
     version: 28.27.4
@@ -16,22 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Chart with rTorrent and the Flood UI.
-home: https://github.com/hey101/charts/stable/rflood
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/rflood.webp
+description: NZBGet is a Usenet downloader client
+home: https://github.com/hey101/charts/stable/nzbget
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/nzbget.webp
 keywords:
-  - rflood
-  - downloaders
+  - nzbget
+  - usenet
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: rflood
+name: nzbget
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/rflood
-  - https://github.com/truecharts/charts/tree/master/charts/stable/rflood
-  - https://ghcr.io/hotio/rflood
-  - https://hotio.dev/containers/rflood
+  - https://github.com/hey101/charts/tree/master/charts/stable/nzbget
+  - https://ghcr.io/elfhosted/nzbget
+  - https://github.com/truecharts/charts/tree/master/charts/stable/nzbget
+  - https://nzbget.net/
 type: application
-version: 7.4.83
+version: 24.4.50
