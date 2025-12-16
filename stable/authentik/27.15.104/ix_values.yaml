@@ -8,7 +8,7 @@ geoipImage:
   pullPolicy: IfNotPresent
 ldapImage:
   repository: ghcr.io/goauthentik/ldap
-  tag: 2025.10.2@sha256:a5060a2f1ae7d3abf095a3947ca9ef19e225428f68729b497149f6c8699a6f36
+  tag: 2025.10.3@sha256:1c0575c9505cdb696136099e146f6ebe16e4e02ffe745a78dcf735219adadbf8
   pullPolicy: IfNotPresent
 radiusImage:
   repository: ghcr.io/goauthentik/radius
