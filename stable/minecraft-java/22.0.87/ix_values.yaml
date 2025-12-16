@@ -12,7 +12,7 @@ j21graalvmImage:
   pullPolicy: Always
 j21alpineImage:
   repository: docker.io/itzg/minecraft-server
-  tag: 2025.12.0-java21-alpine@sha256:3069177d935d23fb0feb251df88d22a3723c1e7b705fb8928131f38b1c1e4d44
+  tag: 2025.12.0-java21-alpine@sha256:2b5b1e1b05ace0296a8a5c310cdbe2800373b64b6fcba5f8e73ba18dd0b9defa
   pullPolicy: Always
 j17Image:
   repository: docker.io/itzg/minecraft-server
@@ -52,7 +52,7 @@ j8alpineImage:
   pullPolicy: Always
 mcBackupImage:
   repository: docker.io/itzg/mc-backup
-  tag: latest@sha256:82595675771b12d59251ffd0f87074f35e657fc794eaf07913f55ed168467113
+  tag: latest@sha256:3ea7665d2011a4b2e92c6ec0a330f80ebc6c890a6da5f024f64a2fb4b65c4ada
   pullPolicy: Always
 
 service:
