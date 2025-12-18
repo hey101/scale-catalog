@@ -1,7 +1,7 @@
 image:
-  repository: ghcr.io/linuxserver/rsnapshot
+  repository: ghcr.io/linuxserver/webgrabplus
   pullPolicy: IfNotPresent
-  tag: 1.4.5@sha256:d08413f75ebca9c7a778b135f13cb9c064e530cd014eb68988ec407c5909e6d8
+  tag: 5.5.0@sha256:45c0f8282709c18f4c244539769ac1bd13fed37b09a3e2a3de2230d55a2e1023
 service:
   main:
     enabled: false
@@ -14,6 +14,9 @@ persistence:
   config:
     enabled: true
     mountPath: "/config"
+  data:
+    enabled: true
+    mountPath: "/data"
 portal:
   open:
     enabled: false
