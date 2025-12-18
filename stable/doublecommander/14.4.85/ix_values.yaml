@@ -1,11 +1,10 @@
 image:
-  repository: docker.io/codercom/code-server
+  repository: ghcr.io/linuxserver/doublecommander
   pullPolicy: IfNotPresent
-  tag: 4.106.2@sha256:cca5c0bbff928df75ba9344a878e4ca7a321c0d42c34b39e02722b29855a56ac
+  tag: latest@sha256:0df2db1fffea8d5dd3fdc8542b443b9403023b15cace606349183c21750c7bb3
 securityContext:
   container:
     readOnlyRootFilesystem: false
-    allowPrivilegeEscalation: true
     runAsNonRoot: false
     runAsUser: 0
     runAsGroup: 0
@@ -13,14 +12,19 @@ service:
   main:
     ports:
       main:
-        port: 10063
-        protocol: http
-        targetPort: 8080
+        port: 10034
+        targetPort: 3000
 workload:
   main:
     podSpec:
       containers:
         main:
+          securityContext:
+            capabilities:
+              add:
+                - SYS_CHROOT
+                - KILL
+                - NET_BIND_SERVICE
           probes:
             liveness:
               type: http
@@ -31,13 +35,6 @@ workload:
             startup:
               type: http
               path: /
-          env:
-            PROXY_DOMAIN: ""
-          args:
-            - --user-data-dir
-            - "/config/.vscode"
-            - --auth
-            - none
 persistence:
   config:
     enabled: true
