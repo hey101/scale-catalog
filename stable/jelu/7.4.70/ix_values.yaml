@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: docker.io/wabayang/jelu
-  tag: latest@sha256:db34bc341408f4b5219ec29decc378855964bd88a19aa1374fb2363404dbe656
+  tag: latest@sha256:20388c3edc90017dbfe36e7ec707ff5b5e9171e8c787bd036693254696bbec33
 persistence:
   config:
     enabled: true
