@@ -1,19 +1,19 @@
 image:
-  repository: ghcr.io/linuxserver/znc
+  repository: ghcr.io/linuxserver/lazylibrarian
   pullPolicy: IfNotPresent
-  tag: 1.10.1@sha256:fcb37d8789e3853c562b9d5a90b58ca72dfa22bb6957802046e1b7afada5a981
+  tag: latest@sha256:3cc80da7b8a18df77d0e16ef1adee7aa48babd78b0eaab5fad5f887a8c121c60
 service:
   main:
     ports:
       main:
-        targetPort: 6501
-        port: 6501
+        port: 5299
+        targetPort: 5299
 persistence:
-  varrun:
-    enabled: true
   config:
     enabled: true
     mountPath: "/config"
+  varrun:
+    enabled: true
 portal:
   open:
     enabled: true
