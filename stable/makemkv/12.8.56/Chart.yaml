@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "25.10.1"
+appVersion: "25.12.2"
 dependencies:
   - name: common
     version: 28.27.4
@@ -33,4 +33,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/stable/makemkv
   - https://hub.docker.com/r/jlesage/makemkv
 type: application
-version: 12.8.54
+version: 12.8.56

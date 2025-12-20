@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "25.12.1"
+appVersion: "25.12.2"
 dependencies:
   - name: common
     version: 28.27.4
@@ -16,22 +16,22 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
-home: https://github.com/hey101/charts/stable/avidemux
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/avidemux.webp
+description: MKVCleaver is a tool for batch extraction of data from MKV files
+home: https://github.com/hey101/charts/stable/mkvcleaver
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/mkvcleaver.webp
 keywords:
   - media
-  - avidemux
+  - mkvcleaver
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: avidemux
+name: mkvcleaver
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/avidemux
-  - https://github.com/jlesage/docker-avidemux
-  - https://github.com/truecharts/charts/tree/master/charts/stable/avidemux
-  - https://hub.docker.com/r/jlesage/avidemux
+  - https://github.com/hey101/charts/tree/master/charts/stable/mkvcleaver
+  - https://github.com/jlesage/docker-mkvcleaver
+  - https://github.com/truecharts/charts/tree/master/charts/stable/mkvcleaver
+  - https://hub.docker.com/r/jlesage/mkvcleaver
 type: application
 version: 11.7.50

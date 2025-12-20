@@ -1,6 +1,6 @@
 image:
   repository: docker.io/jlesage/avidemux
-  tag: v25.12.1@sha256:202bff2bc1fa80bd36197de6991d95ac010eb4e95821687cc423d2db8a53e5c5
+  tag: v25.12.3@sha256:2f5d88404a2fbd92ba5ba8e8dbce324b984b489ed9a48eb35a549cc58975054d
   pullPolicy: IfNotPresent
 securityContext:
   container:
