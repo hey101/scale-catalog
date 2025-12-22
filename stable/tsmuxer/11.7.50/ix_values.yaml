@@ -1,6 +1,6 @@
 image:
   repository: docker.io/jlesage/tsmuxer
-  tag: v25.12.1@sha256:5d2d899281db49404935911900178bf219f22f2dbf5b2ae38107d2397d6457eb
+  tag: v25.12.3@sha256:3f935cddbcb0c5bb5c79d84d0ae862348b8d4a438e4af44ff894c3387ff9653e
   pullPolicy: IfNotPresent
 service:
   main:
