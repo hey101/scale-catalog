@@ -1,6 +1,6 @@
 image:
   repository: docker.io/jlesage/putty
-  tag: v25.12.1@sha256:0632353fa4adb017658a7e17effa599e90f6bbdfd260dc39e2bb0df3b65067f9
+  tag: v25.12.3@sha256:8db9af5b8966413479e063c75f8178eeb54bf67fd2be868404c8b504a76a2038
   pullPolicy: IfNotPresent
 service:
   main:
