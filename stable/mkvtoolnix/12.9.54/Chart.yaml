@@ -6,7 +6,7 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: "25.12.1"
+appVersion: "25.12.3"
 dependencies:
   - name: common
     version: 28.27.4
@@ -16,21 +16,24 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
-home: https://github.com/hey101/charts/stable/makemkv
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/makemkv.webp
+description: MKVToolNix is a set of tools to create, alter and inspect Matroska files.
+home: https://github.com/hey101/charts/stable/mkvtoolnix
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/mkvtoolnix.webp
 keywords:
+  - media
+  - mkvtoolnix
   - mkv
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: makemkv
+name: mkvtoolnix
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/makemkv
-  - https://github.com/jlesage/docker-makemkv
-  - https://github.com/truecharts/charts/tree/master/charts/stable/makemkv
-  - https://hub.docker.com/r/jlesage/makemkv
+  - https://github.com/hey101/charts/tree/master/charts/stable/mkvtoolnix
+  - https://github.com/jlesage/docker-mkvtoolnix
+  - https://github.com/truecharts/charts/tree/master/charts/stable/mkvtoolnix
+  - https://hub.docker.com/r/jlesage/mkvtoolnix
+  - https://mkvtoolnix.download/
 type: application
-version: 12.8.55
+version: 12.9.54
