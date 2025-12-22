@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: ghcr.io/hotio/autoscan
-  tag: latest@sha256:4172424f7bb1f6b6cfa148341b8fbec3f399c76ab05c031c7f2af56675594dd4
+  tag: latest@sha256:729cdb1c8c7b9134f83640ceff65be858a34312cf729dbd89e607a353e431bec
 securityContext:
   container:
     readOnlyRootFilesystem: false
