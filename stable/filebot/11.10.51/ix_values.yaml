@@ -1,6 +1,6 @@
 image:
   repository: docker.io/jlesage/filebot
-  tag: v25.12.1@sha256:24b49f40e76cd9e4e15e0cda6e5e4de25642e62f0f4c011f47f5714c0795eb1d
+  tag: v25.12.3@sha256:ac390f17532ac1e5767a52aa208c389aea8d8b91f6c8242834e0e304e0955b8d
   pullPolicy: IfNotPresent
 securityContext:
   container:
