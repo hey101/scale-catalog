@@ -1,35 +1,35 @@
 image:
-  repository: docker.io/jlesage/mediainfo
-  tag: v25.12.1@sha256:3b117880a68b4e177aa08243942bd7f13f6751967918165ac4c7f71b8ce70eb6
+  repository: docker.io/jlesage/qdirstat
+  tag: v25.12.3@sha256:53b5954355c5b2d9cf9baa736e71d0b2461e4e7ef13b24f633e282fc11e1f99b
   pullPolicy: IfNotPresent
 service:
   main:
     ports:
       main:
-        port: 10264
+        port: 10262
         targetPort: 5800
   vnc:
     enabled: true
     ports:
       vnc:
         enabled: true
-        port: 10265
+        port: 10263
         targetPort: 5900
-mediainfo:
+qdirstat:
   KEEP_APP_RUNNING: false
   DISPLAY_WIDTH: 1280
   DISPLAY_HEIGHT: 768
   SECURE_CONNECTION: false
   ENABLE_CJK_FONT: false
 configmap:
-  mediainfo:
+  qdirstat:
     enabled: true
     data:
-      ENABLE_CJK_FONT: '{{ ternary "1" "0" .Values.mediainfo.ENABLE_CJK_FONT }}'
-      KEEP_APP_RUNNING: '{{ ternary "1" "0" .Values.mediainfo.KEEP_APP_RUNNING }}'
-      SECURE_CONNECTION: '{{ ternary "1" "0" .Values.mediainfo.SECURE_CONNECTION }}'
-      DISPLAY_WIDTH: "{{ .Values.mediainfo.DISPLAY_WIDTH }}"
-      DISPLAY_HEIGHT: "{{ .Values.mediainfo.DISPLAY_HEIGHT }}"
+      ENABLE_CJK_FONT: '{{ ternary "1" "0" .Values.qdirstat.ENABLE_CJK_FONT }}'
+      KEEP_APP_RUNNING: '{{ ternary "1" "0" .Values.qdirstat.KEEP_APP_RUNNING }}'
+      SECURE_CONNECTION: '{{ ternary "1" "0" .Values.qdirstat.SECURE_CONNECTION }}'
+      DISPLAY_WIDTH: "{{ .Values.qdirstat.DISPLAY_WIDTH }}"
+      DISPLAY_HEIGHT: "{{ .Values.qdirstat.DISPLAY_HEIGHT }}"
 persistence:
   config:
     enabled: true
@@ -67,4 +67,4 @@ workload:
             VNC_PASSWORD: ""
           envFrom:
             - configMapRef:
-                name: "mediainfo"
+                name: "qdirstat"

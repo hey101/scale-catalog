@@ -1,6 +1,6 @@
 image:
   repository: docker.io/jlesage/mkvcleaver
-  tag: v25.12.1@sha256:608d95d4e9b94b5fb923e23e1134d9a530ad8ae47b734441c01d67551e6ef3ec
+  tag: v25.12.3@sha256:ab319908119a7c619ececcdb5440a8834acb9cf0a368bead9b4dcd5037616dd6
   pullPolicy: IfNotPresent
 mkvcleaver:
   KEEP_APP_RUNNING: false

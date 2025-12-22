@@ -1,57 +1,42 @@
 image:
-  repository: docker.io/jlesage/jdownloader-2
+  repository: docker.io/jlesage/mediainfo
+  tag: v25.12.3@sha256:57c05fa01892e26a6acaf23439d443db7138badd4af004ed54db37faaa0e0b81
   pullPolicy: IfNotPresent
-  tag: v25.12.1@sha256:878c3ac2b0257384523f480a1ffeead39141adfb04bcc24689f161686e61bad6
 service:
   main:
     ports:
       main:
-        port: 10054
+        port: 10264
         targetPort: 5800
-  myjd:
-    enabled: true
-    ports:
-      myjd:
-        enabled: true
-        port: 3129
-        targetPort: 3129
   vnc:
     enabled: true
     ports:
       vnc:
         enabled: true
-        port: 10056
+        port: 10265
         targetPort: 5900
-ingress:
-  main:
-    integrations:
-      homepage:
-        widget:
-          type: jdownloader
-jdownloader:
-  # General Settings
+mediainfo:
   KEEP_APP_RUNNING: false
-  # GUI Settings
   DISPLAY_WIDTH: 1280
   DISPLAY_HEIGHT: 768
   SECURE_CONNECTION: false
   ENABLE_CJK_FONT: false
 configmap:
-  jdownloader:
+  mediainfo:
     enabled: true
     data:
-      ENABLE_CJK_FONT: '{{ ternary "1" "0" .Values.jdownloader.ENABLE_CJK_FONT }}'
-      KEEP_APP_RUNNING: '{{ ternary "1" "0" .Values.jdownloader.KEEP_APP_RUNNING }}'
-      SECURE_CONNECTION: '{{ ternary "1" "0" .Values.jdownloader.SECURE_CONNECTION }}'
-      DISPLAY_WIDTH: "{{ .Values.jdownloader.DISPLAY_WIDTH }}"
-      DISPLAY_HEIGHT: "{{ .Values.jdownloader.DISPLAY_HEIGHT }}"
+      ENABLE_CJK_FONT: '{{ ternary "1" "0" .Values.mediainfo.ENABLE_CJK_FONT }}'
+      KEEP_APP_RUNNING: '{{ ternary "1" "0" .Values.mediainfo.KEEP_APP_RUNNING }}'
+      SECURE_CONNECTION: '{{ ternary "1" "0" .Values.mediainfo.SECURE_CONNECTION }}'
+      DISPLAY_WIDTH: "{{ .Values.mediainfo.DISPLAY_WIDTH }}"
+      DISPLAY_HEIGHT: "{{ .Values.mediainfo.DISPLAY_HEIGHT }}"
 persistence:
   config:
     enabled: true
     mountPath: "/config"
-  output:
+  storage:
     enabled: true
-    mountPath: "/output"
+    mountPath: "/storage"
 portal:
   open:
     enabled: true
@@ -82,4 +67,4 @@ workload:
             VNC_PASSWORD: ""
           envFrom:
             - configMapRef:
-                name: "jdownloader"
+                name: "mediainfo"
