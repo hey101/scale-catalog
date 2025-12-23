@@ -1,7 +1,7 @@
 annotations:
   max_scale_version: 24.04.1
   min_scale_version: 24.04.0
-  truecharts.org/category: media
+  truecharts.org/category: incubator
   truecharts.org/max_helm_version: "3.15"
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
@@ -16,22 +16,20 @@ dependencies:
     tags: []
     import-values: []
 deprecated: false
-description: Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
-home: https://github.com/hey101/charts/stable/autoscan
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/autoscan.webp
+description: BOINC is a platform for high-throughput computing on a large scale (thousands or millions of computers).
+home: https://github.com/hey101/charts/stable/boinc
+icon: https://truecharts.org/img/hotlink-ok/chart-icons/boinc.webp
 keywords:
-  - autoscan
-  - media
+  - boinc
 kubeVersion: ">=1.24.0-0"
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
     url: https://truecharts.org
-name: autoscan
+name: boinc
 sources:
-  - https://github.com/hey101/charts/tree/master/charts/stable/autoscan
-  - https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
-  - https://ghcr.io/hotio/autoscan
-  - https://hotio.dev/containers/autoscan
+  - https://github.com/hey101/charts/tree/master/charts/stable/boinc
+  - https://github.com/truecharts/charts/tree/master/charts/stable/boinc
+  - https://ghcr.io/linuxserver/boinc
 type: application
-version: 10.4.82
+version: 11.4.89
