@@ -1,7 +1,7 @@
 image:
   repository: docker.io/openhab/openhab
   pullPolicy: IfNotPresent
-  tag: 5.0.2@sha256:64bca930e3d319f7ef546b2ed1b6aa041db546aa611b79609a2669dc4ae5ce9e
+  tag: 5.1.0@sha256:a615cdee8896d48ef92e8f5c3df53a887de5f4943c70c62ed84d115595c3fb59
 service:
   main:
     ports:
