@@ -1,7 +1,7 @@
 image:
   repository: docker.io/privoce/vocechat-server
   pullPolicy: IfNotPresent
-  tag: v0.5.6@sha256:c005899dce088f1e584202ff89f550e7473c75831b5e1bd8891facb1ae3c3af3
+  tag: v0.5.7@sha256:eaca2dad585ea9ee73aa752c71e0897afd017a008e7871b68f6a07c00e064a8a
 
 service:
   main:
